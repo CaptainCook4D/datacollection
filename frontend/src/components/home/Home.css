@@ -1,0 +1,51 @@
+.homeContainer {
+    display: flex;
+    flex-direction: column;
+}
+
+.homeBodyContainer {
+    display: flex;
+    flex-direction: row;
+}
+
+.homeLeftColumn,
+.homeRightColumn {
+    flex: 1;
+    padding: 1rem;
+}
+
+.homeLeftColumn {
+    border-right: 1px solid #ccc;
+}
+
+.home-table-container {
+    width: 100%;
+}
+
+.home-table-header,
+.home-table-row {
+    display: flex;
+    justify-content: space-between;
+    padding: 0.5rem;
+}
+
+.home-table-header {
+    font-size: 1.2rem;
+}
+
+.home-table-row {
+    font-size: 1rem;
+    border-bottom: 1px solid #ccc;
+}
+
+.home-table-row:last-child {
+    border-bottom: none;
+}
+
+.home-CorrectRecordingsRow,
+.home-ErrorRecordingsRow,
+.home-TotalRecordingsRow {
+    background-color: #f8f8f8;
+    border-radius: 4px;
+    margin-bottom: 0.5rem;
+}

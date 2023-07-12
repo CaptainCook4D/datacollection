@@ -1,0 +1,29 @@
+/* ActivitySelector.module.css */
+
+.activitySelector {
+    background-color: #f0f0f0;
+    border-radius: 8px;
+    padding: 16px;
+    max-width: 600px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.activitySelector > .MuiTypography-root {
+    text-align: center;
+    color: #333;
+    margin-bottom: 16px;
+}
+
+.activityItem {
+    display: block;
+    margin-bottom: 8px;
+}
+
+.checkboxControls {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 16px;
+}

@@ -1,0 +1,1093 @@
+- activity_id: 28
+  environment: 10
+  id: '28_2'
+  is_error: false
+  recorded_by: 6
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 6
+  steps:
+  - description: Take-Take 1 ripe avocado
+  - description: Open-Open a can of tuna
+  - description: drain-drain excess water from can
+  - description: Lay-Lay out 2 large lettuce leaves
+  - description: cut-cut avocado into thin slices
+  - description: Add-1/4 cup mayonnaise to the bowl
+  - description: Chop-Chop 1 scallion
+  - description: place-place avocado slices on each leaf
+  - description: Add-1 tsp Sriracha sauce to the bowl
+  - description: Add-add chopped scallion to the bowl
+  - description: Add-Add 1 can drained tuna to the bowl
+  - description: Mix-Mix the contents of the bowl
+  - description: Season-Season bowl with 1/4 tsp salt
+  - description: Season-season 1/4 tsp pepper on the bowl
+  - description: top-top lettuce leaves with the tuna mixture
+  - description: Roll-Roll up the lettuce wraps
+  - description: secure-secure the wrap with a toothpick
+- activity_id: 28
+  environment: 7
+  id: '28_3'
+  is_error: false
+  recorded_by: 6
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: '"2023-05-13T12:15:34.817466"'
+  selected_by: 6
+  steps:
+  - description: Open-Open a can of tuna
+  - description: Add-1/4 cup mayonnaise to the bowl
+  - description: Add-1 tsp Sriracha sauce to the bowl
+  - description: drain-drain excess water from can
+  - description: Add-Add 1 can drained tuna to the bowl
+  - description: Chop-Chop 1 scallion
+  - description: Lay-Lay out 2 large lettuce leaves
+  - description: Take-Take 1 ripe avocado
+  - description: cut-cut avocado into thin slices
+  - description: place-place avocado slices on each leaf
+  - description: Add-add chopped scallion to the bowl
+  - description: Mix-Mix the contents of the bowl
+  - description: Season-Season bowl with 1/4 tsp salt
+  - description: Season-season 1/4 tsp pepper on the bowl
+  - description: top-top lettuce leaves with the tuna mixture
+  - description: Roll-Roll up the lettuce wraps
+  - description: secure-secure the wrap with a toothpick
+- activity_id: 28
+  environment: 5
+  id: '28_7'
+  is_error: false
+  recorded_by: 6
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 6
+  steps:
+  - description: Open-Open a can of tuna
+  - description: Take-Take 1 ripe avocado
+  - description: Chop-Chop 1 scallion
+  - description: Add-add chopped scallion to the bowl
+  - description: cut-cut avocado into thin slices
+  - description: drain-drain excess water from can
+  - description: Lay-Lay out 2 large lettuce leaves
+  - description: Add-1/4 cup mayonnaise to the bowl
+  - description: Add-1 tsp Sriracha sauce to the bowl
+  - description: Add-Add 1 can drained tuna to the bowl
+  - description: Mix-Mix the contents of the bowl
+  - description: Season-season 1/4 tsp pepper on the bowl
+  - description: place-place avocado slices on each leaf
+  - description: Season-Season bowl with 1/4 tsp salt
+  - description: top-top lettuce leaves with the tuna mixture
+  - description: Roll-Roll up the lettuce wraps
+  - description: secure-secure the wrap with a toothpick
+- activity_id: 28
+  environment: 1
+  id: '28_10'
+  is_error: false
+  recorded_by: 6
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 6
+  steps:
+  - description: Chop-Chop 1 scallion
+  - description: Add-1 tsp Sriracha sauce to the bowl
+  - description: Add-1/4 cup mayonnaise to the bowl
+  - description: Open-Open a can of tuna
+  - description: drain-drain excess water from can
+  - description: Add-add chopped scallion to the bowl
+  - description: Add-Add 1 can drained tuna to the bowl
+  - description: Take-Take 1 ripe avocado
+  - description: Mix-Mix the contents of the bowl
+  - description: Season-season 1/4 tsp pepper on the bowl
+  - description: Lay-Lay out 2 large lettuce leaves
+  - description: Season-Season bowl with 1/4 tsp salt
+  - description: cut-cut avocado into thin slices
+  - description: place-place avocado slices on each leaf
+  - description: top-top lettuce leaves with the tuna mixture
+  - description: Roll-Roll up the lettuce wraps
+  - description: secure-secure the wrap with a toothpick
+- activity_id: 28
+  environment: 5
+  id: '28_14'
+  is_error: true
+  recorded_by: 3
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: '"2023-05-01T01:12:44.474631"'
+  selected_by: 3
+  steps:
+  - description: Add-1 tsp Sriracha sauce to the bowl
+  - description: Open-Open a can of tuna
+  - description: drain-drain excess water from can
+  - description: Chop-Chop 1 scallion
+  - description: Add-add chopped scallion to the bowl
+  - description: Add-1/4 cup mayonnaise to the bowl
+  - description: Add-Add 1 can drained tuna to the bowl
+  - description: Mix-Mix the contents of the bowl
+  - description: Take-Take 1 ripe avocado
+  - description: cut-cut avocado into thin slices
+  - description: Lay-Lay out 2 large lettuce leaves
+  - description: place-place avocado slices on each leaf
+  - description: Season-Season bowl with 1/4 tsp salt
+  - description: Season-season 1/4 tsp pepper on the bowl
+  - description: top-top lettuce leaves with the tuna mixture
+  - description: Roll-Roll up the lettuce wraps
+    errors:
+    - description: Didn't roll properly and spilled.
+      tag: Technique Error
+    modified_description: Roll-Roll up the lettuce wraps improperly.
+  - description: secure-secure the wrap with a toothpick
+- activity_id: 28
+  environment: 9
+  id: '28_21'
+  is_error: false
+  recorded_by: 7
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 7
+  steps:
+  - description: Open-Open a can of tuna
+  - description: Add-1/4 cup mayonnaise to the bowl
+  - description: Lay-Lay out 2 large lettuce leaves
+  - description: Add-1 tsp Sriracha sauce to the bowl
+  - description: Chop-Chop 1 scallion
+  - description: Add-add chopped scallion to the bowl
+  - description: drain-drain excess water from can
+  - description: Add-Add 1 can drained tuna to the bowl
+  - description: Take-Take 1 ripe avocado
+  - description: Mix-Mix the contents of the bowl
+  - description: Season-season 1/4 tsp pepper on the bowl
+  - description: Season-Season bowl with 1/4 tsp salt
+  - description: cut-cut avocado into thin slices
+  - description: place-place avocado slices on each leaf
+  - description: top-top lettuce leaves with the tuna mixture
+  - description: Roll-Roll up the lettuce wraps
+  - description: secure-secure the wrap with a toothpick
+- activity_id: 28
+  environment: 6
+  id: '28_24'
+  is_error: false
+  recorded_by: 7
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 7
+  steps:
+  - description: Chop-Chop 1 scallion
+  - description: Lay-Lay out 2 large lettuce leaves
+  - description: Take-Take 1 ripe avocado
+  - description: Open-Open a can of tuna
+  - description: Add-1/4 cup mayonnaise to the bowl
+  - description: cut-cut avocado into thin slices
+  - description: Add-1 tsp Sriracha sauce to the bowl
+  - description: drain-drain excess water from can
+  - description: Add-add chopped scallion to the bowl
+  - description: Add-Add 1 can drained tuna to the bowl
+  - description: Mix-Mix the contents of the bowl
+  - description: Season-season 1/4 tsp pepper on the bowl
+  - description: Season-Season bowl with 1/4 tsp salt
+  - description: place-place avocado slices on each leaf
+  - description: top-top lettuce leaves with the tuna mixture
+  - description: Roll-Roll up the lettuce wraps
+  - description: secure-secure the wrap with a toothpick
+- activity_id: 28
+  environment: 2
+  id: '28_25'
+  is_error: true
+  recorded_by: 1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: '"2023-04-28T20:32:47.058872"'
+  selected_by: 1
+  steps:
+  - description: Add-1/4 cup mayonnaise to the bowl
+    errors:
+    - description: Did not add mayonnaise to the bowl
+      tag: Missing Step
+    modified_description: 'Measure -1/4 cup mayonnaise '
+  - description: Take-Take 1 ripe avocado
+  - description: Open-Open a can of tuna
+  - description: Lay-Lay out 2 large lettuce leaves
+  - description: Chop-Chop 1 scallion
+  - description: cut-cut avocado into thin slices
+  - description: place-place avocado slices on each leaf
+  - description: drain-drain excess water from can
+  - description: Add-Add 1 can drained tuna to the bowl
+  - description: Add-1 tsp Sriracha sauce to the bowl
+  - description: Add-add chopped scallion to the bowl
+  - description: Mix-Mix the contents of the bowl
+  - description: Season-season 1/4 tsp pepper on the bowl
+  - description: Season-Season bowl with 1/4 tsp salt
+  - description: top-top lettuce leaves with the tuna mixture
+  - description: Roll-Roll up the lettuce wraps
+  - description: secure-secure the wrap with a toothpick
+- activity_id: 28
+  environment: 5
+  errors:
+  - description: cut-cut avocado into thin slices
+    tag: Missing Step
+  - description: top-top lettuce leaves with the tuna mixture
+    tag: Missing Step
+  id: '28_26'
+  is_error: true
+  recorded_by: 1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: '"2023-05-03T22:07:24.991704"'
+  selected_by: 1
+  steps:
+  - description: Open-Open a can of tuna
+  - description: drain-drain excess water from can
+  - description: Add-1/4 cup mayonnaise to the bowl
+    errors:
+    - description: Add-1 cup mayonnaise to the bowl
+      tag: Measurement Error
+    modified_description: Add-1 cup mayonnaise to the bowl
+  - description: Chop-Chop 1 scallion
+    errors:
+    - description: Chop-Chop 1 bunch of scallions
+      tag: Measurement Error
+    modified_description: Chop-Chop 1 scallion bunch
+  - description: Add-1 tsp Sriracha sauce to the bowl
+    errors:
+    - description: Press the sauce more to spill it
+      tag: Technique Error
+    modified_description: Add-Press the sauce bottle tightly to spill 1 tsp Sriracha
+      sauce to the bowl
+  - description: Add-Add 1 can drained tuna to the bowl
+  - description: Take-Take 1 ripe avocado
+  - description: Add-add chopped scallion to the bowl
+    errors:
+    - description: Drop the chopped scallions while adding to the bowl
+      tag: Technique Error
+    modified_description: Add - Drop while adding chopped scallions to the bowl
+  - description: Lay-Lay out 2 large lettuce leaves
+  - description: Mix-Mix the contents of the bowl
+    errors:
+    - description: Spill while mixing the contents with a whisker
+      tag: Technique Error
+    modified_description: Whisk-Whisk the contents of the bowl
+  - description: place-place avocado slices on each leaf
+    errors:
+    - description: 'Miss this step '
+      tag: Missing Step
+    modified_description: '[]'
+  - description: Season-season 1/4 tsp pepper on the bowl
+  - description: Season-Season bowl with 1/4 tsp salt
+  - description: Roll-Roll up the lettuce wraps
+    errors:
+    - description: Roll up so that inside contents spill outside
+      tag: Technique Error
+    modified_description: Roll-Roll up the lettuce wraps to spill the inside contents
+      outside
+  - description: secure-secure the wrap with a toothpick
+    errors:
+    - description: NONE
+      tag: Timing Error
+    - description: NONE
+      tag: Temperature Error
+    - description: NONE
+      tag: Preparation Error
+- activity_id: 28
+  environment: 1
+  errors:
+  - description: Add-add chopped scallion to the bowl
+    tag: Missing Step
+  - description: Mix-Mix the contents of the bowl
+    tag: Missing Step
+  id: '28_28'
+  is_error: true
+  recorded_by: 7
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 7
+  steps:
+  - description: Take-Take 1 ripe avocado
+  - description: cut-cut avocado into thin slices
+    errors:
+    - description: chop instead of slice
+      tag: Technique Error
+    modified_description: cut-cut avocado into chopped size
+  - description: Open-Open a can of tuna
+  - description: Chop-Chop 1 scallion
+    errors:
+    - description: 2 instead of 1 scallion
+      tag: Measurement Error
+    modified_description: Chop-Chop 1 scallions
+  - description: Lay-Lay out 2 large lettuce leaves
+    errors:
+    - description: roll the lettuce leaves together
+      tag: Preparation Error
+    modified_description: Put and roll 2 large lettuce leaves
+  - description: drain-drain excess water from can
+    errors:
+    - description: leave some water remaining
+      tag: Preparation Error
+    modified_description: ' drain-drain excess water from can, but  leave some water
+      remaining'
+  - description: Add-1/4 cup mayonnaise to the bowl
+    errors:
+    - description: 1/2 instead of 1/4 cup
+      tag: Measurement Error
+    modified_description: ' Add-1/2 cup mayonnaise to the bowl'
+  - description: Add-1 tsp Sriracha sauce to the bowl
+    errors:
+    - description: Splashing some sauce
+      tag: Technique Error
+    modified_description: Add-1 tsp Sriracha sauce to the bowl, but splash some sauce
+  - description: Add-Add 1 can drained tuna to the bowl
+  - description: place-place avocado slices on each leaf
+    errors:
+    - description: Just put on one leaf
+      tag: Technique Error
+    modified_description: place-place avocado slices on just one leaf
+  - description: Season-season 1/4 tsp pepper on the bowl
+  - description: Season-Season bowl with 1/4 tsp salt
+    errors:
+    - description: Missing step
+      tag: Missing Step
+    modified_description: Not do this step
+  - description: top-top lettuce leaves with the tuna mixture
+  - description: Roll-Roll up the lettuce wraps
+  - description: secure-secure the wrap with a toothpick
+    errors:
+    - description: 'null'
+      tag: Temperature Error
+    - description: 'null'
+      tag: Timing Error
+- activity_id: 28
+  environment: 5
+  errors:
+  - description: Roll-Roll up the lettuce wraps
+    tag: Missing Step
+  - description: secure-secure the wrap with a toothpick
+    tag: Missing Step
+  id: '28_29'
+  is_error: true
+  recorded_by: 7
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 7
+  steps:
+  - description: Chop-Chop 1 scallion
+  - description: Lay-Lay out 2 large lettuce leaves
+  - description: Add-1 tsp Sriracha sauce to the bowl
+    errors:
+    - description: mug cup instead of bowl
+      tag: Preparation Error
+    modified_description: Add-1 tsp Sriracha sauce to the mug cup
+  - description: Take-Take 1 ripe avocado
+  - description: Open-Open a can of tuna
+  - description: drain-drain excess water from can
+    errors:
+    - description: remain some water
+      tag: Technique Error
+    modified_description: drain-drain excess water from can, but remain some water
+  - description: Add-add chopped scallion to the bowl
+  - description: cut-cut avocado into thin slices
+    errors:
+    - description: chop instead of slice
+      tag: Technique Error
+    modified_description: Chop- Chop the avocado
+  - description: place-place avocado slices on each leaf
+    errors:
+    - description: place on just one leaf
+      tag: Technique Error
+    modified_description: place-place avocado slices on just one leaf
+  - description: Add-1/4 cup mayonnaise to the bowl
+    errors:
+    - description: 1/2 instead of 1/4 cup
+      tag: Measurement Error
+    modified_description: Add-1/2 cup mayonnaise to the bowl
+  - description: Mix-Mix the contents of the bowl
+    errors:
+    - description: Splash some contents outside
+      tag: Technique Error
+    modified_description: 'Mix-Mix the contents of the bowl, but splash some of them
+      outside '
+  - description: Season-Season bowl with 1/4 tsp salt
+    errors:
+    - description: 1 instead of 1/4 tsp
+      tag: Measurement Error
+    modified_description: Season-Season bowl with 1 tsp salt
+  - description: Season-season 1/4 tsp pepper on the bowl
+  - description: Add-Add 1 can drained tuna to the bowl
+  - description: top-top lettuce leaves with the tuna mixture
+    errors:
+    - description: 'Null'
+      tag: Temperature Error
+    - description: 'Null'
+      tag: Timing Error
+- activity_id: 28
+  environment: 6
+  errors:
+  - description: Mix-Mix the contents of the bowl
+    tag: Missing Step
+  - description: secure-secure the wrap with a toothpick
+    tag: Missing Step
+  - description: Season-season 1/4 tsp pepper on the bowl
+    tag: Missing Step
+  - tag: Order Error
+  id: '28_38'
+  is_error: true
+  recorded_by: 3
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: '"2023-05-10T17:21:00.030903"'
+  selected_by: 3
+  steps:
+  - description: Open-Open a can of tuna
+    errors:
+    - description: Didn't open the can of Tuna.
+      tag: Technique Error
+    modified_description: Take-Take a can of tuna and don't open it.
+  - description: Add-1 tsp Sriracha sauce to the bowl
+  - description: Chop-Chop 1 scallion
+    errors:
+    - description: Didn't wash the scallion.
+      tag: Preparation Error
+    modified_description: Chop-Chop 1 scallion without washing it.
+  - description: Take-Take 1 ripe avocado
+  - description: Add-add chopped scallion to the bowl
+  - description: Lay-Lay out 2 large lettuce leaves
+    errors:
+    - description: Didn't wash the lettuce leaves and the leaves are not large.
+      tag: Preparation Error
+    modified_description: Lay-Lay out 2 improper lettuce leaves without washing them.
+  - description: cut-cut avocado into thin slices
+  - description: drain-drain excess water from can
+    errors:
+    - description: Didn't drain the excess water as the can is not opened.
+      tag: Technique Error
+    modified_description: Wash-Wash the Tuna can.
+  - description: top-top lettuce leaves with the mixture
+  - description: place-place avocado slices on each leaf
+  - description: Season-Season bowl with 1/4 tsp salt
+  - description: Add-1/4 cup mayonnaise to the bowl
+  - description: Roll-Roll up the lettuce wraps
+    errors:
+    - description: Didn't properly roll the leaves.
+      tag: Technique Error
+    modified_description: Roll-Roll up the lettuce wraps improperly.
+  - description: Add-Add 1 can drained tuna to the bowl
+    errors:
+    - description: Adding the tuna can to the bowl without opening it.
+      tag: Technique Error
+    modified_description: Add-Add 1 washed tuna can to the bowl.
+- activity_id: 28
+  environment: 1
+  errors:
+  - description: Take-Take 1 ripe avocado
+    tag: Missing Step
+  - tag: Order Error
+  id: '28_42'
+  is_error: true
+  recorded_by: 1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 1
+  steps:
+  - description: Open-Open a can of tuna
+    errors:
+    - description: Not opening the can using a can opener but with a knife
+      tag: Technique Error
+    modified_description: Open-Open a can of tuna using a knife while puncturing hole
+      at the center of the can
+  - description: Chop-Chop 1 scallion
+    errors:
+    - description: Chop 2 scallions instead of 1
+      tag: Measurement Error
+    modified_description: Chop-Chop 2 scallions
+  - description: drain-drain excess water from can
+    errors:
+    - description: Not draining the can compltely
+      tag: Preparation Error
+    modified_description: drain-do not drain excess water completely from the can
+  - description: cut-cut avocado into thin slices
+  - description: Add-add chopped scallion to the bowl
+  - description: Add-1/4 cup mayonnaise to the bowl
+  - description: Add-1 tsp Sriracha sauce to the bowl
+  - description: Lay-Lay out 2 large lettuce leaves
+  - description: Add-Add 1 can drained tuna to the bowl
+  - description: Mix-Mix the contents of the bowl
+    errors:
+    - description: Spill something out while mixing the bowl
+      tag: Technique Error
+    modified_description: Mix-Spill something out while mixing the contents of the
+      bowl
+  - description: place-place avocado slices on each leaf
+  - description: Season-Season bowl with 1/4 tsp salt
+    errors:
+    - description: Season the bowl with 1/2 tsp salt instead of 1/4th tsp salt
+      tag: Measurement Error
+    modified_description: Season-Season bowl with 1/2 tsp salt
+  - description: Season-season 1/4 tsp pepper on the bowl
+    errors:
+    - description: Season with 1/2 tsp turmeric on the bowl
+      tag: Preparation Error
+    modified_description: Season-season 1/2 tsp turmeric on the bowl
+  - description: top-top lettuce leaves with the tuna mixture
+    errors:
+    - description: Topping with tuna not drained completely leads to soggy lettuce
+        leaves
+      tag: Timing Error
+    modified_description: Top-Top lettuce leaves with the tuna mixture and leave it
+      for 2 min, so that rolling will be difficult
+  - description: Roll-Roll up the lettuce wraps
+    errors:
+    - description: Spill while rolling the lettuce wraps
+      tag: Technique Error
+    modified_description: Roll-Spill outside while rolling up the lettuce wraps
+  - description: secure-secure the wrap with a toothpick
+    errors:
+    - description: 'NULL'
+      tag: Temperature Error
+- activity_id: 28
+  environment: 2
+  errors:
+  - description: Season-season 1/4 tsp pepper on the bowl
+    tag: Missing Step
+  - description: secure-secure the wrap with a toothpick
+    tag: Missing Step
+  - tag: Order Error
+  id: '28_44'
+  is_error: true
+  recorded_by: 7
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 7
+  steps:
+  - description: Chop-Chop 1 scallion
+    errors:
+    - description: mince instead of chop
+      tag: Technique Error
+    modified_description: mince-mince 1 scallion
+  - description: Take-Take 1 ripe avocado
+  - description: Open-Open a can of tuna
+  - description: Add-1/4 cup mayonnaise to the bowl
+    errors:
+    - description: 1/2 instead if 1./4
+      tag: Measurement Error
+    modified_description: Add-1/2 cup mayonnaise to the bowl
+  - description: Add-add chopped scallion to the bowl
+    errors:
+    - description: Splash some scallion outside
+      tag: Technique Error
+    modified_description: Add-add chopped scallion to the bowl, but splash some scallion
+      outside
+  - description: drain-drain excess water from can
+    errors:
+    - description: Remain some water
+      tag: Preparation Error
+    modified_description: drain-drain excess water from can, but remain some water
+  - description: cut-cut avocado into thin slices
+    errors:
+    - description: chop instead of slice
+      tag: Technique Error
+    modified_description: cut-chop avocado
+  - description: Add-1 tsp Sriracha sauce to the bowl
+    errors:
+    - description: 2 instead of 1 tsp
+      tag: Measurement Error
+    modified_description: Add-2 tsp Sriracha sauce to the bowl
+  - description: place-place avocado slices on each leaf
+    errors:
+    - description: place on only one leaf
+      tag: Preparation Error
+    modified_description: place-place avocado slices on one leaf
+  - description: Lay-Lay out 2 large lettuce leaves
+  - description: Add-Add 1 can drained tuna to the bowl
+  - description: Mix-Mix the contents of the bowl
+  - description: Season-Season bowl with 1/4 tsp salt
+  - description: top-top lettuce leaves with the tuna mixture
+  - description: Roll-Roll up the lettuce wraps
+    errors:
+    - description: 'Null'
+      tag: Timing Error
+    - description: 'Null'
+      tag: Temperature Error
+- activity_id: 28
+  environment: 2
+  errors:
+  - description: Season-season 1/4 tsp pepper on the bowl
+    tag: Missing Step
+  - description: Roll-Roll up the lettuce wraps
+    tag: Missing Step
+  - description: secure-secure the wrap with a toothpick
+    tag: Missing Step
+  - tag: Order Error
+  id: '28_45'
+  is_error: true
+  recorded_by: 6
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 6
+  steps:
+  - description: Open-Open a can of tuna
+  - description: Take-Take 1 ripe avocado
+  - description: Chop-Chop 1 scallion
+    errors:
+    - description: 1/2 scallion
+      tag: Preparation Error
+    - description: 1/2 scallion
+      tag: Measurement Error
+    - description: 1/2 scallion
+      tag: Technique Error
+    - description: 1/2 scallion
+      tag: Temperature Error
+    modified_description: Cut 1/2 scallion
+  - description: drain-drain excess water from can
+    errors:
+    - description: not all water
+      tag: Technique Error
+    - description: half water
+      tag: Timing Error
+    modified_description: drain half excess water from can
+  - description: Add-1 tsp Sriracha sauce to the bowl
+  - description: cut-cut avocado into thin slices
+    errors:
+    - description: thick slices
+      tag: Technique Error
+    modified_description: cut avocado into thin slices
+  - description: Add-Add 1 can drained tuna to the bowl
+    errors:
+    - description: cup
+      tag: Preparation Error
+    modified_description: Add 1 can drained tuna to the cup
+  - description: Add-1/4 cup mayonnaise to the bowl
+  - description: Add-add chopped scallion to the bowl
+  - description: Mix-Mix the contents of the bowl
+  - description: Season-Season bowl with 1/4 tsp salt
+    errors:
+    - description: 1/2 tsp salt
+      tag: Measurement Error
+    modified_description: Season-Season bowl with 1/2 tsp salt
+  - description: Lay-Lay out 2 large lettuce leaves
+  - description: top-top lettuce leaves with the tuna mixture
+  - description: place-place avocado slices on each leaf
+- activity_id: 28
+  environment: 2
+  errors:
+  - description: Season-Season bowl with 1/4 tsp salt
+    tag: Missing Step
+  - description: drain-drain excess water from can
+    tag: Missing Step
+  - tag: Order Error
+  id: '28_49'
+  is_error: true
+  recorded_by: 3
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: '"2023-04-23T23:56:57.773869"'
+  selected_by: 3
+  steps:
+  - description: Open-Open a can of tuna
+  - description: Add-1/4 cup mayonnaise to the bowl
+    errors:
+    - description: Using 1/2 cup instead of 1/4 cup and don't fill the cup completely.
+      tag: Measurement Error
+    modified_description: Add-Add 1/2 cup partialled filled mayonnaise to the bowl.
+  - description: Take-Take 1 ripe avocado
+  - description: Lay-Lay out 2 large lettuce leaves
+  - description: Add-add chopped scallion to the bowl
+  - description: Add-1 tsp Sriracha sauce to the bowl
+    errors:
+    - description: Using tablespoon instead of teaspoon.
+      tag: Measurement Error
+    modified_description: ' Add-Add 1 tbsp Sriracha sauce to the bowl.'
+  - description: Add-Add 1 can tuna in a bowl
+    errors:
+    - description: Spill some tuna while adding.
+      tag: Preparation Error
+    modified_description: Add-Add 1 can tuna in a bowl and spill some on countertop.
+  - description: Mix-Mix the contents of the bowl
+    errors:
+    - description: While mixing spilling some of the contents.
+      tag: Preparation Error
+    modified_description: Mix-Mix the contents of the bowl and spill while mixing.
+  - description: cut-cut avocado into thin slices
+    errors:
+    - description: Instead of thin slices cutting into thick slices.
+      tag: Technique Error
+    modified_description: Cut-Cut avocado into thick slices.
+  - description: Chop-Chop 1 scallion
+  - description: place-place avocado slices on each leaf
+  - description: Season-season 1/4 tsp pepper on the bowl
+    errors:
+    - description: Using 1/2 tsp instead of 1/4 tsp.
+      tag: Measurement Error
+    modified_description: Season-season 1/2 tsp pepper on the bowl.
+  - description: top-top lettuce leaves with the tuna mixture
+  - description: Roll-Roll up the lettuce wraps
+    errors:
+    - description: Not rolling properly and spill some contents.
+      tag: Technique Error
+    modified_description: Roll-Roll up the lettuce wraps and spill while rolling.
+  - description: secure-secure the wrap with a toothpick
+    errors:
+    - description: 'NULL'
+      tag: Temperature Error
+    - description: 'NULL'
+      tag: Timing Error
+    modified_description: ' Secure-Secure the wrap with a toothpick.'
+- activity_id: 28
+  environment: 1
+  errors:
+  - description: Add-1/4 cup mayonnaise to the bowl
+    tag: Missing Step
+  - description: Lay-Lay out 2 large lettuce leaves
+    tag: Missing Step
+  - description: Add-add chopped scallion to the bowl
+    tag: Missing Step
+  - tag: Order Error
+  id: '28_50'
+  is_error: true
+  recorded_by: 3
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 3
+  steps:
+  - description: Open-Open a can of tuna
+    errors:
+    - description: Spill while opening.
+      tag: Preparation Error
+    modified_description: Open-Open a can of tuna spilling contents.
+  - description: Add-1 tsp Sriracha sauce to the bowl
+    errors:
+    - description: Instead of 1 tsp add 1/2 tsp.
+      tag: Measurement Error
+    modified_description: Add-1/2 tsp Sriracha sauce to the bowl
+  - description: drain-drain excess water from can
+    errors:
+    - description: Not draining the excess water and leaving some water behind.
+      tag: Preparation Error
+    modified_description: ' Drain-Drain excess water from can and leave some water
+      behind.'
+  - description: Take-Take 1 ripe avocado
+    errors:
+    - description: Taking a non-ripen avocado instead of ripen avocado.
+      tag: Preparation Error
+    modified_description: Take-Take 1 non-ripe avocado.
+  - description: cut-cut avocado into thin slices
+    errors:
+    - description: Cutting into thick slices contrary to cutting into thin slices.
+      tag: Technique Error
+    modified_description: Cut-Cut avocado into thick slices
+  - description: Add-Add 1 can drained tuna to the bowl
+    errors:
+    - description: Add 1/2 can instead of 1 can tuna.
+      tag: Measurement Error
+    modified_description: Add-Add 1/2 can drained tuna to the bowl.
+  - description: Mix-Mix the contents of the bowl
+    errors:
+    - description: Spill while mixing the contents.
+      tag: Preparation Error
+    modified_description: Mix-Mix the contents of the bowl and spill while mixing.
+  - description: top-top lettuce leaves with the tuna mixture
+    errors:
+    - description: Using the unwashed lettuce leaves
+      tag: Preparation Error
+    modified_description: Top-Top 2 unwashed lettuce leaves with the tuna mixture
+  - description: Season-Season bowl with 1/4 tsp salt
+    errors:
+    - description: Using 1/2 tbsp instead of 1/4 tsp salt.
+      tag: Measurement Error
+    modified_description: Season-Season bowl with 1/4 tbsp salt
+  - description: Season-season 1/4 tsp pepper on the bowl
+  - description: Chop-Chop 1 scallion
+  - description: place-place avocado slices on each leaf
+    errors:
+    - description: place only on one leaf.
+      tag: Other
+    modified_description: Place-Place avocado slices only on one leaf.
+  - description: Roll-Roll up the lettuce wraps
+    errors:
+    - description: Not rolling the lettuce properly and spill.
+      tag: Technique Error
+    modified_description: Roll-Roll up the lettuce wraps and spill while rolling.
+  - description: secure-secure the wrap with a toothpick
+    errors:
+    - description: 'NULL'
+      tag: Temperature Error
+    - description: 'NULL'
+      tag: Timing Error
+    modified_description: Secure-Secure the wrap with a toothpick

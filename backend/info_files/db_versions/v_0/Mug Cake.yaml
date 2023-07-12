@@ -1,0 +1,2983 @@
+- activity_id: 26
+  environment: null
+  id: '26_1'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Measure and add-Measure and add 2 tbsp flour to the mixing bowl
+  - description: Measure and add-a pinch of salt to the mixing bowl
+  - description: Place-Place the paper cupcake liner inside the mug
+  - description: Measure and add-1/4 tsp baking powder to the bowl
+  - description: Measure and add-1.5 tbsp sugar to the mixing bowl
+  - description: Whisk-Whisk to combine mixture of flour, sugar and baking powder
+      in the bowl
+  - description: Measure and add-1/4 tsp vanilla extract to the bowl
+  - description: Measure and add-Measure and add 2 tsp vegetable oil to the bowl
+  - description: Measure and add-2 tbsp water to the bowl
+  - description: Whisk-Whisk batter until no lumps remain
+  - description: Set-Set aside the lined mug
+  - description: Pour-Pour batter into prepared mug
+  - description: Microwave-Microwave the mug and batter on high power for 60 seconds.
+      Check if the cake is done by inserting and toothpick into the center of the
+      cake and then removing it. If wet batter clings to the toothpick, microwave
+      for an additional 5 seconds. If the toothpick comes out clean, continue
+  - description: Invert-Invert the mug to release the cake onto a plate
+  - description: Allow-Allow to cool until it is no longer hot to the touch
+  - description: remove-then carefully remove the paper liner
+  - description: Scoop-While the cake is cooling, prepare to pipe the frosting. Scoop
+      4 spoonfuls of chocolate frosting into a zip-top bag
+  - description: seal-seal zip top bag, removing as much air as possible
+  - description: cut-Use scissors to cut one corner from the bag to create a small
+      opening 1/4 inch in diameter
+  - description: Squeeze-Squeeze the frosting through the opening to apply small dollops
+      of frosting to the plate in a circle around the base of the cake
+- activity_id: 26
+  environment: null
+  id: '26_2'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Measure and add-a pinch of salt to the mixing bowl
+  - description: Measure and add-1.5 tbsp sugar to the mixing bowl
+  - description: Measure and add-1/4 tsp baking powder to the bowl
+  - description: Place-Place the paper cupcake liner inside the mug
+  - description: Measure and add-Measure and add 2 tbsp flour to the mixing bowl
+  - description: Whisk-Whisk to combine mixture of flour, sugar and baking powder
+      in the bowl
+  - description: Measure and add-2 tbsp water to the bowl
+  - description: Measure and add-Measure and add 2 tsp vegetable oil to the bowl
+  - description: Measure and add-1/4 tsp vanilla extract to the bowl
+  - description: Set-Set aside the lined mug
+  - description: Whisk-Whisk batter until no lumps remain
+  - description: Pour-Pour batter into prepared mug
+  - description: Microwave-Microwave the mug and batter on high power for 60 seconds.
+      Check if the cake is done by inserting and toothpick into the center of the
+      cake and then removing it. If wet batter clings to the toothpick, microwave
+      for an additional 5 seconds. If the toothpick comes out clean, continue
+  - description: Invert-Invert the mug to release the cake onto a plate
+  - description: Allow-Allow to cool until it is no longer hot to the touch
+  - description: remove-then carefully remove the paper liner
+  - description: Scoop-While the cake is cooling, prepare to pipe the frosting. Scoop
+      4 spoonfuls of chocolate frosting into a zip-top bag
+  - description: seal-seal zip top bag, removing as much air as possible
+  - description: cut-Use scissors to cut one corner from the bag to create a small
+      opening 1/4 inch in diameter
+  - description: Squeeze-Squeeze the frosting through the opening to apply small dollops
+      of frosting to the plate in a circle around the base of the cake
+- activity_id: 26
+  environment: null
+  id: '26_3'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Measure and add-1.5 tbsp sugar to the mixing bowl
+  - description: Measure and add-a pinch of salt to the mixing bowl
+  - description: Measure and add-1/4 tsp baking powder to the bowl
+  - description: Measure and add-Measure and add 2 tbsp flour to the mixing bowl
+  - description: Place-Place the paper cupcake liner inside the mug
+  - description: Whisk-Whisk to combine mixture of flour, sugar and baking powder
+      in the bowl
+  - description: Measure and add-2 tbsp water to the bowl
+  - description: Measure and add-Measure and add 2 tsp vegetable oil to the bowl
+  - description: Measure and add-1/4 tsp vanilla extract to the bowl
+  - description: Set-Set aside the lined mug
+  - description: Whisk-Whisk batter until no lumps remain
+  - description: Pour-Pour batter into prepared mug
+  - description: Microwave-Microwave the mug and batter on high power for 60 seconds.
+      Check if the cake is done by inserting and toothpick into the center of the
+      cake and then removing it. If wet batter clings to the toothpick, microwave
+      for an additional 5 seconds. If the toothpick comes out clean, continue
+  - description: Invert-Invert the mug to release the cake onto a plate
+  - description: Allow-Allow to cool until it is no longer hot to the touch
+  - description: remove-then carefully remove the paper liner
+  - description: Scoop-While the cake is cooling, prepare to pipe the frosting. Scoop
+      4 spoonfuls of chocolate frosting into a zip-top bag
+  - description: seal-seal zip top bag, removing as much air as possible
+  - description: cut-Use scissors to cut one corner from the bag to create a small
+      opening 1/4 inch in diameter
+  - description: Squeeze-Squeeze the frosting through the opening to apply small dollops
+      of frosting to the plate in a circle around the base of the cake
+- activity_id: 26
+  environment: null
+  id: '26_4'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Measure and add-1/4 tsp baking powder to the bowl
+  - description: Place-Place the paper cupcake liner inside the mug
+  - description: Measure and add-a pinch of salt to the mixing bowl
+  - description: Measure and add-1.5 tbsp sugar to the mixing bowl
+  - description: Set-Set aside the lined mug
+  - description: Measure and add-Measure and add 2 tbsp flour to the mixing bowl
+  - description: Whisk-Whisk to combine mixture of flour, sugar and baking powder
+      in the bowl
+  - description: Measure and add-2 tbsp water to the bowl
+  - description: Measure and add-1/4 tsp vanilla extract to the bowl
+  - description: Measure and add-Measure and add 2 tsp vegetable oil to the bowl
+  - description: Whisk-Whisk batter until no lumps remain
+  - description: Pour-Pour batter into prepared mug
+  - description: Microwave-Microwave the mug and batter on high power for 60 seconds.
+      Check if the cake is done by inserting and toothpick into the center of the
+      cake and then removing it. If wet batter clings to the toothpick, microwave
+      for an additional 5 seconds. If the toothpick comes out clean, continue
+  - description: Invert-Invert the mug to release the cake onto a plate
+  - description: Allow-Allow to cool until it is no longer hot to the touch
+  - description: remove-then carefully remove the paper liner
+  - description: Scoop-While the cake is cooling, prepare to pipe the frosting. Scoop
+      4 spoonfuls of chocolate frosting into a zip-top bag
+  - description: seal-seal zip top bag, removing as much air as possible
+  - description: cut-Use scissors to cut one corner from the bag to create a small
+      opening 1/4 inch in diameter
+  - description: Squeeze-Squeeze the frosting through the opening to apply small dollops
+      of frosting to the plate in a circle around the base of the cake
+- activity_id: 26
+  environment: null
+  id: '26_5'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Measure and add-Measure and add 2 tbsp flour to the mixing bowl
+  - description: Measure and add-1/4 tsp baking powder to the bowl
+  - description: Measure and add-1.5 tbsp sugar to the mixing bowl
+  - description: Measure and add-a pinch of salt to the mixing bowl
+  - description: Place-Place the paper cupcake liner inside the mug
+  - description: Whisk-Whisk to combine mixture of flour, sugar and baking powder
+      in the bowl
+  - description: Set-Set aside the lined mug
+  - description: Measure and add-Measure and add 2 tsp vegetable oil to the bowl
+  - description: Measure and add-1/4 tsp vanilla extract to the bowl
+  - description: Measure and add-2 tbsp water to the bowl
+  - description: Whisk-Whisk batter until no lumps remain
+  - description: Pour-Pour batter into prepared mug
+  - description: Microwave-Microwave the mug and batter on high power for 60 seconds.
+      Check if the cake is done by inserting and toothpick into the center of the
+      cake and then removing it. If wet batter clings to the toothpick, microwave
+      for an additional 5 seconds. If the toothpick comes out clean, continue
+  - description: Invert-Invert the mug to release the cake onto a plate
+  - description: Allow-Allow to cool until it is no longer hot to the touch
+  - description: remove-then carefully remove the paper liner
+  - description: Scoop-While the cake is cooling, prepare to pipe the frosting. Scoop
+      4 spoonfuls of chocolate frosting into a zip-top bag
+  - description: seal-seal zip top bag, removing as much air as possible
+  - description: cut-Use scissors to cut one corner from the bag to create a small
+      opening 1/4 inch in diameter
+  - description: Squeeze-Squeeze the frosting through the opening to apply small dollops
+      of frosting to the plate in a circle around the base of the cake
+- activity_id: 26
+  environment: null
+  id: '26_6'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Measure and add-1/4 tsp baking powder to the bowl
+  - description: Measure and add-a pinch of salt to the mixing bowl
+  - description: Measure and add-Measure and add 2 tbsp flour to the mixing bowl
+  - description: Measure and add-1.5 tbsp sugar to the mixing bowl
+  - description: Whisk-Whisk to combine mixture of flour, sugar and baking powder
+      in the bowl
+  - description: Measure and add-1/4 tsp vanilla extract to the bowl
+  - description: Measure and add-Measure and add 2 tsp vegetable oil to the bowl
+  - description: Place-Place the paper cupcake liner inside the mug
+  - description: Set-Set aside the lined mug
+  - description: Measure and add-2 tbsp water to the bowl
+  - description: Whisk-Whisk batter until no lumps remain
+  - description: Pour-Pour batter into prepared mug
+  - description: Microwave-Microwave the mug and batter on high power for 60 seconds.
+      Check if the cake is done by inserting and toothpick into the center of the
+      cake and then removing it. If wet batter clings to the toothpick, microwave
+      for an additional 5 seconds. If the toothpick comes out clean, continue
+  - description: Invert-Invert the mug to release the cake onto a plate
+  - description: Allow-Allow to cool until it is no longer hot to the touch
+  - description: remove-then carefully remove the paper liner
+  - description: Scoop-While the cake is cooling, prepare to pipe the frosting. Scoop
+      4 spoonfuls of chocolate frosting into a zip-top bag
+  - description: seal-seal zip top bag, removing as much air as possible
+  - description: cut-Use scissors to cut one corner from the bag to create a small
+      opening 1/4 inch in diameter
+  - description: Squeeze-Squeeze the frosting through the opening to apply small dollops
+      of frosting to the plate in a circle around the base of the cake
+- activity_id: 26
+  environment: null
+  id: '26_7'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Place-Place the paper cupcake liner inside the mug
+  - description: Measure and add-Measure and add 2 tbsp flour to the mixing bowl
+  - description: Measure and add-1/4 tsp baking powder to the bowl
+  - description: Set-Set aside the lined mug
+  - description: Measure and add-1.5 tbsp sugar to the mixing bowl
+  - description: Measure and add-a pinch of salt to the mixing bowl
+  - description: Whisk-Whisk to combine mixture of flour, sugar and baking powder
+      in the bowl
+  - description: Measure and add-1/4 tsp vanilla extract to the bowl
+  - description: Measure and add-Measure and add 2 tsp vegetable oil to the bowl
+  - description: Measure and add-2 tbsp water to the bowl
+  - description: Whisk-Whisk batter until no lumps remain
+  - description: Pour-Pour batter into prepared mug
+  - description: Microwave-Microwave the mug and batter on high power for 60 seconds.
+      Check if the cake is done by inserting and toothpick into the center of the
+      cake and then removing it. If wet batter clings to the toothpick, microwave
+      for an additional 5 seconds. If the toothpick comes out clean, continue
+  - description: Invert-Invert the mug to release the cake onto a plate
+  - description: Allow-Allow to cool until it is no longer hot to the touch
+  - description: remove-then carefully remove the paper liner
+  - description: Scoop-While the cake is cooling, prepare to pipe the frosting. Scoop
+      4 spoonfuls of chocolate frosting into a zip-top bag
+  - description: seal-seal zip top bag, removing as much air as possible
+  - description: cut-Use scissors to cut one corner from the bag to create a small
+      opening 1/4 inch in diameter
+  - description: Squeeze-Squeeze the frosting through the opening to apply small dollops
+      of frosting to the plate in a circle around the base of the cake
+- activity_id: 26
+  environment: null
+  id: '26_8'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Measure and add-1.5 tbsp sugar to the mixing bowl
+  - description: Measure and add-a pinch of salt to the mixing bowl
+  - description: Measure and add-1/4 tsp baking powder to the bowl
+  - description: Place-Place the paper cupcake liner inside the mug
+  - description: Measure and add-Measure and add 2 tbsp flour to the mixing bowl
+  - description: Whisk-Whisk to combine mixture of flour, sugar and baking powder
+      in the bowl
+  - description: Measure and add-Measure and add 2 tsp vegetable oil to the bowl
+  - description: Measure and add-1/4 tsp vanilla extract to the bowl
+  - description: Set-Set aside the lined mug
+  - description: Measure and add-2 tbsp water to the bowl
+  - description: Whisk-Whisk batter until no lumps remain
+  - description: Pour-Pour batter into prepared mug
+  - description: Microwave-Microwave the mug and batter on high power for 60 seconds.
+      Check if the cake is done by inserting and toothpick into the center of the
+      cake and then removing it. If wet batter clings to the toothpick, microwave
+      for an additional 5 seconds. If the toothpick comes out clean, continue
+  - description: Invert-Invert the mug to release the cake onto a plate
+  - description: Allow-Allow to cool until it is no longer hot to the touch
+  - description: remove-then carefully remove the paper liner
+  - description: Scoop-While the cake is cooling, prepare to pipe the frosting. Scoop
+      4 spoonfuls of chocolate frosting into a zip-top bag
+  - description: seal-seal zip top bag, removing as much air as possible
+  - description: cut-Use scissors to cut one corner from the bag to create a small
+      opening 1/4 inch in diameter
+  - description: Squeeze-Squeeze the frosting through the opening to apply small dollops
+      of frosting to the plate in a circle around the base of the cake
+- activity_id: 26
+  environment: null
+  id: '26_9'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Measure and add-a pinch of salt to the mixing bowl
+  - description: Measure and add-Measure and add 2 tbsp flour to the mixing bowl
+  - description: Place-Place the paper cupcake liner inside the mug
+  - description: Measure and add-1.5 tbsp sugar to the mixing bowl
+  - description: Measure and add-1/4 tsp baking powder to the bowl
+  - description: Set-Set aside the lined mug
+  - description: Whisk-Whisk to combine mixture of flour, sugar and baking powder
+      in the bowl
+  - description: Measure and add-1/4 tsp vanilla extract to the bowl
+  - description: Measure and add-Measure and add 2 tsp vegetable oil to the bowl
+  - description: Measure and add-2 tbsp water to the bowl
+  - description: Whisk-Whisk batter until no lumps remain
+  - description: Pour-Pour batter into prepared mug
+  - description: Microwave-Microwave the mug and batter on high power for 60 seconds.
+      Check if the cake is done by inserting and toothpick into the center of the
+      cake and then removing it. If wet batter clings to the toothpick, microwave
+      for an additional 5 seconds. If the toothpick comes out clean, continue
+  - description: Invert-Invert the mug to release the cake onto a plate
+  - description: Allow-Allow to cool until it is no longer hot to the touch
+  - description: remove-then carefully remove the paper liner
+  - description: Scoop-While the cake is cooling, prepare to pipe the frosting. Scoop
+      4 spoonfuls of chocolate frosting into a zip-top bag
+  - description: seal-seal zip top bag, removing as much air as possible
+  - description: cut-Use scissors to cut one corner from the bag to create a small
+      opening 1/4 inch in diameter
+  - description: Squeeze-Squeeze the frosting through the opening to apply small dollops
+      of frosting to the plate in a circle around the base of the cake
+- activity_id: 26
+  environment: null
+  id: '26_10'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Place-Place the paper cupcake liner inside the mug
+  - description: Measure and add-1/4 tsp baking powder to the bowl
+  - description: Measure and add-1.5 tbsp sugar to the mixing bowl
+  - description: Measure and add-Measure and add 2 tbsp flour to the mixing bowl
+  - description: Set-Set aside the lined mug
+  - description: Measure and add-a pinch of salt to the mixing bowl
+  - description: Whisk-Whisk to combine mixture of flour, sugar and baking powder
+      in the bowl
+  - description: Measure and add-Measure and add 2 tsp vegetable oil to the bowl
+  - description: Measure and add-2 tbsp water to the bowl
+  - description: Measure and add-1/4 tsp vanilla extract to the bowl
+  - description: Whisk-Whisk batter until no lumps remain
+  - description: Pour-Pour batter into prepared mug
+  - description: Microwave-Microwave the mug and batter on high power for 60 seconds.
+      Check if the cake is done by inserting and toothpick into the center of the
+      cake and then removing it. If wet batter clings to the toothpick, microwave
+      for an additional 5 seconds. If the toothpick comes out clean, continue
+  - description: Invert-Invert the mug to release the cake onto a plate
+  - description: Allow-Allow to cool until it is no longer hot to the touch
+  - description: remove-then carefully remove the paper liner
+  - description: Scoop-While the cake is cooling, prepare to pipe the frosting. Scoop
+      4 spoonfuls of chocolate frosting into a zip-top bag
+  - description: seal-seal zip top bag, removing as much air as possible
+  - description: cut-Use scissors to cut one corner from the bag to create a small
+      opening 1/4 inch in diameter
+  - description: Squeeze-Squeeze the frosting through the opening to apply small dollops
+      of frosting to the plate in a circle around the base of the cake
+- activity_id: 26
+  environment: null
+  id: '26_11'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Measure and add-1.5 tbsp sugar to the mixing bowl
+  - description: Measure and add-Measure and add 2 tbsp flour to the mixing bowl
+  - description: Measure and add-1/4 tsp baking powder to the bowl
+  - description: Measure and add-a pinch of salt to the mixing bowl
+  - description: Whisk-Whisk to combine mixture of flour, sugar and baking powder
+      in the bowl
+  - description: Place-Place the paper cupcake liner inside the mug
+  - description: Measure and add-1/4 tsp vanilla extract to the bowl
+  - description: Set-Set aside the lined mug
+  - description: Measure and add-2 tbsp water to the bowl
+  - description: Measure and add-Measure and add 2 tsp vegetable oil to the bowl
+  - description: Whisk-Whisk batter until no lumps remain
+  - description: Pour-Pour batter into prepared mug
+  - description: Microwave-Microwave the mug and batter on high power for 60 seconds.
+      Check if the cake is done by inserting and toothpick into the center of the
+      cake and then removing it. If wet batter clings to the toothpick, microwave
+      for an additional 5 seconds. If the toothpick comes out clean, continue
+  - description: Invert-Invert the mug to release the cake onto a plate
+  - description: Allow-Allow to cool until it is no longer hot to the touch
+  - description: remove-then carefully remove the paper liner
+  - description: Scoop-While the cake is cooling, prepare to pipe the frosting. Scoop
+      4 spoonfuls of chocolate frosting into a zip-top bag
+  - description: seal-seal zip top bag, removing as much air as possible
+  - description: cut-Use scissors to cut one corner from the bag to create a small
+      opening 1/4 inch in diameter
+  - description: Squeeze-Squeeze the frosting through the opening to apply small dollops
+      of frosting to the plate in a circle around the base of the cake
+- activity_id: 26
+  environment: null
+  id: '26_12'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Measure and add-1/4 tsp baking powder to the bowl
+  - description: Measure and add-Measure and add 2 tbsp flour to the mixing bowl
+  - description: Measure and add-1.5 tbsp sugar to the mixing bowl
+  - description: Measure and add-a pinch of salt to the mixing bowl
+  - description: Whisk-Whisk to combine mixture of flour, sugar and baking powder
+      in the bowl
+  - description: Measure and add-1/4 tsp vanilla extract to the bowl
+  - description: Place-Place the paper cupcake liner inside the mug
+  - description: Measure and add-Measure and add 2 tsp vegetable oil to the bowl
+  - description: Measure and add-2 tbsp water to the bowl
+  - description: Whisk-Whisk batter until no lumps remain
+  - description: Set-Set aside the lined mug
+  - description: Pour-Pour batter into prepared mug
+  - description: Microwave-Microwave the mug and batter on high power for 60 seconds.
+      Check if the cake is done by inserting and toothpick into the center of the
+      cake and then removing it. If wet batter clings to the toothpick, microwave
+      for an additional 5 seconds. If the toothpick comes out clean, continue
+  - description: Invert-Invert the mug to release the cake onto a plate
+  - description: Allow-Allow to cool until it is no longer hot to the touch
+  - description: remove-then carefully remove the paper liner
+  - description: Scoop-While the cake is cooling, prepare to pipe the frosting. Scoop
+      4 spoonfuls of chocolate frosting into a zip-top bag
+  - description: seal-seal zip top bag, removing as much air as possible
+  - description: cut-Use scissors to cut one corner from the bag to create a small
+      opening 1/4 inch in diameter
+  - description: Squeeze-Squeeze the frosting through the opening to apply small dollops
+      of frosting to the plate in a circle around the base of the cake
+- activity_id: 26
+  environment: null
+  id: '26_13'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Measure and add-Measure and add 2 tbsp flour to the mixing bowl
+  - description: Measure and add-1/4 tsp baking powder to the bowl
+  - description: Place-Place the paper cupcake liner inside the mug
+  - description: Measure and add-a pinch of salt to the mixing bowl
+  - description: Measure and add-1.5 tbsp sugar to the mixing bowl
+  - description: Whisk-Whisk to combine mixture of flour, sugar and baking powder
+      in the bowl
+  - description: Measure and add-1/4 tsp vanilla extract to the bowl
+  - description: Measure and add-2 tbsp water to the bowl
+  - description: Measure and add-Measure and add 2 tsp vegetable oil to the bowl
+  - description: Set-Set aside the lined mug
+  - description: Whisk-Whisk batter until no lumps remain
+  - description: Pour-Pour batter into prepared mug
+  - description: Microwave-Microwave the mug and batter on high power for 60 seconds.
+      Check if the cake is done by inserting and toothpick into the center of the
+      cake and then removing it. If wet batter clings to the toothpick, microwave
+      for an additional 5 seconds. If the toothpick comes out clean, continue
+  - description: Invert-Invert the mug to release the cake onto a plate
+  - description: Allow-Allow to cool until it is no longer hot to the touch
+  - description: remove-then carefully remove the paper liner
+  - description: Scoop-While the cake is cooling, prepare to pipe the frosting. Scoop
+      4 spoonfuls of chocolate frosting into a zip-top bag
+  - description: seal-seal zip top bag, removing as much air as possible
+  - description: cut-Use scissors to cut one corner from the bag to create a small
+      opening 1/4 inch in diameter
+  - description: Squeeze-Squeeze the frosting through the opening to apply small dollops
+      of frosting to the plate in a circle around the base of the cake
+- activity_id: 26
+  environment: null
+  id: '26_14'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Measure and add-a pinch of salt to the mixing bowl
+  - description: Place-Place the paper cupcake liner inside the mug
+  - description: Measure and add-1/4 tsp baking powder to the bowl
+  - description: Measure and add-Measure and add 2 tbsp flour to the mixing bowl
+  - description: Measure and add-1.5 tbsp sugar to the mixing bowl
+  - description: Whisk-Whisk to combine mixture of flour, sugar and baking powder
+      in the bowl
+  - description: Measure and add-Measure and add 2 tsp vegetable oil to the bowl
+  - description: Measure and add-2 tbsp water to the bowl
+  - description: Measure and add-1/4 tsp vanilla extract to the bowl
+  - description: Whisk-Whisk batter until no lumps remain
+  - description: Set-Set aside the lined mug
+  - description: Pour-Pour batter into prepared mug
+  - description: Microwave-Microwave the mug and batter on high power for 60 seconds.
+      Check if the cake is done by inserting and toothpick into the center of the
+      cake and then removing it. If wet batter clings to the toothpick, microwave
+      for an additional 5 seconds. If the toothpick comes out clean, continue
+  - description: Invert-Invert the mug to release the cake onto a plate
+  - description: Allow-Allow to cool until it is no longer hot to the touch
+  - description: remove-then carefully remove the paper liner
+  - description: Scoop-While the cake is cooling, prepare to pipe the frosting. Scoop
+      4 spoonfuls of chocolate frosting into a zip-top bag
+  - description: seal-seal zip top bag, removing as much air as possible
+  - description: cut-Use scissors to cut one corner from the bag to create a small
+      opening 1/4 inch in diameter
+  - description: Squeeze-Squeeze the frosting through the opening to apply small dollops
+      of frosting to the plate in a circle around the base of the cake
+- activity_id: 26
+  environment: null
+  id: '26_15'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Measure and add-1.5 tbsp sugar to the mixing bowl
+  - description: Measure and add-Measure and add 2 tbsp flour to the mixing bowl
+  - description: Measure and add-1/4 tsp baking powder to the bowl
+  - description: Measure and add-a pinch of salt to the mixing bowl
+  - description: Place-Place the paper cupcake liner inside the mug
+  - description: Set-Set aside the lined mug
+  - description: Whisk-Whisk to combine mixture of flour, sugar and baking powder
+      in the bowl
+  - description: Measure and add-2 tbsp water to the bowl
+  - description: Measure and add-1/4 tsp vanilla extract to the bowl
+  - description: Measure and add-Measure and add 2 tsp vegetable oil to the bowl
+  - description: Whisk-Whisk batter until no lumps remain
+  - description: Pour-Pour batter into prepared mug
+  - description: Microwave-Microwave the mug and batter on high power for 60 seconds.
+      Check if the cake is done by inserting and toothpick into the center of the
+      cake and then removing it. If wet batter clings to the toothpick, microwave
+      for an additional 5 seconds. If the toothpick comes out clean, continue
+  - description: Invert-Invert the mug to release the cake onto a plate
+  - description: Allow-Allow to cool until it is no longer hot to the touch
+  - description: remove-then carefully remove the paper liner
+  - description: Scoop-While the cake is cooling, prepare to pipe the frosting. Scoop
+      4 spoonfuls of chocolate frosting into a zip-top bag
+  - description: seal-seal zip top bag, removing as much air as possible
+  - description: cut-Use scissors to cut one corner from the bag to create a small
+      opening 1/4 inch in diameter
+  - description: Squeeze-Squeeze the frosting through the opening to apply small dollops
+      of frosting to the plate in a circle around the base of the cake
+- activity_id: 26
+  environment: null
+  id: '26_16'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Measure and add-a pinch of salt to the mixing bowl
+  - description: Measure and add-1.5 tbsp sugar to the mixing bowl
+  - description: Measure and add-Measure and add 2 tbsp flour to the mixing bowl
+  - description: Place-Place the paper cupcake liner inside the mug
+  - description: Measure and add-1/4 tsp baking powder to the bowl
+  - description: Whisk-Whisk to combine mixture of flour, sugar and baking powder
+      in the bowl
+  - description: Measure and add-1/4 tsp vanilla extract to the bowl
+  - description: Measure and add-2 tbsp water to the bowl
+  - description: Set-Set aside the lined mug
+  - description: Measure and add-Measure and add 2 tsp vegetable oil to the bowl
+  - description: Whisk-Whisk batter until no lumps remain
+  - description: Pour-Pour batter into prepared mug
+  - description: Microwave-Microwave the mug and batter on high power for 60 seconds.
+      Check if the cake is done by inserting and toothpick into the center of the
+      cake and then removing it. If wet batter clings to the toothpick, microwave
+      for an additional 5 seconds. If the toothpick comes out clean, continue
+  - description: Invert-Invert the mug to release the cake onto a plate
+  - description: Allow-Allow to cool until it is no longer hot to the touch
+  - description: remove-then carefully remove the paper liner
+  - description: Scoop-While the cake is cooling, prepare to pipe the frosting. Scoop
+      4 spoonfuls of chocolate frosting into a zip-top bag
+  - description: seal-seal zip top bag, removing as much air as possible
+  - description: cut-Use scissors to cut one corner from the bag to create a small
+      opening 1/4 inch in diameter
+  - description: Squeeze-Squeeze the frosting through the opening to apply small dollops
+      of frosting to the plate in a circle around the base of the cake
+- activity_id: 26
+  environment: null
+  id: '26_17'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Measure and add-Measure and add 2 tbsp flour to the mixing bowl
+  - description: Measure and add-a pinch of salt to the mixing bowl
+  - description: Place-Place the paper cupcake liner inside the mug
+  - description: Measure and add-1/4 tsp baking powder to the bowl
+  - description: Measure and add-1.5 tbsp sugar to the mixing bowl
+  - description: Set-Set aside the lined mug
+  - description: Whisk-Whisk to combine mixture of flour, sugar and baking powder
+      in the bowl
+  - description: Measure and add-Measure and add 2 tsp vegetable oil to the bowl
+  - description: Measure and add-2 tbsp water to the bowl
+  - description: Measure and add-1/4 tsp vanilla extract to the bowl
+  - description: Whisk-Whisk batter until no lumps remain
+  - description: Pour-Pour batter into prepared mug
+  - description: Microwave-Microwave the mug and batter on high power for 60 seconds.
+      Check if the cake is done by inserting and toothpick into the center of the
+      cake and then removing it. If wet batter clings to the toothpick, microwave
+      for an additional 5 seconds. If the toothpick comes out clean, continue
+  - description: Invert-Invert the mug to release the cake onto a plate
+  - description: Allow-Allow to cool until it is no longer hot to the touch
+  - description: remove-then carefully remove the paper liner
+  - description: Scoop-While the cake is cooling, prepare to pipe the frosting. Scoop
+      4 spoonfuls of chocolate frosting into a zip-top bag
+  - description: seal-seal zip top bag, removing as much air as possible
+  - description: cut-Use scissors to cut one corner from the bag to create a small
+      opening 1/4 inch in diameter
+  - description: Squeeze-Squeeze the frosting through the opening to apply small dollops
+      of frosting to the plate in a circle around the base of the cake
+- activity_id: 26
+  environment: null
+  id: '26_18'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Measure and add-1.5 tbsp sugar to the mixing bowl
+  - description: Place-Place the paper cupcake liner inside the mug
+  - description: Measure and add-Measure and add 2 tbsp flour to the mixing bowl
+  - description: Measure and add-1/4 tsp baking powder to the bowl
+  - description: Measure and add-a pinch of salt to the mixing bowl
+  - description: Whisk-Whisk to combine mixture of flour, sugar and baking powder
+      in the bowl
+  - description: Measure and add-1/4 tsp vanilla extract to the bowl
+  - description: Measure and add-Measure and add 2 tsp vegetable oil to the bowl
+  - description: Measure and add-2 tbsp water to the bowl
+  - description: Set-Set aside the lined mug
+  - description: Whisk-Whisk batter until no lumps remain
+  - description: Pour-Pour batter into prepared mug
+  - description: Microwave-Microwave the mug and batter on high power for 60 seconds.
+      Check if the cake is done by inserting and toothpick into the center of the
+      cake and then removing it. If wet batter clings to the toothpick, microwave
+      for an additional 5 seconds. If the toothpick comes out clean, continue
+  - description: Invert-Invert the mug to release the cake onto a plate
+  - description: Allow-Allow to cool until it is no longer hot to the touch
+  - description: remove-then carefully remove the paper liner
+  - description: Scoop-While the cake is cooling, prepare to pipe the frosting. Scoop
+      4 spoonfuls of chocolate frosting into a zip-top bag
+  - description: seal-seal zip top bag, removing as much air as possible
+  - description: cut-Use scissors to cut one corner from the bag to create a small
+      opening 1/4 inch in diameter
+  - description: Squeeze-Squeeze the frosting through the opening to apply small dollops
+      of frosting to the plate in a circle around the base of the cake
+- activity_id: 26
+  environment: null
+  id: '26_19'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Measure and add-Measure and add 2 tbsp flour to the mixing bowl
+  - description: Place-Place the paper cupcake liner inside the mug
+  - description: Measure and add-1/4 tsp baking powder to the bowl
+  - description: Measure and add-1.5 tbsp sugar to the mixing bowl
+  - description: Measure and add-a pinch of salt to the mixing bowl
+  - description: Whisk-Whisk to combine mixture of flour, sugar and baking powder
+      in the bowl
+  - description: Measure and add-Measure and add 2 tsp vegetable oil to the bowl
+  - description: Measure and add-1/4 tsp vanilla extract to the bowl
+  - description: Measure and add-2 tbsp water to the bowl
+  - description: Whisk-Whisk batter until no lumps remain
+  - description: Set-Set aside the lined mug
+  - description: Pour-Pour batter into prepared mug
+  - description: Microwave-Microwave the mug and batter on high power for 60 seconds.
+      Check if the cake is done by inserting and toothpick into the center of the
+      cake and then removing it. If wet batter clings to the toothpick, microwave
+      for an additional 5 seconds. If the toothpick comes out clean, continue
+  - description: Invert-Invert the mug to release the cake onto a plate
+  - description: Allow-Allow to cool until it is no longer hot to the touch
+  - description: remove-then carefully remove the paper liner
+  - description: Scoop-While the cake is cooling, prepare to pipe the frosting. Scoop
+      4 spoonfuls of chocolate frosting into a zip-top bag
+  - description: seal-seal zip top bag, removing as much air as possible
+  - description: cut-Use scissors to cut one corner from the bag to create a small
+      opening 1/4 inch in diameter
+  - description: Squeeze-Squeeze the frosting through the opening to apply small dollops
+      of frosting to the plate in a circle around the base of the cake
+- activity_id: 26
+  environment: null
+  id: '26_20'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Place-Place the paper cupcake liner inside the mug
+  - description: Measure and add-a pinch of salt to the mixing bowl
+  - description: Measure and add-1.5 tbsp sugar to the mixing bowl
+  - description: Measure and add-1/4 tsp baking powder to the bowl
+  - description: Measure and add-Measure and add 2 tbsp flour to the mixing bowl
+  - description: Whisk-Whisk to combine mixture of flour, sugar and baking powder
+      in the bowl
+  - description: Measure and add-1/4 tsp vanilla extract to the bowl
+  - description: Measure and add-Measure and add 2 tsp vegetable oil to the bowl
+  - description: Measure and add-2 tbsp water to the bowl
+  - description: Set-Set aside the lined mug
+  - description: Whisk-Whisk batter until no lumps remain
+  - description: Pour-Pour batter into prepared mug
+  - description: Microwave-Microwave the mug and batter on high power for 60 seconds.
+      Check if the cake is done by inserting and toothpick into the center of the
+      cake and then removing it. If wet batter clings to the toothpick, microwave
+      for an additional 5 seconds. If the toothpick comes out clean, continue
+  - description: Invert-Invert the mug to release the cake onto a plate
+  - description: Allow-Allow to cool until it is no longer hot to the touch
+  - description: remove-then carefully remove the paper liner
+  - description: Scoop-While the cake is cooling, prepare to pipe the frosting. Scoop
+      4 spoonfuls of chocolate frosting into a zip-top bag
+  - description: seal-seal zip top bag, removing as much air as possible
+  - description: cut-Use scissors to cut one corner from the bag to create a small
+      opening 1/4 inch in diameter
+  - description: Squeeze-Squeeze the frosting through the opening to apply small dollops
+      of frosting to the plate in a circle around the base of the cake
+- activity_id: 26
+  environment: null
+  id: '26_21'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Place-Place the paper cupcake liner inside the mug
+  - description: Measure and add-1.5 tbsp sugar to the mixing bowl
+  - description: Measure and add-Measure and add 2 tbsp flour to the mixing bowl
+  - description: Measure and add-1/4 tsp baking powder to the bowl
+  - description: Measure and add-a pinch of salt to the mixing bowl
+  - description: Whisk-Whisk to combine mixture of flour, sugar and baking powder
+      in the bowl
+  - description: Measure and add-2 tbsp water to the bowl
+  - description: Measure and add-Measure and add 2 tsp vegetable oil to the bowl
+  - description: Set-Set aside the lined mug
+  - description: Measure and add-1/4 tsp vanilla extract to the bowl
+  - description: Whisk-Whisk batter until no lumps remain
+  - description: Pour-Pour batter into prepared mug
+  - description: Microwave-Microwave the mug and batter on high power for 60 seconds.
+      Check if the cake is done by inserting and toothpick into the center of the
+      cake and then removing it. If wet batter clings to the toothpick, microwave
+      for an additional 5 seconds. If the toothpick comes out clean, continue
+  - description: Invert-Invert the mug to release the cake onto a plate
+  - description: Allow-Allow to cool until it is no longer hot to the touch
+  - description: remove-then carefully remove the paper liner
+  - description: Scoop-While the cake is cooling, prepare to pipe the frosting. Scoop
+      4 spoonfuls of chocolate frosting into a zip-top bag
+  - description: seal-seal zip top bag, removing as much air as possible
+  - description: cut-Use scissors to cut one corner from the bag to create a small
+      opening 1/4 inch in diameter
+  - description: Squeeze-Squeeze the frosting through the opening to apply small dollops
+      of frosting to the plate in a circle around the base of the cake
+- activity_id: 26
+  environment: null
+  id: '26_22'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Measure and add-a pinch of salt to the mixing bowl
+  - description: Measure and add-1/4 tsp baking powder to the bowl
+  - description: Place-Place the paper cupcake liner inside the mug
+  - description: Measure and add-Measure and add 2 tbsp flour to the mixing bowl
+  - description: Measure and add-1.5 tbsp sugar to the mixing bowl
+  - description: Whisk-Whisk to combine mixture of flour, sugar and baking powder
+      in the bowl
+  - description: Measure and add-1/4 tsp vanilla extract to the bowl
+  - description: Measure and add-2 tbsp water to the bowl
+  - description: Set-Set aside the lined mug
+  - description: Measure and add-Measure and add 2 tsp vegetable oil to the bowl
+  - description: Whisk-Whisk batter until no lumps remain
+  - description: Pour-Pour batter into prepared mug
+  - description: Microwave-Microwave the mug and batter on high power for 60 seconds.
+      Check if the cake is done by inserting and toothpick into the center of the
+      cake and then removing it. If wet batter clings to the toothpick, microwave
+      for an additional 5 seconds. If the toothpick comes out clean, continue
+  - description: Invert-Invert the mug to release the cake onto a plate
+  - description: Allow-Allow to cool until it is no longer hot to the touch
+  - description: remove-then carefully remove the paper liner
+  - description: Scoop-While the cake is cooling, prepare to pipe the frosting. Scoop
+      4 spoonfuls of chocolate frosting into a zip-top bag
+  - description: seal-seal zip top bag, removing as much air as possible
+  - description: cut-Use scissors to cut one corner from the bag to create a small
+      opening 1/4 inch in diameter
+  - description: Squeeze-Squeeze the frosting through the opening to apply small dollops
+      of frosting to the plate in a circle around the base of the cake
+- activity_id: 26
+  environment: null
+  id: '26_23'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Place-Place the paper cupcake liner inside the mug
+  - description: Measure and add-1.5 tbsp sugar to the mixing bowl
+  - description: Measure and add-1/4 tsp baking powder to the bowl
+  - description: Measure and add-a pinch of salt to the mixing bowl
+  - description: Measure and add-Measure and add 2 tbsp flour to the mixing bowl
+  - description: Whisk-Whisk to combine mixture of flour, sugar and baking powder
+      in the bowl
+  - description: Measure and add-1/4 tsp vanilla extract to the bowl
+  - description: Measure and add-Measure and add 2 tsp vegetable oil to the bowl
+  - description: Set-Set aside the lined mug
+  - description: Measure and add-2 tbsp water to the bowl
+  - description: Whisk-Whisk batter until no lumps remain
+  - description: Pour-Pour batter into prepared mug
+  - description: Microwave-Microwave the mug and batter on high power for 60 seconds.
+      Check if the cake is done by inserting and toothpick into the center of the
+      cake and then removing it. If wet batter clings to the toothpick, microwave
+      for an additional 5 seconds. If the toothpick comes out clean, continue
+  - description: Invert-Invert the mug to release the cake onto a plate
+  - description: Allow-Allow to cool until it is no longer hot to the touch
+  - description: remove-then carefully remove the paper liner
+  - description: Scoop-While the cake is cooling, prepare to pipe the frosting. Scoop
+      4 spoonfuls of chocolate frosting into a zip-top bag
+  - description: seal-seal zip top bag, removing as much air as possible
+  - description: cut-Use scissors to cut one corner from the bag to create a small
+      opening 1/4 inch in diameter
+  - description: Squeeze-Squeeze the frosting through the opening to apply small dollops
+      of frosting to the plate in a circle around the base of the cake
+- activity_id: 26
+  environment: null
+  id: '26_24'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Measure and add-1/4 tsp baking powder to the bowl
+  - description: Measure and add-Measure and add 2 tbsp flour to the mixing bowl
+  - description: Measure and add-1.5 tbsp sugar to the mixing bowl
+  - description: Place-Place the paper cupcake liner inside the mug
+  - description: Measure and add-a pinch of salt to the mixing bowl
+  - description: Whisk-Whisk to combine mixture of flour, sugar and baking powder
+      in the bowl
+  - description: Measure and add-Measure and add 2 tsp vegetable oil to the bowl
+  - description: Measure and add-1/4 tsp vanilla extract to the bowl
+  - description: Measure and add-2 tbsp water to the bowl
+  - description: Set-Set aside the lined mug
+  - description: Whisk-Whisk batter until no lumps remain
+  - description: Pour-Pour batter into prepared mug
+  - description: Microwave-Microwave the mug and batter on high power for 60 seconds.
+      Check if the cake is done by inserting and toothpick into the center of the
+      cake and then removing it. If wet batter clings to the toothpick, microwave
+      for an additional 5 seconds. If the toothpick comes out clean, continue
+  - description: Invert-Invert the mug to release the cake onto a plate
+  - description: Allow-Allow to cool until it is no longer hot to the touch
+  - description: remove-then carefully remove the paper liner
+  - description: Scoop-While the cake is cooling, prepare to pipe the frosting. Scoop
+      4 spoonfuls of chocolate frosting into a zip-top bag
+  - description: seal-seal zip top bag, removing as much air as possible
+  - description: cut-Use scissors to cut one corner from the bag to create a small
+      opening 1/4 inch in diameter
+  - description: Squeeze-Squeeze the frosting through the opening to apply small dollops
+      of frosting to the plate in a circle around the base of the cake
+- activity_id: 26
+  environment: null
+  id: '26_25'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Measure and add-Measure and add 2 tbsp flour to the mixing bowl
+  - description: Measure and add-a pinch of salt to the mixing bowl
+  - description: Measure and add-1/4 tsp baking powder to the bowl
+  - description: Measure and add-1.5 tbsp sugar to the mixing bowl
+  - description: Place-Place the paper cupcake liner inside the mug
+  - description: Whisk-Whisk to combine mixture of flour, sugar and baking powder
+      in the bowl
+  - description: Measure and add-1/4 tsp vanilla extract to the bowl
+  - description: Measure and add-Measure and add 2 tsp vegetable oil to the bowl
+  - description: Set-Set aside the lined mug
+  - description: Measure and add-2 tbsp water to the bowl
+  - description: Whisk-Whisk batter until no lumps remain
+  - description: Pour-Pour batter into prepared mug
+  - description: Microwave-Microwave the mug and batter on high power for 60 seconds.
+      Check if the cake is done by inserting and toothpick into the center of the
+      cake and then removing it. If wet batter clings to the toothpick, microwave
+      for an additional 5 seconds. If the toothpick comes out clean, continue
+  - description: Invert-Invert the mug to release the cake onto a plate
+  - description: Allow-Allow to cool until it is no longer hot to the touch
+  - description: remove-then carefully remove the paper liner
+  - description: Scoop-While the cake is cooling, prepare to pipe the frosting. Scoop
+      4 spoonfuls of chocolate frosting into a zip-top bag
+  - description: seal-seal zip top bag, removing as much air as possible
+  - description: cut-Use scissors to cut one corner from the bag to create a small
+      opening 1/4 inch in diameter
+  - description: Squeeze-Squeeze the frosting through the opening to apply small dollops
+      of frosting to the plate in a circle around the base of the cake
+- activity_id: 26
+  environment: null
+  errors:
+  - description: Measure and add-1/4 tsp baking powder to the bowl
+    tag: Missing Step
+  - description: Whisk-Whisk to combine mixture of flour, sugar and baking powder
+      in the bowl
+    tag: Missing Step
+  - description: Measure and add-2 tbsp water to the bowl
+    tag: Missing Step
+  id: '26_26'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Measure and add-Measure and add 2 tbsp flour to the mixing bowl
+  - description: Measure and add-1.5 tbsp sugar to the mixing bowl
+  - description: Measure and add-a pinch of salt to the mixing bowl
+  - description: Measure and add-Measure and add 2 tsp vegetable oil to the bowl
+  - description: Place-Place the paper cupcake liner inside the mug
+  - description: Set-Set aside the lined mug
+  - description: Measure and add-1/4 tsp vanilla extract to the bowl
+  - description: Whisk-Whisk batter until no lumps remain
+  - description: Pour-Pour batter into prepared mug
+  - description: Microwave-Microwave the mug and batter on high power for 60 seconds.
+      Check if the cake is done by inserting and toothpick into the center of the
+      cake and then removing it. If wet batter clings to the toothpick, microwave
+      for an additional 5 seconds. If the toothpick comes out clean, continue
+  - description: Invert-Invert the mug to release the cake onto a plate
+  - description: Allow-Allow to cool until it is no longer hot to the touch
+  - description: remove-then carefully remove the paper liner
+  - description: Scoop-While the cake is cooling, prepare to pipe the frosting. Scoop
+      4 spoonfuls of chocolate frosting into a zip-top bag
+  - description: seal-seal zip top bag, removing as much air as possible
+  - description: cut-Use scissors to cut one corner from the bag to create a small
+      opening 1/4 inch in diameter
+  - description: Squeeze-Squeeze the frosting through the opening to apply small dollops
+      of frosting to the plate in a circle around the base of the cake
+- activity_id: 26
+  environment: null
+  errors:
+  - description: Measure and add-1.5 tbsp sugar to the mixing bowl
+    tag: Missing Step
+  - description: Whisk-Whisk batter until no lumps remain
+    tag: Missing Step
+  - description: cut-Use scissors to cut one corner from the bag to create a small
+      opening 1/4 inch in diameter
+    tag: Missing Step
+  id: '26_27'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Measure and add-Measure and add 2 tbsp flour to the mixing bowl
+  - description: Measure and add-a pinch of salt to the mixing bowl
+    errors:
+    - description: Spill
+      tag: Technique Error
+    modified_description: Measure and add-Measure and add 2 tbsp flour to the mixing
+      bowl, spilling almost 25%
+  - description: Place-Place the paper cupcake liner inside the mug
+  - description: Measure and add-1/4 tsp baking powder to the bowl
+    errors:
+    - description: Add 1 tsp baking powder
+      tag: Measurement Error
+    modified_description: Measure and add-1 tsp baking powder to the bowl
+  - description: Whisk-Whisk to combine mixture of flour, sugar and baking powder
+      in the bowl
+    errors:
+    - description: Whisk partially
+      tag: Preparation Error
+    modified_description: Whisk-Whisk to combine mixture of flour, sugar and baking
+      powder in the bowl partially, leaving them seggregated
+  - description: Measure and add-1/4 tsp vanilla extract to the bowl
+  - description: Set-Set aside the lined mug
+  - description: Measure and add-Measure and add 2 tsp vegetable oil to the bowl
+    errors:
+    - description: Added more
+      tag: Measurement Error
+    modified_description: Measure and add-Measure and add 3 tsp vegetable oil to the
+      bowl
+  - description: Measure and add-2 tbsp water to the bowl
+    errors:
+    - description: Added less
+      tag: Measurement Error
+    modified_description: Measure and add-1 tbsp water to the bowl
+  - description: Pour-Pour batter into prepared mug
+    errors:
+    - description: Spill
+      tag: Technique Error
+    modified_description: Pour-Pour batter into prepared mug, while spilling it
+  - description: Microwave-Microwave the mug and batter on high power for 60 seconds.
+      Check if the cake is done by inserting and toothpick into the center of the
+      cake and then removing it. If wet batter clings to the toothpick, microwave
+      for an additional 5 seconds. If the toothpick comes out clean, continue
+    errors:
+    - description: Microwave for 90 seconds
+      tag: Timing Error
+    modified_description: Microwave-Microwave the mug and batter on high power for
+      90 seconds. Continue.
+  - description: Invert-Invert the mug to release the cake onto a plate
+  - description: Allow-Allow to cool until it is no longer hot to the touch
+  - description: remove-then carefully remove the paper liner
+  - description: Scoop-While the cake is cooling, prepare to pipe the frosting. Scoop
+      4 spoonfuls of chocolate frosting into a zip-top bag
+  - description: seal-seal zip top bag, removing as much air as possible
+  - description: Squeeze-Squeeze the frosting through the opening to apply small dollops
+      of frosting to the plate in a circle around the base of the cake
+- activity_id: 26
+  environment: null
+  errors:
+  - description: Measure and add-Measure and add 2 tsp vegetable oil to the bowl
+    tag: Missing Step
+  id: '26_28'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Measure and add-a pinch of salt to the mixing bowl
+  - description: Measure and add-1/4 tsp baking powder to the bowl
+  - description: Measure and add-Measure and add 2 tbsp flour to the mixing bowl
+  - description: Measure and add-1.5 tbsp sugar to the mixing bowl
+  - description: Whisk-Whisk to combine mixture of flour, sugar and baking powder
+      in the bowl
+  - description: Measure and add-1/4 tsp vanilla extract to the bowl
+  - description: Place-Place the paper cupcake liner inside the mug
+  - description: Measure and add-2 tbsp water to the bowl
+  - description: Set-Set aside the lined mug
+  - description: Whisk-Whisk batter until no lumps remain
+  - description: Pour-Pour batter into prepared mug
+  - description: Microwave-Microwave the mug and batter on high power for 60 seconds.
+      Check if the cake is done by inserting and toothpick into the center of the
+      cake and then removing it. If wet batter clings to the toothpick, microwave
+      for an additional 5 seconds. If the toothpick comes out clean, continue
+  - description: Invert-Invert the mug to release the cake onto a plate
+  - description: Allow-Allow to cool until it is no longer hot to the touch
+  - description: remove-then carefully remove the paper liner
+  - description: Scoop-While the cake is cooling, prepare to pipe the frosting. Scoop
+      4 spoonfuls of chocolate frosting into a zip-top bag
+  - description: seal-seal zip top bag, removing as much air as possible
+  - description: cut-Use scissors to cut one corner from the bag to create a small
+      opening 1/4 inch in diameter
+  - description: Squeeze-Squeeze the frosting through the opening to apply small dollops
+      of frosting to the plate in a circle around the base of the cake
+- activity_id: 26
+  environment: null
+  errors:
+  - description: Squeeze-Squeeze the frosting through the opening to apply small dollops
+      of frosting to the plate in a circle around the base of the cake
+    tag: Missing Step
+  id: '26_29'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Measure and add-a pinch of salt to the mixing bowl
+  - description: Measure and add-1/4 tsp baking powder to the bowl
+  - description: Measure and add-1.5 tbsp sugar to the mixing bowl
+  - description: Measure and add-Measure and add 2 tbsp flour to the mixing bowl
+  - description: Whisk-Whisk to combine mixture of flour, sugar and baking powder
+      in the bowl
+  - description: Measure and add-2 tbsp water to the bowl
+  - description: Measure and add-Measure and add 2 tsp vegetable oil to the bowl
+  - description: Measure and add-1/4 tsp vanilla extract to the bowl
+  - description: Place-Place the paper cupcake liner inside the mug
+  - description: Whisk-Whisk batter until no lumps remain
+  - description: Set-Set aside the lined mug
+  - description: Pour-Pour batter into prepared mug
+  - description: Microwave-Microwave the mug and batter on high power for 60 seconds.
+      Check if the cake is done by inserting and toothpick into the center of the
+      cake and then removing it. If wet batter clings to the toothpick, microwave
+      for an additional 5 seconds. If the toothpick comes out clean, continue
+  - description: Invert-Invert the mug to release the cake onto a plate
+  - description: Allow-Allow to cool until it is no longer hot to the touch
+  - description: remove-then carefully remove the paper liner
+  - description: Scoop-While the cake is cooling, prepare to pipe the frosting. Scoop
+      4 spoonfuls of chocolate frosting into a zip-top bag
+  - description: seal-seal zip top bag, removing as much air as possible
+  - description: cut-Use scissors to cut one corner from the bag to create a small
+      opening 1/4 inch in diameter
+- activity_id: 26
+  environment: null
+  errors:
+  - description: Measure and add-1/4 tsp baking powder to the bowl
+    tag: Missing Step
+  - description: Microwave-Microwave the mug and batter on high power for 60 seconds.
+      Check if the cake is done by inserting and toothpick into the center of the
+      cake and then removing it. If wet batter clings to the toothpick, microwave
+      for an additional 5 seconds. If the toothpick comes out clean, continue
+    tag: Missing Step
+  - description: seal-seal zip top bag, removing as much air as possible
+    tag: Missing Step
+  id: '26_30'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Measure and add-Measure and add 2 tbsp flour to the mixing bowl
+  - description: Measure and add-1.5 tbsp sugar to the mixing bowl
+  - description: Measure and add-a pinch of salt to the mixing bowl
+  - description: Whisk-Whisk to combine mixture of flour, sugar and baking powder
+      in the bowl
+  - description: Measure and add-1/4 tsp vanilla extract to the bowl
+  - description: Measure and add-2 tbsp water to the bowl
+  - description: Place-Place the paper cupcake liner inside the mug
+  - description: Set-Set aside the lined mug
+  - description: Measure and add-Measure and add 2 tsp vegetable oil to the bowl
+  - description: Whisk-Whisk batter until no lumps remain
+  - description: Pour-Pour batter into prepared mug
+  - description: Invert-Invert the mug to release the cake onto a plate
+  - description: Allow-Allow to cool until it is no longer hot to the touch
+  - description: remove-then carefully remove the paper liner
+  - description: Scoop-While the cake is cooling, prepare to pipe the frosting. Scoop
+      4 spoonfuls of chocolate frosting into a zip-top bag
+  - description: cut-Use scissors to cut one corner from the bag to create a small
+      opening 1/4 inch in diameter
+  - description: Squeeze-Squeeze the frosting through the opening to apply small dollops
+      of frosting to the plate in a circle around the base of the cake
+- activity_id: 26
+  environment: null
+  errors:
+  - description: Measure and add-1.5 tbsp sugar to the mixing bowl
+    tag: Missing Step
+  - description: Measure and add-Measure and add 2 tbsp flour to the mixing bowl
+    tag: Missing Step
+  - description: Squeeze-Squeeze the frosting through the opening to apply small dollops
+      of frosting to the plate in a circle around the base of the cake
+    tag: Missing Step
+  id: '26_31'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Place-Place the paper cupcake liner inside the mug
+  - description: Measure and add-a pinch of salt to the mixing bowl
+  - description: Measure and add-1/4 tsp baking powder to the bowl
+  - description: Whisk-Whisk to combine mixture of flour, sugar and baking powder
+      in the bowl
+  - description: Set-Set aside the lined mug
+  - description: Measure and add-Measure and add 2 tsp vegetable oil to the bowl
+  - description: Measure and add-1/4 tsp vanilla extract to the bowl
+  - description: Measure and add-2 tbsp water to the bowl
+  - description: Whisk-Whisk batter until no lumps remain
+  - description: Pour-Pour batter into prepared mug
+  - description: Microwave-Microwave the mug and batter on high power for 60 seconds.
+      Check if the cake is done by inserting and toothpick into the center of the
+      cake and then removing it. If wet batter clings to the toothpick, microwave
+      for an additional 5 seconds. If the toothpick comes out clean, continue
+  - description: Invert-Invert the mug to release the cake onto a plate
+  - description: Allow-Allow to cool until it is no longer hot to the touch
+  - description: remove-then carefully remove the paper liner
+  - description: Scoop-While the cake is cooling, prepare to pipe the frosting. Scoop
+      4 spoonfuls of chocolate frosting into a zip-top bag
+  - description: seal-seal zip top bag, removing as much air as possible
+  - description: cut-Use scissors to cut one corner from the bag to create a small
+      opening 1/4 inch in diameter
+- activity_id: 26
+  environment: null
+  errors:
+  - description: Whisk-Whisk to combine mixture of flour, sugar and baking powder
+      in the bowl
+    tag: Missing Step
+  - description: Whisk-Whisk batter until no lumps remain
+    tag: Missing Step
+  id: '26_32'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Measure and add-1.5 tbsp sugar to the mixing bowl
+  - description: Measure and add-Measure and add 2 tbsp flour to the mixing bowl
+    errors:
+    - description: Spill
+      tag: Technique Error
+    modified_description: Measure and add-Measure and add 2 tbsp flour to the mixing
+      bowl splilling 25%
+  - description: Measure and add-a pinch of salt to the mixing bowl
+    errors:
+    - description: Skipped
+      tag: Missing Step
+    modified_description: Skip this step
+  - description: Measure and add-1/4 tsp baking powder to the bowl
+    errors:
+    - description: Added more baking powder than needed
+      tag: Measurement Error
+    modified_description: Measure and add-1 tsp baking powder to the bowl
+  - description: Measure and add-2 tbsp water to the bowl
+    errors:
+    - description: Add 1tbsp water only
+      tag: Measurement Error
+    modified_description: Measure and add-1 tbsp water to the bowl
+  - description: Measure and add-1/4 tsp vanilla extract to the bowl
+    errors:
+    - description: Added 1 tsp vanilla extract
+      tag: Measurement Error
+    modified_description: Measure and add-1 tsp vanilla extract to the bowl
+  - description: Place-Place the paper cupcake liner inside the mug
+  - description: Set-Set aside the lined mug
+  - description: Measure and add-Measure and add 2 tsp vegetable oil to the bowl
+    errors:
+    - description: Spilled oil
+      tag: Technique Error
+    modified_description: Measure and add-Measure and add 2 tsp vegetable oil to the
+      bowl spilling 1 tsp
+  - description: Pour-Pour batter into prepared mug
+  - description: Microwave-Microwave the mug and batter on high power for 60 seconds.
+      Check if the cake is done by inserting and toothpick into the center of the
+      cake and then removing it. If wet batter clings to the toothpick, microwave
+      for an additional 5 seconds. If the toothpick comes out clean, continue
+    errors:
+    - description: Microwaved only for 45 seconds
+      tag: Timing Error
+    - description: Continue without inserting toothpick
+      tag: Preparation Error
+    modified_description: Microwave-Microwave the mug and batter on low power for
+      45 seconds. Continue.
+  - description: Invert-Invert the mug to release the cake onto a plate
+  - description: Allow-Allow to cool until it is no longer hot to the touch
+    errors:
+    - description: Used the cake too fast
+      tag: Temperature Error
+    modified_description: Skip
+  - description: remove-then carefully remove the paper liner
+  - description: Scoop-While the cake is cooling, prepare to pipe the frosting. Scoop
+      4 spoonfuls of chocolate frosting into a zip-top bag
+    errors:
+    - description: Measured 1 spoonful only
+      tag: Measurement Error
+    modified_description: coop-While the cake is cooling, prepare to pipe the frosting.
+      Scoop 1 spoonfuls of chocolate frosting into a zip-top bag
+  - description: seal-seal zip top bag, removing as much air as possible
+  - description: cut-Use scissors to cut one corner from the bag to create a small
+      opening 1/4 inch in diameter
+    errors:
+    - description: Created a 1 inch hole
+      tag: Measurement Error
+    modified_description: cut-Use scissors to cut one corner from the bag to create
+      a small opening 1 inch in diameter
+  - description: Squeeze-Squeeze the frosting through the opening to apply small dollops
+      of frosting to the plate in a circle around the base of the cake
+    errors:
+    - description: Placed poorly
+      tag: Technique Error
+    modified_description: Squeeze-Squeeze the frosting through the opening to apply
+      small dollops of frosting to the plate in a circle around the base of the cake
+      only along one quarter
+- activity_id: 26
+  environment: null
+  errors:
+  - description: Measure and add-a pinch of salt to the mixing bowl
+    tag: Missing Step
+  - description: Measure and add-Measure and add 2 tsp vegetable oil to the bowl
+    tag: Missing Step
+  id: '26_33'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Measure and add-Measure and add 2 tbsp flour to the mixing bowl
+  - description: Place-Place the paper cupcake liner inside the mug
+  - description: Measure and add-1/4 tsp baking powder to the bowl
+  - description: Measure and add-1.5 tbsp sugar to the mixing bowl
+  - description: Whisk-Whisk to combine mixture of flour, sugar and baking powder
+      in the bowl
+  - description: Measure and add-1/4 tsp vanilla extract to the bowl
+  - description: Measure and add-2 tbsp water to the bowl
+  - description: Set-Set aside the lined mug
+  - description: Whisk-Whisk batter until no lumps remain
+  - description: Pour-Pour batter into prepared mug
+  - description: Microwave-Microwave the mug and batter on high power for 60 seconds.
+      Check if the cake is done by inserting and toothpick into the center of the
+      cake and then removing it. If wet batter clings to the toothpick, microwave
+      for an additional 5 seconds. If the toothpick comes out clean, continue
+  - description: Invert-Invert the mug to release the cake onto a plate
+  - description: Allow-Allow to cool until it is no longer hot to the touch
+  - description: remove-then carefully remove the paper liner
+  - description: Scoop-While the cake is cooling, prepare to pipe the frosting. Scoop
+      4 spoonfuls of chocolate frosting into a zip-top bag
+  - description: seal-seal zip top bag, removing as much air as possible
+  - description: cut-Use scissors to cut one corner from the bag to create a small
+      opening 1/4 inch in diameter
+  - description: Squeeze-Squeeze the frosting through the opening to apply small dollops
+      of frosting to the plate in a circle around the base of the cake
+- activity_id: 26
+  environment: 1
+  errors:
+  - description: Measure and add-Measure and add 2 tbsp flour to the mixing bowl
+    tag: Missing Step
+  - description: Place-Place the paper cupcake liner inside the mug
+    tag: Missing Step
+  - description: Set-Set aside the lined mug
+    tag: Missing Step
+  - description: seal-seal zip top bag, removing as much air as possible
+    tag: Missing Step
+  id: '26_34'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 4
+  steps:
+  - description: Measure and add-1.5 tbsp sugar to the mixing bowl
+    errors:
+    - description: Add 3 tbsp instead of 1.5 tbsp
+      tag: Measurement Error
+    modified_description: Measure and add-3 tbsp sugar to the mixing bowl
+  - description: Measure and add-1/4 tsp baking powder to the bowl
+    errors:
+    - description: Add baking soda instead of baking powder
+      tag: Other
+    modified_description: Measure and add-1/4 tsp baking soda to the bowl
+  - description: Measure and add-a pinch of salt to the mixing bowl
+    errors:
+    - description: drop/ spill salt while trying to measure and trasfer
+      tag: Preparation Error
+    modified_description: 'Measure and add-a pinch of salt to the mixing bowl and
+      spill while doing it '
+  - description: Whisk-Whisk to combine mixture of flour, sugar and baking powder
+      in the bowl
+    errors:
+    - description: 'NULL'
+      tag: Other
+    modified_description: Whisk-Whisk to combine mixture of flour, sugar and baking
+      powder in the bowl
+  - description: Measure and add-1/4 tsp vanilla extract to the bowl
+    errors:
+    - description: spilling vanilla extract in the process
+      tag: Preparation Error
+    modified_description: Measure and add-1/4 tsp vanilla extract to the bowl and
+      spill while doing the procedure
+  - description: Measure and add-Measure and add 2 tsp vegetable oil to the bowl
+    errors:
+    - description: add 1 tsp instead of 2 tsp
+      tag: Measurement Error
+    modified_description: Measure and add-Measure and add 1 tsp vegetable oil to the
+      bowl
+  - description: Measure and add-2 tbsp water to the bowl
+    errors:
+    - description: use tsp instead of tbsp
+      tag: Measurement Error
+    modified_description: Measure and add-2 tsp water to the bowl
+  - description: Whisk-Whisk batter until no lumps remain
+    errors:
+    - description: whish incompletely
+      tag: Technique Error
+    modified_description: Whisk-Whisk batter until with visible lumps remaining
+  - description: Pour-Pour batter into prepared mug
+  - description: Microwave-Microwave the mug and batter on high power for 60 seconds.
+      Check if the cake is done by inserting and toothpick into the center of the
+      cake and then removing it. If wet batter clings to the toothpick, microwave
+      for an additional 5 seconds. If the toothpick comes out clean, continue
+    errors:
+    - description: Time is set to 90 sec instead of 60 sec
+      tag: Timing Error
+    modified_description: Microwave-Microwave the mug and batter on high power for
+      90 seconds. Check if the cake is done by inserting and toothpick into the center
+      of the cake and then removing it. If wet batter clings to the toothpick, microwave
+      for an additional 5 seconds. If the toothpick comes out clean, continue
+  - description: Invert-Invert the mug to release the cake onto a plate
+    errors:
+    - description: use unclean plate
+      tag: Preparation Error
+    modified_description: 'Invert-Invert the mug to release the cake onto a unclean
+      plate '
+  - description: Allow-Allow to cool until it is no longer hot to the touch
+    errors:
+    - description: let the cake be hot
+      tag: Preparation Error
+    modified_description: Do not Allow-Do not Allow to cool
+  - description: remove-then carefully remove the paper liner
+    errors:
+    - description: This step is not performed as liner was not placed in the mug
+      tag: Missing Step
+  - description: Scoop-While the cake is cooling, prepare to pipe the frosting. Scoop
+      4 spoonfuls of chocolate frosting into a zip-top bag
+    errors:
+    - description: dont wait till its cool
+      tag: Temperature Error
+    modified_description: Scoop-While the cake is hot, prepare to pipe the frosting.
+      Scoop 4 spoonfuls of chocolate frosting into a zip-top bag
+  - description: cut-Use scissors to cut one corner from the bag to create a small
+      opening 1/4 inch in diameter
+  - description: Squeeze-Squeeze the frosting through the opening to apply small dollops
+      of frosting to the plate in a circle around the base of the cake
+- activity_id: 26
+  environment: null
+  errors:
+  - description: Allow-Allow to cool until it is no longer hot to the touch
+    tag: Missing Step
+  - description: remove-then carefully remove the paper liner
+    tag: Missing Step
+  id: '26_35'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Measure and add-a pinch of salt to the mixing bowl
+  - description: Measure and add-1.5 tbsp sugar to the mixing bowl
+  - description: Measure and add-1/4 tsp baking powder to the bowl
+  - description: Measure and add-Measure and add 2 tbsp flour to the mixing bowl
+  - description: Whisk-Whisk to combine mixture of flour, sugar and baking powder
+      in the bowl
+  - description: Measure and add-1/4 tsp vanilla extract to the bowl
+  - description: Measure and add-2 tbsp water to the bowl
+  - description: Place-Place the paper cupcake liner inside the mug
+  - description: Measure and add-Measure and add 2 tsp vegetable oil to the bowl
+  - description: Whisk-Whisk batter until no lumps remain
+  - description: Set-Set aside the lined mug
+  - description: Pour-Pour batter into prepared mug
+  - description: Microwave-Microwave the mug and batter on high power for 60 seconds.
+      Check if the cake is done by inserting and toothpick into the center of the
+      cake and then removing it. If wet batter clings to the toothpick, microwave
+      for an additional 5 seconds. If the toothpick comes out clean, continue
+  - description: Invert-Invert the mug to release the cake onto a plate
+  - description: Scoop-While the cake is cooling, prepare to pipe the frosting. Scoop
+      4 spoonfuls of chocolate frosting into a zip-top bag
+  - description: seal-seal zip top bag, removing as much air as possible
+  - description: cut-Use scissors to cut one corner from the bag to create a small
+      opening 1/4 inch in diameter
+  - description: Squeeze-Squeeze the frosting through the opening to apply small dollops
+      of frosting to the plate in a circle around the base of the cake
+- activity_id: 26
+  environment: null
+  errors:
+  - description: Squeeze-Squeeze the frosting through the opening to apply small dollops
+      of frosting to the plate in a circle around the base of the cake
+    tag: Missing Step
+  id: '26_36'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Measure and add-1/4 tsp baking powder to the bowl
+  - description: Measure and add-a pinch of salt to the mixing bowl
+  - description: Measure and add-Measure and add 2 tbsp flour to the mixing bowl
+  - description: Measure and add-1.5 tbsp sugar to the mixing bowl
+  - description: Whisk-Whisk to combine mixture of flour, sugar and baking powder
+      in the bowl
+  - description: Measure and add-Measure and add 2 tsp vegetable oil to the bowl
+  - description: Place-Place the paper cupcake liner inside the mug
+  - description: Measure and add-2 tbsp water to the bowl
+  - description: Measure and add-1/4 tsp vanilla extract to the bowl
+  - description: Set-Set aside the lined mug
+  - description: Whisk-Whisk batter until no lumps remain
+  - description: Pour-Pour batter into prepared mug
+  - description: Microwave-Microwave the mug and batter on high power for 60 seconds.
+      Check if the cake is done by inserting and toothpick into the center of the
+      cake and then removing it. If wet batter clings to the toothpick, microwave
+      for an additional 5 seconds. If the toothpick comes out clean, continue
+  - description: Invert-Invert the mug to release the cake onto a plate
+  - description: Allow-Allow to cool until it is no longer hot to the touch
+  - description: remove-then carefully remove the paper liner
+  - description: Scoop-While the cake is cooling, prepare to pipe the frosting. Scoop
+      4 spoonfuls of chocolate frosting into a zip-top bag
+  - description: seal-seal zip top bag, removing as much air as possible
+  - description: cut-Use scissors to cut one corner from the bag to create a small
+      opening 1/4 inch in diameter
+- activity_id: 26
+  environment: null
+  errors:
+  - description: Measure and add-2 tbsp water to the bowl
+    tag: Missing Step
+  - description: seal-seal zip top bag, removing as much air as possible
+    tag: Missing Step
+  id: '26_37'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Place-Place the paper cupcake liner inside the mug
+  - description: Measure and add-1.5 tbsp sugar to the mixing bowl
+  - description: Measure and add-1/4 tsp baking powder to the bowl
+  - description: Measure and add-a pinch of salt to the mixing bowl
+  - description: Measure and add-Measure and add 2 tbsp flour to the mixing bowl
+  - description: Set-Set aside the lined mug
+  - description: Whisk-Whisk to combine mixture of flour, sugar and baking powder
+      in the bowl
+  - description: Measure and add-Measure and add 2 tsp vegetable oil to the bowl
+  - description: Measure and add-1/4 tsp vanilla extract to the bowl
+  - description: Whisk-Whisk batter until no lumps remain
+  - description: Pour-Pour batter into prepared mug
+  - description: Microwave-Microwave the mug and batter on high power for 60 seconds.
+      Check if the cake is done by inserting and toothpick into the center of the
+      cake and then removing it. If wet batter clings to the toothpick, microwave
+      for an additional 5 seconds. If the toothpick comes out clean, continue
+  - description: Invert-Invert the mug to release the cake onto a plate
+  - description: Allow-Allow to cool until it is no longer hot to the touch
+  - description: remove-then carefully remove the paper liner
+  - description: Scoop-While the cake is cooling, prepare to pipe the frosting. Scoop
+      4 spoonfuls of chocolate frosting into a zip-top bag
+  - description: cut-Use scissors to cut one corner from the bag to create a small
+      opening 1/4 inch in diameter
+  - description: Squeeze-Squeeze the frosting through the opening to apply small dollops
+      of frosting to the plate in a circle around the base of the cake
+- activity_id: 26
+  environment: null
+  errors:
+  - description: Measure and add-Measure and add 2 tbsp flour to the mixing bowl
+    tag: Missing Step
+  - description: Set-Set aside the lined mug
+    tag: Missing Step
+  - description: Measure and add-1/4 tsp baking powder to the bowl
+    tag: Missing Step
+  - description: Measure and add-2 tbsp water to the bowl
+    tag: Missing Step
+  - description: Measure and add-Measure and add 2 tsp vegetable oil to the bowl
+    tag: Missing Step
+  - description: Allow-Allow to cool until it is no longer hot to the touch
+    tag: Missing Step
+  id: '26_38'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Measure and add-a pinch of salt to the mixing bowl
+  - description: Place-Place the paper cupcake liner inside the mug
+  - description: Measure and add-1.5 tbsp sugar to the mixing bowl
+  - description: Whisk-Whisk to combine mixture of flour, sugar and baking powder
+      in the bowl
+  - description: Measure and add-1/4 tsp vanilla extract to the bowl
+  - description: Whisk-Whisk batter until no lumps remain
+  - description: Pour-Pour batter into prepared mug
+  - description: Microwave-Microwave the mug and batter on high power for 60 seconds.
+      Check if the cake is done by inserting and toothpick into the center of the
+      cake and then removing it. If wet batter clings to the toothpick, microwave
+      for an additional 5 seconds. If the toothpick comes out clean, continue
+  - description: Invert-Invert the mug to release the cake onto a plate
+  - description: remove-then carefully remove the paper liner
+  - description: Scoop-While the cake is cooling, prepare to pipe the frosting. Scoop
+      4 spoonfuls of chocolate frosting into a zip-top bag
+  - description: seal-seal zip top bag, removing as much air as possible
+  - description: cut-Use scissors to cut one corner from the bag to create a small
+      opening 1/4 inch in diameter
+  - description: Squeeze-Squeeze the frosting through the opening to apply small dollops
+      of frosting to the plate in a circle around the base of the cake
+- activity_id: 26
+  environment: null
+  errors:
+  - description: Measure and add-2 tbsp water to the bowl
+    tag: Missing Step
+  id: '26_39'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Measure and add-1/4 tsp baking powder to the bowl
+  - description: Measure and add-1.5 tbsp sugar to the mixing bowl
+  - description: Measure and add-Measure and add 2 tbsp flour to the mixing bowl
+  - description: Place-Place the paper cupcake liner inside the mug
+  - description: Measure and add-a pinch of salt to the mixing bowl
+  - description: Whisk-Whisk to combine mixture of flour, sugar and baking powder
+      in the bowl
+  - description: Set-Set aside the lined mug
+  - description: Measure and add-Measure and add 2 tsp vegetable oil to the bowl
+  - description: Measure and add-1/4 tsp vanilla extract to the bowl
+  - description: Whisk-Whisk batter until no lumps remain
+  - description: Pour-Pour batter into prepared mug
+  - description: Microwave-Microwave the mug and batter on high power for 60 seconds.
+      Check if the cake is done by inserting and toothpick into the center of the
+      cake and then removing it. If wet batter clings to the toothpick, microwave
+      for an additional 5 seconds. If the toothpick comes out clean, continue
+  - description: Invert-Invert the mug to release the cake onto a plate
+  - description: Allow-Allow to cool until it is no longer hot to the touch
+  - description: remove-then carefully remove the paper liner
+  - description: Scoop-While the cake is cooling, prepare to pipe the frosting. Scoop
+      4 spoonfuls of chocolate frosting into a zip-top bag
+  - description: seal-seal zip top bag, removing as much air as possible
+  - description: cut-Use scissors to cut one corner from the bag to create a small
+      opening 1/4 inch in diameter
+  - description: Squeeze-Squeeze the frosting through the opening to apply small dollops
+      of frosting to the plate in a circle around the base of the cake
+- activity_id: 26
+  environment: null
+  errors:
+  - description: Measure and add-1.5 tbsp sugar to the mixing bowl
+    tag: Missing Step
+  - description: remove-then carefully remove the paper liner
+    tag: Missing Step
+  id: '26_40'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Measure and add-a pinch of salt to the mixing bowl
+  - description: Measure and add-1/4 tsp baking powder to the bowl
+  - description: Measure and add-Measure and add 2 tbsp flour to the mixing bowl
+  - description: Place-Place the paper cupcake liner inside the mug
+  - description: Whisk-Whisk to combine mixture of flour, sugar and baking powder
+      in the bowl
+  - description: Measure and add-1/4 tsp vanilla extract to the bowl
+  - description: Measure and add-2 tbsp water to the bowl
+  - description: Measure and add-Measure and add 2 tsp vegetable oil to the bowl
+  - description: Set-Set aside the lined mug
+  - description: Whisk-Whisk batter until no lumps remain
+  - description: Pour-Pour batter into prepared mug
+  - description: Microwave-Microwave the mug and batter on high power for 60 seconds.
+      Check if the cake is done by inserting and toothpick into the center of the
+      cake and then removing it. If wet batter clings to the toothpick, microwave
+      for an additional 5 seconds. If the toothpick comes out clean, continue
+  - description: Invert-Invert the mug to release the cake onto a plate
+  - description: Allow-Allow to cool until it is no longer hot to the touch
+  - description: Scoop-While the cake is cooling, prepare to pipe the frosting. Scoop
+      4 spoonfuls of chocolate frosting into a zip-top bag
+  - description: seal-seal zip top bag, removing as much air as possible
+  - description: cut-Use scissors to cut one corner from the bag to create a small
+      opening 1/4 inch in diameter
+  - description: Squeeze-Squeeze the frosting through the opening to apply small dollops
+      of frosting to the plate in a circle around the base of the cake
+- activity_id: 26
+  environment: null
+  errors:
+  - description: Set-Set aside the lined mug
+    tag: Missing Step
+  - description: Measure and add-1/4 tsp vanilla extract to the bowl
+    tag: Missing Step
+  - description: Whisk-Whisk batter until no lumps remain
+    tag: Missing Step
+  id: '26_41'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Measure and add-1/4 tsp baking powder to the bowl
+  - description: Measure and add-1.5 tbsp sugar to the mixing bowl
+  - description: Measure and add-Measure and add 2 tbsp flour to the mixing bowl
+  - description: Place-Place the paper cupcake liner inside the mug
+  - description: Measure and add-a pinch of salt to the mixing bowl
+  - description: Whisk-Whisk to combine mixture of flour, sugar and baking powder
+      in the bowl
+  - description: Measure and add-Measure and add 2 tsp vegetable oil to the bowl
+  - description: Measure and add-2 tbsp water to the bowl
+  - description: Pour-Pour batter into prepared mug
+  - description: Microwave-Microwave the mug and batter on high power for 60 seconds.
+      Check if the cake is done by inserting and toothpick into the center of the
+      cake and then removing it. If wet batter clings to the toothpick, microwave
+      for an additional 5 seconds. If the toothpick comes out clean, continue
+  - description: Invert-Invert the mug to release the cake onto a plate
+  - description: Allow-Allow to cool until it is no longer hot to the touch
+  - description: remove-then carefully remove the paper liner
+  - description: Scoop-While the cake is cooling, prepare to pipe the frosting. Scoop
+      4 spoonfuls of chocolate frosting into a zip-top bag
+  - description: seal-seal zip top bag, removing as much air as possible
+  - description: cut-Use scissors to cut one corner from the bag to create a small
+      opening 1/4 inch in diameter
+  - description: Squeeze-Squeeze the frosting through the opening to apply small dollops
+      of frosting to the plate in a circle around the base of the cake
+- activity_id: 26
+  environment: 1
+  errors:
+  - description: Measure and add-Measure and add 2 tsp vegetable oil to the bowl
+    tag: Missing Step
+  - description: Whisk-Whisk batter until no lumps remain
+    tag: Missing Step
+  - description: Measure and add-1.5 tbsp sugar to the mixing bowl
+    tag: Missing Step
+  - tag: Order Error
+  id: '26_42'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 8
+  steps:
+  - description: Measure and add-a pinch of salt to the mixing bowl
+    errors:
+    - description: Add a teaspoon
+      tag: Measurement Error
+    modified_description: Measure and add-a teaspoon of salt to the mixing bowl
+  - description: Measure and add-Measure and add 2 tbsp flour to the mixing bowl
+  - description: Place-Place the paper cupcake liner inside the mug
+    errors:
+    - description: Spill
+      tag: Preparation Error
+    modified_description: Measure and add-Measure and add 2 tbsp flour to the mixing
+      bowl, but spill
+  - description: Set-Set aside the lined mug
+  - description: Measure and add-1/4 tsp baking powder to the bowl
+  - description: Measure and add-2 tbsp water to the bowl
+    errors:
+    - description: Added more water
+      tag: Measurement Error
+    modified_description: Measure and add-2 tbsp water to the bowl
+  - description: Whisk-Whisk to combine mixture of flour, sugar and baking powder
+      in the bowl
+    errors:
+    - description: Under mixed
+      tag: Technique Error
+    modified_description: Whisk-Whisk to combine mixture of flour, sugar and baking
+      powder in the bowl for only 5 seconds
+  - description: Pour-Pour batter into prepared mug
+  - description: Microwave-Microwave the mug and batter on high power for 60 seconds.
+      Check if the cake is done by inserting and toothpick into the center of the
+      cake and then removing it. If wet batter clings to the toothpick, microwave
+      for an additional 5 seconds. If the toothpick comes out clean, continue
+    errors:
+    - description: Microwave on low
+      tag: Temperature Error
+    - description: Microwaved longer
+      tag: Timing Error
+    modified_description: icrowave-Microwave the mug and batter on low power for 90
+      seconds. Check if the cake is done by inserting and toothpick into the center
+      of the
+  - description: Allow-Allow to cool until it is no longer hot to the touch
+  - description: Measure and add-1/4 tsp vanilla extract to the bowl
+    errors:
+    - description: Added more
+      tag: Measurement Error
+    modified_description: Measure and add-1 tsp vanilla extract to the bowl
+  - description: Invert-Invert the mug to release the cake onto a plate
+  - description: remove-then carefully remove the paper liner
+    errors:
+    - description: Do not remove lining paper
+      tag: Missing Step
+    modified_description: Skip
+  - description: Scoop-While the cake is cooling, prepare to pipe the frosting. Scoop
+      4 spoonfuls of chocolate frosting into a zip-top bag
+  - description: seal-seal zip top bag, removing as much air as possible
+  - description: cut-Use scissors to cut one corner from the bag to create a small
+      opening 1/4 inch in diameter
+    errors:
+    - description: Make a big hole
+      tag: Technique Error
+    modified_description: ut-Use scissors to cut one corner from the bag to create
+      a small opening 2 inches in diameter
+  - description: Squeeze-Squeeze the frosting through the opening to apply small dollops
+      of frosting to the plate in a circle around the base of the cake
+    errors:
+    - description: Placed frosting along one quarter
+      tag: Technique Error
+    modified_description: Squeeze-Squeeze the frosting through the opening to apply
+      small dollops of frosting to the plate in a circle around the base of the cake,
+      only around one sector
+- activity_id: 26
+  environment: null
+  errors:
+  - tag: Order Error
+  id: '26_43'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Measure and add-Measure and add 2 tbsp flour to the mixing bowl
+  - description: Place-Place the paper cupcake liner inside the mug
+  - description: Measure and add-a pinch of salt to the mixing bowl
+  - description: Measure and add-1/4 tsp baking powder to the bowl
+  - description: Set-Set aside the lined mug
+  - description: Whisk-Whisk to combine mixture of flour, sugar and baking powder
+      in the bowl
+  - description: Measure and add-1/4 tsp vanilla extract to the bowl
+  - description: Measure and add-Measure and add 2 tsp vegetable oil to the bowl
+  - description: Whisk-Whisk batter until no lumps remain
+  - description: Measure and add-2 tbsp water to the bowl
+  - description: Measure and add-1.5 tbsp sugar to the mixing bowl
+  - description: Pour-Pour batter into prepared mug
+  - description: Scoop-While the cake is cooling, prepare to pipe the frosting. Scoop
+      4 spoonfuls of chocolate frosting into a zip-top bag
+  - description: seal-seal zip top bag, removing as much air as possible
+  - description: cut-Use scissors to cut one corner from the bag to create a small
+      opening 1/4 inch in diameter
+  - description: Microwave-Microwave the mug and batter on high power for 60 seconds.
+      Check if the cake is done by inserting and toothpick into the center of the
+      cake and then removing it. If wet batter clings to the toothpick, microwave
+      for an additional 5 seconds. If the toothpick comes out clean, continue
+  - description: Allow-Allow to cool until it is no longer hot to the touch
+  - description: Invert-Invert the mug to release the cake onto a plate
+  - description: remove-then carefully remove the paper liner
+  - description: Squeeze-Squeeze the frosting through the opening to apply small dollops
+      of frosting to the plate in a circle around the base of the cake
+- activity_id: 26
+  environment: null
+  errors:
+  - description: Measure and add-1.5 tbsp sugar to the mixing bowl
+    tag: Missing Step
+  - description: Measure and add-a pinch of salt to the mixing bowl
+    tag: Missing Step
+  - description: Measure and add-Measure and add 2 tsp vegetable oil to the bowl
+    tag: Missing Step
+  - description: Scoop-While the cake is cooling, prepare to pipe the frosting. Scoop
+      4 spoonfuls of chocolate frosting into a zip-top bag
+    tag: Missing Step
+  - description: cut-Use scissors to cut one corner from the bag to create a small
+      opening 1/4 inch in diameter
+    tag: Missing Step
+  - description: seal-seal zip top bag, removing as much air as possible
+    tag: Missing Step
+  - tag: Order Error
+  id: '26_44'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Measure and add-1/4 tsp baking powder to the bowl
+  - description: Measure and add-Measure and add 2 tbsp flour to the mixing bowl
+  - description: Place-Place the paper cupcake liner inside the mug
+  - description: Set-Set aside the lined mug
+  - description: Measure and add-2 tbsp water to the bowl
+  - description: Whisk-Whisk to combine mixture of flour, sugar and baking powder
+      in the bowl
+  - description: Measure and add-1/4 tsp vanilla extract to the bowl
+  - description: Whisk-Whisk batter until no lumps remain
+  - description: Pour-Pour batter into prepared mug
+  - description: Microwave-Microwave the mug and batter on high power for 60 seconds.
+      Check if the cake is done by inserting and toothpick into the center of the
+      cake and then removing it. If wet batter clings to the toothpick, microwave
+      for an additional 5 seconds. If the toothpick comes out clean, continue
+  - description: Allow-Allow to cool until it is no longer hot to the touch
+  - description: Invert-Invert the mug to release the cake onto a plate
+  - description: remove-then carefully remove the paper liner
+  - description: Squeeze-Squeeze the frosting through the opening to apply small dollops
+      of frosting to the plate in a circle around the base of the cake
+- activity_id: 26
+  environment: null
+  errors:
+  - description: Place-Place the paper cupcake liner inside the mug
+    tag: Missing Step
+  - description: remove-then carefully remove the paper liner
+    tag: Missing Step
+  - tag: Order Error
+  id: '26_45'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Measure and add-Measure and add 2 tbsp flour to the mixing bowl
+  - description: Measure and add-a pinch of salt to the mixing bowl
+  - description: Measure and add-1/4 tsp vanilla extract to the bowl
+  - description: Scoop-While the cake is cooling, prepare to pipe the frosting. Scoop
+      4 spoonfuls of chocolate frosting into a zip-top bag
+  - description: Whisk-Whisk to combine mixture of flour, sugar and baking powder
+      in the bowl
+  - description: Measure and add-Measure and add 2 tsp vegetable oil to the bowl
+  - description: Measure and add-1.5 tbsp sugar to the mixing bowl
+  - description: Measure and add-2 tbsp water to the bowl
+  - description: Whisk-Whisk batter until no lumps remain
+  - description: Measure and add-1/4 tsp baking powder to the bowl
+  - description: Set-Set aside the lined mug
+  - description: Pour-Pour batter into prepared mug
+  - description: Microwave-Microwave the mug and batter on high power for 60 seconds.
+      Check if the cake is done by inserting and toothpick into the center of the
+      cake and then removing it. If wet batter clings to the toothpick, microwave
+      for an additional 5 seconds. If the toothpick comes out clean, continue
+  - description: Invert-Invert the mug to release the cake onto a plate
+  - description: Allow-Allow to cool until it is no longer hot to the touch
+  - description: seal-seal zip top bag, removing as much air as possible
+  - description: cut-Use scissors to cut one corner from the bag to create a small
+      opening 1/4 inch in diameter
+  - description: Squeeze-Squeeze the frosting through the opening to apply small dollops
+      of frosting to the plate in a circle around the base of the cake
+- activity_id: 26
+  environment: null
+  errors:
+  - description: remove-then carefully remove the paper liner
+    tag: Missing Step
+  - description: Allow-Allow to cool until it is no longer hot to the touch
+    tag: Missing Step
+  - description: seal-seal zip top bag, removing as much air as possible
+    tag: Missing Step
+  - tag: Order Error
+  id: '26_46'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Measure and add-1.5 tbsp sugar to the mixing bowl
+  - description: Measure and add-Measure and add 2 tbsp flour to the mixing bowl
+  - description: Measure and add-1/4 tsp baking powder to the bowl
+  - description: Place-Place the paper cupcake liner inside the mug
+  - description: Measure and add-a pinch of salt to the mixing bowl
+  - description: Whisk-Whisk to combine mixture of flour, sugar and baking powder
+      in the bowl
+  - description: Set-Set aside the lined mug
+  - description: Measure and add-2 tbsp water to the bowl
+  - description: Measure and add-1/4 tsp vanilla extract to the bowl
+  - description: Whisk-Whisk batter until no lumps remain
+  - description: Measure and add-Measure and add 2 tsp vegetable oil to the bowl
+  - description: Pour-Pour batter into prepared mug
+  - description: Microwave-Microwave the mug and batter on high power for 60 seconds.
+      Check if the cake is done by inserting and toothpick into the center of the
+      cake and then removing it. If wet batter clings to the toothpick, microwave
+      for an additional 5 seconds. If the toothpick comes out clean, continue
+  - description: Invert-Invert the mug to release the cake onto a plate
+  - description: Scoop-While the cake is cooling, prepare to pipe the frosting. Scoop
+      4 spoonfuls of chocolate frosting into a zip-top bag
+  - description: cut-Use scissors to cut one corner from the bag to create a small
+      opening 1/4 inch in diameter
+  - description: Squeeze-Squeeze the frosting through the opening to apply small dollops
+      of frosting to the plate in a circle around the base of the cake
+- activity_id: 26
+  environment: null
+  errors:
+  - description: remove-then carefully remove the paper liner
+    tag: Missing Step
+  - tag: Order Error
+  id: '26_47'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Place-Place the paper cupcake liner inside the mug
+  - description: Set-Set aside the lined mug
+  - description: Measure and add-2 tbsp water to the bowl
+  - description: Measure and add-Measure and add 2 tbsp flour to the mixing bowl
+  - description: Whisk-Whisk to combine mixture of flour, sugar and baking powder
+      in the bowl
+  - description: Measure and add-1.5 tbsp sugar to the mixing bowl
+  - description: Measure and add-a pinch of salt to the mixing bowl
+  - description: Measure and add-1/4 tsp baking powder to the bowl
+  - description: Measure and add-Measure and add 2 tsp vegetable oil to the bowl
+  - description: Scoop-While the cake is cooling, prepare to pipe the frosting. Scoop
+      4 spoonfuls of chocolate frosting into a zip-top bag
+  - description: cut-Use scissors to cut one corner from the bag to create a small
+      opening 1/4 inch in diameter
+  - description: Whisk-Whisk batter until no lumps remain
+  - description: Pour-Pour batter into prepared mug
+  - description: Microwave-Microwave the mug and batter on high power for 60 seconds.
+      Check if the cake is done by inserting and toothpick into the center of the
+      cake and then removing it. If wet batter clings to the toothpick, microwave
+      for an additional 5 seconds. If the toothpick comes out clean, continue
+  - description: Invert-Invert the mug to release the cake onto a plate
+  - description: Allow-Allow to cool until it is no longer hot to the touch
+  - description: Measure and add-1/4 tsp vanilla extract to the bowl
+  - description: seal-seal zip top bag, removing as much air as possible
+  - description: Squeeze-Squeeze the frosting through the opening to apply small dollops
+      of frosting to the plate in a circle around the base of the cake
+- activity_id: 26
+  environment: null
+  errors:
+  - description: remove-then carefully remove the paper liner
+    tag: Missing Step
+  - description: Squeeze-Squeeze the frosting through the opening to apply small dollops
+      of frosting to the plate in a circle around the base of the cake
+    tag: Missing Step
+  - tag: Order Error
+  id: '26_48'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Measure and add-a pinch of salt to the mixing bowl
+  - description: Measure and add-1/4 tsp baking powder to the bowl
+  - description: Measure and add-Measure and add 2 tbsp flour to the mixing bowl
+  - description: Place-Place the paper cupcake liner inside the mug
+  - description: Set-Set aside the lined mug
+  - description: Whisk-Whisk to combine mixture of flour, sugar and baking powder
+      in the bowl
+  - description: Measure and add-1.5 tbsp sugar to the mixing bowl
+  - description: Measure and add-1/4 tsp vanilla extract to the bowl
+  - description: Measure and add-Measure and add 2 tsp vegetable oil to the bowl
+  - description: Measure and add-2 tbsp water to the bowl
+  - description: Whisk-Whisk batter until no lumps remain
+  - description: Pour-Pour batter into prepared mug
+  - description: Microwave-Microwave the mug and batter on high power for 60 seconds.
+      Check if the cake is done by inserting and toothpick into the center of the
+      cake and then removing it. If wet batter clings to the toothpick, microwave
+      for an additional 5 seconds. If the toothpick comes out clean, continue
+  - description: Allow-Allow to cool until it is no longer hot to the touch
+  - description: Scoop-While the cake is cooling, prepare to pipe the frosting. Scoop
+      4 spoonfuls of chocolate frosting into a zip-top bag
+  - description: cut-Use scissors to cut one corner from the bag to create a small
+      opening 1/4 inch in diameter
+  - description: Invert-Invert the mug to release the cake onto a plate
+  - description: seal-seal zip top bag, removing as much air as possible
+- activity_id: 26
+  environment: null
+  errors:
+  - description: Measure and add-a pinch of salt to the mixing bowl
+    tag: Missing Step
+  - description: Squeeze-Squeeze the frosting through the opening to apply small dollops
+      of frosting to the plate in a circle around the base of the cake
+    tag: Missing Step
+  - description: Set-Set aside the lined mug
+    tag: Missing Step
+  - description: Allow-Allow to cool until it is no longer hot to the touch
+    tag: Missing Step
+  - tag: Order Error
+  id: '26_49'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Measure and add-1/4 tsp baking powder to the bowl
+  - description: Measure and add-Measure and add 2 tbsp flour to the mixing bowl
+  - description: Place-Place the paper cupcake liner inside the mug
+  - description: Measure and add-1/4 tsp vanilla extract to the bowl
+  - description: Whisk-Whisk to combine mixture of flour, sugar and baking powder
+      in the bowl
+  - description: Measure and add-1.5 tbsp sugar to the mixing bowl
+  - description: Measure and add-2 tbsp water to the bowl
+  - description: Measure and add-Measure and add 2 tsp vegetable oil to the bowl
+  - description: Whisk-Whisk batter until no lumps remain
+  - description: Pour-Pour batter into prepared mug
+  - description: Microwave-Microwave the mug and batter on high power for 60 seconds.
+      Check if the cake is done by inserting and toothpick into the center of the
+      cake and then removing it. If wet batter clings to the toothpick, microwave
+      for an additional 5 seconds. If the toothpick comes out clean, continue
+  - description: Invert-Invert the mug to release the cake onto a plate
+  - description: remove-then carefully remove the paper liner
+  - description: Scoop-While the cake is cooling, prepare to pipe the frosting. Scoop
+      4 spoonfuls of chocolate frosting into a zip-top bag
+  - description: seal-seal zip top bag, removing as much air as possible
+  - description: cut-Use scissors to cut one corner from the bag to create a small
+      opening 1/4 inch in diameter
+- activity_id: 26
+  environment: null
+  errors:
+  - description: Measure and add-Measure and add 2 tsp vegetable oil to the bowl
+    tag: Missing Step
+  - tag: Order Error
+  id: '26_50'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Measure and add-1/4 tsp baking powder to the bowl
+    errors:
+    - description: Added more baking powder
+      tag: Measurement Error
+    modified_description: Measure and add-1 tsp baking powder to the bowl
+  - description: Place-Place the paper cupcake liner inside the mug
+  - description: Measure and add-a pinch of salt to the mixing bowl
+    errors:
+    - description: Forgot to add salt
+      tag: Missing Step
+    modified_description: Skip step
+  - description: Scoop-While the cake is cooling, prepare to pipe the frosting. Scoop
+      4 spoonfuls of chocolate frosting into a zip-top bag
+    errors:
+    - description: Added only 1 spoonful of frosting
+      tag: Measurement Error
+    modified_description: Scoop-While the cake is cooling, prepare to pipe the frosting.
+      Scoop 1 spoonful of chocolate frosting into a zip-top bag
+  - description: Measure and add-Measure and add 2 tbsp flour to the mixing bowl
+    errors:
+    - description: Spill
+      tag: Technique Error
+    modified_description: Measure and add-Measure and add 2 tbsp flour to the mixing
+      bowl, but spill
+  - description: Whisk-Whisk to combine mixture of flour, sugar and baking powder
+      in the bowl
+    errors:
+    - description: Leave half combined
+      tag: Technique Error
+    modified_description: Whisk-Whisk to combine mixture of flour, sugar and baking
+      powder in the bowl, but leave half done
+  - description: Measure and add-2 tbsp water to the bowl
+  - description: Measure and add-1/4 tsp vanilla extract to the bowl
+    errors:
+    - description: added more than required
+      tag: Measurement Error
+    modified_description: Measure and add-2 tsp vanilla extract to the bowl
+  - description: Set-Set aside the lined mug
+  - description: Whisk-Whisk batter until no lumps remain
+  - description: Measure and add-1.5 tbsp sugar to the mixing bowl
+    errors:
+    - description: Added 0.5 tbsp sugar
+      tag: Measurement Error
+    modified_description: Measure and add-.5 tbsp sugar to the mixing bowl
+  - description: Pour-Pour batter into prepared mug
+  - description: Microwave-Microwave the mug and batter on high power for 60 seconds.
+      Check if the cake is done by inserting and toothpick into the center of the
+      cake and then removing it. If wet batter clings to the toothpick, microwave
+      for an additional 5 seconds. If the toothpick comes out clean, continue
+    errors:
+    - description: microwaved for a smaller amount of time
+      tag: Timing Error
+    modified_description: Microwave for 45 seconds, but don't do it again even if
+      the batter clings to the toothpick.
+  - description: Invert-Invert the mug to release the cake onto a plate
+  - description: Allow-Allow to cool until it is no longer hot to the touch
+    modified_description: Skip this step
+  - description: remove-then carefully remove the paper liner
+  - description: seal-seal zip top bag, removing as much air as possible
+  - description: cut-Use scissors to cut one corner from the bag to create a small
+      opening 1/4 inch in diameter
+    errors:
+    - description: Create a 1 inch diameter hole
+      tag: Technique Error
+    modified_description: cut-Use scissors to cut one corner from the bag to create
+      a small opening 1/4 inch in diameter
+  - description: Squeeze-Squeeze the frosting through the opening to apply small dollops
+      of frosting to the plate in a circle around the base of the cake
+    errors:
+    - description: Apply a lot of dollops on only one sector of the cake
+      tag: Measurement Error
+    modified_description: Squeeze-Squeeze the frosting through the opening to apply
+      small dollops of frosting to the plate in around one sector of the base of the
+      cake

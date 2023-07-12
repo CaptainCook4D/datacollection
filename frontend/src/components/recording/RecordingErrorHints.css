@@ -1,0 +1,23 @@
+.recordingErrorHintTable {
+    border-collapse: collapse;
+    width: 100%;
+    font-family: Arial, sans-serif;
+    margin: 20px 0; /* Add margin to the table */
+    color: black; /* Set text color to black */
+}
+
+.recordingErrorHintTable th,
+.recordingErrorHintTable td {
+    border: 1px solid #dddddd;
+    padding: 8px;
+    text-align: left;
+}
+
+.recordingErrorHintTable th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+}
+
+.recordingErrorHintTable tr:nth-child(even) {
+    background-color: #f8f8f8;
+}

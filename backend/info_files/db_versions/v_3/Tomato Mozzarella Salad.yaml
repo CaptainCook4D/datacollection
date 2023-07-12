@@ -1,0 +1,850 @@
+- activity_id: 12
+  environment: 1
+  id: '12_2'
+  is_error: false
+  recorded_by: 4
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 4
+  steps:
+  - description: Rinse-Rinse a tomato
+  - description: dry-gently dry it with a tea towel
+  - description: Slice-Slice one tomato into about 1/2 inch thick slices
+  - description: Place-Place the thick slices of tomatoes on a platter, ensuring they
+      only make a single layer
+  - description: Sprinkle-Sprinkle mozzarella cheese on top of the tomato throughout
+      the platter
+  - description: Season-Season the tomato slices with salt
+  - description: Season-Season platter with 1/4 teaspoon black pepper
+  - description: Garnish-Garnish platter with italian seasoning
+  - description: Add-Add a drizzle of extra-virgin olive oil, about 1 tablespoon,
+      over the entire platter
+- activity_id: 12
+  environment: 5
+  id: '12_5'
+  is_error: false
+  recorded_by: 2
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 2
+  steps:
+  - description: Rinse-Rinse a tomato
+  - description: dry-gently dry it with a tea towel
+  - description: Slice-Slice one tomato into about 1/2 inch thick slices
+  - description: Place-Place the thick slices of tomatoes on a platter, ensuring they
+      only make a single layer
+  - description: Sprinkle-Sprinkle mozzarella cheese on top of the tomato throughout
+      the platter
+  - description: Garnish-Garnish platter with italian seasoning
+  - description: Season-Season platter with 1/4 teaspoon black pepper
+  - description: Season-Season the tomato slices with salt
+  - description: Add-Add a drizzle of extra-virgin olive oil, about 1 tablespoon,
+      over the entire platter
+- activity_id: 12
+  environment: 2
+  id: '12_6'
+  is_error: false
+  recorded_by: 3
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 3
+  steps:
+  - description: Rinse-Rinse a tomato
+  - description: dry-gently dry it with a tea towel
+  - description: Slice-Slice one tomato into about 1/2 inch thick slices
+  - description: Place-Place the thick slices of tomatoes on a platter, ensuring they
+      only make a single layer
+  - description: Sprinkle-Sprinkle mozzarella cheese on top of the tomato throughout
+      the platter
+  - description: Garnish-Garnish platter with italian seasoning
+  - description: Season-Season the tomato slices with salt
+  - description: Season-Season platter with 1/4 teaspoon black pepper
+  - description: Add-Add a drizzle of extra-virgin olive oil, about 1 tablespoon,
+      over the entire platter
+- activity_id: 12
+  environment: 5
+  id: '12_9'
+  is_error: false
+  recorded_by: 3
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 3
+  steps:
+  - description: Rinse-Rinse a tomato
+  - description: dry-gently dry it with a tea towel
+  - description: Slice-Slice one tomato into about 1/2 inch thick slices
+  - description: Place-Place the thick slices of tomatoes on a platter, ensuring they
+      only make a single layer
+  - description: Garnish-Garnish platter with italian seasoning
+  - description: Season-Season the tomato slices with salt
+  - description: Sprinkle-Sprinkle mozzarella cheese on top of the tomato throughout
+      the platter
+  - description: Season-Season platter with 1/4 teaspoon black pepper
+  - description: Add-Add a drizzle of extra-virgin olive oil, about 1 tablespoon,
+      over the entire platter
+- activity_id: 12
+  environment: 2
+  id: '12_10'
+  is_error: false
+  recorded_by: 3
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 3
+  steps:
+  - description: Rinse-Rinse a tomato
+  - description: dry-gently dry it with a tea towel
+  - description: Slice-Slice one tomato into about 1/2 inch thick slices
+  - description: Place-Place the thick slices of tomatoes on a platter, ensuring they
+      only make a single layer
+  - description: Garnish-Garnish platter with italian seasoning
+  - description: Season-Season the tomato slices with salt
+  - description: Season-Season platter with 1/4 teaspoon black pepper
+  - description: Sprinkle-Sprinkle mozzarella cheese on top of the tomato throughout
+      the platter
+  - description: Add-Add a drizzle of extra-virgin olive oil, about 1 tablespoon,
+      over the entire platter
+- activity_id: 12
+  environment: 1
+  id: '12_12'
+  is_error: false
+  recorded_by: 5
+  recording_info:
+    end_time: '"2023-04-11T23:28:22.470937"'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: '"2023-04-11T23:15:05.313797"'
+  selected_by: 5
+  steps:
+  - description: Rinse-Rinse a tomato
+  - description: dry-gently dry it with a tea towel
+  - description: Slice-Slice one tomato into about 1/2 inch thick slices
+  - description: Place-Place the thick slices of tomatoes on a platter, ensuring they
+      only make a single layer
+  - description: Garnish-Garnish platter with italian seasoning
+  - description: Season-Season platter with 1/4 teaspoon black pepper
+  - description: Sprinkle-Sprinkle mozzarella cheese on top of the tomato throughout
+      the platter
+  - description: Season-Season the tomato slices with salt
+  - description: Add-Add a drizzle of extra-virgin olive oil, about 1 tablespoon,
+      over the entire platter
+- activity_id: 12
+  environment: 5
+  id: '12_13'
+  is_error: false
+  recorded_by: 4
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: '"2023-04-30T00:57:55.039033"'
+  selected_by: 4
+  steps:
+  - description: Rinse-Rinse a tomato
+  - description: dry-gently dry it with a tea towel
+  - description: Slice-Slice one tomato into about 1/2 inch thick slices
+  - description: Place-Place the thick slices of tomatoes on a platter, ensuring they
+      only make a single layer
+  - description: Season-Season platter with 1/4 teaspoon black pepper
+  - description: Sprinkle-Sprinkle mozzarella cheese on top of the tomato throughout
+      the platter
+  - description: Season-Season the tomato slices with salt
+  - description: Garnish-Garnish platter with italian seasoning
+  - description: Add-Add a drizzle of extra-virgin olive oil, about 1 tablespoon,
+      over the entire platter
+- activity_id: 12
+  environment: 2
+  id: '12_15'
+  is_error: false
+  recorded_by: 2
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 2
+  steps:
+  - description: Rinse-Rinse a tomato
+  - description: dry-gently dry it with a tea towel
+  - description: Slice-Slice one tomato into about 1/2 inch thick slices
+  - description: Place-Place the thick slices of tomatoes on a platter, ensuring they
+      only make a single layer
+  - description: Season-Season platter with 1/4 teaspoon black pepper
+  - description: Garnish-Garnish platter with italian seasoning
+  - description: Sprinkle-Sprinkle mozzarella cheese on top of the tomato throughout
+      the platter
+  - description: Season-Season the tomato slices with salt
+  - description: Add-Add a drizzle of extra-virgin olive oil, about 1 tablespoon,
+      over the entire platter
+- activity_id: 12
+  environment: 6
+  id: '12_17'
+  is_error: false
+  recorded_by: 2
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 2
+  steps:
+  - description: Rinse-Rinse a tomato
+  - description: dry-gently dry it with a tea towel
+  - description: Slice-Slice one tomato into about 1/2 inch thick slices
+  - description: Place-Place the thick slices of tomatoes on a platter, ensuring they
+      only make a single layer
+  - description: Season-Season platter with 1/4 teaspoon black pepper
+  - description: Season-Season the tomato slices with salt
+  - description: Garnish-Garnish platter with italian seasoning
+  - description: Sprinkle-Sprinkle mozzarella cheese on top of the tomato throughout
+      the platter
+  - description: Add-Add a drizzle of extra-virgin olive oil, about 1 tablespoon,
+      over the entire platter
+- activity_id: 12
+  environment: 6
+  id: '12_19'
+  is_error: false
+  recorded_by: 3
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: '"2023-05-09T18:48:01.556553"'
+  selected_by: 3
+  steps:
+  - description: Rinse-Rinse a tomato
+  - description: dry-gently dry it with a tea towel
+  - description: Slice-Slice one tomato into about 1/2 inch thick slices
+  - description: Place-Place the thick slices of tomatoes on a platter, ensuring they
+      only make a single layer
+  - description: Season-Season the tomato slices with salt
+  - description: Garnish-Garnish platter with italian seasoning
+  - description: Sprinkle-Sprinkle mozzarella cheese on top of the tomato throughout
+      the platter
+  - description: Season-Season platter with 1/4 teaspoon black pepper
+  - description: Add-Add a drizzle of extra-virgin olive oil, about 1 tablespoon,
+      over the entire platter
+- activity_id: 12
+  environment: 1
+  errors:
+  - description: Add-Add a drizzle of extra-virgin olive oil, about 1 tablespoon,
+      over the entire platter
+    tag: Missing Step
+  id: '12_26'
+  is_error: true
+  recorded_by: 2
+  recording_info:
+    end_time: '"2023-04-12T16:19:02.537803"'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: '"2023-04-12T16:10:59.799071"'
+  selected_by: 2
+  steps:
+  - description: Rinse-Rinse a tomato
+  - description: dry-gently dry it with a tea towel
+    errors:
+    - description: 'Not drying it completely '
+      tag: Technique Error
+    modified_description: dry-gently dry half tomato with a tea towel
+  - description: Slice-Slice one tomato into about 1/2 inch thick slices
+    errors:
+    - description: Chop instead of slice
+      tag: Preparation Error
+    modified_description: ' Chop-Chop one tomato into pieces'
+  - description: Place-Place the thick slices of tomatoes on a platter, ensuring they
+      only make a single layer
+    errors:
+    - description: Tomatoes are not placed in a single layer
+      tag: Technique Error
+    modified_description: Place-Place the thick slices of tomatoes on a platter, not
+      making a single layer.
+  - description: Sprinkle-Sprinkle mozzarella cheese on top of the tomato throughout
+      the platter
+  - description: Season-Season the tomato slices with salt
+  - description: Garnish-Garnish platter with italian seasoning
+  - description: Season-Season platter with 1/4 teaspoon black pepper
+    errors:
+    - description: Add 1/8 teaspoon rather than 1/4 teaspoon
+      tag: Measurement Error
+    - description: 'null'
+      tag: Temperature Error
+    - description: 'null'
+      tag: Timing Error
+    modified_description: Season-Season platter with 1/8 teaspoon black pepper
+- activity_id: 12
+  environment: 5
+  errors:
+  - tag: Order Error
+  id: '12_38'
+  is_error: true
+  recorded_by: 5
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: '"2023-05-04T00:26:40.628142"'
+  selected_by: 5
+  steps:
+  - description: Rinse-Rinse a tomato
+    errors:
+    - description: NOT Rinse-Do not Rinse 2 cherry tomato
+      tag: Preparation Error
+    - description: NOT Rinse-Do not Rinse 2 cherry tomato
+      tag: Technique Error
+    modified_description: NOT Rinse-Do not Rinse 2 cherry tomato
+  - description: dry-gently dry it with a tea towel
+    errors:
+    - description: wet it with a tea towel
+      tag: Technique Error
+    modified_description: wet it with a tea towel
+  - description: Slice-Slice one tomato into about 1/2 inch thick slices
+    errors:
+    - description: Slice-Slice one tomato into about 1 inch thick slices
+      tag: Measurement Error
+    modified_description: Slice-Slice one tomato into about 1 inch thick slices
+  - description: Place-Place the thick slices of tomatoes on a platter, ensuring they
+      only make a single layer
+    errors:
+    - description: Place-Place the thick slices of tomatoes on a platter, making a
+        double layer of tomatoes
+      tag: Technique Error
+    modified_description: Place-Place the thick slices of tomatoes on a platter, making
+      a double layer of tomatoes
+  - description: Season-Season the tomato slices with salt
+    errors:
+    - description: Season-Season the tomato slices with sugar
+      tag: Preparation Error
+    modified_description: Season-Season the tomato slices with sugar
+  - description: Season-Season platter with 1/4 teaspoon black pepper
+    errors:
+    - description: Season-Season platter with 1/2 teaspoon black pepper
+      tag: Measurement Error
+    modified_description: Season-Season platter with 1/2 teaspoon black pepper
+  - description: Sprinkle-Sprinkle mozzarella cheese on top of the tomato throughout
+      the platter
+    errors:
+    - description: Sprinkle-Sprinkle cheddar cheese on boundary of the plater.
+      tag: Technique Error
+    - description: Sprinkle-Sprinkle cheddar cheese on boundary of the plater.
+      tag: Preparation Error
+    modified_description: Sprinkle-Sprinkle cheddar cheese on boundary of the plater.
+  - description: Garnish-Garnish platter with italian seasoning
+    errors:
+    - description: 'NULL'
+      tag: Timing Error
+    - description: 'NULL'
+      tag: Temperature Error
+    modified_description: Garnish-Garnish platter with italian seasoning
+  - description: Add-Add a drizzle of extra-virgin olive oil, about 1 tablespoon,
+      over the entire platter
+    errors:
+    - description: Add-Add a drizzle of extra-virgin vegetable oil, about 2 teaspoon,
+        over the entire platter
+      tag: Measurement Error
+    - description: Add-Add a drizzle of extra-virgin vegetable oil, about 2 teaspoon,
+        over the entire platter
+      tag: Preparation Error
+    modified_description: Add-Add a drizzle of extra-virgin vegetable oil, about 2
+      teaspoon, over the entire platter
+- activity_id: 12
+  environment: 7
+  errors:
+  - tag: Order Error
+  id: '12_41'
+  is_error: true
+  recorded_by: 5
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: '"2023-05-13T20:32:26.756001"'
+  selected_by: 5
+  steps:
+  - description: Rinse-Rinse a tomato
+    errors:
+    - description: Rinse-Rinse a tomato. Before taking the tomato from fridge spilled
+        other tomato on ground
+      tag: Preparation Error
+    modified_description: Rinse-Rinse a tomato after spilling tomato on ground.
+  - description: dry-gently dry it with a tea towel
+  - description: Slice-Slice one tomato into about 1/2 inch thick slices
+    errors:
+    - description: Cut tomatoes vertical in uneven direction. Slice action is forced
+        and not seamless. Mess of tomato is made.
+      tag: Technique Error
+    modified_description: Slice-Slice one tomato into about 1/2 inch thick slices.
+      slice not done properly.
+  - description: Season-Season platter with 1/4 teaspoon black pepper
+    errors:
+    - description: Took transparent glass cover of platter instead of platter itself
+        and sprinkled black pepper with spillage.
+      tag: Preparation Error
+    - description: Took transparent glass cover of platter instead of platter itself
+        and sprinkled black pepper with spillage.
+      tag: Technique Error
+    modified_description: Season-Season glass cover of platter with 1/4 teaspoon black
+      pepper
+  - description: Sprinkle-Sprinkle mozzarella cheese on top of the tomato throughout
+      the platter
+    errors:
+    - description: Sprinkle-Sprinkle cheddar cheese on top of the tomato throughout
+        the platter with spillage.
+      tag: Preparation Error
+    - description: Sprinkle-Sprinkle cheddar cheese on top of the tomato throughout
+        the platter with spillage.
+      tag: Technique Error
+    modified_description: Sprinkle-Sprinkle cheddar cheese on top of the tomato throughout
+      the platter with spillage.
+  - description: Season-Season the tomato slices with salt
+    errors:
+    - description: Season-Season the tomato slices with powdered sugar. Also seasoning
+        done from huge height.
+      tag: Preparation Error
+    modified_description: Season-Season the tomato slices with powdered sugar
+  - description: Garnish-Garnish platter with italian seasoning
+    errors:
+    - description: Garnish-Garnish glass cover of platter with italian seasoning  with
+        spilling
+      tag: Technique Error
+    - description: Garnish-Garnish glass cover of platter with italian seasoning with
+        spilling
+      tag: Preparation Error
+    modified_description: Garnish-Garnish glass cover of platter with italian seasoning
+  - description: Place-Place the thick slices of tomatoes on a platter, ensuring they
+      only make a single layer
+    errors:
+    - description: Place-Place the thick slices of tomatoes on a platter in no order
+        as such. Haphazard way of just throwing on glass cover.
+      tag: Technique Error
+    modified_description: Place-Place the thick slices of tomatoes on a glass cover
+      of platter in no order as such.
+  - description: Add-Add a drizzle of extra-virgin olive oil, about 1 tablespoon,
+      over the entire platter
+    errors:
+    - description: Add-Add a drizzle of apple cider vinegar, about 1 tablespoon, over
+        the entire glass cover of platter
+      tag: Preparation Error
+    modified_description: Add-Add a drizzle of apple cider vinegar, about 1 tablespoon,
+      over the entire glass cover of platter
+- activity_id: 12
+  environment: 5
+  errors:
+  - description: Garnish-Garnish platter with italian seasoning
+    tag: Missing Step
+  - description: Season-Season the tomato slices with salt
+    tag: Missing Step
+  - description: Sprinkle-Sprinkle mozzarella cheese on top of the tomato throughout
+      the platter
+    tag: Missing Step
+  - description: Add-Add a drizzle of extra-virgin olive oil, about 1 tablespoon,
+      over the entire platter
+    tag: Missing Step
+  - tag: Order Error
+  id: '12_43'
+  is_error: true
+  recorded_by: 8
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 8
+  steps:
+  - description: Rinse-Rinse a tomato
+    errors:
+    - description: Rinse for too short
+      tag: Timing Error
+    - description: Rinse with hot water
+      tag: Temperature Error
+    modified_description: Rinse a tomato for 1 second with hot water
+  - description: dry-gently dry it with a tea towel
+    errors:
+    - description: Use a paper towel instead
+      tag: Preparation Error
+    modified_description: dry-gently dry it with a paper towel
+  - description: Slice-Slice one tomato into about 1/2 inch thick slices
+    errors:
+    - description: Cut tomato instead of slicing
+      tag: Technique Error
+    - description: Cut into big slices
+      tag: Measurement Error
+    modified_description: Slice-Cut one tomato into about 1 inch thick cubes
+  - description: Place-Place the thick slices of tomatoes on a platter, ensuring they
+      only make a single layer
+    errors:
+    - description: Spill
+      tag: Technique Error
+    modified_description: Place the thick slices of tomatoes on a platter, ensuring
+      they only make a single layer, but spill
+  - description: Season-Season platter with 1/4 teaspoon black pepper
+- activity_id: 12
+  environment: 2
+  errors:
+  - tag: Order Error
+  id: '12_48'
+  is_error: true
+  recorded_by: 8
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: '"2023-04-26T15:41:52.898330"'
+  selected_by: 8
+  steps:
+  - description: Rinse-Rinse a tomato
+    errors:
+    - description: Rinsed for less time than specified
+      tag: Timing Error
+    modified_description: Rinse-Rinse a tomato for 1 second
+  - description: dry-gently dry it with a tea towel
+  - description: Slice-Slice one tomato into about 1/2 inch thick slices
+    errors:
+    - description: Cut instead of slice
+      tag: Technique Error
+    modified_description: Slice-Cut one tomato into about 1/2 inch thick slices
+  - description: Place-Place the thick slices of tomatoes on a platter, ensuring they
+      only make a single layer
+    errors:
+    - description: Instead of a single layer, pile up the cut tomatoes
+      tag: Preparation Error
+    modified_description: Place-Place the thick slices of tomatoes on a platter, ensuring
+      they are piled up over each other
+  - description: Season-Season the tomato slices with salt
+  - description: Garnish-Garnish platter with italian seasoning
+  - description: Season-Season platter with 1/4 teaspoon black pepper
+    errors:
+    - description: Added more black pepper
+      tag: Measurement Error
+    modified_description: Season-Season platter with 1 teaspoon black pepper
+  - description: Sprinkle-Sprinkle mozzarella cheese on top of the tomato throughout
+      the platter
+  - description: Add-Add a drizzle of extra-virgin olive oil, about 1 tablespoon,
+      over the entire platter
+    errors:
+    - description: Used hot olive oil
+      tag: Temperature Error
+    - description: Used sesame oil
+      tag: Preparation Error
+    - description: Added one extra spoon of sesame oil
+      tag: Measurement Error
+    modified_description: Add a drizzle of sesame oil, about 1 tablespoon, over the
+      entire platter, and 1 more tablespoon after heating it in a pan
+- activity_id: 12
+  environment: 7
+  errors:
+  - tag: Order Error
+  id: '12_51'
+  is_error: true
+  recorded_by: 8
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: '"2023-05-14T00:22:31.101470"'
+  selected_by: 8
+  steps:
+  - description: Rinse-Rinse a tomato
+  - description: dry-gently dry it with a tea towel
+  - description: Slice-Slice one tomato into about 1/2 inch thick slices
+  - description: Place-Place the thick slices of tomatoes on a platter, ensuring they
+      only make a single layer
+  - description: Season-Season platter with 1/4 teaspoon black pepper
+    errors:
+    - description: Spilled the whole bottle
+      tag: Technique Error
+    - description: Used hands
+      tag: Technique Error
+    modified_description: eason-Season platter with 1/4 teaspoon black pepper, spilling
+      the whole bottle, mix with hands
+  - description: Garnish-Garnish platter with italian seasoning
+  - description: Season-Season the tomato slices with salt
+  - description: Sprinkle-Sprinkle mozzarella cheese on top of the tomato throughout
+      the platter
+    errors:
+    - description: Spill
+      tag: Technique Error
+    modified_description: ' Sprinkle-Sprinkle mozzarella cheese on top of the tomato
+      throughout the platter, spill'
+  - description: Add-Add a drizzle of extra-virgin olive oil, about 1 tablespoon,
+      over the entire platter
+    errors:
+    - description: Spill
+      tag: Technique Error
+    modified_description: Add-Add a drizzle of extra-virgin olive oil, about 1 tablespoon,
+      over the entire platter, spilling it
+- activity_id: 12
+  environment: 11
+  id: '12_119'
+  is_error: false
+  recorded_by: 5
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: '"2023-05-09T18:48:01.556553"'
+  selected_by: 5
+  steps:
+  - description: Rinse-Rinse a tomato
+  - description: dry-gently dry it with a tea towel
+  - description: Slice-Slice one tomato into about 1/2 inch thick slices
+  - description: Place-Place the thick slices of tomatoes on a platter, ensuring they
+      only make a single layer
+  - description: Season-Season the tomato slices with salt
+  - description: Garnish-Garnish platter with italian seasoning
+  - description: Sprinkle-Sprinkle mozzarella cheese on top of the tomato throughout
+      the platter
+  - description: Season-Season platter with 1/4 teaspoon black pepper
+  - description: Add-Add a drizzle of extra-virgin olive oil, about 1 tablespoon,
+      over the entire platter

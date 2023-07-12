@@ -1,0 +1,92 @@
+/* RecordingStepPreparation.css */
+
+.recStepPrepContainer {
+    display: flex;
+    width: 100%;
+}
+
+.recStepPrepErrorListContainer {
+    flex: 30%;
+    padding: 1rem;
+    border-right: 1px solid #ccc;
+}
+
+.recStepPrepUpdateErrorContainer {
+    flex: 70%;
+    padding: 1rem;
+}
+
+.recStepPrepError {
+    display: flex;
+    justify-content: space-between;
+    padding: 0.5rem;
+    border-bottom: 1px solid #ccc;
+}
+
+.recStepPrepErrorTag,
+.recStepPrepErrorDescription {
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+.errorTagBox {
+    display: inline-flex;
+    align-items: center;
+    margin: 0 1rem 1rem 0;
+    padding: 0.5rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    cursor: pointer;
+    background-color: #f9f9f9;
+    transition: background-color 0.2s;
+}
+
+.errorTagCheckbox {
+    margin-right: 5px;
+}
+
+.errorTagLabel {
+    font-size: 14px;
+    margin-left: 0.5rem;
+}
+
+.errorTagBox:hover {
+    background-color: #e6e6e6;
+}
+
+.recStepPrepOriginalText,
+.recStepPrepErrorDescriptionText,
+.recStepPrepUpdateStepDescriptionText {
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+}
+
+.recStepPrepInputText {
+    margin-bottom: 1rem;
+}
+
+.inputTextField {
+    width: 100%;
+    padding: 0.5rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px;
+}
+
+.recStepPrepUpdateButton {
+    background-color: #007bff;
+    border: none;
+    color: white;
+    padding: 0.5rem 1rem;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 0.5rem 0;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+.recStepPrepUpdateButton:hover {
+    background-color: #0056b3;
+}

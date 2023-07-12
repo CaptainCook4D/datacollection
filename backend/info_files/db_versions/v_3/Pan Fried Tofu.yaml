@@ -1,0 +1,852 @@
+- activity_id: 25
+  environment: 6
+  id: '25_1'
+  is_error: false
+  recorded_by: 4
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 4
+  steps:
+  - description: Cut-Cut 1/4 block or 3 ounces of fresh tofu into large cubes (about
+      1 in x 1 in)
+  - description: pat-pat tofu dry with a towel
+  - description: Add-Add 1 tablespoon of olive oil to a non-stick pan
+  - description: add-add the tofu cubes to the pan
+  - description: add-add 1/4 tsp salt to the pan
+  - description: Turn-Turn on the heat to medium
+  - description: Cook-Cook 5 to 6 minutes until tofu cubes are lightly browned on
+      the bottom
+  - description: remove-Briefly remove the pan from the heat to reduce spitting
+  - description: Flip-Flip the tofu with tongs
+  - description: Return-Return the heat to medium
+  - description: cook-cook until tofu turns brown
+  - description: remove-Briefly remove from the heat again
+  - description: drizzle-drizzle 1 tablespoon soy sauce (watch for spitting) on the
+      pan
+  - description: drizzle-drizzle with the 1 tablespoons sesame oil on the pan
+  - description: Return-Return to low heat
+  - description: cook-cook pan for 2 minutes
+  - description: flip-flip tofu on the pan
+  - description: cook-cook pan for 2 minutes until the colour is darkened
+  - description: Transfer-Transfer to a serving dish
+- activity_id: 25
+  environment: 2
+  id: '25_2'
+  is_error: false
+  recorded_by: 1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: '"2023-04-28T16:02:12.466816"'
+  selected_by: 1
+  steps:
+  - description: Cut-Cut 1/4 block or 3 ounces of fresh tofu into large cubes (about
+      1 in x 1 in)
+  - description: pat-pat tofu dry with a towel
+  - description: Add-Add 1 tablespoon of olive oil to a non-stick pan
+  - description: add-add the tofu cubes to the pan
+  - description: add-add 1/4 tsp salt to the pan
+  - description: Turn-Turn on the heat to medium
+  - description: Cook-Cook 5 to 6 minutes until tofu cubes are lightly browned on
+      the bottom
+  - description: remove-Briefly remove the pan from the heat to reduce spitting
+  - description: Flip-Flip the tofu with tongs
+  - description: Return-Return the heat to medium
+  - description: cook-cook until tofu turns brown
+  - description: remove-Briefly remove from the heat again
+  - description: drizzle-drizzle 1 tablespoon soy sauce (watch for spitting) on the
+      pan
+  - description: drizzle-drizzle with the 1 tablespoons sesame oil on the pan
+  - description: Return-Return to low heat
+  - description: cook-cook pan for 2 minutes
+  - description: flip-flip tofu on the pan
+  - description: cook-cook pan for 2 minutes until the colour is darkened
+  - description: Transfer-Transfer to a serving dish
+- activity_id: 25
+  environment: 1
+  id: '25_3'
+  is_error: false
+  recorded_by: 8
+  recording_info:
+    end_time: '"2023-04-16T23:27:54.230128"'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: '"2023-04-16T22:56:12.265240"'
+  selected_by: 8
+  steps:
+  - description: Cut-Cut 1/4 block or 3 ounces of fresh tofu into large cubes (about
+      1 in x 1 in)
+  - description: pat-pat tofu dry with a towel
+  - description: Turn-Turn on the heat to medium
+  - description: add-add 1/4 tsp salt to the pan
+  - description: Add-Add 1 tablespoon of olive oil to a non-stick pan
+  - description: add-add the tofu cubes to the pan
+  - description: Cook-Cook 5 to 6 minutes until tofu cubes are lightly browned on
+      the bottom
+  - description: remove-Briefly remove the pan from the heat to reduce spitting
+  - description: Flip-Flip the tofu with tongs
+  - description: Return-Return the heat to medium
+  - description: cook-cook until tofu turns brown
+  - description: remove-Briefly remove from the heat again
+  - description: drizzle-drizzle with the 1 tablespoons sesame oil on the pan
+  - description: drizzle-drizzle 1 tablespoon soy sauce (watch for spitting) on the
+      pan
+  - description: Return-Return to low heat
+  - description: cook-cook pan for 2 minutes
+  - description: flip-flip tofu on the pan
+  - description: cook-cook pan for 2 minutes until the colour is darkened
+  - description: Transfer-Transfer to a serving dish
+- activity_id: 25
+  environment: 6
+  id: '25_4'
+  is_error: true
+  recorded_by: 8
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 8
+  steps:
+  - description: Cut-Cut 1/4 block or 3 ounces of fresh tofu into large cubes (about
+      1 in x 1 in)
+    errors:
+    - description: Tofucrumbled instead of staying in cubes
+      tag: Technique Error
+    modified_description: Cut-Cut 1/4 block or 3 ounces of fresh tofu into large cubes
+      (about 1 in x 1 in) but crumble it
+  - description: pat-pat tofu dry with a towel
+  - description: Add-Add 1 tablespoon of olive oil to a non-stick pan
+  - description: add-add the tofu cubes to the pan
+  - description: add-add 1/4 tsp salt to the pan
+  - description: Turn-Turn on the heat to medium
+  - description: Cook-Cook 5 to 6 minutes until tofu cubes are lightly browned on
+      the bottom
+  - description: remove-Briefly remove the pan from the heat to reduce spitting
+    errors:
+    - description: Did this after next step
+      tag: Order Error
+    modified_description: remove-Briefly remove the pan from the heat to reduce spitting
+  - description: Flip-Flip the tofu with tongs
+    errors:
+    - description: Performed before previous step
+      tag: Order Error
+    modified_description: Flip-Flip the tofu with tongs
+  - description: Return-Return the heat to medium
+  - description: cook-cook until tofu turns brown
+  - description: remove-Briefly remove from the heat again
+  - description: drizzle-drizzle 1 tablespoon soy sauce (watch for spitting) on the
+      pan
+  - description: drizzle-drizzle with the 1 tablespoons sesame oil on the pan
+  - description: Return-Return to low heat
+  - description: cook-cook pan for 2 minutes
+  - description: flip-flip tofu on the pan
+  - description: cook-cook pan for 2 minutes until the colour is darkened
+  - description: Transfer-Transfer to a serving dish
+- activity_id: 25
+  environment: 7
+  id: '25_5'
+  is_error: false
+  recorded_by: 4
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 4
+  steps:
+  - description: Cut-Cut 1/4 block or 3 ounces of fresh tofu into large cubes (about
+      1 in x 1 in)
+  - description: pat-pat tofu dry with a towel
+  - description: Add-Add 1 tablespoon of olive oil to a non-stick pan
+  - description: add-add the tofu cubes to the pan
+  - description: add-add 1/4 tsp salt to the pan
+  - description: Turn-Turn on the heat to medium
+  - description: Cook-Cook 5 to 6 minutes until tofu cubes are lightly browned on
+      the bottom
+  - description: remove-Briefly remove the pan from the heat to reduce spitting
+  - description: Flip-Flip the tofu with tongs
+  - description: Return-Return the heat to medium
+  - description: cook-cook until tofu turns brown
+  - description: remove-Briefly remove from the heat again
+  - description: drizzle-drizzle 1 tablespoon soy sauce (watch for spitting) on the
+      pan
+  - description: drizzle-drizzle with the 1 tablespoons sesame oil on the pan
+  - description: Return-Return to low heat
+  - description: cook-cook pan for 2 minutes
+  - description: flip-flip tofu on the pan
+  - description: cook-cook pan for 2 minutes until the colour is darkened
+  - description: Transfer-Transfer to a serving dish
+- activity_id: 25
+  environment: 5
+  id: '25_6'
+  is_error: false
+  recorded_by: 1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 1
+  steps:
+  - description: Cut-Cut 1/4 block or 3 ounces of fresh tofu into large cubes (about
+      1 in x 1 in)
+  - description: pat-pat tofu dry with a towel
+  - description: Add-Add 1 tablespoon of olive oil to a non-stick pan
+  - description: add-add the tofu cubes to the pan
+  - description: add-add 1/4 tsp salt to the pan
+  - description: Turn-Turn on the heat to medium
+  - description: Cook-Cook 5 to 6 minutes until tofu cubes are lightly browned on
+      the bottom
+  - description: remove-Briefly remove the pan from the heat to reduce spitting
+  - description: Flip-Flip the tofu with tongs
+  - description: Return-Return the heat to medium
+  - description: cook-cook until tofu turns brown
+  - description: remove-Briefly remove from the heat again
+  - description: drizzle-drizzle 1 tablespoon soy sauce (watch for spitting) on the
+      pan
+  - description: drizzle-drizzle with the 1 tablespoons sesame oil on the pan
+  - description: Return-Return to low heat
+  - description: cook-cook pan for 2 minutes
+  - description: flip-flip tofu on the pan
+  - description: cook-cook pan for 2 minutes until the colour is darkened
+  - description: Transfer-Transfer to a serving dish
+- activity_id: 25
+  environment: 6
+  id: '25_9'
+  is_error: false
+  recorded_by: 2
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: '"2023-05-12T16:34:36.552356"'
+  selected_by: 2
+  steps:
+  - description: Cut-Cut 1/4 block or 3 ounces of fresh tofu into large cubes (about
+      1 in x 1 in)
+  - description: pat-pat tofu dry with a towel
+  - description: Add-Add 1 tablespoon of olive oil to a non-stick pan
+  - description: add-add the tofu cubes to the pan
+  - description: add-add 1/4 tsp salt to the pan
+  - description: Turn-Turn on the heat to medium
+  - description: Cook-Cook 5 to 6 minutes until tofu cubes are lightly browned on
+      the bottom
+  - description: remove-Briefly remove the pan from the heat to reduce spitting
+  - description: Flip-Flip the tofu with tongs
+  - description: Return-Return the heat to medium
+  - description: cook-cook until tofu turns brown
+  - description: remove-Briefly remove from the heat again
+  - description: drizzle-drizzle 1 tablespoon soy sauce (watch for spitting) on the
+      pan
+  - description: drizzle-drizzle with the 1 tablespoons sesame oil on the pan
+  - description: Return-Return to low heat
+  - description: cook-cook pan for 2 minutes
+  - description: flip-flip tofu on the pan
+  - description: cook-cook pan for 2 minutes until the colour is darkened
+  - description: Transfer-Transfer to a serving dish
+- activity_id: 25
+  environment: 2
+  id: '25_11'
+  is_error: true
+  recorded_by: 4
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 4
+  steps:
+  - description: Cut-Cut 1/4 block or 3 ounces of fresh tofu into large cubes (about
+      1 in x 1 in)
+  - description: pat-pat tofu dry with a towel
+  - description: Add-Add 1 tablespoon of olive oil to a non-stick pan
+  - description: add-add the tofu cubes to the pan
+  - description: add-add 1/4 tsp salt to the pan
+  - description: Turn-Turn on the heat to medium
+  - description: Cook-Cook 5 to 6 minutes until tofu cubes are lightly browned on
+      the bottom
+  - description: remove-Briefly remove the pan from the heat to reduce spitting
+  - description: Flip-Flip the tofu with tongs
+  - description: Return-Return the heat to medium
+  - description: cook-cook until tofu turns brown
+    errors:
+    - description: Spilled one out while checking if it's browned
+      tag: Technique Error
+    modified_description: cook-cook until tofu turns brown and spilled one out while
+      checking if it's brown
+  - description: remove-Briefly remove from the heat again
+  - description: drizzle-drizzle with the 1 tablespoons sesame oil on the pan
+  - description: drizzle-drizzle 1 tablespoon soy sauce (watch for spitting) on the
+      pan
+  - description: Return-Return to low heat
+  - description: cook-cook pan for 2 minutes
+  - description: flip-flip tofu on the pan
+  - description: cook-cook pan for 2 minutes until the colour is darkened
+  - description: Transfer-Transfer to a serving dish
+- activity_id: 25
+  environment: 1
+  id: '25_13'
+  is_error: false
+  recorded_by: 1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 1
+  steps:
+  - description: Add-Add 1 tablespoon of olive oil to a non-stick pan
+  - description: add-add 1/4 tsp salt to the pan
+  - description: Turn-Turn on the heat to medium
+  - description: Cut-Cut 1/4 block or 3 ounces of fresh tofu into large cubes (about
+      1 in x 1 in)
+  - description: pat-pat tofu dry with a towel
+  - description: add-add the tofu cubes to the pan
+  - description: Cook-Cook 5 to 6 minutes until tofu cubes are lightly browned on
+      the bottom
+  - description: remove-Briefly remove the pan from the heat to reduce spitting
+  - description: Flip-Flip the tofu with tongs
+  - description: Return-Return the heat to medium
+  - description: cook-cook until tofu turns brown
+  - description: remove-Briefly remove from the heat again
+  - description: drizzle-drizzle with the 1 tablespoons sesame oil on the pan
+  - description: drizzle-drizzle 1 tablespoon soy sauce (watch for spitting) on the
+      pan
+  - description: Return-Return to low heat
+  - description: cook-cook pan for 2 minutes
+  - description: flip-flip tofu on the pan
+  - description: cook-cook pan for 2 minutes until the colour is darkened
+  - description: Transfer-Transfer to a serving dish
+- activity_id: 25
+  environment: 5
+  id: '25_22'
+  is_error: true
+  recorded_by: 4
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: '"2023-05-01T16:39:28.338518"'
+  selected_by: 4
+  steps:
+  - description: Cut-Cut 1/4 block or 3 ounces of fresh tofu into large cubes (about
+      1 in x 1 in)
+  - description: pat-pat tofu dry with a towel
+  - description: Add-Add 1 tablespoon of olive oil to a non-stick pan
+  - description: add-add the tofu cubes to the pan
+  - description: add-add 1/4 tsp salt to the pan
+  - description: Turn-Turn on the heat to medium
+  - description: Cook-Cook 5 to 6 minutes until tofu cubes are lightly browned on
+      the bottom
+  - description: remove-Briefly remove the pan from the heat to reduce spitting
+    errors:
+    - description: This step is performed after flipping the tofu
+      tag: Order Error
+    modified_description: remove-Briefly remove the pan from the heat to reduce spitting
+  - description: Flip-Flip the tofu with tongs
+    errors:
+    - description: This step is performed before removing the pan from heat
+      tag: Order Error
+    modified_description: Flip-Flip the tofu with tongs
+  - description: Return-Return the heat to medium
+  - description: cook-cook until tofu turns brown
+  - description: remove-Briefly remove from the heat again
+  - description: drizzle-drizzle with the 1 tablespoons sesame oil on the pan
+  - description: drizzle-drizzle 1 tablespoon soy sauce (watch for spitting) on the
+      pan
+  - description: Return-Return to low heat
+  - description: cook-cook pan for 2 minutes
+  - description: flip-flip tofu on the pan
+  - description: cook-cook pan for 2 minutes until the colour is darkened
+  - description: Transfer-Transfer to a serving dish
+- activity_id: 25
+  environment: 2
+  errors:
+  - description: Turn-Turn on the heat to medium
+    tag: Missing Step
+  id: '25_40'
+  is_error: true
+  recorded_by: 2
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 2
+  steps:
+  - description: Cut-Cut 1/4 block or 3 ounces of fresh tofu into large cubes (about
+      1 in x 1 in)
+    errors:
+    - description: Cut into small cubes rather than big cubes
+      tag: Preparation Error
+    modified_description: Cut-Cut 1/4 block or 3 ounces of fresh tofu into small cubes
+      (about 1 in x 1 in)
+  - description: add-add 1/4 tsp salt to the pan
+    errors:
+    - description: Use a tbsp instead of a tsp
+      tag: Measurement Error
+    modified_description: add-add 1/4 tbsp salt to the pan
+  - description: Add-Add 1 tablespoon of olive oil to a non-stick pan
+  - description: pat-pat tofu dry with a towel
+    errors:
+    - description: Do not pat enough so the tofu is still wet after this step
+      tag: Technique Error
+    modified_description: '(not enough) pat-pat tofu dry with a towel '
+  - description: add-add the tofu cubes to the pan
+    errors:
+    - description: Drop a few tofu cubes while adding
+      tag: Technique Error
+    modified_description: (Drop)  add-add the tofu cubes to the pan
+  - description: Cook-Cook 5 to 6 minutes until tofu cubes are lightly browned on
+      the bottom
+    errors:
+    - description: Under cook the tofu so that its still raw
+      tag: Timing Error
+    modified_description: Cook-Cook 2 to 3 minutes.
+  - description: remove-Briefly remove the pan from the heat to reduce spitting
+  - description: Flip-Flip the tofu with tongs
+  - description: Return-Return the heat to medium
+  - description: cook-cook until tofu turns brown
+  - description: remove-Briefly remove from the heat again
+    errors:
+    - description: Safetly issue - Do not place it on the stove top, but something
+        else
+      tag: Technique Error
+    modified_description: '(place it on something) remove-Briefly remove from the
+      heat again '
+  - description: drizzle-drizzle with the 1 tablespoons sesame oil on the pan
+    errors:
+    - description: drizzle two tbsp rather than 1 tbsp
+      tag: Measurement Error
+    modified_description: drizzle-drizzle with the 2 tablespoons sesame oil on the
+      pan
+  - description: drizzle-drizzle 1 tablespoon soy sauce (watch for spitting) on the
+      pan
+  - description: Return-Return to low heat
+    errors:
+    - description: Use medium heat instead of low heat
+      tag: Temperature Error
+    modified_description: Return-Return to medium heat
+  - description: cook-cook pan for 2 minutes
+  - description: flip-flip tofu on the pan
+    errors:
+    - description: Do not flip all the tofu pieces
+      tag: Technique Error
+    modified_description: (not all) flip-flip tofu on the pan
+  - description: cook-cook pan for 2 minutes until the colour is darkened
+    errors:
+    - description: Over cook the tofu
+      tag: Timing Error
+    modified_description: cook-cook pan for 3 minutes until the colour is darkened
+  - description: Transfer-Transfer to a serving dish
+- activity_id: 25
+  environment: 7
+  errors:
+  - description: Turn-Turn on the heat to medium
+    tag: Missing Step
+  - tag: Order Error
+  id: '25_41'
+  is_error: true
+  recorded_by: 1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: '"2023-05-14T20:56:47.631230"'
+  selected_by: 1
+  steps:
+  - description: Cut-Cut 1/4 block or 3 ounces of fresh tofu into large cubes (about
+      1 in x 1 in)
+    errors:
+    - description: Cut tofu into pyramid shapes instead of large cubes
+      tag: Technique Error
+    modified_description: Cut-Cut 1/4 block or 3 ounces of fresh tofu into large cubes
+      (about 1 in x 1 in)
+  - description: remove-Briefly remove the pan from the heat to reduce spitting
+    errors:
+    - description: Missing step
+      tag: Missing Step
+    modified_description: .
+  - description: pat-pat tofu dry with a towel
+  - description: Add-Add 1 tablespoon of olive oil to a non-stick pan
+    errors:
+    - description: Dropping some oil from the tablespoon while adding it to the pan
+      tag: Technique Error
+  - description: add-add the tofu cubes to the pan
+  - description: Cook-Cook 5 to 6 minutes until tofu cubes are lightly browned on
+      the bottom
+  - description: cook-cook pan for 2 minutes
+  - description: Flip-Flip the tofu with tongs
+  - description: Return-Return the heat to medium
+  - description: cook-cook until tofu turns brown
+  - description: remove-Briefly remove from the heat again
+  - description: drizzle-drizzle 1 tablespoon soy sauce (watch for spitting) on the
+      pan
+  - description: drizzle-drizzle with the 1 tablespoons sesame oil on the pan
+    errors:
+    - description: Dropping the measuring utensil on the pan while drizzling oil
+      tag: Technique Error
+  - description: Return-Return to low heat
+  - description: add-add 1/4 tsp salt to the pan
+  - description: flip-flip tofu on the pan
+  - description: cook-cook pan for 2 minutes until the colour is darkened
+  - description: Transfer-Transfer to a serving dish
+- activity_id: 25
+  environment: 6
+  errors:
+  - description: drizzle-drizzle 1 tablespoon soy sauce (watch for spitting) on the
+      pan
+    tag: Missing Step
+  - tag: Order Error
+  id: '25_42'
+  is_error: true
+  recorded_by: 1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: '"2023-05-10T19:07:25.203236"'
+  selected_by: 1
+  steps:
+  - description: Cut-Cut 1/4 block or 3 ounces of fresh tofu into large cubes (about
+      1 in x 1 in)
+  - description: pat-pat tofu dry with a towel
+  - description: add-add the tofu cubes to the pan
+  - description: add-add 1/4 tsp salt to the pan
+  - description: Turn-Turn on the heat to medium
+  - description: Add-Add 1 tablespoon of olive oil to a non-stick pan
+  - description: Cook-Cook 5 to 6 minutes until tofu cubes are lightly browned on
+      the bottom
+  - description: remove-Briefly remove from the heat again
+  - description: cook-cook pan for 2 minutes
+  - description: remove-Briefly remove the pan from the heat to reduce spitting
+  - description: Flip-Flip the tofu with tongs
+  - description: Return-Return the heat to medium
+  - description: cook-cook until tofu turns brown
+  - description: drizzle-drizzle with the 1 tablespoons sesame oil on the pan
+  - description: flip-flip tofu on the pan
+  - description: Return-Return to low heat
+  - description: cook-cook pan for 2 minutes until the colour is darkened
+  - description: Transfer-Transfer to a serving dish
+- activity_id: 25
+  environment: 5
+  errors:
+  - description: remove-Briefly remove the pan from the heat to reduce spitting
+    tag: Missing Step
+  - description: Turn-Turn on the heat to medium
+    tag: Missing Step
+  - description: pat-pat tofu dry with a towel
+    tag: Missing Step
+  - description: cook-cook until tofu turns brown
+    tag: Missing Step
+  - description: flip-flip tofu on the pan
+    tag: Missing Step
+  - tag: Order Error
+  id: '25_48'
+  is_error: true
+  recorded_by: 2
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 2
+  steps:
+  - description: Cut-Cut 1/4 block or 3 ounces of fresh tofu into large cubes (about
+      1 in x 1 in)
+    errors:
+    - description: Slices will burn quickly and will not taste the same
+      tag: Preparation Error
+    modified_description: 'Cut-Cut 1/4 block or 3 ounces of fresh tofu into slices '
+  - description: add-add 1/4 tsp salt to the pan
+    errors:
+    - description: Use a tbsp instead of a tsp
+      tag: Measurement Error
+    modified_description: add-add 1/4 tbsp salt to the pan
+  - description: Add-Add 1 tablespoon of olive oil to a non-stick pan
+    errors:
+    - description: Don't measure the olive oil
+      tag: Measurement Error
+    modified_description: Add-Add olive oil to a non-stick pan
+  - description: add-add the tofu cubes to the pan
+  - description: Cook-Cook 5 to 6 minutes until tofu cubes are lightly browned on
+      the bottom
+    errors:
+    - description: 'Under cook - The tofu cubes will not be cooked enough '
+      tag: Timing Error
+    modified_description: 'Cook-Cook 2 minutes '
+  - description: Flip-Flip the tofu with tongs
+    errors:
+    - description: Use a spoon - might break the tofu cubes
+      tag: Technique Error
+    modified_description: Flip-Flip the tofu with spoon
+  - description: Return-Return the heat to medium
+    errors:
+    - description: 'This might burn the tofu '
+      tag: Temperature Error
+    modified_description: Return-Return the heat to high
+  - description: drizzle-drizzle with the 1 tablespoons sesame oil on the pan
+  - description: cook-cook pan for 2 minutes
+    errors:
+    - description: Under-cook
+      tag: Timing Error
+    modified_description: ' cook-cook pan for 1 minutes'
+  - description: remove-Briefly remove from the heat again
+  - description: drizzle-drizzle 1 tablespoon soy sauce (watch for spitting) on the
+      pan
+  - description: Return-Return to low heat
+  - description: cook-cook pan for 2 minutes until the colour is darkened
+  - description: Transfer-Transfer to a serving dish
+    errors:
+    - description: Spill some cooked tofu pieces
+      tag: Technique Error
+    modified_description: '[Spill] Transfer-Transfer to a serving dish'
+- activity_id: 25
+  environment: 7
+  id: '25_109'
+  is_error: false
+  recorded_by: 5
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: '"2023-05-12T16:34:36.552356"'
+  selected_by: 5
+  steps:
+  - description: Cut-Cut 1/4 block or 3 ounces of fresh tofu into large cubes (about
+      1 in x 1 in)
+  - description: pat-pat tofu dry with a towel
+  - description: Add-Add 1 tablespoon of olive oil to a non-stick pan
+  - description: add-add the tofu cubes to the pan
+  - description: add-add 1/4 tsp salt to the pan
+  - description: Turn-Turn on the heat to medium
+  - description: Cook-Cook 5 to 6 minutes until tofu cubes are lightly browned on
+      the bottom
+  - description: remove-Briefly remove the pan from the heat to reduce spitting
+  - description: Flip-Flip the tofu with tongs
+  - description: Return-Return the heat to medium
+  - description: cook-cook until tofu turns brown
+  - description: remove-Briefly remove from the heat again
+  - description: drizzle-drizzle 1 tablespoon soy sauce (watch for spitting) on the
+      pan
+  - description: drizzle-drizzle with the 1 tablespoons sesame oil on the pan
+  - description: Return-Return to low heat
+  - description: cook-cook pan for 2 minutes
+  - description: flip-flip tofu on the pan
+  - description: cook-cook pan for 2 minutes until the colour is darkened
+  - description: Transfer-Transfer to a serving dish

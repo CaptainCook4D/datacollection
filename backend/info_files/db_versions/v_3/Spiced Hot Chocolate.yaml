@@ -1,0 +1,745 @@
+- activity_id: 8
+  environment: 2
+  id: '8_3'
+  is_error: false
+  recorded_by: 4
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 4
+  steps:
+  - description: Fill-Fill a microwave-safe mug with skimmed milk
+  - description: Microwave-Microwave the contents of the mug for 1 minute
+  - description: Add-Add 2 pieces of chocolate to the mug
+  - description: Add-Add 1/5 teaspoon cinnamon to the mug
+  - description: Add-Add 1 teaspoon of white sugar to the mug
+  - description: Mix-Mix the contents of the mug
+  - description: Heat-Heat the contents of the mug for 1 minute and serve
+- activity_id: 8
+  environment: 6
+  id: '8_11'
+  is_error: true
+  recorded_by: 3
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: '"2023-05-09T18:59:30.796704"'
+  selected_by: 3
+  steps:
+  - description: Fill-Fill a microwave-safe mug with skimmed milk
+  - description: Microwave-Microwave the contents of the mug for 1 minute
+  - description: Add-Add 1/5 teaspoon cinnamon to the mug
+  - description: Add-Add 2 pieces of chocolate to the mug
+  - description: Add-Add 1 teaspoon of white sugar to the mug
+    errors:
+    - description: Used tablespoon instead of teaspoon.
+      tag: Measurement Error
+    modified_description: ' Add-Add 1 tablespoon of white sugar to the mug'
+  - description: Mix-Mix the contents of the mug
+  - description: Heat-Heat the contents of the mug for 1 minute and serve
+- activity_id: 8
+  environment: 2
+  id: '8_15'
+  is_error: false
+  recorded_by: 4
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: '"2023-04-24T19:07:52.135983"'
+  selected_by: 4
+  steps:
+  - description: Fill-Fill a microwave-safe mug with skimmed milk
+  - description: Microwave-Microwave the contents of the mug for 1 minute
+  - description: Add-Add 1 teaspoon of white sugar to the mug
+  - description: Add-Add 2 pieces of chocolate to the mug
+  - description: Add-Add 1/5 teaspoon cinnamon to the mug
+  - description: Mix-Mix the contents of the mug
+  - description: Heat-Heat the contents of the mug for 1 minute and serve
+- activity_id: 8
+  environment: 6
+  id: '8_16'
+  is_error: false
+  recorded_by: 4
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 4
+  steps:
+  - description: Fill-Fill a microwave-safe mug with skimmed milk
+  - description: Microwave-Microwave the contents of the mug for 1 minute
+  - description: Add-Add 2 pieces of chocolate to the mug
+  - description: Add-Add 1/5 teaspoon cinnamon to the mug
+  - description: Add-Add 1 teaspoon of white sugar to the mug
+  - description: Mix-Mix the contents of the mug
+  - description: Heat-Heat the contents of the mug for 1 minute and serve
+- activity_id: 8
+  environment: 5
+  id: '8_19'
+  is_error: false
+  recorded_by: 4
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 4
+  steps:
+  - description: Fill-Fill a microwave-safe mug with skimmed milk
+  - description: Microwave-Microwave the contents of the mug for 1 minute
+  - description: Add-Add 1 teaspoon of white sugar to the mug
+  - description: Add-Add 1/5 teaspoon cinnamon to the mug
+  - description: Add-Add 2 pieces of chocolate to the mug
+  - description: Mix-Mix the contents of the mug
+  - description: Heat-Heat the contents of the mug for 1 minute and serve
+- activity_id: 8
+  environment: 2
+  id: '8_20'
+  is_error: false
+  recorded_by: 5
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 5
+  steps:
+  - description: Fill-Fill a microwave-safe mug with skimmed milk
+  - description: Microwave-Microwave the contents of the mug for 1 minute
+  - description: Add-Add 1/5 teaspoon cinnamon to the mug
+  - description: Add-Add 2 pieces of chocolate to the mug
+  - description: Add-Add 1 teaspoon of white sugar to the mug
+  - description: Mix-Mix the contents of the mug
+  - description: Heat-Heat the contents of the mug for 1 minute and serve
+- activity_id: 8
+  environment: 5
+  errors:
+  - description: Add-Add 1/5 teaspoon cinnamon to the mug
+    tag: Missing Step
+  id: '8_26'
+  is_error: true
+  recorded_by: 8
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 8
+  steps:
+  - description: Fill-Fill a microwave-safe mug with skimmed milk
+    errors:
+    - description: Spill
+      tag: Technique Error
+    - description: Used whole milk
+      tag: Preparation Error
+    modified_description: Fill a microwave-safe mug with whole milk but spill
+  - description: Microwave-Microwave the contents of the mug for 1 minute
+    errors:
+    - description: Too long
+      tag: Timing Error
+    modified_description: Microwave the contents of the mug for 2 minutes
+  - description: Add-Add 2 pieces of chocolate to the mug
+    errors:
+    - description: Added more chocolate
+      tag: Measurement Error
+    modified_description: Add-Add 4 pieces of chocolate to the mug
+  - description: Add-Add 1 teaspoon of white sugar to the mug
+  - description: Mix-Mix the contents of the mug
+  - description: Heat-Heat the contents of the mug for 1 minute and serve
+    errors:
+    - description: Microwave on low power
+      tag: Temperature Error
+    - description: Mic4owaved on high for 8 secs
+      tag: Preparation Error
+    modified_description: Heat-Heat the contents of the mug for 8 secs on high. And
+      1 minute on low power and serve
+- activity_id: 8
+  environment: 5
+  errors:
+  - description: Microwave-Microwave the contents of the mug for 1 minute
+    tag: Missing Step
+  id: '8_30'
+  is_error: true
+  recorded_by: 5
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: '"2023-05-04T01:03:39.422964"'
+  selected_by: 5
+  steps:
+  - description: Fill-Fill a microwave-safe mug with skimmed milk
+    errors:
+    - description: Fill-Fill a microwave-safe mug with skimmed milk (did not wash
+        the mug)
+      tag: Preparation Error
+    - description: Fill-Fill a microwave-safe mug with skimmed milk while spilling
+        the milk.
+      tag: Technique Error
+    modified_description: Fill-Fill a microwave-safe mug with skimmed milk while spilling
+      the milk.
+  - description: Add-Add 2 pieces of chocolate to the mug
+    errors:
+    - description: Add-Add 4 pieces of chocolate to the mug
+      tag: Measurement Error
+    modified_description: Add-Add 4 pieces of chocolate to the mug
+  - description: Add-Add 1/5 teaspoon cinnamon to the mug
+    errors:
+    - description: ' Add-Add 1/4 teaspoon cinnamon to the mug. Instead of 1/5 added
+        1/4 tsp of cinnamon.'
+      tag: Measurement Error
+    modified_description: ' Add-Add 1/4 teaspoon cinnamon to the mug'
+  - description: Add-Add 1 teaspoon of white sugar to the mug
+    errors:
+    - description: Add-Add 2 teaspoon of white sugar to the mug. Instead of 1 tsp
+        add 2 tsp of sugar.
+      tag: Measurement Error
+    modified_description: Add-Add 2 teaspoon of white sugar to the mug
+  - description: Mix-Mix the contents of the mug
+    errors:
+    - description: 'NULL'
+      tag: Technique Error
+    modified_description: Mix-Mix the contents of the mug
+  - description: Heat-Heat the contents of the mug for 1 minute and serve
+    errors:
+    - description: Heat-Heat the contents of the mug for 2 minute and serve
+      tag: Timing Error
+    - description: Heat-Heat the contents of the mug for 2 minute and serve. On low
+        heat
+      tag: Temperature Error
+    modified_description: 'Heat-Heat the contents of the mug for 2 minute and serve. '
+- activity_id: 8
+  environment: 7
+  errors:
+  - description: Add-Add 1 teaspoon of white sugar to the mug
+    tag: Missing Step
+  - description: Add-Add 2 pieces of chocolate to the mug
+    tag: Missing Step
+  id: '8_31'
+  is_error: true
+  recorded_by: 5
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: '"2023-05-13T21:52:14.297489"'
+  selected_by: 5
+  steps:
+  - description: Fill-Fill a microwave-safe mug with skimmed milk
+  - description: Microwave-Microwave the contents of the mug for 1 minute
+    errors:
+    - description: Microwave-Microwave the contents of the mug for 35 seconds. Started
+        the timer from 7 minutes and stopped at 6:25.
+      tag: Timing Error
+    modified_description: Microwave-Microwave the contents of the mug for 35 seconds.
+  - description: Add-Add 1/5 teaspoon cinnamon to the mug
+    errors:
+    - description: Add-Add 1/5 teaspoon cinnamon to the mug. Spilling happened while
+        adding. Also first put 1/2 tsp first and then to make 1/5 remove the added
+        cinnamon from top of milk. Incorrect way to add 1/5 tsp cinnamon.
+      tag: Technique Error
+    modified_description: Add-Add 1/5 teaspoon cinnamon to the mug
+  - description: Mix-Mix the contents of the mug
+    errors:
+    - description: Mix-Mix the contents of the mug. Not doing circular and slowly
+        mixing the contents of mug. Instead did hastily and spilling the milk. Also
+        motion was up-down and sideways instead of cicular.
+      tag: Technique Error
+    modified_description: 'Mix-Mix the contents of the mug. '
+  - description: Heat-Heat the contents of the mug for 1 minute and serve
+    errors:
+    - description: Heat-Heat the contents of the mug for 40 seconds and serve it on
+        glass plate cover. Also timing started from 10:30 and stopped at 9:50.
+      tag: Timing Error
+    - description: Heat-Heat the contents of the mug for 40 seconds and serve it on
+        glass plate cover. Also timing started from 10:30 and stopped at 9:50.
+      tag: Preparation Error
+    modified_description: Heat the contents of the mug for 40 seconds and serve.
+- activity_id: 8
+  environment: 11
+  errors:
+  - description: Heat-Heat the contents of the mug for 1 minute and serve
+    tag: Missing Step
+  id: '8_33'
+  is_error: true
+  recorded_by: 5
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 5
+  steps:
+  - description: Fill-Fill a microwave-safe mug with skimmed milk
+    errors:
+    - description: Half Fill- Half Fill a microwave-safe mug with whole milk
+      tag: Technique Error
+    - description: Half Fill- Half Fill a microwave-safe mug with whole milk
+      tag: Preparation Error
+    modified_description: Half Fill- Half Fill a microwave-safe mug with whole milk
+  - description: Microwave-Microwave the contents of the mug for 1 minute
+    errors:
+    - description: Microwave-Microwave the contents of the mug for 2 minute at 10%
+        power
+      tag: Timing Error
+    - description: Microwave-Microwave the contents of the mug for 2 minute at 10%
+        power
+      tag: Temperature Error
+    modified_description: Microwave-Microwave the contents of the mug for 2 minute
+      at 10% power
+  - description: Add-Add 2 pieces of chocolate to the mug
+    errors:
+    - description: Add-Add 5 pieces of chocolate to the mug
+      tag: Measurement Error
+    modified_description: Add-Add 5 pieces of chocolate to the mug
+  - description: Add-Add 1 teaspoon of white sugar to the mug
+    errors:
+    - description: Add-Add 1 teaspoon of corn starch to the mug
+      tag: Preparation Error
+    modified_description: Add-Add 1 teaspoon of corn starch to the mug
+  - description: Add-Add 1/5 teaspoon cinnamon to the mug
+    errors:
+    - description: Add-Add 1/5 teaspoon ground cumin to the mug
+      tag: Preparation Error
+    modified_description: Add-Add 1/5 teaspoon ground cumin to the mug
+  - description: Mix-Mix the contents of the mug
+    errors:
+    - description: ' Mix-Mix the contents of the mug with spilling'
+      tag: Technique Error
+    modified_description: ' Mix-Mix the contents of the mug with spilling'
+- activity_id: 8
+  environment: 5
+  errors:
+  - tag: Order Error
+  id: '8_35'
+  is_error: true
+  recorded_by: 3
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 3
+  steps:
+  - description: Fill-Fill a microwave-safe mug with skimmed milk
+    errors:
+    - description: Spill some while filling the mug.
+      tag: Preparation Error
+    modified_description: Fill-Fill a microwave-safe mug with skimmed milk and spill
+      some.
+  - description: Add-Add 1 teaspoon of white sugar to the mug
+    errors:
+    - description: Using tablespoon instead of teaspoon.
+      tag: Measurement Error
+    modified_description: Add-Add 1 tablespoon of white sugar to the mug.
+  - description: Microwave-Microwave the contents of the mug for 1 minute
+    errors:
+    - description: Microwaving for less than a minutes.
+      tag: Timing Error
+    modified_description: Microwave-Microwave the contents of the mug for 45 seconds.
+  - description: Add-Add 1/5 teaspoon cinnamon to the mug
+    errors:
+    - description: Adding 1/4 teaspoon instead of 1/5 teaspoon.
+      tag: Measurement Error
+    modified_description: Add-Add 1/4 teaspoon cinnamon to the mug.
+  - description: Mix-Mix the contents of the mug
+    errors:
+    - description: Not mixing the contents of the mug thoroughly.
+      tag: Technique Error
+    modified_description: Mix-Mix the contents of the mug only once.
+  - description: Add-Add 2 pieces of chocolate to the mug
+    errors:
+    - description: Adding only one piece instead of two.
+      tag: Measurement Error
+    modified_description: Add-Add 1 piece of chocolate to the mug.
+  - description: Heat-Heat the contents of the mug for 1 minute and serve
+    errors:
+    - description: 'NULL'
+      tag: Temperature Error
+    modified_description: Heat-Heat the contents of the mug for 1 minute and serve
+- activity_id: 8
+  environment: 5
+  errors:
+  - tag: Order Error
+  id: '8_40'
+  is_error: true
+  recorded_by: 2
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 2
+  steps:
+  - description: Add-Add 1/5 teaspoon cinnamon to the mug
+    errors:
+    - description: Measure 1/4 tsp instead of 1/5 tsp
+      tag: Measurement Error
+    - description: Use a plate instead of a mug
+      tag: Preparation Error
+    modified_description: Add-Add 1/5 teaspoon cinnamon to the plate
+  - description: Add-Add 2 pieces of chocolate to the mug
+  - description: Microwave-Microwave the contents of the mug for 1 minute
+    errors:
+    - description: Microwave for 1.5 minutes rather than 1 minute. (Chocolate might
+        burn)
+      tag: Timing Error
+    modified_description: Microwave-Microwave the contents of the mug for 1.5 minutes
+  - description: Fill-Fill a microwave-safe mug with skimmed milk
+    errors:
+    - description: Spill milk while adding it to the mug
+      tag: Technique Error
+    modified_description: (Spill)Fill-Fill a microwave-safe mug with skimmed milk
+  - description: Add-Add 1 teaspoon of white sugar to the mug
+    errors:
+    - description: Use a table spoon instead of a tea spoon
+      tag: Measurement Error
+    modified_description: Add-Add 1 tablespoon of white sugar to the mug
+  - description: Mix-Mix the contents of the mug
+  - description: Heat-Heat the contents of the mug for 1 minute and serve
+    errors:
+    - description: NA
+      tag: Temperature Error
+- activity_id: 8
+  environment: 1
+  errors:
+  - description: Microwave-Microwave the contents of the mug for 1 minute
+    tag: Missing Step
+  - description: Add-Add 1 teaspoon of white sugar to the mug
+    tag: Missing Step
+  - tag: Order Error
+  id: '8_44'
+  is_error: true
+  recorded_by: 4
+  recording_info:
+    end_time: '"2023-04-13T02:07:10.316164"'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: '"2023-04-13T02:00:05.299564"'
+  selected_by: 4
+  steps:
+  - description: Fill-Fill a microwave-safe mug with skimmed milk
+    errors:
+    - description: spilling milk while filling the milk
+      tag: Preparation Error
+    - description: Used expired milk for the recipe
+      tag: Preparation Error
+    modified_description: Fill-Fill a microwave-safe mug with expired skimmed milk
+      and spill some milk out while filling
+  - description: Add-Add 2 pieces of chocolate to the mug
+    errors:
+    - description: add more (5) pieces of choclate
+      tag: Measurement Error
+    modified_description: Add-Add 5 pieces of chocolate to the mug
+  - description: Add-Add 1/5 teaspoon cinnamon to the mug
+    errors:
+    - description: use tablespoon in place of teaspoon
+      tag: Technique Error
+    modified_description: Add-Add 1/5 tablespoon cinnamon to the mug
+  - description: Mix-Mix the contents of the mug
+    errors:
+    - description: Mix-Mix the contents of the mug without using a spoon
+      tag: Other
+    modified_description: Mix-Mix the contents of the mug by rotating motion of the
+      cup
+  - description: Heat-Heat the contents of the mug for 1 minute and serve
+    errors:
+    - description: Heat-Heat the contents of the mug for 2 minutes instead of 1 min
+      tag: Timing Error
+    - description: Heat-Heat the contents of the mug for 2 minutes instead of 1 min
+      tag: Temperature Error
+    - description: Milk rose up and spilled from cup in the microwave due to more
+        temperature and time
+      tag: Preparation Error
+    modified_description: Heat-Heat the contents of the mug for 2 minutes and this
+      may lead to milk rising beyond the brim of the cup and spilling
+- activity_id: 8
+  environment: 2
+  errors:
+  - description: Mix-Mix the contents of the mug
+    tag: Missing Step
+  - tag: Order Error
+  id: '8_45'
+  is_error: true
+  recorded_by: 8
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 8
+  steps:
+  - description: Fill-Fill a microwave-safe mug with skimmed milk
+    errors:
+    - description: Spill
+      tag: Technique Error
+    modified_description: Fill-Fill a microwave-safe mug with skimmed milk but spill
+  - description: Add-Add 2 pieces of chocolate to the mug
+    errors:
+    - description: Added fewer pieces than needed
+      tag: Measurement Error
+    modified_description: Add-Add 1 piece of chocolate to the mug
+  - description: Add-Add 1/5 teaspoon cinnamon to the mug
+    errors:
+    - description: Added cumin
+      tag: Preparation Error
+    modified_description: Add-Add 1/5 teaspoon cinnamon to the mug
+  - description: Add-Add 1 teaspoon of white sugar to the mug
+    errors:
+    - description: Added salt instead of sugar
+      tag: Preparation Error
+    modified_description: Add-Add 1 teaspoon of salt to the mug
+  - description: Microwave-Microwave the contents of the mug for 1 minute
+    errors:
+    - description: Microwaved for longer than specified
+      tag: Timing Error
+    modified_description: Microwave-Microwave the contents of the mug for 2 minutes
+  - description: Heat-Heat the contents of the mug for 1 minute and serve
+    errors:
+    - description: Used lower power than specified
+      tag: Temperature Error
+    - description: 'Microwaved for 61 seconds '
+      tag: Timing Error
+    modified_description: Heat-Heat the contents of the mug for 61 seconds and serve
+- activity_id: 8
+  environment: 7
+  errors:
+  - description: Mix-Mix the contents of the mug
+    tag: Missing Step
+  - description: Add-Add 1/5 teaspoon cinnamon to the mug
+    tag: Missing Step
+  - tag: Order Error
+  id: '8_50'
+  is_error: true
+  recorded_by: 8
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: '"2023-05-13T23:46:00.267508"'
+  selected_by: 8
+  steps:
+  - description: Add-Add 1 teaspoon of white sugar to the mug
+  - description: Fill-Fill a microwave-safe mug with skimmed milk
+  - description: Microwave-Microwave the contents of the mug for 1 minute
+  - description: Add-Add 2 pieces of chocolate to the mug
+    errors:
+    - description: Spill
+      tag: Technique Error
+    modified_description: Add-Add 2 pieces of chocolate to the mug and spill
+  - description: Heat-Heat the contents of the mug for 1 minute and serve

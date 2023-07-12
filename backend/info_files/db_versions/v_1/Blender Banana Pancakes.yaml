@@ -1,0 +1,1909 @@
+- activity_id: 21
+  environment: null
+  id: '21_1'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Chop-Chop 1 strawberry
+  - description: Add-Add 1 banana to a blender
+  - description: Add-1 egg to a blender
+  - description: Add-1/2 tsp baking powder to a blender
+  - description: Add-1 heaped tbsp flour to a blender
+  - description: blitz-blitz the blender for 20 seconds
+  - description: Melt-Melt a small knob of butter in a non-stick frying pan over low-medium
+      heat
+  - description: Pour-Pour three little puddles straight from the blender into the
+      frying pan
+  - description: Cook-Cook for 1 min or until the tops start to bubble
+  - description: Flip-Flip the pancakes with a fork or a fish slice spatula
+  - description: cook-cook for 20-30 seconds more
+  - description: Transfer-Transfer to a plate
+  - description: Serve-Serve the pancakes with chopped strawberries
+  - description: splash-splash maple syrup on plate
+- activity_id: 21
+  environment: null
+  id: '21_2'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Add-1/2 tsp baking powder to a blender
+  - description: Add-1 egg to a blender
+  - description: Add-1 heaped tbsp flour to a blender
+  - description: Add-Add 1 banana to a blender
+  - description: Chop-Chop 1 strawberry
+  - description: blitz-blitz the blender for 20 seconds
+  - description: Melt-Melt a small knob of butter in a non-stick frying pan over low-medium
+      heat
+  - description: Pour-Pour three little puddles straight from the blender into the
+      frying pan
+  - description: Cook-Cook for 1 min or until the tops start to bubble
+  - description: Flip-Flip the pancakes with a fork or a fish slice spatula
+  - description: cook-cook for 20-30 seconds more
+  - description: Transfer-Transfer to a plate
+  - description: Serve-Serve the pancakes with chopped strawberries
+  - description: splash-splash maple syrup on plate
+- activity_id: 21
+  environment: null
+  id: '21_4'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Add-1 egg to a blender
+  - description: Add-1/2 tsp baking powder to a blender
+  - description: Add-1 heaped tbsp flour to a blender
+  - description: Add-Add 1 banana to a blender
+  - description: blitz-blitz the blender for 20 seconds
+  - description: Melt-Melt a small knob of butter in a non-stick frying pan over low-medium
+      heat
+  - description: Pour-Pour three little puddles straight from the blender into the
+      frying pan
+  - description: Cook-Cook for 1 min or until the tops start to bubble
+  - description: Flip-Flip the pancakes with a fork or a fish slice spatula
+  - description: cook-cook for 20-30 seconds more
+  - description: Transfer-Transfer to a plate
+  - description: Chop-Chop 1 strawberry
+  - description: Serve-Serve the pancakes with chopped strawberries
+  - description: splash-splash maple syrup on plate
+- activity_id: 21
+  environment: null
+  id: '21_5'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Chop-Chop 1 strawberry
+  - description: Add-1 heaped tbsp flour to a blender
+  - description: Add-1 egg to a blender
+  - description: Add-1/2 tsp baking powder to a blender
+  - description: Add-Add 1 banana to a blender
+  - description: blitz-blitz the blender for 20 seconds
+  - description: Melt-Melt a small knob of butter in a non-stick frying pan over low-medium
+      heat
+  - description: Pour-Pour three little puddles straight from the blender into the
+      frying pan
+  - description: Cook-Cook for 1 min or until the tops start to bubble
+  - description: Flip-Flip the pancakes with a fork or a fish slice spatula
+  - description: cook-cook for 20-30 seconds more
+  - description: Transfer-Transfer to a plate
+  - description: Serve-Serve the pancakes with chopped strawberries
+  - description: splash-splash maple syrup on plate
+- activity_id: 21
+  environment: null
+  id: '21_6'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Add-Add 1 banana to a blender
+  - description: Add-1 egg to a blender
+  - description: Chop-Chop 1 strawberry
+  - description: Add-1/2 tsp baking powder to a blender
+  - description: Add-1 heaped tbsp flour to a blender
+  - description: blitz-blitz the blender for 20 seconds
+  - description: Melt-Melt a small knob of butter in a non-stick frying pan over low-medium
+      heat
+  - description: Pour-Pour three little puddles straight from the blender into the
+      frying pan
+  - description: Cook-Cook for 1 min or until the tops start to bubble
+  - description: Flip-Flip the pancakes with a fork or a fish slice spatula
+  - description: cook-cook for 20-30 seconds more
+  - description: Transfer-Transfer to a plate
+  - description: Serve-Serve the pancakes with chopped strawberries
+  - description: splash-splash maple syrup on plate
+- activity_id: 21
+  environment: null
+  id: '21_7'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Add-Add 1 banana to a blender
+  - description: Add-1/2 tsp baking powder to a blender
+  - description: Add-1 egg to a blender
+  - description: Chop-Chop 1 strawberry
+  - description: Add-1 heaped tbsp flour to a blender
+  - description: blitz-blitz the blender for 20 seconds
+  - description: Melt-Melt a small knob of butter in a non-stick frying pan over low-medium
+      heat
+  - description: Pour-Pour three little puddles straight from the blender into the
+      frying pan
+  - description: Cook-Cook for 1 min or until the tops start to bubble
+  - description: Flip-Flip the pancakes with a fork or a fish slice spatula
+  - description: cook-cook for 20-30 seconds more
+  - description: Transfer-Transfer to a plate
+  - description: Serve-Serve the pancakes with chopped strawberries
+  - description: splash-splash maple syrup on plate
+- activity_id: 21
+  environment: null
+  id: '21_9'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Add-Add 1 banana to a blender
+  - description: Add-1 heaped tbsp flour to a blender
+  - description: Add-1/2 tsp baking powder to a blender
+  - description: Add-1 egg to a blender
+  - description: blitz-blitz the blender for 20 seconds
+  - description: Chop-Chop 1 strawberry
+  - description: Melt-Melt a small knob of butter in a non-stick frying pan over low-medium
+      heat
+  - description: Pour-Pour three little puddles straight from the blender into the
+      frying pan
+  - description: Cook-Cook for 1 min or until the tops start to bubble
+  - description: Flip-Flip the pancakes with a fork or a fish slice spatula
+  - description: cook-cook for 20-30 seconds more
+  - description: Transfer-Transfer to a plate
+  - description: Serve-Serve the pancakes with chopped strawberries
+  - description: splash-splash maple syrup on plate
+- activity_id: 21
+  environment: null
+  id: '21_10'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Add-1 heaped tbsp flour to a blender
+  - description: Add-Add 1 banana to a blender
+  - description: Add-1 egg to a blender
+  - description: Chop-Chop 1 strawberry
+  - description: Add-1/2 tsp baking powder to a blender
+  - description: blitz-blitz the blender for 20 seconds
+  - description: Melt-Melt a small knob of butter in a non-stick frying pan over low-medium
+      heat
+  - description: Pour-Pour three little puddles straight from the blender into the
+      frying pan
+  - description: Cook-Cook for 1 min or until the tops start to bubble
+  - description: Flip-Flip the pancakes with a fork or a fish slice spatula
+  - description: cook-cook for 20-30 seconds more
+  - description: Transfer-Transfer to a plate
+  - description: Serve-Serve the pancakes with chopped strawberries
+  - description: splash-splash maple syrup on plate
+- activity_id: 21
+  environment: null
+  id: '21_11'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Add-1/2 tsp baking powder to a blender
+  - description: Add-1 egg to a blender
+  - description: Add-Add 1 banana to a blender
+  - description: Add-1 heaped tbsp flour to a blender
+  - description: blitz-blitz the blender for 20 seconds
+  - description: Chop-Chop 1 strawberry
+  - description: Melt-Melt a small knob of butter in a non-stick frying pan over low-medium
+      heat
+  - description: Pour-Pour three little puddles straight from the blender into the
+      frying pan
+  - description: Cook-Cook for 1 min or until the tops start to bubble
+  - description: Flip-Flip the pancakes with a fork or a fish slice spatula
+  - description: cook-cook for 20-30 seconds more
+  - description: Transfer-Transfer to a plate
+  - description: Serve-Serve the pancakes with chopped strawberries
+  - description: splash-splash maple syrup on plate
+- activity_id: 21
+  environment: null
+  id: '21_12'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Add-Add 1 banana to a blender
+  - description: Chop-Chop 1 strawberry
+  - description: Add-1 egg to a blender
+  - description: Add-1 heaped tbsp flour to a blender
+  - description: Add-1/2 tsp baking powder to a blender
+  - description: blitz-blitz the blender for 20 seconds
+  - description: Melt-Melt a small knob of butter in a non-stick frying pan over low-medium
+      heat
+  - description: Pour-Pour three little puddles straight from the blender into the
+      frying pan
+  - description: Cook-Cook for 1 min or until the tops start to bubble
+  - description: Flip-Flip the pancakes with a fork or a fish slice spatula
+  - description: cook-cook for 20-30 seconds more
+  - description: Transfer-Transfer to a plate
+  - description: Serve-Serve the pancakes with chopped strawberries
+  - description: splash-splash maple syrup on plate
+- activity_id: 21
+  environment: null
+  id: '21_13'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Add-1/2 tsp baking powder to a blender
+  - description: Chop-Chop 1 strawberry
+  - description: Add-1 egg to a blender
+  - description: Add-1 heaped tbsp flour to a blender
+  - description: Add-Add 1 banana to a blender
+  - description: blitz-blitz the blender for 20 seconds
+  - description: Melt-Melt a small knob of butter in a non-stick frying pan over low-medium
+      heat
+  - description: Pour-Pour three little puddles straight from the blender into the
+      frying pan
+  - description: Cook-Cook for 1 min or until the tops start to bubble
+  - description: Flip-Flip the pancakes with a fork or a fish slice spatula
+  - description: cook-cook for 20-30 seconds more
+  - description: Transfer-Transfer to a plate
+  - description: Serve-Serve the pancakes with chopped strawberries
+  - description: splash-splash maple syrup on plate
+- activity_id: 21
+  environment: null
+  id: '21_15'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Add-1 heaped tbsp flour to a blender
+  - description: Add-1 egg to a blender
+  - description: Add-Add 1 banana to a blender
+  - description: Add-1/2 tsp baking powder to a blender
+  - description: Chop-Chop 1 strawberry
+  - description: blitz-blitz the blender for 20 seconds
+  - description: Melt-Melt a small knob of butter in a non-stick frying pan over low-medium
+      heat
+  - description: Pour-Pour three little puddles straight from the blender into the
+      frying pan
+  - description: Cook-Cook for 1 min or until the tops start to bubble
+  - description: Flip-Flip the pancakes with a fork or a fish slice spatula
+  - description: cook-cook for 20-30 seconds more
+  - description: Transfer-Transfer to a plate
+  - description: Serve-Serve the pancakes with chopped strawberries
+  - description: splash-splash maple syrup on plate
+- activity_id: 21
+  environment: null
+  id: '21_16'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Add-1/2 tsp baking powder to a blender
+  - description: Add-1 heaped tbsp flour to a blender
+  - description: Add-1 egg to a blender
+  - description: Add-Add 1 banana to a blender
+  - description: Chop-Chop 1 strawberry
+  - description: blitz-blitz the blender for 20 seconds
+  - description: Melt-Melt a small knob of butter in a non-stick frying pan over low-medium
+      heat
+  - description: Pour-Pour three little puddles straight from the blender into the
+      frying pan
+  - description: Cook-Cook for 1 min or until the tops start to bubble
+  - description: Flip-Flip the pancakes with a fork or a fish slice spatula
+  - description: cook-cook for 20-30 seconds more
+  - description: Transfer-Transfer to a plate
+  - description: Serve-Serve the pancakes with chopped strawberries
+  - description: splash-splash maple syrup on plate
+- activity_id: 21
+  environment: null
+  id: '21_17'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Add-Add 1 banana to a blender
+  - description: Add-1 egg to a blender
+  - description: Add-1/2 tsp baking powder to a blender
+  - description: Add-1 heaped tbsp flour to a blender
+  - description: blitz-blitz the blender for 20 seconds
+  - description: Chop-Chop 1 strawberry
+  - description: Melt-Melt a small knob of butter in a non-stick frying pan over low-medium
+      heat
+  - description: Pour-Pour three little puddles straight from the blender into the
+      frying pan
+  - description: Cook-Cook for 1 min or until the tops start to bubble
+  - description: Flip-Flip the pancakes with a fork or a fish slice spatula
+  - description: cook-cook for 20-30 seconds more
+  - description: Transfer-Transfer to a plate
+  - description: Serve-Serve the pancakes with chopped strawberries
+  - description: splash-splash maple syrup on plate
+- activity_id: 21
+  environment: null
+  id: '21_18'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Add-Add 1 banana to a blender
+  - description: Chop-Chop 1 strawberry
+  - description: Add-1 egg to a blender
+  - description: Add-1/2 tsp baking powder to a blender
+  - description: Add-1 heaped tbsp flour to a blender
+  - description: blitz-blitz the blender for 20 seconds
+  - description: Melt-Melt a small knob of butter in a non-stick frying pan over low-medium
+      heat
+  - description: Pour-Pour three little puddles straight from the blender into the
+      frying pan
+  - description: Cook-Cook for 1 min or until the tops start to bubble
+  - description: Flip-Flip the pancakes with a fork or a fish slice spatula
+  - description: cook-cook for 20-30 seconds more
+  - description: Transfer-Transfer to a plate
+  - description: Serve-Serve the pancakes with chopped strawberries
+  - description: splash-splash maple syrup on plate
+- activity_id: 21
+  environment: null
+  id: '21_19'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Add-1 heaped tbsp flour to a blender
+  - description: Add-1/2 tsp baking powder to a blender
+  - description: Chop-Chop 1 strawberry
+  - description: Add-Add 1 banana to a blender
+  - description: Add-1 egg to a blender
+  - description: blitz-blitz the blender for 20 seconds
+  - description: Melt-Melt a small knob of butter in a non-stick frying pan over low-medium
+      heat
+  - description: Pour-Pour three little puddles straight from the blender into the
+      frying pan
+  - description: Cook-Cook for 1 min or until the tops start to bubble
+  - description: Flip-Flip the pancakes with a fork or a fish slice spatula
+  - description: cook-cook for 20-30 seconds more
+  - description: Transfer-Transfer to a plate
+  - description: Serve-Serve the pancakes with chopped strawberries
+  - description: splash-splash maple syrup on plate
+- activity_id: 21
+  environment: null
+  id: '21_20'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Add-1 egg to a blender
+  - description: Add-1 heaped tbsp flour to a blender
+  - description: Add-Add 1 banana to a blender
+  - description: Add-1/2 tsp baking powder to a blender
+  - description: blitz-blitz the blender for 20 seconds
+  - description: Melt-Melt a small knob of butter in a non-stick frying pan over low-medium
+      heat
+  - description: Pour-Pour three little puddles straight from the blender into the
+      frying pan
+  - description: Cook-Cook for 1 min or until the tops start to bubble
+  - description: Flip-Flip the pancakes with a fork or a fish slice spatula
+  - description: cook-cook for 20-30 seconds more
+  - description: Transfer-Transfer to a plate
+  - description: Chop-Chop 1 strawberry
+  - description: Serve-Serve the pancakes with chopped strawberries
+  - description: splash-splash maple syrup on plate
+- activity_id: 21
+  environment: null
+  id: '21_21'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Add-1 heaped tbsp flour to a blender
+  - description: Chop-Chop 1 strawberry
+  - description: Add-1 egg to a blender
+  - description: Add-1/2 tsp baking powder to a blender
+  - description: Add-Add 1 banana to a blender
+  - description: blitz-blitz the blender for 20 seconds
+  - description: Melt-Melt a small knob of butter in a non-stick frying pan over low-medium
+      heat
+  - description: Pour-Pour three little puddles straight from the blender into the
+      frying pan
+  - description: Cook-Cook for 1 min or until the tops start to bubble
+  - description: Flip-Flip the pancakes with a fork or a fish slice spatula
+  - description: cook-cook for 20-30 seconds more
+  - description: Transfer-Transfer to a plate
+  - description: Serve-Serve the pancakes with chopped strawberries
+  - description: splash-splash maple syrup on plate
+- activity_id: 21
+  environment: null
+  id: '21_22'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Add-Add 1 banana to a blender
+  - description: Add-1 egg to a blender
+  - description: Add-1/2 tsp baking powder to a blender
+  - description: Add-1 heaped tbsp flour to a blender
+  - description: blitz-blitz the blender for 20 seconds
+  - description: Melt-Melt a small knob of butter in a non-stick frying pan over low-medium
+      heat
+  - description: Pour-Pour three little puddles straight from the blender into the
+      frying pan
+  - description: Cook-Cook for 1 min or until the tops start to bubble
+  - description: Flip-Flip the pancakes with a fork or a fish slice spatula
+  - description: cook-cook for 20-30 seconds more
+  - description: Transfer-Transfer to a plate
+  - description: Chop-Chop 1 strawberry
+  - description: Serve-Serve the pancakes with chopped strawberries
+  - description: splash-splash maple syrup on plate
+- activity_id: 21
+  environment: null
+  id: '21_23'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Add-1 egg to a blender
+  - description: Add-1 heaped tbsp flour to a blender
+  - description: Add-1/2 tsp baking powder to a blender
+  - description: Add-Add 1 banana to a blender
+  - description: Chop-Chop 1 strawberry
+  - description: blitz-blitz the blender for 20 seconds
+  - description: Melt-Melt a small knob of butter in a non-stick frying pan over low-medium heat
+  - description: Pour-Pour three little puddles straight from the blender into the frying pan
+  - description: Cook-Cook for 1 min or until the tops start to bubble
+  - description: Flip-Flip the pancakes with a fork or a fish slice spatula
+  - description: cook-cook for 20-30 seconds more
+  - description: Transfer-Transfer to a plate
+  - description: Serve-Serve the pancakes with chopped strawberries
+  - description: splash-splash maple syrup on plate
+- activity_id: 21
+  environment: null
+  errors:
+  - description: Flip-Flip the pancakes with a fork or a fish slice spatula
+    tag: Missing Step
+  id: '21_26'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Add-1 heaped tbsp flour to a blender
+  - description: Add-1/2 tsp baking powder to a blender
+  - description: Add-Add 1 banana to a blender
+  - description: Chop-Chop 1 strawberry
+  - description: Add-1 egg to a blender
+  - description: blitz-blitz the blender for 20 seconds
+  - description: Melt-Melt a small knob of butter in a non-stick frying pan over low-medium
+      heat
+  - description: Pour-Pour three little puddles straight from the blender into the
+      frying pan
+  - description: Cook-Cook for 1 min or until the tops start to bubble
+  - description: cook-cook for 20-30 seconds more
+  - description: Transfer-Transfer to a plate
+  - description: Serve-Serve the pancakes with chopped strawberries
+  - description: splash-splash maple syrup on plate
+- activity_id: 21
+  environment: null
+  errors:
+  - description: Add-1 egg to a blender
+    tag: Missing Step
+  id: '21_27'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Add-1/2 tsp baking powder to a blender
+  - description: Add-Add 1 banana to a blender
+  - description: Add-1 heaped tbsp flour to a blender
+  - description: blitz-blitz the blender for 20 seconds
+  - description: Melt-Melt a small knob of butter in a non-stick frying pan over low-medium
+      heat
+  - description: Pour-Pour three little puddles straight from the blender into the
+      frying pan
+  - description: Cook-Cook for 1 min or until the tops start to bubble
+  - description: Flip-Flip the pancakes with a fork or a fish slice spatula
+  - description: cook-cook for 20-30 seconds more
+  - description: Chop-Chop 1 strawberry
+  - description: Transfer-Transfer to a plate
+  - description: Serve-Serve the pancakes with chopped strawberries
+  - description: splash-splash maple syrup on plate
+- activity_id: 21
+  environment: null
+  errors:
+  - description: Add-1/2 tsp baking powder to a blender
+    tag: Missing Step
+  id: '21_28'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Add-1 egg to a blender
+  - description: Add-1 heaped tbsp flour to a blender
+  - description: Add-Add 1 banana to a blender
+  - description: blitz-blitz the blender for 20 seconds
+  - description: Melt-Melt a small knob of butter in a non-stick frying pan over low-medium
+      heat
+  - description: Pour-Pour three little puddles straight from the blender into the
+      frying pan
+  - description: Cook-Cook for 1 min or until the tops start to bubble
+  - description: Flip-Flip the pancakes with a fork or a fish slice spatula
+  - description: cook-cook for 20-30 seconds more
+  - description: Chop-Chop 1 strawberry
+  - description: Transfer-Transfer to a plate
+  - description: Serve-Serve the pancakes with chopped strawberries
+  - description: splash-splash maple syrup on plate
+- activity_id: 21
+  environment: null
+  errors:
+  - description: Add-Add 1 banana to a blender
+    tag: Missing Step
+  id: '21_29'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Add-1 heaped tbsp flour to a blender
+  - description: Add-1 egg to a blender
+  - description: Add-1/2 tsp baking powder to a blender
+  - description: blitz-blitz the blender for 20 seconds
+  - description: Melt-Melt a small knob of butter in a non-stick frying pan over low-medium
+      heat
+  - description: Pour-Pour three little puddles straight from the blender into the
+      frying pan
+  - description: Cook-Cook for 1 min or until the tops start to bubble
+  - description: Chop-Chop 1 strawberry
+  - description: Flip-Flip the pancakes with a fork or a fish slice spatula
+  - description: cook-cook for 20-30 seconds more
+  - description: Transfer-Transfer to a plate
+  - description: Serve-Serve the pancakes with chopped strawberries
+  - description: splash-splash maple syrup on plate
+- activity_id: 21
+  environment: null
+  errors:
+  - description: Add-1/2 tsp baking powder to a blender
+    tag: Missing Step
+  - description: Flip-Flip the pancakes with a fork or a fish slice spatula
+    tag: Missing Step
+  id: '21_30'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Add-Add 1 banana to a blender
+  - description: Add-1 egg to a blender
+  - description: Add-1 heaped tbsp flour to a blender
+  - description: blitz-blitz the blender for 20 seconds
+  - description: Melt-Melt a small knob of butter in a non-stick frying pan over low-medium
+      heat
+  - description: Pour-Pour three little puddles straight from the blender into the
+      frying pan
+  - description: Cook-Cook for 1 min or until the tops start to bubble
+  - description: cook-cook for 20-30 seconds more
+  - description: Transfer-Transfer to a plate
+  - description: Chop-Chop 1 strawberry
+  - description: Serve-Serve the pancakes with chopped strawberries
+  - description: splash-splash maple syrup on plate
+- activity_id: 21
+  environment: null
+  errors:
+  - description: Add-1 heaped tbsp flour to a blender
+    tag: Missing Step
+  - description: Add-1 egg to a blender
+    tag: Missing Step
+  id: '21_31'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Add-Add 1 banana to a blender
+  - description: Chop-Chop 1 strawberry
+  - description: Add-1/2 tsp baking powder to a blender
+  - description: blitz-blitz the blender for 20 seconds
+  - description: Melt-Melt a small knob of butter in a non-stick frying pan over low-medium
+      heat
+  - description: Pour-Pour three little puddles straight from the blender into the
+      frying pan
+  - description: Cook-Cook for 1 min or until the tops start to bubble
+  - description: Flip-Flip the pancakes with a fork or a fish slice spatula
+  - description: cook-cook for 20-30 seconds more
+  - description: Transfer-Transfer to a plate
+  - description: Serve-Serve the pancakes with chopped strawberries
+  - description: splash-splash maple syrup on plate
+- activity_id: 21
+  environment: null
+  errors:
+  - description: Melt-Melt a small knob of butter in a non-stick frying pan over low-medium
+      heat
+    tag: Missing Step
+  - description: Cook-Cook for 1 min or until the tops start to bubble
+    tag: Missing Step
+  id: '21_32'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Add-1 heaped tbsp flour to a blender
+  - description: Add-Add 1 banana to a blender
+  - description: Add-1/2 tsp baking powder to a blender
+  - description: Chop-Chop 1 strawberry
+  - description: Add-1 egg to a blender
+  - description: blitz-blitz the blender for 20 seconds
+  - description: Pour-Pour three little puddles straight from the blender into the
+      frying pan
+  - description: Flip-Flip the pancakes with a fork or a fish slice spatula
+  - description: cook-cook for 20-30 seconds more
+  - description: Transfer-Transfer to a plate
+  - description: Serve-Serve the pancakes with chopped strawberries
+  - description: splash-splash maple syrup on plate
+- activity_id: 21
+  environment: null
+  errors:
+  - description: Melt-Melt a small knob of butter in a non-stick frying pan over low-medium
+      heat
+    tag: Missing Step
+  - description: cook-cook for 20-30 seconds more
+    tag: Missing Step
+  id: '21_33'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Add-1 egg to a blender
+  - description: Add-1 heaped tbsp flour to a blender
+  - description: Add-Add 1 banana to a blender
+  - description: Add-1/2 tsp baking powder to a blender
+  - description: blitz-blitz the blender for 20 seconds
+  - description: Pour-Pour three little puddles straight from the blender into the
+      frying pan
+  - description: Cook-Cook for 1 min or until the tops start to bubble
+  - description: Flip-Flip the pancakes with a fork or a fish slice spatula
+  - description: Chop-Chop 1 strawberry
+  - description: Transfer-Transfer to a plate
+  - description: Serve-Serve the pancakes with chopped strawberries
+  - description: splash-splash maple syrup on plate
+- activity_id: 21
+  environment: null
+  errors:
+  - description: Add-1/2 tsp baking powder to a blender
+    tag: Missing Step
+  id: '21_34'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Add-1 egg to a blender
+  - description: Add-Add 1 banana to a blender
+  - description: Add-1 heaped tbsp flour to a blender
+  - description: blitz-blitz the blender for 20 seconds
+  - description: Melt-Melt a small knob of butter in a non-stick frying pan over low-medium
+      heat
+  - description: Pour-Pour three little puddles straight from the blender into the
+      frying pan
+  - description: Chop-Chop 1 strawberry
+  - description: Cook-Cook for 1 min or until the tops start to bubble
+  - description: Flip-Flip the pancakes with a fork or a fish slice spatula
+  - description: cook-cook for 20-30 seconds more
+  - description: Transfer-Transfer to a plate
+  - description: Serve-Serve the pancakes with chopped strawberries
+  - description: splash-splash maple syrup on plate
+- activity_id: 21
+  environment: null
+  errors:
+  - description: Add-1/2 tsp baking powder to a blender
+    tag: Missing Step
+  - description: cook-cook for 20-30 seconds more
+    tag: Missing Step
+  id: '21_35'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Add-1 egg to a blender
+  - description: Chop-Chop 1 strawberry
+  - description: Add-Add 1 banana to a blender
+  - description: Add-1 heaped tbsp flour to a blender
+  - description: blitz-blitz the blender for 20 seconds
+  - description: Melt-Melt a small knob of butter in a non-stick frying pan over low-medium
+      heat
+  - description: Pour-Pour three little puddles straight from the blender into the
+      frying pan
+  - description: Cook-Cook for 1 min or until the tops start to bubble
+  - description: Flip-Flip the pancakes with a fork or a fish slice spatula
+  - description: Transfer-Transfer to a plate
+  - description: Serve-Serve the pancakes with chopped strawberries
+  - description: splash-splash maple syrup on plate
+- activity_id: 21
+  environment: null
+  errors:
+  - description: Add-Add 1 banana to a blender
+    tag: Missing Step
+  id: '21_36'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Add-1 egg to a blender
+  - description: Add-1/2 tsp baking powder to a blender
+  - description: Add-1 heaped tbsp flour to a blender
+  - description: blitz-blitz the blender for 20 seconds
+  - description: Melt-Melt a small knob of butter in a non-stick frying pan over low-medium
+      heat
+  - description: Pour-Pour three little puddles straight from the blender into the
+      frying pan
+  - description: Chop-Chop 1 strawberry
+  - description: Cook-Cook for 1 min or until the tops start to bubble
+  - description: Flip-Flip the pancakes with a fork or a fish slice spatula
+  - description: cook-cook for 20-30 seconds more
+  - description: Transfer-Transfer to a plate
+  - description: Serve-Serve the pancakes with chopped strawberries
+  - description: splash-splash maple syrup on plate
+- activity_id: 21
+  environment: null
+  errors:
+  - description: Chop-Chop 1 strawberry
+    tag: Missing Step
+  - description: Serve-Serve the pancakes with chopped strawberries
+    tag: Missing Step
+  id: '21_37'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Add-1 egg to a blender
+  - description: Add-Add 1 banana to a blender
+  - description: Add-1 heaped tbsp flour to a blender
+  - description: Add-1/2 tsp baking powder to a blender
+  - description: blitz-blitz the blender for 20 seconds
+  - description: Melt-Melt a small knob of butter in a non-stick frying pan over low-medium
+      heat
+  - description: Pour-Pour three little puddles straight from the blender into the
+      frying pan
+  - description: Cook-Cook for 1 min or until the tops start to bubble
+  - description: Flip-Flip the pancakes with a fork or a fish slice spatula
+  - description: cook-cook for 20-30 seconds more
+  - description: Transfer-Transfer to a plate
+  - description: splash-splash maple syrup on plate
+- activity_id: 21
+  environment: null
+  errors:
+  - description: Add-1 egg to a blender
+    tag: Missing Step
+  - description: Melt-Melt a small knob of butter in a non-stick frying pan over low-medium
+      heat
+    tag: Missing Step
+  id: '21_38'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Add-1/2 tsp baking powder to a blender
+  - description: Add-1 heaped tbsp flour to a blender
+  - description: Add-Add 1 banana to a blender
+  - description: blitz-blitz the blender for 20 seconds
+  - description: Chop-Chop 1 strawberry
+  - description: Pour-Pour three little puddles straight from the blender into the
+      frying pan
+  - description: Cook-Cook for 1 min or until the tops start to bubble
+  - description: Flip-Flip the pancakes with a fork or a fish slice spatula
+  - description: cook-cook for 20-30 seconds more
+  - description: Transfer-Transfer to a plate
+  - description: Serve-Serve the pancakes with chopped strawberries
+  - description: splash-splash maple syrup on plate
+- activity_id: 21
+  environment: null
+  errors:
+  - description: Add-1 heaped tbsp flour to a blender
+    tag: Missing Step
+  - description: Melt-Melt a small knob of butter in a non-stick frying pan over low-medium
+      heat
+    tag: Missing Step
+  id: '21_39'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Add-Add 1 banana to a blender
+  - description: Add-1/2 tsp baking powder to a blender
+  - description: Add-1 egg to a blender
+  - description: blitz-blitz the blender for 20 seconds
+  - description: Chop-Chop 1 strawberry
+  - description: Pour-Pour three little puddles straight from the blender into the
+      frying pan
+  - description: Cook-Cook for 1 min or until the tops start to bubble
+  - description: Flip-Flip the pancakes with a fork or a fish slice spatula
+  - description: cook-cook for 20-30 seconds more
+  - description: Transfer-Transfer to a plate
+  - description: Serve-Serve the pancakes with chopped strawberries
+  - description: splash-splash maple syrup on plate
+- activity_id: 21
+  environment: null
+  errors:
+  - description: Melt-Melt a small knob of butter in a non-stick frying pan over low-medium
+      heat
+    tag: Missing Step
+  - tag: Order Error
+  id: '21_40'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Add-1/2 tsp baking powder to a blender
+  - description: Chop-Chop 1 strawberry
+  - description: Add-1 egg to a blender
+  - description: Add-Add 1 banana to a blender
+  - description: blitz-blitz the blender for 20 seconds
+  - description: Add-1 heaped tbsp flour to a blender
+  - description: Pour-Pour three little puddles straight from the blender into the
+      frying pan
+  - description: Cook-Cook for 1 min or until the tops start to bubble
+  - description: Flip-Flip the pancakes with a fork or a fish slice spatula
+  - description: cook-cook for 20-30 seconds more
+  - description: Transfer-Transfer to a plate
+  - description: Serve-Serve the pancakes with chopped strawberries
+  - description: splash-splash maple syrup on plate
+- activity_id: 21
+  environment: null
+  errors:
+  - description: splash-splash maple syrup on plate
+    tag: Missing Step
+  - tag: Order Error
+  id: '21_41'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Add-1 heaped tbsp flour to a blender
+  - description: Add-1/2 tsp baking powder to a blender
+  - description: Add-Add 1 banana to a blender
+  - description: Melt-Melt a small knob of butter in a non-stick frying pan over low-medium
+      heat
+  - description: blitz-blitz the blender for 20 seconds
+  - description: Add-1 egg to a blender
+  - description: Pour-Pour three little puddles straight from the blender into the
+      frying pan
+  - description: Cook-Cook for 1 min or until the tops start to bubble
+  - description: Flip-Flip the pancakes with a fork or a fish slice spatula
+  - description: Chop-Chop 1 strawberry
+  - description: cook-cook for 20-30 seconds more
+  - description: Transfer-Transfer to a plate
+  - description: Serve-Serve the pancakes with chopped strawberries
+- activity_id: 21
+  environment: null
+  errors:
+  - tag: Order Error
+  id: '21_42'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Melt-Melt a small knob of butter in a non-stick frying pan over low-medium
+      heat
+  - description: Add-Add 1 banana to a blender
+  - description: Add-1 heaped tbsp flour to a blender
+  - description: Add-1 egg to a blender
+  - description: blitz-blitz the blender for 20 seconds
+  - description: Add-1/2 tsp baking powder to a blender
+  - description: Pour-Pour three little puddles straight from the blender into the
+      frying pan
+  - description: Cook-Cook for 1 min or until the tops start to bubble
+  - description: Flip-Flip the pancakes with a fork or a fish slice spatula
+  - description: cook-cook for 20-30 seconds more
+  - description: Chop-Chop 1 strawberry
+  - description: Transfer-Transfer to a plate
+  - description: Serve-Serve the pancakes with chopped strawberries
+  - description: splash-splash maple syrup on plate
+- activity_id: 21
+  environment: null
+  errors:
+  - tag: Order Error
+  id: '21_43'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Add-1/2 tsp baking powder to a blender
+  - description: Add-Add 1 banana to a blender
+  - description: Add-1 egg to a blender
+  - description: Add-1 heaped tbsp flour to a blender
+  - description: blitz-blitz the blender for 20 seconds
+  - description: Melt-Melt a small knob of butter in a non-stick frying pan over low-medium
+      heat
+  - description: Chop-Chop 1 strawberry
+  - description: Pour-Pour three little puddles straight from the blender into the
+      frying pan
+  - description: Cook-Cook for 1 min or until the tops start to bubble
+  - description: Flip-Flip the pancakes with a fork or a fish slice spatula
+  - description: cook-cook for 20-30 seconds more
+  - description: splash-splash maple syrup on plate
+  - description: Transfer-Transfer to a plate
+  - description: Serve-Serve the pancakes with chopped strawberries
+- activity_id: 21
+  environment: null
+  errors:
+  - tag: Order Error
+  id: '21_44'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Add-1/2 tsp baking powder to a blender
+  - description: Add-1 heaped tbsp flour to a blender
+  - description: Chop-Chop 1 strawberry
+  - description: splash-splash maple syrup on plate
+  - description: Add-Add 1 banana to a blender
+  - description: blitz-blitz the blender for 20 seconds
+  - description: Melt-Melt a small knob of butter in a non-stick frying pan over low-medium
+      heat
+  - description: Pour-Pour three little puddles straight from the blender into the
+      frying pan
+  - description: Cook-Cook for 1 min or until the tops start to bubble
+  - description: Flip-Flip the pancakes with a fork or a fish slice spatula
+  - description: cook-cook for 20-30 seconds more
+  - description: Transfer-Transfer to a plate
+  - description: Serve-Serve the pancakes with chopped strawberries
+  - description: Add-1 egg to a blender
+- activity_id: 21
+  environment: null
+  errors:
+  - tag: Order Error
+  id: '21_45'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Add-1/2 tsp baking powder to a blender
+  - description: Melt-Melt a small knob of butter in a non-stick frying pan over low-medium
+      heat
+  - description: Add-1 egg to a blender
+  - description: Transfer-Transfer to a plate
+  - description: Add-Add 1 banana to a blender
+  - description: blitz-blitz the blender for 20 seconds
+  - description: Chop-Chop 1 strawberry
+  - description: Pour-Pour three little puddles straight from the blender into the
+      frying pan
+  - description: Cook-Cook for 1 min or until the tops start to bubble
+  - description: Flip-Flip the pancakes with a fork or a fish slice spatula
+  - description: cook-cook for 20-30 seconds more
+  - description: Add-1 heaped tbsp flour to a blender
+  - description: Serve-Serve the pancakes with chopped strawberries
+  - description: splash-splash maple syrup on plate
+- activity_id: 21
+  environment: null
+  errors:
+  - tag: Order Error
+  id: '21_46'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Add-Add 1 banana to a blender
+  - description: Add-1/2 tsp baking powder to a blender
+  - description: Add-1 egg to a blender
+  - description: Add-1 heaped tbsp flour to a blender
+  - description: Chop-Chop 1 strawberry
+  - description: blitz-blitz the blender for 20 seconds
+  - description: Melt-Melt a small knob of butter in a non-stick frying pan over low-medium
+      heat
+  - description: splash-splash maple syrup on plate
+  - description: Pour-Pour three little puddles straight from the blender into the
+      frying pan
+  - description: Cook-Cook for 1 min or until the tops start to bubble
+  - description: Flip-Flip the pancakes with a fork or a fish slice spatula
+  - description: cook-cook for 20-30 seconds more
+  - description: Transfer-Transfer to a plate
+  - description: Serve-Serve the pancakes with chopped strawberries
+- activity_id: 21
+  environment: null
+  errors:
+  - description: splash-splash maple syrup on plate
+    tag: Missing Step
+  - description: Melt-Melt a small knob of butter in a non-stick frying pan over low-medium
+      heat
+    tag: Missing Step
+  - tag: Order Error
+  id: '21_47'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Add-1 heaped tbsp flour to a blender
+  - description: Add-1/2 tsp baking powder to a blender
+  - description: Add-Add 1 banana to a blender
+  - description: Chop-Chop 1 strawberry
+  - description: blitz-blitz the blender for 20 seconds
+  - description: Add-1 egg to a blender
+  - description: Pour-Pour three little puddles straight from the blender into the
+      frying pan
+  - description: Cook-Cook for 1 min or until the tops start to bubble
+  - description: Flip-Flip the pancakes with a fork or a fish slice spatula
+  - description: cook-cook for 20-30 seconds more
+  - description: Transfer-Transfer to a plate
+  - description: Serve-Serve the pancakes with chopped strawberries
+- activity_id: 21
+  environment: null
+  errors:
+  - description: splash-splash maple syrup on plate
+    tag: Missing Step
+  - description: Flip-Flip the pancakes with a fork or a fish slice spatula
+    tag: Missing Step
+  - tag: Order Error
+  id: '21_48'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Add-1 egg to a blender
+  - description: Add-1 heaped tbsp flour to a blender
+  - description: Add-1/2 tsp baking powder to a blender
+  - description: Add-Add 1 banana to a blender
+  - description: Melt-Melt a small knob of butter in a non-stick frying pan over low-medium
+      heat
+  - description: blitz-blitz the blender for 20 seconds
+  - description: Pour-Pour three little puddles straight from the blender into the
+      frying pan
+  - description: Cook-Cook for 1 min or until the tops start to bubble
+  - description: Chop-Chop 1 strawberry
+  - description: cook-cook for 20-30 seconds more
+  - description: Transfer-Transfer to a plate
+  - description: Serve-Serve the pancakes with chopped strawberries
+- activity_id: 21
+  environment: null
+  errors:
+  - description: Serve-Serve the pancakes with chopped strawberries
+    tag: Missing Step
+  - tag: Order Error
+  id: '21_49'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Add-1 heaped tbsp flour to a blender
+  - description: Add-Add 1 banana to a blender
+  - description: Melt-Melt a small knob of butter in a non-stick frying pan over low-medium
+      heat
+  - description: blitz-blitz the blender for 20 seconds
+  - description: Add-1 egg to a blender
+  - description: Add-1/2 tsp baking powder to a blender
+  - description: Pour-Pour three little puddles straight from the blender into the
+      frying pan
+  - description: Cook-Cook for 1 min or until the tops start to bubble
+  - description: Flip-Flip the pancakes with a fork or a fish slice spatula
+  - description: Chop-Chop 1 strawberry
+  - description: cook-cook for 20-30 seconds more
+  - description: Transfer-Transfer to a plate
+  - description: splash-splash maple syrup on plate

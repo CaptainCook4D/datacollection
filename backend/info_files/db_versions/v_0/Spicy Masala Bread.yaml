@@ -1,0 +1,2551 @@
+- activity_id: 14
+  environment: null
+  id: '14_1'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Chop-Chop 1 medium tomato
+  - description: Chop-Chop 1 green chilli
+  - description: Heat-Heat a pan with 1 tbsp oil on medium heat
+  - description: Chop-Chop 3 tbsp cilantro leaves
+  - description: Add-Add 1/2 tsp cumin to the pan
+  - description: Chop-Chop 1/2 medium onion
+  - description: wait-wait till cumin  sizzles on the pan
+  - description: Add-Add chopped chillies and Onions to the pan
+  - description: Wait-Wait until the onion turns golden
+  - description: Add-Add 1 teaspoon of ginger garlic paste to the pan
+  - description: Saute-Saute until the raw smell goes off
+  - description: Add-1/2 tsp garam masala to the pan
+  - description: Add-Add 1 tsp salt to the pan
+  - description: Add-Add chopped tomatoes to the pan
+  - description: Cut-Cut two slices of bread into bite-size pieces
+  - description: Add-3/4 tsp chilli powder to the pan
+  - description: Mix-Mix all ingredients
+  - description: cook-cook until the masala smell leaves the pan
+  - description: Pour-Pour 3 tbsp of water to the pan
+  - description: cook-cook further until water evaporates
+  - description: Transfer-Transfer the bread slices to the pan
+  - description: turn-turn off the stove
+  - description: mix-Gently mix the bread and mixture. Avoid overmixing as the bread
+      gets mushy
+  - description: Sprinkle-Sprinkle 3 tbsp chopped cilantro in the pan
+- activity_id: 14
+  environment: null
+  id: '14_2'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Cut-Cut two slices of bread into bite-size pieces
+  - description: Heat-Heat a pan with 1 tbsp oil on medium heat
+  - description: Chop-Chop 1 medium tomato
+  - description: Chop-Chop 1/2 medium onion
+  - description: Add-Add 1/2 tsp cumin to the pan
+  - description: wait-wait till cumin  sizzles on the pan
+  - description: Chop-Chop 1 green chilli
+  - description: Add-Add chopped chillies and Onions to the pan
+  - description: Wait-Wait until the onion turns golden
+  - description: Add-Add 1 teaspoon of ginger garlic paste to the pan
+  - description: Saute-Saute until the raw smell goes off
+  - description: Add-1/2 tsp garam masala to the pan
+  - description: Add-3/4 tsp chilli powder to the pan
+  - description: Chop-Chop 3 tbsp cilantro leaves
+  - description: Add-Add chopped tomatoes to the pan
+  - description: Add-Add 1 tsp salt to the pan
+  - description: Mix-Mix all ingredients
+  - description: cook-cook until the masala smell leaves the pan
+  - description: Pour-Pour 3 tbsp of water to the pan
+  - description: cook-cook further until water evaporates
+  - description: Transfer-Transfer the bread slices to the pan
+  - description: turn-turn off the stove
+  - description: mix-Gently mix the bread and mixture. Avoid overmixing as the bread
+      gets mushy
+  - description: Sprinkle-Sprinkle 3 tbsp chopped cilantro in the pan
+- activity_id: 14
+  environment: null
+  id: '14_3'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Chop-Chop 1 medium tomato
+  - description: Heat-Heat a pan with 1 tbsp oil on medium heat
+  - description: Add-Add 1/2 tsp cumin to the pan
+  - description: Cut-Cut two slices of bread into bite-size pieces
+  - description: Chop-Chop 3 tbsp cilantro leaves
+  - description: Chop-Chop 1 green chilli
+  - description: wait-wait till cumin  sizzles on the pan
+  - description: Chop-Chop 1/2 medium onion
+  - description: Add-Add chopped chillies and Onions to the pan
+  - description: Wait-Wait until the onion turns golden
+  - description: Add-Add 1 teaspoon of ginger garlic paste to the pan
+  - description: Saute-Saute until the raw smell goes off
+  - description: Add-1/2 tsp garam masala to the pan
+  - description: Add-3/4 tsp chilli powder to the pan
+  - description: Add-Add chopped tomatoes to the pan
+  - description: Add-Add 1 tsp salt to the pan
+  - description: Mix-Mix all ingredients
+  - description: cook-cook until the masala smell leaves the pan
+  - description: Pour-Pour 3 tbsp of water to the pan
+  - description: cook-cook further until water evaporates
+  - description: Transfer-Transfer the bread slices to the pan
+  - description: turn-turn off the stove
+  - description: mix-Gently mix the bread and mixture. Avoid overmixing as the bread
+      gets mushy
+  - description: Sprinkle-Sprinkle 3 tbsp chopped cilantro in the pan
+- activity_id: 14
+  environment: null
+  id: '14_4'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Chop-Chop 1 medium tomato
+  - description: Chop-Chop 1 green chilli
+  - description: Cut-Cut two slices of bread into bite-size pieces
+  - description: Heat-Heat a pan with 1 tbsp oil on medium heat
+  - description: Chop-Chop 3 tbsp cilantro leaves
+  - description: Chop-Chop 1/2 medium onion
+  - description: Add-Add 1/2 tsp cumin to the pan
+  - description: wait-wait till cumin  sizzles on the pan
+  - description: Add-Add chopped chillies and Onions to the pan
+  - description: Wait-Wait until the onion turns golden
+  - description: Add-Add 1 teaspoon of ginger garlic paste to the pan
+  - description: Saute-Saute until the raw smell goes off
+  - description: Add-Add 1 tsp salt to the pan
+  - description: Add-3/4 tsp chilli powder to the pan
+  - description: Add-Add chopped tomatoes to the pan
+  - description: Add-1/2 tsp garam masala to the pan
+  - description: Mix-Mix all ingredients
+  - description: cook-cook until the masala smell leaves the pan
+  - description: Pour-Pour 3 tbsp of water to the pan
+  - description: cook-cook further until water evaporates
+  - description: Transfer-Transfer the bread slices to the pan
+  - description: turn-turn off the stove
+  - description: mix-Gently mix the bread and mixture. Avoid overmixing as the bread
+      gets mushy
+  - description: Sprinkle-Sprinkle 3 tbsp chopped cilantro in the pan
+- activity_id: 14
+  environment: null
+  id: '14_5'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Chop-Chop 1 medium tomato
+  - description: Heat-Heat a pan with 1 tbsp oil on medium heat
+  - description: Add-Add 1/2 tsp cumin to the pan
+  - description: Cut-Cut two slices of bread into bite-size pieces
+  - description: wait-wait till cumin  sizzles on the pan
+  - description: Chop-Chop 1 green chilli
+  - description: Chop-Chop 1/2 medium onion
+  - description: Add-Add chopped chillies and Onions to the pan
+  - description: Wait-Wait until the onion turns golden
+  - description: Add-Add 1 teaspoon of ginger garlic paste to the pan
+  - description: Saute-Saute until the raw smell goes off
+  - description: Add-1/2 tsp garam masala to the pan
+  - description: Add-Add 1 tsp salt to the pan
+  - description: Add-3/4 tsp chilli powder to the pan
+  - description: Add-Add chopped tomatoes to the pan
+  - description: Mix-Mix all ingredients
+  - description: cook-cook until the masala smell leaves the pan
+  - description: Pour-Pour 3 tbsp of water to the pan
+  - description: cook-cook further until water evaporates
+  - description: Chop-Chop 3 tbsp cilantro leaves
+  - description: Transfer-Transfer the bread slices to the pan
+  - description: turn-turn off the stove
+  - description: mix-Gently mix the bread and mixture. Avoid overmixing as the bread
+      gets mushy
+  - description: Sprinkle-Sprinkle 3 tbsp chopped cilantro in the pan
+- activity_id: 14
+  environment: null
+  id: '14_6'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Chop-Chop 1 medium tomato
+  - description: Chop-Chop 1 green chilli
+  - description: Heat-Heat a pan with 1 tbsp oil on medium heat
+  - description: Add-Add 1/2 tsp cumin to the pan
+  - description: wait-wait till cumin  sizzles on the pan
+  - description: Chop-Chop 1/2 medium onion
+  - description: Add-Add chopped chillies and Onions to the pan
+  - description: Wait-Wait until the onion turns golden
+  - description: Chop-Chop 3 tbsp cilantro leaves
+  - description: Add-Add 1 teaspoon of ginger garlic paste to the pan
+  - description: Saute-Saute until the raw smell goes off
+  - description: Add-Add chopped tomatoes to the pan
+  - description: Add-Add 1 tsp salt to the pan
+  - description: Add-3/4 tsp chilli powder to the pan
+  - description: Add-1/2 tsp garam masala to the pan
+  - description: Mix-Mix all ingredients
+  - description: cook-cook until the masala smell leaves the pan
+  - description: Pour-Pour 3 tbsp of water to the pan
+  - description: Cut-Cut two slices of bread into bite-size pieces
+  - description: cook-cook further until water evaporates
+  - description: Transfer-Transfer the bread slices to the pan
+  - description: turn-turn off the stove
+  - description: mix-Gently mix the bread and mixture. Avoid overmixing as the bread
+      gets mushy
+  - description: Sprinkle-Sprinkle 3 tbsp chopped cilantro in the pan
+- activity_id: 14
+  environment: null
+  id: '14_7'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Chop-Chop 1 medium tomato
+  - description: Chop-Chop 1 green chilli
+  - description: Heat-Heat a pan with 1 tbsp oil on medium heat
+  - description: Add-Add 1/2 tsp cumin to the pan
+  - description: wait-wait till cumin  sizzles on the pan
+  - description: Chop-Chop 1/2 medium onion
+  - description: Add-Add chopped chillies and Onions to the pan
+  - description: Cut-Cut two slices of bread into bite-size pieces
+  - description: Chop-Chop 3 tbsp cilantro leaves
+  - description: Wait-Wait until the onion turns golden
+  - description: Add-Add 1 teaspoon of ginger garlic paste to the pan
+  - description: Saute-Saute until the raw smell goes off
+  - description: Add-1/2 tsp garam masala to the pan
+  - description: Add-Add 1 tsp salt to the pan
+  - description: Add-Add chopped tomatoes to the pan
+  - description: Add-3/4 tsp chilli powder to the pan
+  - description: Mix-Mix all ingredients
+  - description: cook-cook until the masala smell leaves the pan
+  - description: Pour-Pour 3 tbsp of water to the pan
+  - description: cook-cook further until water evaporates
+  - description: Transfer-Transfer the bread slices to the pan
+  - description: turn-turn off the stove
+  - description: mix-Gently mix the bread and mixture. Avoid overmixing as the bread
+      gets mushy
+  - description: Sprinkle-Sprinkle 3 tbsp chopped cilantro in the pan
+- activity_id: 14
+  environment: null
+  id: '14_8'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Chop-Chop 1 medium tomato
+  - description: Chop-Chop 1 green chilli
+  - description: Cut-Cut two slices of bread into bite-size pieces
+  - description: Chop-Chop 3 tbsp cilantro leaves
+  - description: Heat-Heat a pan with 1 tbsp oil on medium heat
+  - description: Chop-Chop 1/2 medium onion
+  - description: Add-Add 1/2 tsp cumin to the pan
+  - description: wait-wait till cumin  sizzles on the pan
+  - description: Add-Add chopped chillies and Onions to the pan
+  - description: Wait-Wait until the onion turns golden
+  - description: Add-Add 1 teaspoon of ginger garlic paste to the pan
+  - description: Saute-Saute until the raw smell goes off
+  - description: Add-Add 1 tsp salt to the pan
+  - description: Add-Add chopped tomatoes to the pan
+  - description: Add-3/4 tsp chilli powder to the pan
+  - description: Add-1/2 tsp garam masala to the pan
+  - description: Mix-Mix all ingredients
+  - description: cook-cook until the masala smell leaves the pan
+  - description: Pour-Pour 3 tbsp of water to the pan
+  - description: cook-cook further until water evaporates
+  - description: Transfer-Transfer the bread slices to the pan
+  - description: turn-turn off the stove
+  - description: mix-Gently mix the bread and mixture. Avoid overmixing as the bread
+      gets mushy
+  - description: Sprinkle-Sprinkle 3 tbsp chopped cilantro in the pan
+- activity_id: 14
+  environment: null
+  id: '14_9'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Chop-Chop 1 medium tomato
+  - description: Chop-Chop 1 green chilli
+  - description: Heat-Heat a pan with 1 tbsp oil on medium heat
+  - description: Add-Add 1/2 tsp cumin to the pan
+  - description: wait-wait till cumin  sizzles on the pan
+  - description: Chop-Chop 1/2 medium onion
+  - description: Add-Add chopped chillies and Onions to the pan
+  - description: Cut-Cut two slices of bread into bite-size pieces
+  - description: Wait-Wait until the onion turns golden
+  - description: Add-Add 1 teaspoon of ginger garlic paste to the pan
+  - description: Chop-Chop 3 tbsp cilantro leaves
+  - description: Saute-Saute until the raw smell goes off
+  - description: Add-Add chopped tomatoes to the pan
+  - description: Add-1/2 tsp garam masala to the pan
+  - description: Add-Add 1 tsp salt to the pan
+  - description: Add-3/4 tsp chilli powder to the pan
+  - description: Mix-Mix all ingredients
+  - description: cook-cook until the masala smell leaves the pan
+  - description: Pour-Pour 3 tbsp of water to the pan
+  - description: cook-cook further until water evaporates
+  - description: Transfer-Transfer the bread slices to the pan
+  - description: turn-turn off the stove
+  - description: mix-Gently mix the bread and mixture. Avoid overmixing as the bread
+      gets mushy
+  - description: Sprinkle-Sprinkle 3 tbsp chopped cilantro in the pan
+- activity_id: 14
+  environment: null
+  id: '14_10'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Cut-Cut two slices of bread into bite-size pieces
+  - description: Heat-Heat a pan with 1 tbsp oil on medium heat
+  - description: Chop-Chop 1 medium tomato
+  - description: Chop-Chop 3 tbsp cilantro leaves
+  - description: Add-Add 1/2 tsp cumin to the pan
+  - description: wait-wait till cumin  sizzles on the pan
+  - description: Chop-Chop 1 green chilli
+  - description: Chop-Chop 1/2 medium onion
+  - description: Add-Add chopped chillies and Onions to the pan
+  - description: Wait-Wait until the onion turns golden
+  - description: Add-Add 1 teaspoon of ginger garlic paste to the pan
+  - description: Saute-Saute until the raw smell goes off
+  - description: Add-3/4 tsp chilli powder to the pan
+  - description: Add-Add chopped tomatoes to the pan
+  - description: Add-1/2 tsp garam masala to the pan
+  - description: Add-Add 1 tsp salt to the pan
+  - description: Mix-Mix all ingredients
+  - description: cook-cook until the masala smell leaves the pan
+  - description: Pour-Pour 3 tbsp of water to the pan
+  - description: cook-cook further until water evaporates
+  - description: Transfer-Transfer the bread slices to the pan
+  - description: turn-turn off the stove
+  - description: mix-Gently mix the bread and mixture. Avoid overmixing as the bread
+      gets mushy
+  - description: Sprinkle-Sprinkle 3 tbsp chopped cilantro in the pan
+- activity_id: 14
+  environment: null
+  id: '14_11'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Chop-Chop 1 medium tomato
+  - description: Heat-Heat a pan with 1 tbsp oil on medium heat
+  - description: Chop-Chop 1/2 medium onion
+  - description: Chop-Chop 1 green chilli
+  - description: Cut-Cut two slices of bread into bite-size pieces
+  - description: Add-Add 1/2 tsp cumin to the pan
+  - description: wait-wait till cumin  sizzles on the pan
+  - description: Add-Add chopped chillies and Onions to the pan
+  - description: Wait-Wait until the onion turns golden
+  - description: Add-Add 1 teaspoon of ginger garlic paste to the pan
+  - description: Saute-Saute until the raw smell goes off
+  - description: Add-Add chopped tomatoes to the pan
+  - description: Add-1/2 tsp garam masala to the pan
+  - description: Add-3/4 tsp chilli powder to the pan
+  - description: Add-Add 1 tsp salt to the pan
+  - description: Chop-Chop 3 tbsp cilantro leaves
+  - description: Mix-Mix all ingredients
+  - description: cook-cook until the masala smell leaves the pan
+  - description: Pour-Pour 3 tbsp of water to the pan
+  - description: cook-cook further until water evaporates
+  - description: Transfer-Transfer the bread slices to the pan
+  - description: turn-turn off the stove
+  - description: mix-Gently mix the bread and mixture. Avoid overmixing as the bread
+      gets mushy
+  - description: Sprinkle-Sprinkle 3 tbsp chopped cilantro in the pan
+- activity_id: 14
+  environment: null
+  id: '14_12'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Cut-Cut two slices of bread into bite-size pieces
+  - description: Heat-Heat a pan with 1 tbsp oil on medium heat
+  - description: Add-Add 1/2 tsp cumin to the pan
+  - description: Chop-Chop 3 tbsp cilantro leaves
+  - description: wait-wait till cumin  sizzles on the pan
+  - description: Chop-Chop 1 green chilli
+  - description: Chop-Chop 1/2 medium onion
+  - description: Chop-Chop 1 medium tomato
+  - description: Add-Add chopped chillies and Onions to the pan
+  - description: Wait-Wait until the onion turns golden
+  - description: Add-Add 1 teaspoon of ginger garlic paste to the pan
+  - description: Saute-Saute until the raw smell goes off
+  - description: Add-Add chopped tomatoes to the pan
+  - description: Add-Add 1 tsp salt to the pan
+  - description: Add-1/2 tsp garam masala to the pan
+  - description: Add-3/4 tsp chilli powder to the pan
+  - description: Mix-Mix all ingredients
+  - description: cook-cook until the masala smell leaves the pan
+  - description: Pour-Pour 3 tbsp of water to the pan
+  - description: cook-cook further until water evaporates
+  - description: Transfer-Transfer the bread slices to the pan
+  - description: turn-turn off the stove
+  - description: mix-Gently mix the bread and mixture. Avoid overmixing as the bread
+      gets mushy
+  - description: Sprinkle-Sprinkle 3 tbsp chopped cilantro in the pan
+- activity_id: 14
+  environment: null
+  id: '14_13'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Chop-Chop 1 medium tomato
+  - description: Heat-Heat a pan with 1 tbsp oil on medium heat
+  - description: Chop-Chop 1/2 medium onion
+  - description: Cut-Cut two slices of bread into bite-size pieces
+  - description: Add-Add 1/2 tsp cumin to the pan
+  - description: Chop-Chop 1 green chilli
+  - description: wait-wait till cumin  sizzles on the pan
+  - description: Add-Add chopped chillies and Onions to the pan
+  - description: Wait-Wait until the onion turns golden
+  - description: Add-Add 1 teaspoon of ginger garlic paste to the pan
+  - description: Saute-Saute until the raw smell goes off
+  - description: Add-Add 1 tsp salt to the pan
+  - description: Add-1/2 tsp garam masala to the pan
+  - description: Add-3/4 tsp chilli powder to the pan
+  - description: Add-Add chopped tomatoes to the pan
+  - description: Mix-Mix all ingredients
+  - description: cook-cook until the masala smell leaves the pan
+  - description: Chop-Chop 3 tbsp cilantro leaves
+  - description: Pour-Pour 3 tbsp of water to the pan
+  - description: cook-cook further until water evaporates
+  - description: Transfer-Transfer the bread slices to the pan
+  - description: turn-turn off the stove
+  - description: mix-Gently mix the bread and mixture. Avoid overmixing as the bread
+      gets mushy
+  - description: Sprinkle-Sprinkle 3 tbsp chopped cilantro in the pan
+- activity_id: 14
+  environment: null
+  id: '14_14'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Chop-Chop 1 medium tomato
+  - description: Chop-Chop 1 green chilli
+  - description: Heat-Heat a pan with 1 tbsp oil on medium heat
+  - description: Add-Add 1/2 tsp cumin to the pan
+  - description: Cut-Cut two slices of bread into bite-size pieces
+  - description: Chop-Chop 1/2 medium onion
+  - description: wait-wait till cumin  sizzles on the pan
+  - description: Add-Add chopped chillies and Onions to the pan
+  - description: Wait-Wait until the onion turns golden
+  - description: Add-Add 1 teaspoon of ginger garlic paste to the pan
+  - description: Chop-Chop 3 tbsp cilantro leaves
+  - description: Saute-Saute until the raw smell goes off
+  - description: Add-Add 1 tsp salt to the pan
+  - description: Add-3/4 tsp chilli powder to the pan
+  - description: Add-Add chopped tomatoes to the pan
+  - description: Add-1/2 tsp garam masala to the pan
+  - description: Mix-Mix all ingredients
+  - description: cook-cook until the masala smell leaves the pan
+  - description: Pour-Pour 3 tbsp of water to the pan
+  - description: cook-cook further until water evaporates
+  - description: Transfer-Transfer the bread slices to the pan
+  - description: turn-turn off the stove
+  - description: mix-Gently mix the bread and mixture. Avoid overmixing as the bread
+      gets mushy
+  - description: Sprinkle-Sprinkle 3 tbsp chopped cilantro in the pan
+- activity_id: 14
+  environment: null
+  id: '14_15'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Cut-Cut two slices of bread into bite-size pieces
+  - description: Heat-Heat a pan with 1 tbsp oil on medium heat
+  - description: Add-Add 1/2 tsp cumin to the pan
+  - description: Chop-Chop 3 tbsp cilantro leaves
+  - description: wait-wait till cumin  sizzles on the pan
+  - description: Chop-Chop 1/2 medium onion
+  - description: Chop-Chop 1 green chilli
+  - description: Add-Add chopped chillies and Onions to the pan
+  - description: Wait-Wait until the onion turns golden
+  - description: Add-Add 1 teaspoon of ginger garlic paste to the pan
+  - description: Chop-Chop 1 medium tomato
+  - description: Saute-Saute until the raw smell goes off
+  - description: Add-Add 1 tsp salt to the pan
+  - description: Add-1/2 tsp garam masala to the pan
+  - description: Add-Add chopped tomatoes to the pan
+  - description: Add-3/4 tsp chilli powder to the pan
+  - description: Mix-Mix all ingredients
+  - description: cook-cook until the masala smell leaves the pan
+  - description: Pour-Pour 3 tbsp of water to the pan
+  - description: cook-cook further until water evaporates
+  - description: Transfer-Transfer the bread slices to the pan
+  - description: turn-turn off the stove
+  - description: mix-Gently mix the bread and mixture. Avoid overmixing as the bread
+      gets mushy
+  - description: Sprinkle-Sprinkle 3 tbsp chopped cilantro in the pan
+- activity_id: 14
+  environment: null
+  id: '14_16'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Chop-Chop 1 medium tomato
+  - description: Heat-Heat a pan with 1 tbsp oil on medium heat
+  - description: Add-Add 1/2 tsp cumin to the pan
+  - description: Chop-Chop 1/2 medium onion
+  - description: Chop-Chop 1 green chilli
+  - description: Cut-Cut two slices of bread into bite-size pieces
+  - description: wait-wait till cumin  sizzles on the pan
+  - description: Add-Add chopped chillies and Onions to the pan
+  - description: Wait-Wait until the onion turns golden
+  - description: Add-Add 1 teaspoon of ginger garlic paste to the pan
+  - description: Saute-Saute until the raw smell goes off
+  - description: Add-Add chopped tomatoes to the pan
+  - description: Add-1/2 tsp garam masala to the pan
+  - description: Add-3/4 tsp chilli powder to the pan
+  - description: Add-Add 1 tsp salt to the pan
+  - description: Mix-Mix all ingredients
+  - description: cook-cook until the masala smell leaves the pan
+  - description: Chop-Chop 3 tbsp cilantro leaves
+  - description: Pour-Pour 3 tbsp of water to the pan
+  - description: cook-cook further until water evaporates
+  - description: Transfer-Transfer the bread slices to the pan
+  - description: turn-turn off the stove
+  - description: mix-Gently mix the bread and mixture. Avoid overmixing as the bread
+      gets mushy
+  - description: Sprinkle-Sprinkle 3 tbsp chopped cilantro in the pan
+- activity_id: 14
+  environment: null
+  id: '14_17'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Cut-Cut two slices of bread into bite-size pieces
+  - description: Heat-Heat a pan with 1 tbsp oil on medium heat
+  - description: Chop-Chop 1 medium tomato
+  - description: Chop-Chop 3 tbsp cilantro leaves
+  - description: Chop-Chop 1/2 medium onion
+  - description: Add-Add 1/2 tsp cumin to the pan
+  - description: wait-wait till cumin  sizzles on the pan
+  - description: Chop-Chop 1 green chilli
+  - description: Add-Add chopped chillies and Onions to the pan
+  - description: Wait-Wait until the onion turns golden
+  - description: Add-Add 1 teaspoon of ginger garlic paste to the pan
+  - description: Saute-Saute until the raw smell goes off
+  - description: Add-Add 1 tsp salt to the pan
+  - description: Add-1/2 tsp garam masala to the pan
+  - description: Add-Add chopped tomatoes to the pan
+  - description: Add-3/4 tsp chilli powder to the pan
+  - description: Mix-Mix all ingredients
+  - description: cook-cook until the masala smell leaves the pan
+  - description: Pour-Pour 3 tbsp of water to the pan
+  - description: cook-cook further until water evaporates
+  - description: Transfer-Transfer the bread slices to the pan
+  - description: turn-turn off the stove
+  - description: mix-Gently mix the bread and mixture. Avoid overmixing as the bread
+      gets mushy
+  - description: Sprinkle-Sprinkle 3 tbsp chopped cilantro in the pan
+- activity_id: 14
+  environment: null
+  id: '14_18'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Chop-Chop 1 medium tomato
+  - description: Chop-Chop 1 green chilli
+  - description: Heat-Heat a pan with 1 tbsp oil on medium heat
+  - description: Add-Add 1/2 tsp cumin to the pan
+  - description: wait-wait till cumin  sizzles on the pan
+  - description: Chop-Chop 1/2 medium onion
+  - description: Add-Add chopped chillies and Onions to the pan
+  - description: Cut-Cut two slices of bread into bite-size pieces
+  - description: Wait-Wait until the onion turns golden
+  - description: Add-Add 1 teaspoon of ginger garlic paste to the pan
+  - description: Saute-Saute until the raw smell goes off
+  - description: Chop-Chop 3 tbsp cilantro leaves
+  - description: Add-Add 1 tsp salt to the pan
+  - description: Add-3/4 tsp chilli powder to the pan
+  - description: Add-1/2 tsp garam masala to the pan
+  - description: Add-Add chopped tomatoes to the pan
+  - description: Mix-Mix all ingredients
+  - description: cook-cook until the masala smell leaves the pan
+  - description: Pour-Pour 3 tbsp of water to the pan
+  - description: cook-cook further until water evaporates
+  - description: Transfer-Transfer the bread slices to the pan
+  - description: turn-turn off the stove
+  - description: mix-Gently mix the bread and mixture. Avoid overmixing as the bread
+      gets mushy
+  - description: Sprinkle-Sprinkle 3 tbsp chopped cilantro in the pan
+- activity_id: 14
+  environment: null
+  id: '14_19'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Cut-Cut two slices of bread into bite-size pieces
+  - description: Heat-Heat a pan with 1 tbsp oil on medium heat
+  - description: Add-Add 1/2 tsp cumin to the pan
+  - description: Chop-Chop 1 green chilli
+  - description: Chop-Chop 1/2 medium onion
+  - description: wait-wait till cumin  sizzles on the pan
+  - description: Chop-Chop 1 medium tomato
+  - description: Add-Add chopped chillies and Onions to the pan
+  - description: Wait-Wait until the onion turns golden
+  - description: Add-Add 1 teaspoon of ginger garlic paste to the pan
+  - description: Saute-Saute until the raw smell goes off
+  - description: Add-1/2 tsp garam masala to the pan
+  - description: Chop-Chop 3 tbsp cilantro leaves
+  - description: Add-Add chopped tomatoes to the pan
+  - description: Add-Add 1 tsp salt to the pan
+  - description: Add-3/4 tsp chilli powder to the pan
+  - description: Mix-Mix all ingredients
+  - description: cook-cook until the masala smell leaves the pan
+  - description: Pour-Pour 3 tbsp of water to the pan
+  - description: cook-cook further until water evaporates
+  - description: Transfer-Transfer the bread slices to the pan
+  - description: turn-turn off the stove
+  - description: mix-Gently mix the bread and mixture. Avoid overmixing as the bread
+      gets mushy
+  - description: Sprinkle-Sprinkle 3 tbsp chopped cilantro in the pan
+- activity_id: 14
+  environment: null
+  id: '14_20'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Chop-Chop 1 medium tomato
+  - description: Heat-Heat a pan with 1 tbsp oil on medium heat
+  - description: Add-Add 1/2 tsp cumin to the pan
+  - description: Chop-Chop 1/2 medium onion
+  - description: Chop-Chop 1 green chilli
+  - description: wait-wait till cumin  sizzles on the pan
+  - description: Chop-Chop 3 tbsp cilantro leaves
+  - description: Add-Add chopped chillies and Onions to the pan
+  - description: Wait-Wait until the onion turns golden
+  - description: Cut-Cut two slices of bread into bite-size pieces
+  - description: Add-Add 1 teaspoon of ginger garlic paste to the pan
+  - description: Saute-Saute until the raw smell goes off
+  - description: Add-Add chopped tomatoes to the pan
+  - description: Add-3/4 tsp chilli powder to the pan
+  - description: Add-1/2 tsp garam masala to the pan
+  - description: Add-Add 1 tsp salt to the pan
+  - description: Mix-Mix all ingredients
+  - description: cook-cook until the masala smell leaves the pan
+  - description: Pour-Pour 3 tbsp of water to the pan
+  - description: cook-cook further until water evaporates
+  - description: Transfer-Transfer the bread slices to the pan
+  - description: turn-turn off the stove
+  - description: mix-Gently mix the bread and mixture. Avoid overmixing as the bread
+      gets mushy
+  - description: Sprinkle-Sprinkle 3 tbsp chopped cilantro in the pan
+- activity_id: 14
+  environment: null
+  id: '14_21'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Chop-Chop 1 medium tomato
+  - description: Heat-Heat a pan with 1 tbsp oil on medium heat
+  - description: Add-Add 1/2 tsp cumin to the pan
+  - description: Cut-Cut two slices of bread into bite-size pieces
+  - description: wait-wait till cumin  sizzles on the pan
+  - description: Chop-Chop 1 green chilli
+  - description: Chop-Chop 1/2 medium onion
+  - description: Add-Add chopped chillies and Onions to the pan
+  - description: Chop-Chop 3 tbsp cilantro leaves
+  - description: Wait-Wait until the onion turns golden
+  - description: Add-Add 1 teaspoon of ginger garlic paste to the pan
+  - description: Saute-Saute until the raw smell goes off
+  - description: Add-Add 1 tsp salt to the pan
+  - description: Add-1/2 tsp garam masala to the pan
+  - description: Add-3/4 tsp chilli powder to the pan
+  - description: Add-Add chopped tomatoes to the pan
+  - description: Mix-Mix all ingredients
+  - description: cook-cook until the masala smell leaves the pan
+  - description: Pour-Pour 3 tbsp of water to the pan
+  - description: cook-cook further until water evaporates
+  - description: Transfer-Transfer the bread slices to the pan
+  - description: turn-turn off the stove
+  - description: mix-Gently mix the bread and mixture. Avoid overmixing as the bread
+      gets mushy
+  - description: Sprinkle-Sprinkle 3 tbsp chopped cilantro in the pan
+- activity_id: 14
+  environment: null
+  id: '14_22'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Chop-Chop 1 medium tomato
+  - description: Heat-Heat a pan with 1 tbsp oil on medium heat
+  - description: Add-Add 1/2 tsp cumin to the pan
+  - description: Chop-Chop 1/2 medium onion
+  - description: Chop-Chop 1 green chilli
+  - description: Cut-Cut two slices of bread into bite-size pieces
+  - description: wait-wait till cumin  sizzles on the pan
+  - description: Add-Add chopped chillies and Onions to the pan
+  - description: Wait-Wait until the onion turns golden
+  - description: Add-Add 1 teaspoon of ginger garlic paste to the pan
+  - description: Saute-Saute until the raw smell goes off
+  - description: Add-Add chopped tomatoes to the pan
+  - description: Add-1/2 tsp garam masala to the pan
+  - description: Add-Add 1 tsp salt to the pan
+  - description: Add-3/4 tsp chilli powder to the pan
+  - description: Chop-Chop 3 tbsp cilantro leaves
+  - description: Mix-Mix all ingredients
+  - description: cook-cook until the masala smell leaves the pan
+  - description: Pour-Pour 3 tbsp of water to the pan
+  - description: cook-cook further until water evaporates
+  - description: Transfer-Transfer the bread slices to the pan
+  - description: turn-turn off the stove
+  - description: mix-Gently mix the bread and mixture. Avoid overmixing as the bread
+      gets mushy
+  - description: Sprinkle-Sprinkle 3 tbsp chopped cilantro in the pan
+- activity_id: 14
+  environment: null
+  id: '14_23'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Chop-Chop 1 medium tomato
+  - description: Heat-Heat a pan with 1 tbsp oil on medium heat
+  - description: Chop-Chop 1/2 medium onion
+  - description: Chop-Chop 1 green chilli
+  - description: Cut-Cut two slices of bread into bite-size pieces
+  - description: Add-Add 1/2 tsp cumin to the pan
+  - description: wait-wait till cumin  sizzles on the pan
+  - description: Chop-Chop 3 tbsp cilantro leaves
+  - description: Add-Add chopped chillies and Onions to the pan
+  - description: Wait-Wait until the onion turns golden
+  - description: Add-Add 1 teaspoon of ginger garlic paste to the pan
+  - description: Saute-Saute until the raw smell goes off
+  - description: Add-Add 1 tsp salt to the pan
+  - description: Add-1/2 tsp garam masala to the pan
+  - description: Add-3/4 tsp chilli powder to the pan
+  - description: Add-Add chopped tomatoes to the pan
+  - description: Mix-Mix all ingredients
+  - description: cook-cook until the masala smell leaves the pan
+  - description: Pour-Pour 3 tbsp of water to the pan
+  - description: cook-cook further until water evaporates
+  - description: Transfer-Transfer the bread slices to the pan
+  - description: turn-turn off the stove
+  - description: mix-Gently mix the bread and mixture. Avoid overmixing as the bread
+      gets mushy
+  - description: Sprinkle-Sprinkle 3 tbsp chopped cilantro in the pan
+- activity_id: 14
+  environment: null
+  id: '14_24'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Cut-Cut two slices of bread into bite-size pieces
+  - description: Heat-Heat a pan with 1 tbsp oil on medium heat
+  - description: Add-Add 1/2 tsp cumin to the pan
+  - description: Chop-Chop 1 green chilli
+  - description: Chop-Chop 1 medium tomato
+  - description: wait-wait till cumin  sizzles on the pan
+  - description: Chop-Chop 1/2 medium onion
+  - description: Add-Add chopped chillies and Onions to the pan
+  - description: Wait-Wait until the onion turns golden
+  - description: Add-Add 1 teaspoon of ginger garlic paste to the pan
+  - description: Saute-Saute until the raw smell goes off
+  - description: Add-Add chopped tomatoes to the pan
+  - description: Add-3/4 tsp chilli powder to the pan
+  - description: Add-1/2 tsp garam masala to the pan
+  - description: Add-Add 1 tsp salt to the pan
+  - description: Mix-Mix all ingredients
+  - description: cook-cook until the masala smell leaves the pan
+  - description: Pour-Pour 3 tbsp of water to the pan
+  - description: cook-cook further until water evaporates
+  - description: Transfer-Transfer the bread slices to the pan
+  - description: Chop-Chop 3 tbsp cilantro leaves
+  - description: turn-turn off the stove
+  - description: mix-Gently mix the bread and mixture. Avoid overmixing as the bread
+      gets mushy
+  - description: Sprinkle-Sprinkle 3 tbsp chopped cilantro in the pan
+- activity_id: 14
+  environment: null
+  id: '14_25'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Cut-Cut two slices of bread into bite-size pieces
+  - description: Heat-Heat a pan with 1 tbsp oil on medium heat
+  - description: Chop-Chop 1 medium tomato
+  - description: Chop-Chop 3 tbsp cilantro leaves
+  - description: Chop-Chop 1/2 medium onion
+  - description: Chop-Chop 1 green chilli
+  - description: Add-Add 1/2 tsp cumin to the pan
+  - description: wait-wait till cumin  sizzles on the pan
+  - description: Add-Add chopped chillies and Onions to the pan
+  - description: Wait-Wait until the onion turns golden
+  - description: Add-Add 1 teaspoon of ginger garlic paste to the pan
+  - description: Saute-Saute until the raw smell goes off
+  - description: Add-Add 1 tsp salt to the pan
+  - description: Add-Add chopped tomatoes to the pan
+  - description: Add-3/4 tsp chilli powder to the pan
+  - description: Add-1/2 tsp garam masala to the pan
+  - description: Mix-Mix all ingredients
+  - description: cook-cook until the masala smell leaves the pan
+  - description: Pour-Pour 3 tbsp of water to the pan
+  - description: cook-cook further until water evaporates
+  - description: Transfer-Transfer the bread slices to the pan
+  - description: turn-turn off the stove
+  - description: mix-Gently mix the bread and mixture. Avoid overmixing as the bread
+      gets mushy
+  - description: Sprinkle-Sprinkle 3 tbsp chopped cilantro in the pan
+- activity_id: 14
+  environment: null
+  errors:
+  - description: Add-Add 1 teaspoon of ginger garlic paste to the pan
+    tag: Missing Step
+  - description: Add-3/4 tsp chilli powder to the pan
+    tag: Missing Step
+  - description: Saute-Saute until the raw smell goes off
+    tag: Missing Step
+  id: '14_26'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Cut-Cut two slices of bread into bite-size pieces
+  - description: Heat-Heat a pan with 1 tbsp oil on medium heat
+  - description: Chop-Chop 1 medium tomato
+  - description: Chop-Chop 1/2 medium onion
+  - description: Chop-Chop 1 green chilli
+  - description: Add-Add 1/2 tsp cumin to the pan
+  - description: wait-wait till cumin  sizzles on the pan
+  - description: Add-Add chopped chillies and Onions to the pan
+  - description: Wait-Wait until the onion turns golden
+  - description: Chop-Chop 3 tbsp cilantro leaves
+  - description: Add-Add 1 tsp salt to the pan
+  - description: Add-1/2 tsp garam masala to the pan
+  - description: Add-Add chopped tomatoes to the pan
+  - description: Mix-Mix all ingredients
+  - description: cook-cook until the masala smell leaves the pan
+  - description: Pour-Pour 3 tbsp of water to the pan
+  - description: cook-cook further until water evaporates
+  - description: Transfer-Transfer the bread slices to the pan
+  - description: turn-turn off the stove
+  - description: mix-Gently mix the bread and mixture. Avoid overmixing as the bread
+      gets mushy
+  - description: Sprinkle-Sprinkle 3 tbsp chopped cilantro in the pan
+- activity_id: 14
+  environment: null
+  errors:
+  - description: Chop-Chop 1/2 medium onion
+    tag: Missing Step
+  - description: Add-Add chopped chillies and Onions to the pan
+    tag: Missing Step
+  - description: Sprinkle-Sprinkle 3 tbsp chopped cilantro in the pan
+    tag: Missing Step
+  id: '14_27'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Chop-Chop 1 medium tomato
+  - description: Heat-Heat a pan with 1 tbsp oil on medium heat
+  - description: Add-Add 1/2 tsp cumin to the pan
+  - description: Chop-Chop 1 green chilli
+  - description: wait-wait till cumin  sizzles on the pan
+  - description: Cut-Cut two slices of bread into bite-size pieces
+  - description: Wait-Wait until the onion turns golden
+  - description: Add-Add 1 teaspoon of ginger garlic paste to the pan
+  - description: Saute-Saute until the raw smell goes off
+  - description: Add-Add chopped tomatoes to the pan
+  - description: Add-Add 1 tsp salt to the pan
+  - description: Add-3/4 tsp chilli powder to the pan
+  - description: Add-1/2 tsp garam masala to the pan
+  - description: Mix-Mix all ingredients
+  - description: cook-cook until the masala smell leaves the pan
+  - description: Pour-Pour 3 tbsp of water to the pan
+  - description: cook-cook further until water evaporates
+  - description: Transfer-Transfer the bread slices to the pan
+  - description: turn-turn off the stove
+  - description: mix-Gently mix the bread and mixture. Avoid overmixing as the bread
+      gets mushy
+  - description: Chop-Chop 3 tbsp cilantro leaves
+- activity_id: 14
+  environment: null
+  errors:
+  - description: mix-Gently mix the bread and mixture. Avoid overmixing as the bread
+      gets mushy
+    tag: Missing Step
+  - description: Wait-Wait until the onion turns golden
+    tag: Missing Step
+  id: '14_28'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Chop-Chop 1 medium tomato
+  - description: Chop-Chop 1 green chilli
+  - description: Heat-Heat a pan with 1 tbsp oil on medium heat
+  - description: Add-Add 1/2 tsp cumin to the pan
+  - description: Cut-Cut two slices of bread into bite-size pieces
+  - description: Chop-Chop 1/2 medium onion
+  - description: wait-wait till cumin  sizzles on the pan
+  - description: Add-Add chopped chillies and Onions to the pan
+  - description: Add-Add 1 teaspoon of ginger garlic paste to the pan
+  - description: Saute-Saute until the raw smell goes off
+  - description: Add-Add 1 tsp salt to the pan
+  - description: Add-1/2 tsp garam masala to the pan
+  - description: Add-3/4 tsp chilli powder to the pan
+  - description: Add-Add chopped tomatoes to the pan
+  - description: Mix-Mix all ingredients
+  - description: cook-cook until the masala smell leaves the pan
+  - description: Chop-Chop 3 tbsp cilantro leaves
+  - description: Pour-Pour 3 tbsp of water to the pan
+  - description: cook-cook further until water evaporates
+  - description: Transfer-Transfer the bread slices to the pan
+  - description: turn-turn off the stove
+  - description: Sprinkle-Sprinkle 3 tbsp chopped cilantro in the pan
+- activity_id: 14
+  environment: null
+  errors:
+  - description: Add-Add 1 tsp salt to the pan
+    tag: Missing Step
+  - description: Add-Add chopped tomatoes to the pan
+    tag: Missing Step
+  - description: cook-cook until the masala smell leaves the pan
+    tag: Missing Step
+  - description: Sprinkle-Sprinkle 3 tbsp chopped cilantro in the pan
+    tag: Missing Step
+  id: '14_30'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Chop-Chop 1 medium tomato
+  - description: Heat-Heat a pan with 1 tbsp oil on medium heat
+  - description: Chop-Chop 1/2 medium onion
+  - description: Chop-Chop 1 green chilli
+  - description: Chop-Chop 3 tbsp cilantro leaves
+  - description: Add-Add 1/2 tsp cumin to the pan
+  - description: wait-wait till cumin  sizzles on the pan
+  - description: Add-Add chopped chillies and Onions to the pan
+  - description: Wait-Wait until the onion turns golden
+  - description: Cut-Cut two slices of bread into bite-size pieces
+  - description: Add-Add 1 teaspoon of ginger garlic paste to the pan
+  - description: Saute-Saute until the raw smell goes off
+  - description: Add-3/4 tsp chilli powder to the pan
+  - description: Add-1/2 tsp garam masala to the pan
+  - description: Mix-Mix all ingredients
+  - description: Pour-Pour 3 tbsp of water to the pan
+  - description: cook-cook further until water evaporates
+  - description: Transfer-Transfer the bread slices to the pan
+  - description: turn-turn off the stove
+  - description: mix-Gently mix the bread and mixture. Avoid overmixing as the bread
+      gets mushy
+- activity_id: 14
+  environment: null
+  errors:
+  - description: Add-Add chopped chillies and Onions to the pan
+    tag: Missing Step
+  - description: Add-1/2 tsp garam masala to the pan
+    tag: Missing Step
+  - description: mix-Gently mix the bread and mixture. Avoid overmixing as the bread
+      gets mushy
+    tag: Missing Step
+  id: '14_31'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Cut-Cut two slices of bread into bite-size pieces
+  - description: Heat-Heat a pan with 1 tbsp oil on medium heat
+  - description: Chop-Chop 1 medium tomato
+  - description: Chop-Chop 1/2 medium onion
+  - description: Add-Add 1/2 tsp cumin to the pan
+  - description: wait-wait till cumin  sizzles on the pan
+  - description: Chop-Chop 1 green chilli
+  - description: Wait-Wait until the onion turns golden
+  - description: Add-Add 1 teaspoon of ginger garlic paste to the pan
+  - description: Saute-Saute until the raw smell goes off
+  - description: Add-3/4 tsp chilli powder to the pan
+  - description: Add-Add 1 tsp salt to the pan
+  - description: Add-Add chopped tomatoes to the pan
+  - description: Mix-Mix all ingredients
+  - description: cook-cook until the masala smell leaves the pan
+  - description: Pour-Pour 3 tbsp of water to the pan
+  - description: cook-cook further until water evaporates
+  - description: Transfer-Transfer the bread slices to the pan
+  - description: Chop-Chop 3 tbsp cilantro leaves
+  - description: turn-turn off the stove
+  - description: Sprinkle-Sprinkle 3 tbsp chopped cilantro in the pan
+- activity_id: 14
+  environment: null
+  errors:
+  - description: Add-Add 1 teaspoon of ginger garlic paste to the pan
+    tag: Missing Step
+  - description: Transfer-Transfer the bread slices to the pan
+    tag: Missing Step
+  id: '14_32'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Cut-Cut two slices of bread into bite-size pieces
+  - description: Heat-Heat a pan with 1 tbsp oil on medium heat
+  - description: Chop-Chop 1 medium tomato
+  - description: Chop-Chop 1/2 medium onion
+  - description: Add-Add 1/2 tsp cumin to the pan
+  - description: wait-wait till cumin  sizzles on the pan
+  - description: Chop-Chop 1 green chilli
+  - description: Chop-Chop 3 tbsp cilantro leaves
+  - description: Add-Add chopped chillies and Onions to the pan
+  - description: Wait-Wait until the onion turns golden
+  - description: Saute-Saute until the raw smell goes off
+  - description: Add-3/4 tsp chilli powder to the pan
+  - description: Add-Add 1 tsp salt to the pan
+  - description: Add-Add chopped tomatoes to the pan
+  - description: Add-1/2 tsp garam masala to the pan
+  - description: Mix-Mix all ingredients
+  - description: cook-cook until the masala smell leaves the pan
+  - description: Pour-Pour 3 tbsp of water to the pan
+  - description: cook-cook further until water evaporates
+  - description: turn-turn off the stove
+  - description: mix-Gently mix the bread and mixture. Avoid overmixing as the bread
+      gets mushy
+  - description: Sprinkle-Sprinkle 3 tbsp chopped cilantro in the pan
+- activity_id: 14
+  environment: null
+  errors:
+  - description: Chop-Chop 3 tbsp cilantro leaves
+    tag: Missing Step
+  - description: Saute-Saute until the raw smell goes off
+    tag: Missing Step
+  - description: cook-cook until the masala smell leaves the pan
+    tag: Missing Step
+  - description: cook-cook further until water evaporates
+    tag: Missing Step
+  - description: Sprinkle-Sprinkle 3 tbsp chopped cilantro in the pan
+    tag: Missing Step
+  id: '14_33'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Chop-Chop 1 medium tomato
+  - description: Heat-Heat a pan with 1 tbsp oil on medium heat
+  - description: Chop-Chop 1/2 medium onion
+  - description: Chop-Chop 1 green chilli
+  - description: Cut-Cut two slices of bread into bite-size pieces
+  - description: Add-Add 1/2 tsp cumin to the pan
+  - description: wait-wait till cumin  sizzles on the pan
+  - description: Add-Add chopped chillies and Onions to the pan
+  - description: Wait-Wait until the onion turns golden
+  - description: Add-Add 1 teaspoon of ginger garlic paste to the pan
+  - description: Add-Add chopped tomatoes to the pan
+  - description: Add-1/2 tsp garam masala to the pan
+  - description: Add-Add 1 tsp salt to the pan
+  - description: Add-3/4 tsp chilli powder to the pan
+  - description: Mix-Mix all ingredients
+  - description: Pour-Pour 3 tbsp of water to the pan
+  - description: Transfer-Transfer the bread slices to the pan
+  - description: turn-turn off the stove
+  - description: mix-Gently mix the bread and mixture. Avoid overmixing as the bread
+      gets mushy
+- activity_id: 14
+  environment: null
+  errors:
+  - description: Cut-Cut two slices of bread into bite-size pieces
+    tag: Missing Step
+  - description: turn-turn off the stove
+    tag: Missing Step
+  - description: Sprinkle-Sprinkle 3 tbsp chopped cilantro in the pan
+    tag: Missing Step
+  id: '14_34'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Chop-Chop 3 tbsp cilantro leaves
+  - description: Chop-Chop 1 medium tomato
+  - description: Chop-Chop 1/2 medium onion
+  - description: Heat-Heat a pan with 1 tbsp oil on medium heat
+  - description: Add-Add 1/2 tsp cumin to the pan
+  - description: Chop-Chop 1 green chilli
+  - description: wait-wait till cumin  sizzles on the pan
+  - description: Add-Add chopped chillies and Onions to the pan
+  - description: Wait-Wait until the onion turns golden
+  - description: Add-Add 1 teaspoon of ginger garlic paste to the pan
+  - description: Saute-Saute until the raw smell goes off
+  - description: Add-1/2 tsp garam masala to the pan
+  - description: Add-Add chopped tomatoes to the pan
+  - description: Add-Add 1 tsp salt to the pan
+  - description: Add-3/4 tsp chilli powder to the pan
+  - description: Mix-Mix all ingredients
+  - description: cook-cook until the masala smell leaves the pan
+  - description: Pour-Pour 3 tbsp of water to the pan
+  - description: cook-cook further until water evaporates
+  - description: Transfer-Transfer the bread slices to the pan
+  - description: mix-Gently mix the bread and mixture. Avoid overmixing as the bread
+      gets mushy
+- activity_id: 14
+  environment: null
+  errors:
+  - description: Add-3/4 tsp chilli powder to the pan
+    tag: Missing Step
+  - description: Pour-Pour 3 tbsp of water to the pan
+    tag: Missing Step
+  - description: cook-cook further until water evaporates
+    tag: Missing Step
+  id: '14_35'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Cut-Cut two slices of bread into bite-size pieces
+  - description: Chop-Chop 3 tbsp cilantro leaves
+  - description: Heat-Heat a pan with 1 tbsp oil on medium heat
+  - description: Chop-Chop 1 medium tomato
+  - description: Add-Add 1/2 tsp cumin to the pan
+  - description: wait-wait till cumin  sizzles on the pan
+  - description: Chop-Chop 1/2 medium onion
+  - description: Chop-Chop 1 green chilli
+  - description: Add-Add chopped chillies and Onions to the pan
+  - description: Wait-Wait until the onion turns golden
+  - description: Add-Add 1 teaspoon of ginger garlic paste to the pan
+  - description: Saute-Saute until the raw smell goes off
+  - description: Add-1/2 tsp garam masala to the pan
+  - description: Add-Add chopped tomatoes to the pan
+  - description: Add-Add 1 tsp salt to the pan
+  - description: Mix-Mix all ingredients
+  - description: cook-cook until the masala smell leaves the pan
+  - description: Transfer-Transfer the bread slices to the pan
+  - description: turn-turn off the stove
+  - description: mix-Gently mix the bread and mixture. Avoid overmixing as the bread
+      gets mushy
+  - description: Sprinkle-Sprinkle 3 tbsp chopped cilantro in the pan
+- activity_id: 14
+  environment: null
+  errors:
+  - description: cook-cook further until water evaporates
+    tag: Missing Step
+  id: '14_36'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Chop-Chop 1 medium tomato
+  - description: Heat-Heat a pan with 1 tbsp oil on medium heat
+  - description: Chop-Chop 1/2 medium onion
+  - description: Cut-Cut two slices of bread into bite-size pieces
+  - description: Add-Add 1/2 tsp cumin to the pan
+  - description: Chop-Chop 1 green chilli
+  - description: wait-wait till cumin  sizzles on the pan
+  - description: Add-Add chopped chillies and Onions to the pan
+  - description: Wait-Wait until the onion turns golden
+  - description: Add-Add 1 teaspoon of ginger garlic paste to the pan
+  - description: Saute-Saute until the raw smell goes off
+  - description: Add-3/4 tsp chilli powder to the pan
+  - description: Add-Add 1 tsp salt to the pan
+  - description: Add-1/2 tsp garam masala to the pan
+  - description: Add-Add chopped tomatoes to the pan
+  - description: Chop-Chop 3 tbsp cilantro leaves
+  - description: Mix-Mix all ingredients
+  - description: cook-cook until the masala smell leaves the pan
+  - description: Pour-Pour 3 tbsp of water to the pan
+  - description: Transfer-Transfer the bread slices to the pan
+  - description: turn-turn off the stove
+  - description: mix-Gently mix the bread and mixture. Avoid overmixing as the bread
+      gets mushy
+  - description: Sprinkle-Sprinkle 3 tbsp chopped cilantro in the pan
+- activity_id: 14
+  environment: null
+  errors:
+  - description: wait-wait till cumin  sizzles on the pan
+    tag: Missing Step
+  id: '14_37'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Chop-Chop 1 green chilli
+  - description: Cut-Cut two slices of bread into bite-size pieces
+  - description: Heat-Heat a pan with 1 tbsp oil on medium heat
+  - description: Add-Add 1/2 tsp cumin to the pan
+  - description: Chop-Chop 1/2 medium onion
+  - description: Chop-Chop 1 medium tomato
+  - description: Add-Add chopped chillies and Onions to the pan
+  - description: Chop-Chop 3 tbsp cilantro leaves
+  - description: Wait-Wait until the onion turns golden
+  - description: Add-Add 1 teaspoon of ginger garlic paste to the pan
+  - description: Saute-Saute until the raw smell goes off
+  - description: Add-3/4 tsp chilli powder to the pan
+  - description: Add-Add chopped tomatoes to the pan
+  - description: Add-Add 1 tsp salt to the pan
+  - description: Add-1/2 tsp garam masala to the pan
+  - description: Mix-Mix all ingredients
+  - description: cook-cook until the masala smell leaves the pan
+  - description: Pour-Pour 3 tbsp of water to the pan
+  - description: cook-cook further until water evaporates
+  - description: Transfer-Transfer the bread slices to the pan
+  - description: turn-turn off the stove
+  - description: mix-Gently mix the bread and mixture. Avoid overmixing as the bread
+      gets mushy
+  - description: Sprinkle-Sprinkle 3 tbsp chopped cilantro in the pan
+- activity_id: 14
+  environment: null
+  errors:
+  - description: Chop-Chop 1/2 medium onion
+    tag: Missing Step
+  - description: Chop-Chop 1 green chilli
+    tag: Missing Step
+  - description: Add-Add chopped chillies and Onions to the pan
+    tag: Missing Step
+  - description: Wait-Wait until the onion turns golden
+    tag: Missing Step
+  id: '14_38'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Cut-Cut two slices of bread into bite-size pieces
+  - description: Heat-Heat a pan with 1 tbsp oil on medium heat
+  - description: Add-Add 1/2 tsp cumin to the pan
+  - description: Chop-Chop 1 medium tomato
+  - description: wait-wait till cumin  sizzles on the pan
+  - description: Chop-Chop 3 tbsp cilantro leaves
+  - description: Add-Add 1 teaspoon of ginger garlic paste to the pan
+  - description: Saute-Saute until the raw smell goes off
+  - description: Add-3/4 tsp chilli powder to the pan
+  - description: Add-Add 1 tsp salt to the pan
+  - description: Add-1/2 tsp garam masala to the pan
+  - description: Add-Add chopped tomatoes to the pan
+  - description: Mix-Mix all ingredients
+  - description: cook-cook until the masala smell leaves the pan
+  - description: Pour-Pour 3 tbsp of water to the pan
+  - description: cook-cook further until water evaporates
+  - description: Transfer-Transfer the bread slices to the pan
+  - description: turn-turn off the stove
+  - description: mix-Gently mix the bread and mixture. Avoid overmixing as the bread
+      gets mushy
+  - description: Sprinkle-Sprinkle 3 tbsp chopped cilantro in the pan
+- activity_id: 14
+  environment: null
+  errors:
+  - description: Chop-Chop 3 tbsp cilantro leaves
+    tag: Missing Step
+  - description: Add-Add 1 teaspoon of ginger garlic paste to the pan
+    tag: Missing Step
+  - description: mix-Gently mix the bread and mixture. Avoid overmixing as the bread
+      gets mushy
+    tag: Missing Step
+  - description: Saute-Saute until the raw smell goes off
+    tag: Missing Step
+  - description: Sprinkle-Sprinkle 3 tbsp chopped cilantro in the pan
+    tag: Missing Step
+  id: '14_40'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Heat-Heat a pan with 1 tbsp oil on medium heat
+  - description: Cut-Cut two slices of bread into bite-size pieces
+  - description: Chop-Chop 1 green chilli
+  - description: Add-Add 1/2 tsp cumin to the pan
+  - description: wait-wait till cumin  sizzles on the pan
+  - description: Chop-Chop 1/2 medium onion
+  - description: Chop-Chop 1 medium tomato
+  - description: Add-Add chopped chillies and Onions to the pan
+  - description: Wait-Wait until the onion turns golden
+  - description: Add-Add chopped tomatoes to the pan
+  - description: Add-Add 1 tsp salt to the pan
+  - description: Add-1/2 tsp garam masala to the pan
+  - description: Add-3/4 tsp chilli powder to the pan
+  - description: Mix-Mix all ingredients
+  - description: cook-cook until the masala smell leaves the pan
+  - description: Pour-Pour 3 tbsp of water to the pan
+  - description: cook-cook further until water evaporates
+  - description: Transfer-Transfer the bread slices to the pan
+  - description: turn-turn off the stove
+- activity_id: 14
+  environment: null
+  errors:
+  - description: Chop-Chop 1 green chilli
+    tag: Missing Step
+  - description: Chop-Chop 1 medium tomato
+    tag: Missing Step
+  - description: Add-Add chopped tomatoes to the pan
+    tag: Missing Step
+  - description: Add-Add chopped chillies and Onions to the pan
+    tag: Missing Step
+  id: '14_41'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Cut-Cut two slices of bread into bite-size pieces
+  - description: Heat-Heat a pan with 1 tbsp oil on medium heat
+  - description: Add-Add 1/2 tsp cumin to the pan
+  - description: Chop-Chop 1/2 medium onion
+  - description: wait-wait till cumin  sizzles on the pan
+  - description: Chop-Chop 3 tbsp cilantro leaves
+  - description: Wait-Wait until the onion turns golden
+  - description: Add-Add 1 teaspoon of ginger garlic paste to the pan
+  - description: Saute-Saute until the raw smell goes off
+  - description: Add-1/2 tsp garam masala to the pan
+  - description: Add-3/4 tsp chilli powder to the pan
+  - description: Add-Add 1 tsp salt to the pan
+  - description: Mix-Mix all ingredients
+  - description: cook-cook until the masala smell leaves the pan
+  - description: Pour-Pour 3 tbsp of water to the pan
+  - description: cook-cook further until water evaporates
+  - description: Transfer-Transfer the bread slices to the pan
+  - description: turn-turn off the stove
+  - description: mix-Gently mix the bread and mixture. Avoid overmixing as the bread
+      gets mushy
+  - description: Sprinkle-Sprinkle 3 tbsp chopped cilantro in the pan
+- activity_id: 14
+  environment: null
+  errors:
+  - description: Chop-Chop 1 green chilli
+    tag: Missing Step
+  - description: Add-Add chopped chillies and Onions to the pan
+    tag: Missing Step
+  - description: Add-3/4 tsp chilli powder to the pan
+    tag: Missing Step
+  - description: cook-cook further until water evaporates
+    tag: Missing Step
+  id: '14_42'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Chop-Chop 1 medium tomato
+  - description: Heat-Heat a pan with 1 tbsp oil on medium heat
+  - description: Add-Add 1/2 tsp cumin to the pan
+  - description: wait-wait till cumin  sizzles on the pan
+  - description: Chop-Chop 1/2 medium onion
+  - description: Cut-Cut two slices of bread into bite-size pieces
+  - description: Wait-Wait until the onion turns golden
+  - description: Add-Add 1 teaspoon of ginger garlic paste to the pan
+  - description: Saute-Saute until the raw smell goes off
+  - description: Add-Add chopped tomatoes to the pan
+  - description: Add-1/2 tsp garam masala to the pan
+  - description: Chop-Chop 3 tbsp cilantro leaves
+  - description: Add-Add 1 tsp salt to the pan
+  - description: Mix-Mix all ingredients
+  - description: cook-cook until the masala smell leaves the pan
+  - description: Pour-Pour 3 tbsp of water to the pan
+  - description: Transfer-Transfer the bread slices to the pan
+  - description: turn-turn off the stove
+  - description: mix-Gently mix the bread and mixture. Avoid overmixing as the bread
+      gets mushy
+  - description: Sprinkle-Sprinkle 3 tbsp chopped cilantro in the pan
+- activity_id: 14
+  environment: null
+  errors:
+  - description: Pour-Pour 3 tbsp of water to the pan
+    tag: Missing Step
+  - description: cook-cook further until water evaporates
+    tag: Missing Step
+  - tag: Order Error
+  id: '14_43'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Cut-Cut two slices of bread into bite-size pieces
+  - description: Heat-Heat a pan with 1 tbsp oil on medium heat
+  - description: Add-Add 1/2 tsp cumin to the pan
+  - description: wait-wait till cumin  sizzles on the pan
+  - description: Add-Add 1 teaspoon of ginger garlic paste to the pan
+  - description: Saute-Saute until the raw smell goes off
+  - description: Transfer-Transfer the bread slices to the pan
+  - description: mix-Gently mix the bread and mixture. Avoid overmixing as the bread
+      gets mushy
+  - description: Chop-Chop 1 medium tomato
+  - description: Chop-Chop 1/2 medium onion
+  - description: Chop-Chop 1 green chilli
+  - description: Add-Add chopped chillies and Onions to the pan
+  - description: Wait-Wait until the onion turns golden
+  - description: Chop-Chop 3 tbsp cilantro leaves
+  - description: Add-1/2 tsp garam masala to the pan
+  - description: Add-Add 1 tsp salt to the pan
+  - description: Add-3/4 tsp chilli powder to the pan
+  - description: Add-Add chopped tomatoes to the pan
+  - description: Mix-Mix all ingredients
+  - description: cook-cook until the masala smell leaves the pan
+  - description: Sprinkle-Sprinkle 3 tbsp chopped cilantro in the pan
+  - description: turn-turn off the stove
+- activity_id: 14
+  environment: null
+  errors:
+  - description: Add-Add 1/2 tsp cumin to the pan
+    tag: Missing Step
+  - description: wait-wait till cumin  sizzles on the pan
+    tag: Missing Step
+  - description: Chop-Chop 1 green chilli
+    tag: Missing Step
+  - description: Add-Add chopped chillies and Onions to the pan
+    tag: Missing Step
+  - description: Wait-Wait until the onion turns golden
+    tag: Missing Step
+  - tag: Order Error
+  id: '14_44'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Cut-Cut two slices of bread into bite-size pieces
+  - description: Chop-Chop 3 tbsp cilantro leaves
+  - description: Heat-Heat a pan with 1 tbsp oil on medium heat
+  - description: Chop-Chop 1 medium tomato
+  - description: Pour-Pour 3 tbsp of water to the pan
+  - description: Add-Add 1 teaspoon of ginger garlic paste to the pan
+  - description: Saute-Saute until the raw smell goes off
+  - description: Add-Add chopped tomatoes to the pan
+  - description: Add-1/2 tsp garam masala to the pan
+  - description: Add-Add 1 tsp salt to the pan
+  - description: Add-3/4 tsp chilli powder to the pan
+  - description: Mix-Mix all ingredients
+  - description: cook-cook until the masala smell leaves the pan
+  - description: Chop-Chop 1/2 medium onion
+  - description: cook-cook further until water evaporates
+  - description: Transfer-Transfer the bread slices to the pan
+  - description: turn-turn off the stove
+  - description: mix-Gently mix the bread and mixture. Avoid overmixing as the bread
+      gets mushy
+  - description: Sprinkle-Sprinkle 3 tbsp chopped cilantro in the pan
+- activity_id: 14
+  environment: null
+  errors:
+  - description: Add-3/4 tsp chilli powder to the pan
+    tag: Missing Step
+  - description: Chop-Chop 1/2 medium onion
+    tag: Missing Step
+  - description: Add-Add chopped chillies and Onions to the pan
+    tag: Missing Step
+  - description: Saute-Saute until the raw smell goes off
+    tag: Missing Step
+  - tag: Order Error
+  id: '14_45'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Chop-Chop 1 medium tomato
+  - description: Heat-Heat a pan with 1 tbsp oil on medium heat
+  - description: Add-Add 1 teaspoon of ginger garlic paste to the pan
+  - description: Add-Add 1/2 tsp cumin to the pan
+  - description: Chop-Chop 1 green chilli
+  - description: Chop-Chop 3 tbsp cilantro leaves
+  - description: Cut-Cut two slices of bread into bite-size pieces
+  - description: Sprinkle-Sprinkle 3 tbsp chopped cilantro in the pan
+  - description: wait-wait till cumin  sizzles on the pan
+  - description: Wait-Wait until the onion turns golden
+  - description: Add-1/2 tsp garam masala to the pan
+  - description: Add-Add chopped tomatoes to the pan
+  - description: Add-Add 1 tsp salt to the pan
+  - description: Mix-Mix all ingredients
+  - description: cook-cook until the masala smell leaves the pan
+  - description: cook-cook further until water evaporates
+  - description: Transfer-Transfer the bread slices to the pan
+  - description: turn-turn off the stove
+  - description: mix-Gently mix the bread and mixture. Avoid overmixing as the bread
+      gets mushy
+- activity_id: 14
+  environment: null
+  errors:
+  - description: Sprinkle-Sprinkle 3 tbsp chopped cilantro in the pan
+    tag: Missing Step
+  - description: cook-cook further until water evaporates
+    tag: Missing Step
+  - description: Wait-Wait until the onion turns golden
+    tag: Missing Step
+  - tag: Order Error
+  id: '14_46'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Chop-Chop 1 medium tomato
+  - description: Heat-Heat a pan with 1 tbsp oil on medium heat
+  - description: Cut-Cut two slices of bread into bite-size pieces
+  - description: Chop-Chop 3 tbsp cilantro leaves
+  - description: Chop-Chop 1 green chilli
+  - description: Add-Add 1/2 tsp cumin to the pan
+  - description: wait-wait till cumin  sizzles on the pan
+  - description: Chop-Chop 1/2 medium onion
+  - description: Add-Add chopped chillies and Onions to the pan
+  - description: Add-Add 1 teaspoon of ginger garlic paste to the pan
+  - description: Saute-Saute until the raw smell goes off
+  - description: Add-1/2 tsp garam masala to the pan
+  - description: Add-Add 1 tsp salt to the pan
+  - description: Add-3/4 tsp chilli powder to the pan
+  - description: Add-Add chopped tomatoes to the pan
+  - description: Mix-Mix all ingredients
+  - description: cook-cook until the masala smell leaves the pan
+  - description: Pour-Pour 3 tbsp of water to the pan
+  - description: Transfer-Transfer the bread slices to the pan
+  - description: turn-turn off the stove
+  - description: mix-Gently mix the bread and mixture. Avoid overmixing as the bread
+      gets mushy
+- activity_id: 14
+  environment: null
+  errors:
+  - description: Chop-Chop 1 medium tomato
+    tag: Missing Step
+  - description: Add-Add chopped tomatoes to the pan
+    tag: Missing Step
+  - description: Add-Add 1 tsp salt to the pan
+    tag: Missing Step
+  - tag: Order Error
+  id: '14_47'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Heat-Heat a pan with 1 tbsp oil on medium heat
+  - description: Chop-Chop 3 tbsp cilantro leaves
+  - description: Chop-Chop 1 green chilli
+  - description: Sprinkle-Sprinkle 3 tbsp chopped cilantro in the pan
+  - description: Add-Add 1/2 tsp cumin to the pan
+  - description: wait-wait till cumin  sizzles on the pan
+  - description: Chop-Chop 1/2 medium onion
+  - description: Add-Add chopped chillies and Onions to the pan
+  - description: Wait-Wait until the onion turns golden
+  - description: Add-Add 1 teaspoon of ginger garlic paste to the pan
+  - description: Mix-Mix all ingredients
+  - description: Add-3/4 tsp chilli powder to the pan
+  - description: Add-1/2 tsp garam masala to the pan
+  - description: cook-cook until the masala smell leaves the pan
+  - description: Pour-Pour 3 tbsp of water to the pan
+  - description: Cut-Cut two slices of bread into bite-size pieces
+  - description: Saute-Saute until the raw smell goes off
+  - description: cook-cook further until water evaporates
+  - description: Transfer-Transfer the bread slices to the pan
+  - description: turn-turn off the stove
+  - description: mix-Gently mix the bread and mixture. Avoid overmixing as the bread
+      gets mushy
+- activity_id: 14
+  environment: null
+  errors:
+  - description: cook-cook until the masala smell leaves the pan
+    tag: Missing Step
+  - description: wait-wait till cumin  sizzles on the pan
+    tag: Missing Step
+  - description: Add-Add chopped chillies and Onions to the pan
+    tag: Missing Step
+  - description: Saute-Saute until the raw smell goes off
+    tag: Missing Step
+  - description: Add-Add 1 tsp salt to the pan
+    tag: Missing Step
+  - description: Wait-Wait until the onion turns golden
+    tag: Missing Step
+  - tag: Order Error
+  id: '14_48'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Chop-Chop 3 tbsp cilantro leaves
+  - description: Heat-Heat a pan with 1 tbsp oil on medium heat
+  - description: Chop-Chop 1 medium tomato
+  - description: Chop-Chop 1 green chilli
+  - description: Chop-Chop 1/2 medium onion
+  - description: Sprinkle-Sprinkle 3 tbsp chopped cilantro in the pan
+  - description: Cut-Cut two slices of bread into bite-size pieces
+  - description: Add-Add 1 teaspoon of ginger garlic paste to the pan
+  - description: Add-Add chopped tomatoes to the pan
+  - description: Add-3/4 tsp chilli powder to the pan
+  - description: mix-Gently mix the bread and mixture. Avoid overmixing as the bread
+      gets mushy
+  - description: Mix-Mix all ingredients
+  - description: Pour-Pour 3 tbsp of water to the pan
+  - description: cook-cook further until water evaporates
+  - description: Add-Add 1/2 tsp cumin to the pan
+  - description: Transfer-Transfer the bread slices to the pan
+  - description: turn-turn off the stove
+  - description: Add-1/2 tsp garam masala to the pan
+- activity_id: 14
+  environment: null
+  errors:
+  - description: Wait-Wait until the onion turns golden
+    tag: Missing Step
+  - description: wait-wait till cumin  sizzles on the pan
+    tag: Missing Step
+  - description: Cut-Cut two slices of bread into bite-size pieces
+    tag: Missing Step
+  - tag: Order Error
+  id: '14_49'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Chop-Chop 1 medium tomato
+  - description: Heat-Heat a pan with 1 tbsp oil on medium heat
+  - description: Pour-Pour 3 tbsp of water to the pan
+  - description: Chop-Chop 1/2 medium onion
+  - description: Chop-Chop 1 green chilli
+  - description: Add-Add chopped chillies and Onions to the pan
+  - description: Chop-Chop 3 tbsp cilantro leaves
+  - description: Add-Add 1 teaspoon of ginger garlic paste to the pan
+  - description: Saute-Saute until the raw smell goes off
+  - description: Add-Add chopped tomatoes to the pan
+  - description: Add-3/4 tsp chilli powder to the pan
+  - description: Add-1/2 tsp garam masala to the pan
+  - description: Add-Add 1 tsp salt to the pan
+  - description: Mix-Mix all ingredients
+  - description: cook-cook until the masala smell leaves the pan
+  - description: Transfer-Transfer the bread slices to the pan
+  - description: mix-Gently mix the bread and mixture. Avoid overmixing as the bread
+      gets mushy
+  - description: cook-cook further until water evaporates
+  - description: Add-Add 1/2 tsp cumin to the pan
+  - description: Sprinkle-Sprinkle 3 tbsp chopped cilantro in the pan
+  - description: turn-turn off the stove
+- activity_id: 14
+  environment: null
+  errors:
+  - tag: Order Error
+  id: '14_50'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Chop-Chop 1 medium tomato
+  - description: Heat-Heat a pan with 1 tbsp oil on medium heat
+  - description: Add-Add 1/2 tsp cumin to the pan
+  - description: Cut-Cut two slices of bread into bite-size pieces
+  - description: Chop-Chop 3 tbsp cilantro leaves
+  - description: wait-wait till cumin  sizzles on the pan
+  - description: Add-Add 1 teaspoon of ginger garlic paste to the pan
+  - description: Saute-Saute until the raw smell goes off
+  - description: Chop-Chop 1/2 medium onion
+  - description: Chop-Chop 1 green chilli
+  - description: cook-cook until the masala smell leaves the pan
+  - description: Add-Add chopped chillies and Onions to the pan
+  - description: Wait-Wait until the onion turns golden
+  - description: Add-1/2 tsp garam masala to the pan
+  - description: Add-Add chopped tomatoes to the pan
+  - description: Add-3/4 tsp chilli powder to the pan
+  - description: Mix-Mix all ingredients
+  - description: Add-Add 1 tsp salt to the pan
+  - description: Pour-Pour 3 tbsp of water to the pan
+  - description: cook-cook further until water evaporates
+  - description: Transfer-Transfer the bread slices to the pan
+  - description: turn-turn off the stove
+  - description: mix-Gently mix the bread and mixture. Avoid overmixing as the bread
+      gets mushy
+  - description: Sprinkle-Sprinkle 3 tbsp chopped cilantro in the pan

@@ -1,0 +1,100 @@
+.recordingDisplayGridContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+    background-color: #f0f0f0;
+    padding: 1rem;
+    border-radius: 8px;
+}
+
+.recordingDisplayGridItem {
+    width: 100%;
+}
+
+.recordingDisplayTable {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0;
+    margin-bottom: 1rem;
+}
+
+.recordingDisplayTable thead th {
+    text-align: left;
+    background-color: #1976d2;
+    color: white;
+    padding: 8px;
+    font-weight: bold;
+    border-radius: 4px;
+}
+
+.recordingDisplayTable tbody tr {
+    background-color: white;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);
+    margin-bottom: 8px;
+    border-radius: 4px;
+}
+
+.recordingDisplayTable tbody td {
+    padding: 8px;
+}
+
+.recordingDisplayTable tbody tr:nth-child(even) {
+    background-color: #f7f7f7;
+}
+
+.recordingSelectionButton {
+    background-color: #1976d2;
+    color: white;
+    padding: 8px 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    text-transform: uppercase;
+    font-weight: bold;
+    border: none;
+}
+
+.recordingSelectionButton:hover {
+    background-color: #1565c0;
+}
+
+.recordingDisplayNoRecording {
+    color: #9e9e9e;
+}
+
+/* 1. Increase the font size in the table */
+.recordingDisplayTable {
+    font-size: 1.1em;
+}
+
+/* 2. Add a box for each row of the table with corresponding CSS to separate each step */
+.recordingDisplayTable tbody tr {
+    border: 1px solid #ddd;
+    margin-bottom: 1rem;
+    border-radius: 4px;
+}
+
+.recordingDisplayTable tbody tr + tr {
+    margin-top: 8px;
+}
+
+/* 3. Center align the button and change the color by changing the CSS */
+.recordingDisplayGridItem {
+    display: flex;
+    justify-content: center;
+}
+
+.recordingSelectionButton {
+    background-color: #4caf50;
+    color: white;
+    padding: 8px 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    text-transform: uppercase;
+    font-weight: bold;
+    border: none;
+}
+
+.recordingSelectionButton:hover {
+    background-color: #43a047;
+}

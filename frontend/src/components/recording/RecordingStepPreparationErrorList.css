@@ -1,0 +1,76 @@
+.recStepPrepErrorListContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+}
+
+.recStepPrepErrorList {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    max-width: 600px;
+}
+
+.recStepPrepError {
+    display: flex;
+    align-items: center;
+    padding: 0.5rem;
+    margin-bottom: 0.5rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #fff;
+}
+
+.recStepPrepErrorTag {
+    flex: 0 0 auto;
+    padding: 0.25rem 0.5rem;
+    margin-right: 0.5rem;
+    font-weight: bold;
+    color: #fff;
+    background-color: #007bff;
+    border-radius: 4px;
+}
+
+.recStepPrepErrorDescription {
+    flex: 1 1 auto;
+    padding: 0.25rem 0.5rem;
+    font-size: 0.9rem;
+}
+
+.recStepPrepErrorDelete {
+    flex: 0 0 auto;
+    padding: 0.25rem 0.5rem;
+    margin-left: 0.5rem;
+    font-size: 0.9rem;
+    color: #fff;
+    background-color: #dc3545;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.recStepPrepErrorListActions {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    max-width: 600px;
+    margin-top: 1rem;
+}
+
+.recStepPrepErrorListActions button {
+    padding: 0.5rem 1rem;
+    font-size: 0.9rem;
+    color: #fff;
+    background-color: #007bff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.recStepPrepErrorListActions button:hover {
+    background-color: #0069d9;
+}

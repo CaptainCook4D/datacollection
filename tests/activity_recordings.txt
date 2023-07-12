@@ -1,0 +1,478 @@
+------------------------------------
+Activity ID:1 - Microwave Egg Sandwich
+------------------------------------
+Recording ID: 1_10, selected by 6:jikai recorded by 6 at rohith
+Recording ID: 1_136, selected by 3:bharath recorded by 3 at rohith
+Recording ID: 1_14, selected by 1:rohith recorded by 1 at shivvrat
+Recording ID: 1_143, selected by 7:qifan recorded by 7 at rohith
+Recording ID: 1_19, selected by 1:rohith recorded by 1 at vasundhara
+Recording ID: 1_20, selected by 1:rohith recorded by 1 at akshay
+Recording ID: 1_25, selected by 6:jikai recorded by 6 at vasundhara
+Recording ID: 1_28, selected by 1:rohith recorded by 1 at rohith
+Recording ID: 1_30, selected by 6:jikai recorded by 6 at shivvrat
+Recording ID: 1_32, selected by 7:qifan recorded by 7 at qifan
+Recording ID: 1_33, selected by 1:rohith recorded by 1 at bharath
+Recording ID: 1_34, selected by 6:jikai recorded by 6 at jikai
+Recording ID: 1_36, selected by 3:bharath recorded by 3 at rohith
+Recording ID: 1_37, selected by 6:jikai recorded by 6 at akshay
+Recording ID: 1_42, selected by 7:qifan recorded by 7 at shivvrat
+Recording ID: 1_43, selected by 7:qifan recorded by 7 at rohith
+Recording ID: 1_49, selected by 7:qifan recorded by 7 at bharath
+
+
+------------------------------------
+Activity ID:2 - Dressed Up Meatballs
+------------------------------------
+Recording ID: 2_13, selected by 6:jikai recorded by 6 at rohith
+Recording ID: 2_19, selected by 7:qifan recorded by 7 at akshay
+Recording ID: 2_22, selected by 6:jikai recorded by 6 at shivvrat
+Recording ID: 2_26, selected by 3:bharath recorded by 3 at rohith
+Recording ID: 2_28, selected by 3:bharath recorded by 3 at shivvrat
+Recording ID: 2_3, selected by 7:qifan recorded by 7 at rohith
+Recording ID: 2_30, selected by 6:jikai recorded by 6 at jikai
+Recording ID: 2_38, selected by 3:bharath recorded by 3 at akshay
+Recording ID: 2_4, selected by 7:qifan recorded by 7 at shivvrat
+Recording ID: 2_41, selected by 1:rohith recorded by 1 at akshay
+Recording ID: 2_42, selected by 6:jikai recorded by 6 at akshay
+Recording ID: 2_46, selected by 6:jikai recorded by 6 at vasundhara
+Recording ID: 2_47, selected by 7:qifan recorded by 7 at qifan
+Recording ID: 2_5, selected by 7:qifan recorded by 7 at bharath
+Recording ID: 2_8, selected by 1:rohith recorded by 1 at bharath
+
+
+------------------------------------
+Activity ID:3 - Microwave Mug Pizza
+------------------------------------
+Recording ID: 3_11, selected by 8:vasundhara recorded by 8 at rohith
+Recording ID: 3_12, selected by 8:vasundhara recorded by 8 at vasundhara
+Recording ID: 3_13, selected by 8:vasundhara recorded by 8 at bharath
+Recording ID: 3_14, selected by 2:shivvrat recorded by 2 at akshay
+Recording ID: 3_18, selected by 4:likhitha recorded by 4 at bharath
+Recording ID: 3_2, selected by 2:shivvrat recorded by 2 at shivvrat
+Recording ID: 3_22, selected by 4:likhitha recorded by 4 at rohith
+Recording ID: 3_34, selected by 4:likhitha recorded by 4 at vasundhara
+Recording ID: 3_36, selected by 4:likhitha recorded by 4 at shivvrat
+Recording ID: 3_46, selected by 4:likhitha recorded by 4 at akshay
+Recording ID: 3_49, selected by 5:akshay recorded by 5 at akshay
+Recording ID: 3_5, selected by 8:vasundhara recorded by 8 at akshay
+Recording ID: 3_50, selected by 2:shivvrat recorded by 2 at bharath
+
+
+------------------------------------
+Activity ID:4 - Ramen
+------------------------------------
+Recording ID: 4_17, selected by 7:qifan recorded by 7 at shivvrat
+Recording ID: 4_2, selected by 6:jikai recorded by 6 at akshay
+Recording ID: 4_20, selected by 6:jikai recorded by 6 at jikai
+Recording ID: 4_22, selected by 3:bharath recorded by 3 at rohith
+Recording ID: 4_24, selected by 1:rohith recorded by 1 at akshay
+Recording ID: 4_3, selected by 7:qifan recorded by 7 at bharath
+Recording ID: 4_30, selected by 1:rohith recorded by 1 at rohith
+Recording ID: 4_32, selected by 1:rohith recorded by 1 at bharath
+Recording ID: 4_35, selected by 6:jikai recorded by 6 at rohith
+Recording ID: 4_36, selected by 3:bharath recorded by 3 at akshay
+Recording ID: 4_40, selected by 7:qifan recorded by 7 at akshay
+Recording ID: 4_43, selected by 1:rohith recorded by 1 at vasundhara
+Recording ID: 4_44, selected by 6:jikai recorded by 6 at shivvrat
+Recording ID: 4_5, selected by 7:qifan recorded by 7 at qifan
+Recording ID: 4_7, selected by 6:jikai recorded by 6 at akshay
+Recording ID: 4_9, selected by 7:qifan recorded by 7 at rohith
+
+
+------------------------------------
+Activity ID:5 - Coffee
+------------------------------------
+Recording ID: 5_11, selected by 8:vasundhara recorded by 8 at vasundhara
+Recording ID: 5_15, selected by 3:bharath recorded by 3 at bharath
+Recording ID: 5_18, selected by 5:akshay recorded by 5 at ahmed
+Recording ID: 5_19, selected by 4:likhitha recorded by 4 at vasundhara
+Recording ID: 5_2, selected by 6:jikai recorded by 6 at jikai
+Recording ID: 5_22, selected by 6:jikai recorded by 6 at vasundhara
+Recording ID: 5_24, selected by 8:vasundhara recorded by 8 at shivvrat
+Recording ID: 5_27, selected by 5:akshay recorded by 5 at shivvrat
+Recording ID: 5_28, selected by 7:qifan recorded by 7 at qifan
+Recording ID: 5_3, selected by 7:qifan recorded by 7 at shivvrat
+Recording ID: 5_35, selected by 6:jikai recorded by 6 at shivvrat
+Recording ID: 5_37, selected by 7:qifan recorded by 7 at rohith
+Recording ID: 5_4, selected by 4:likhitha recorded by 4 at bharath
+Recording ID: 5_42, selected by 3:bharath recorded by 3 at shivvrat
+Recording ID: 5_44, selected by 5:akshay recorded by 5 at vasundhara
+
+
+------------------------------------
+Activity ID:7 - Breakfast Burritos
+------------------------------------
+Recording ID: 7_1, selected by 7:qifan recorded by 7 at akshay
+Recording ID: 7_135, selected by 1:rohith recorded by 1 at rohith
+Recording ID: 7_18, selected by 7:qifan recorded by 7 at bharath
+Recording ID: 7_19, selected by 1:rohith recorded by 1 at bharath
+Recording ID: 7_24, selected by 3:bharath recorded by 3 at shivvrat
+Recording ID: 7_26, selected by 7:qifan recorded by 7 at qifan
+Recording ID: 7_30, selected by 6:jikai recorded by 6 at jikai
+Recording ID: 7_32, selected by 7:qifan recorded by 7 at shivvrat
+Recording ID: 7_35, selected by 1:rohith recorded by 1 at rohith
+Recording ID: 7_38, selected by 6:jikai recorded by 6 at rohith
+Recording ID: 7_44, selected by 6:jikai recorded by 6 at shivvrat
+Recording ID: 7_48, selected by 6:jikai recorded by 6 at akshay
+Recording ID: 7_5, selected by 7:qifan recorded by 7 at rohith
+Recording ID: 7_50, selected by 3:bharath recorded by 3 at akshay
+
+
+------------------------------------
+Activity ID:8 - Spiced Hot Chocolate
+------------------------------------
+Recording ID: 8_11, selected by 3:bharath recorded by 3 at bharath
+Recording ID: 8_15, selected by 4:likhitha recorded by 4 at akshay
+Recording ID: 8_16, selected by 4:likhitha recorded by 4 at bharath
+Recording ID: 8_19, selected by 4:likhitha recorded by 4 at shivvrat
+Recording ID: 8_20, selected by 5:akshay recorded by 5 at akshay
+Recording ID: 8_26, selected by 8:vasundhara recorded by 8 at shivvrat
+Recording ID: 8_3, selected by 4:likhitha recorded by 4 at akshay
+Recording ID: 8_30, selected by 5:akshay recorded by 5 at shivvrat
+Recording ID: 8_31, selected by 5:akshay recorded by 5 at vasundhara
+Recording ID: 8_33, selected by 5:akshay recorded by 5 at ahmed
+Recording ID: 8_35, selected by 3:bharath recorded by 3 at shivvrat
+Recording ID: 8_40, selected by 2:shivvrat recorded by 2 at shivvrat
+Recording ID: 8_44, selected by 4:likhitha recorded by 4 at rohith
+Recording ID: 8_45, selected by 8:vasundhara recorded by 8 at akshay
+Recording ID: 8_50, selected by 8:vasundhara recorded by 8 at vasundhara
+
+
+------------------------------------
+Activity ID:9 - Microwave French Toast
+------------------------------------
+Recording ID: 9_108, selected by 7:qifan recorded by 7 at akshay
+Recording ID: 9_12, selected by 6:jikai recorded by 6 at akshay
+Recording ID: 9_13, selected by 6:jikai recorded by 6 at rohith
+Recording ID: 9_15, selected by 1:rohith recorded by 1 at bharath
+Recording ID: 9_19, selected by 1:rohith recorded by 1 at akshay
+Recording ID: 9_2, selected by 6:jikai recorded by 6 at shivvrat
+Recording ID: 9_22, selected by 1:rohith recorded by 1 at vasundhara
+Recording ID: 9_24, selected by 6:jikai recorded by 6 at vasundhara
+Recording ID: 9_25, selected by 3:bharath recorded by 3 at rohith
+Recording ID: 9_36, selected by 7:qifan recorded by 7 at shivvrat
+Recording ID: 9_4, selected by 1:rohith recorded by 1 at shivvrat
+Recording ID: 9_45, selected by 6:jikai recorded by 6 at jikai
+Recording ID: 9_47, selected by 7:qifan recorded by 7 at bharath
+Recording ID: 9_8, selected by 7:qifan recorded by 7 at qifan
+
+
+------------------------------------
+Activity ID:10 - Pinwheels
+------------------------------------
+Recording ID: 10_16, selected by 5:akshay recorded by 5 at akshay
+Recording ID: 10_18, selected by 2:shivvrat recorded by 2 at rohith
+Recording ID: 10_24, selected by 5:akshay recorded by 5 at ahmed
+Recording ID: 10_26, selected by 2:shivvrat recorded by 2 at bharath
+Recording ID: 10_31, selected by 8:vasundhara recorded by 8 at akshay
+Recording ID: 10_42, selected by 8:vasundhara recorded by 8 at shivvrat
+Recording ID: 10_46, selected by 4:likhitha recorded by 4 at shivvrat
+Recording ID: 10_47, selected by 4:likhitha recorded by 4 at vasundhara
+Recording ID: 10_48, selected by 5:akshay recorded by 5 at rohith
+Recording ID: 10_50, selected by 2:shivvrat recorded by 2 at shivvrat
+Recording ID: 10_6, selected by 8:vasundhara recorded by 8 at vasundhara
+Recording ID: 10_7, selected by 8:vasundhara recorded by 8 at bharath
+
+
+------------------------------------
+Activity ID:12 - Tomato Mozzarella Salad
+------------------------------------
+Recording ID: 12_10, selected by 3:bharath recorded by 3 at akshay
+Recording ID: 12_119, selected by 5:akshay recorded by 5 at ahmed
+Recording ID: 12_12, selected by 5:akshay recorded by 5 at rohith
+Recording ID: 12_13, selected by 4:likhitha recorded by 4 at shivvrat
+Recording ID: 12_15, selected by 2:shivvrat recorded by 2 at akshay
+Recording ID: 12_17, selected by 2:shivvrat recorded by 2 at bharath
+Recording ID: 12_19, selected by 3:bharath recorded by 3 at bharath
+Recording ID: 12_2, selected by 4:likhitha recorded by 4 at rohith
+Recording ID: 12_26, selected by 2:shivvrat recorded by 2 at rohith
+Recording ID: 12_38, selected by 5:akshay recorded by 5 at shivvrat
+Recording ID: 12_41, selected by 5:akshay recorded by 5 at vasundhara
+Recording ID: 12_43, selected by 8:vasundhara recorded by 8 at shivvrat
+Recording ID: 12_48, selected by 8:vasundhara recorded by 8 at akshay
+Recording ID: 12_5, selected by 2:shivvrat recorded by 2 at shivvrat
+Recording ID: 12_51, selected by 8:vasundhara recorded by 8 at vasundhara
+Recording ID: 12_6, selected by 3:bharath recorded by 3 at akshay
+Recording ID: 12_9, selected by 3:bharath recorded by 3 at shivvrat
+
+
+------------------------------------
+Activity ID:13 - Butter Corn Cup
+------------------------------------
+Recording ID: 13_12, selected by 2:shivvrat recorded by 2 at akshay
+Recording ID: 13_14, selected by 8:vasundhara recorded by 8 at akshay
+Recording ID: 13_18, selected by 5:akshay recorded by 5 at rohith
+Recording ID: 13_20, selected by 3:bharath recorded by 3 at rohith
+Recording ID: 13_24, selected by 2:shivvrat recorded by 2 at bharath
+Recording ID: 13_31, selected by 8:vasundhara recorded by 8 at rohith
+Recording ID: 13_32, selected by 8:vasundhara recorded by 8 at bharath
+Recording ID: 13_36, selected by 5:akshay recorded by 5 at ahmed
+Recording ID: 13_38, selected by 8:vasundhara recorded by 8 at shivvrat
+Recording ID: 13_41, selected by 4:likhitha recorded by 4 at vasundhara
+Recording ID: 13_44, selected by 4:likhitha recorded by 4 at bharath
+Recording ID: 13_45, selected by 2:shivvrat recorded by -1 at rohith
+Recording ID: 13_5, selected by 5:akshay recorded by 5 at akshay
+Recording ID: 13_9, selected by 2:shivvrat recorded by 2 at shivvrat
+
+
+------------------------------------
+Activity ID:15 - Tomato Chutney
+------------------------------------
+Recording ID: 15_17, selected by 4:likhitha recorded by 4 at rohith
+Recording ID: 15_18, selected by 4:likhitha recorded by 4 at vasundhara
+Recording ID: 15_19, selected by 3:bharath recorded by 3 at rohith
+Recording ID: 15_2, selected by 8:vasundhara recorded by 8 at bharath
+Recording ID: 15_28, selected by 5:akshay recorded by 5 at akshay
+Recording ID: 15_29, selected by 2:shivvrat recorded by 2 at akshay
+Recording ID: 15_30, selected by 4:likhitha recorded by 4 at bharath
+Recording ID: 15_33, selected by 8:vasundhara recorded by 8 at rohith
+Recording ID: 15_37, selected by 4:likhitha recorded by 4 at akshay
+Recording ID: 15_39, selected by 5:akshay recorded by 5 at ahmed
+Recording ID: 15_4, selected by 8:vasundhara recorded by 8 at akshay
+Recording ID: 15_41, selected by 4:likhitha recorded by 4 at shivvrat
+Recording ID: 15_46, selected by 1:rohith recorded by 1 at vasundhara
+Recording ID: 15_5, selected by 5:akshay recorded by 5 at shivvrat
+Recording ID: 15_8, selected by 3:bharath recorded by 3 at shivvrat
+
+
+------------------------------------
+Activity ID:16 - Scrambled Eggs
+------------------------------------
+Recording ID: 16_1, selected by 7:qifan recorded by 7 at shivvrat
+Recording ID: 16_10, selected by 6:jikai recorded by 6 at jikai
+Recording ID: 16_18, selected by 6:jikai recorded by 6 at rohith
+Recording ID: 16_2, selected by 6:jikai recorded by 6 at shivvrat
+Recording ID: 16_23, selected by 7:qifan recorded by 7 at akshay
+Recording ID: 16_26, selected by 7:qifan recorded by 7 at bharath
+Recording ID: 16_27, selected by 7:qifan recorded by 7 at qifan
+Recording ID: 16_28, selected by 7:qifan recorded by 7 at rohith
+Recording ID: 16_35, selected by 1:rohith recorded by 1 at rohith
+Recording ID: 16_39, selected by 6:jikai recorded by 6 at vasundhara
+Recording ID: 16_40, selected by 3:bharath recorded by 3 at rohith
+Recording ID: 16_42, selected by 1:rohith recorded by 1 at akshay
+Recording ID: 16_44, selected by 6:jikai recorded by 6 at rohith
+
+
+------------------------------------
+Activity ID:17 - Cucumber Raita
+------------------------------------
+Recording ID: 17_10, selected by 4:likhitha recorded by 4 at bharath
+Recording ID: 17_11, selected by 3:bharath recorded by 3 at akshay
+Recording ID: 17_14, selected by 8:vasundhara recorded by 8 at vasundhara
+Recording ID: 17_15, selected by 2:shivvrat recorded by 2 at bharath
+Recording ID: 17_16, selected by 5:akshay recorded by 5 at ahmed
+Recording ID: 17_19, selected by 2:shivvrat recorded by 2 at akshay
+Recording ID: 17_2, selected by 8:vasundhara recorded by 8 at vasundhara
+Recording ID: 17_20, selected by 5:akshay recorded by 5 at shivvrat
+Recording ID: 17_21, selected by 2:shivvrat recorded by 2 at shivvrat
+Recording ID: 17_23, selected by 8:vasundhara recorded by 8 at bharath
+Recording ID: 17_29, selected by 5:akshay recorded by 5 at vasundhara
+Recording ID: 17_3, selected by 2:shivvrat recorded by 2 at rohith
+Recording ID: 17_37, selected by 5:akshay recorded by 5 at rohith
+Recording ID: 17_40, selected by 4:likhitha recorded by 4 at vasundhara
+Recording ID: 17_45, selected by 4:likhitha recorded by 4 at akshay
+Recording ID: 17_49, selected by 4:likhitha recorded by 4 at rohith
+Recording ID: 17_5, selected by 8:vasundhara recorded by 8 at shivvrat
+Recording ID: 17_8, selected by 5:akshay recorded by 5 at akshay
+
+
+------------------------------------
+Activity ID:18 - Zoodles
+------------------------------------
+Recording ID: 18_1, selected by 8:vasundhara recorded by 8 at rohith
+Recording ID: 18_101, selected by 8:vasundhara recorded by 8 at bharath
+Recording ID: 18_11, selected by 4:likhitha recorded by 4 at akshay
+Recording ID: 18_19, selected by 4:likhitha recorded by 4 at akshay
+Recording ID: 18_2, selected by 8:vasundhara recorded by 8 at akshay
+Recording ID: 18_24, selected by 3:bharath recorded by 3 at akshay
+Recording ID: 18_27, selected by 1:rohith recorded by -1 at shivvrat
+Recording ID: 18_28, selected by 1:rohith recorded by 1 at akshay
+Recording ID: 18_3, selected by 1:rohith recorded by 1 at rohith
+Recording ID: 18_31, selected by 4:likhitha recorded by 4 at shivvrat
+Recording ID: 18_33, selected by 4:likhitha recorded by 4 at bharath
+Recording ID: 18_41, selected by 3:bharath recorded by 3 at bharath
+Recording ID: 18_45, selected by 5:akshay recorded by 5 at ahmed
+Recording ID: 18_49, selected by 5:akshay recorded by 5 at akshay
+
+
+------------------------------------
+Activity ID:20 - Sauted Mushrooms
+------------------------------------
+Recording ID: 20_14, selected by 5:akshay recorded by 5 at shivvrat
+Recording ID: 20_16, selected by 4:likhitha recorded by 4 at akshay
+Recording ID: 20_17, selected by 5:akshay recorded by 5 at vasundhara
+Recording ID: 20_19, selected by 8:vasundhara recorded by 8 at akshay
+Recording ID: 20_22, selected by 2:shivvrat recorded by -1 at rohith
+Recording ID: 20_25, selected by 8:vasundhara recorded by 8 at vasundhara
+Recording ID: 20_26, selected by 4:likhitha recorded by 4 at rohith
+Recording ID: 20_29, selected by 4:likhitha recorded by 4 at shivvrat
+Recording ID: 20_32, selected by 8:vasundhara recorded by 8 at shivvrat
+Recording ID: 20_39, selected by 3:bharath recorded by 3 at bharath
+Recording ID: 20_44, selected by 2:shivvrat recorded by 2 at bharath
+Recording ID: 20_47, selected by 3:bharath recorded by 3 at akshay
+Recording ID: 20_48, selected by 2:shivvrat recorded by 2 at akshay
+Recording ID: 20_9, selected by 3:bharath recorded by 3 at shivvrat
+
+
+------------------------------------
+Activity ID:21 - Blender Banana Pancakes
+------------------------------------
+Recording ID: 21_103, selected by 1:rohith recorded by 1 at rohith
+Recording ID: 21_11, selected by 1:rohith recorded by 1 at shivvrat
+Recording ID: 21_14, selected by 7:qifan recorded by 7 at akshay
+Recording ID: 21_15, selected by 7:qifan recorded by 7 at shivvrat
+Recording ID: 21_17, selected by 6:jikai recorded by 6 at jikai
+Recording ID: 21_19, selected by 1:rohith recorded by 1 at vasundhara
+Recording ID: 21_24, selected by 7:qifan recorded by 7 at qifan
+Recording ID: 21_25, selected by 7:qifan recorded by 7 at rohith
+Recording ID: 21_28, selected by 3:bharath recorded by 3 at bharath
+Recording ID: 21_29, selected by 7:qifan recorded by 7 at bharath
+Recording ID: 21_3, selected by 1:rohith recorded by 1 at rohith
+Recording ID: 21_37, selected by 6:jikai recorded by 6 at shivvrat
+Recording ID: 21_43, selected by 1:rohith recorded by 1 at bharath
+Recording ID: 21_44, selected by 3:bharath recorded by 3 at shivvrat
+Recording ID: 21_46, selected by 6:jikai recorded by 6 at akshay
+Recording ID: 21_47, selected by 1:rohith recorded by 1 at akshay
+Recording ID: 21_50, selected by 6:jikai recorded by 6 at rohith
+Recording ID: 21_8, selected by 3:bharath recorded by 3 at rohith
+
+
+------------------------------------
+Activity ID:22 - Herb Omelet with Fried Tomatoes
+------------------------------------
+Recording ID: 22_10, selected by 1:rohith recorded by 1 at rohith
+Recording ID: 22_13, selected by 6:jikai recorded by 6 at shivvrat
+Recording ID: 22_2, selected by 3:bharath recorded by 3 at akshay
+Recording ID: 22_21, selected by 6:jikai recorded by 6 at akshay
+Recording ID: 22_24, selected by 1:rohith recorded by 1 at shivvrat
+Recording ID: 22_26, selected by 6:jikai recorded by 6 at rohith
+Recording ID: 22_30, selected by 6:jikai recorded by 6 at jikai
+Recording ID: 22_31, selected by 3:bharath recorded by 3 at bharath
+Recording ID: 22_32, selected by 1:rohith recorded by 1 at bharath
+Recording ID: 22_38, selected by 7:qifan recorded by 7 at rohith
+Recording ID: 22_4, selected by 1:rohith recorded by 1 at vasundhara
+Recording ID: 22_40, selected by 7:qifan recorded by 7 at shivvrat
+Recording ID: 22_41, selected by 6:jikai recorded by 6 at vasundhara
+Recording ID: 22_6, selected by 7:qifan recorded by 7 at bharath
+Recording ID: 22_8, selected by 7:qifan recorded by 7 at qifan
+
+
+------------------------------------
+Activity ID:23 - Broccoli Stir Fry
+------------------------------------
+Recording ID: 23_1, selected by 4:likhitha recorded by 4 at shivvrat
+Recording ID: 23_12, selected by 1:rohith recorded by 1 at vasundhara
+Recording ID: 23_16, selected by 6:jikai recorded by 6 at vasundhara
+Recording ID: 23_17, selected by 2:shivvrat recorded by 2 at shivvrat
+Recording ID: 23_18, selected by 1:rohith recorded by 1 at bharath
+Recording ID: 23_19, selected by 8:vasundhara recorded by 8 at shivvrat
+Recording ID: 23_23, selected by 8:vasundhara recorded by 8 at rohith
+Recording ID: 23_24, selected by 3:bharath recorded by 3 at akshay
+Recording ID: 23_26, selected by 8:vasundhara recorded by 8 at bharath
+Recording ID: 23_32, selected by 1:rohith recorded by 1 at akshay
+Recording ID: 23_39, selected by 3:bharath recorded by 3 at rohith
+Recording ID: 23_5, selected by 4:likhitha recorded by 4 at vasundhara
+Recording ID: 23_6, selected by 5:akshay recorded by 5 at vasundhara
+Recording ID: 23_9, selected by 5:akshay recorded by 5 at ahmed
+
+
+------------------------------------
+Activity ID:25 - Pan Fried Tofu
+------------------------------------
+Recording ID: 25_1, selected by 4:likhitha recorded by 4 at bharath
+Recording ID: 25_109, selected by 5:akshay recorded by 5 at vasundhara
+Recording ID: 25_11, selected by 4:likhitha recorded by 4 at akshay
+Recording ID: 25_13, selected by 1:rohith recorded by 1 at rohith
+Recording ID: 25_2, selected by 1:rohith recorded by 1 at akshay
+Recording ID: 25_22, selected by 4:likhitha recorded by 4 at shivvrat
+Recording ID: 25_3, selected by 8:vasundhara recorded by 8 at rohith
+Recording ID: 25_4, selected by 8:vasundhara recorded by 8 at bharath
+Recording ID: 25_40, selected by 2:shivvrat recorded by 2 at akshay
+Recording ID: 25_41, selected by 1:rohith recorded by 1 at vasundhara
+Recording ID: 25_42, selected by 1:rohith recorded by 1 at rohith
+Recording ID: 25_48, selected by 2:shivvrat recorded by 2 at shivvrat
+Recording ID: 25_5, selected by 4:likhitha recorded by 4 at vasundhara
+Recording ID: 25_6, selected by 1:rohith recorded by 1 at shivvrat
+Recording ID: 25_9, selected by 2:shivvrat recorded by 2 at bharath
+
+
+------------------------------------
+Activity ID:26 - Mug Cake
+------------------------------------
+Recording ID: 26_136, selected by 2:shivvrat recorded by 2 at bharath
+Recording ID: 26_17, selected by 5:akshay recorded by 5 at shivvrat
+Recording ID: 26_18, selected by 4:likhitha recorded by 4 at vasundhara
+Recording ID: 26_19, selected by 5:akshay recorded by 5 at vasundhara
+Recording ID: 26_24, selected by 1:rohith recorded by 1 at bharath
+Recording ID: 26_29, selected by 2:shivvrat recorded by 2 at shivvrat
+Recording ID: 26_30, selected by 5:akshay recorded by 5 at akshay
+Recording ID: 26_34, selected by 4:likhitha recorded by 4 at rohith
+Recording ID: 26_36, selected by 6:jikai recorded by 6 at vasundhara
+Recording ID: 26_37, selected by 5:akshay recorded by 5 at ahmed
+Recording ID: 26_39, selected by 8:vasundhara recorded by 8 at vasundhara
+Recording ID: 26_4, selected by 4:likhitha recorded by 4 at vasundhara
+Recording ID: 26_42, selected by 8:vasundhara recorded by 8 at rohith
+Recording ID: 26_46, selected by 1:rohith recorded by 1 at vasundhara
+
+
+------------------------------------
+Activity ID:27 - Cheese Pimiento
+------------------------------------
+Recording ID: 27_13, selected by 5:akshay recorded by 5 at vasundhara
+Recording ID: 27_15, selected by 2:shivvrat recorded by 2 at akshay
+Recording ID: 27_17, selected by 4:likhitha recorded by 4 at rohith
+Recording ID: 27_18, selected by 3:bharath recorded by 3 at bharath
+Recording ID: 27_26, selected by 8:vasundhara recorded by 8 at bharath
+Recording ID: 27_29, selected by 5:akshay recorded by 5 at rohith
+Recording ID: 27_3, selected by 8:vasundhara recorded by 8 at shivvrat
+Recording ID: 27_31, selected by 4:likhitha recorded by 4 at vasundhara
+Recording ID: 27_34, selected by 2:shivvrat recorded by 2 at rohith
+Recording ID: 27_37, selected by 2:shivvrat recorded by 2 at shivvrat
+Recording ID: 27_4, selected by 2:shivvrat recorded by 2 at bharath
+Recording ID: 27_45, selected by 5:akshay recorded by 5 at akshay
+Recording ID: 27_49, selected by 8:vasundhara recorded by 8 at vasundhara
+Recording ID: 27_50, selected by 5:akshay recorded by -1 at shivvrat
+Recording ID: 27_9, selected by 4:likhitha recorded by 4 at akshay
+
+
+------------------------------------
+Activity ID:28 - Spicy Tuna Avocado Wraps
+------------------------------------
+Recording ID: 28_10, selected by 6:jikai recorded by 6 at rohith
+Recording ID: 28_14, selected by 3:bharath recorded by 3 at shivvrat
+Recording ID: 28_2, selected by 6:jikai recorded by 6 at jikai
+Recording ID: 28_21, selected by 7:qifan recorded by 7 at qifan
+Recording ID: 28_24, selected by 7:qifan recorded by 7 at bharath
+Recording ID: 28_25, selected by 1:rohith recorded by 1 at akshay
+Recording ID: 28_26, selected by 1:rohith recorded by -1 at shivvrat
+Recording ID: 28_28, selected by 7:qifan recorded by 7 at rohith
+Recording ID: 28_29, selected by 7:qifan recorded by 7 at shivvrat
+Recording ID: 28_3, selected by 6:jikai recorded by 6 at vasundhara
+Recording ID: 28_38, selected by 3:bharath recorded by 3 at bharath
+Recording ID: 28_42, selected by 1:rohith recorded by 1 at rohith
+Recording ID: 28_44, selected by 7:qifan recorded by 7 at akshay
+Recording ID: 28_45, selected by 6:jikai recorded by 6 at akshay
+Recording ID: 28_49, selected by 3:bharath recorded by 3 at akshay
+Recording ID: 28_50, selected by 3:bharath recorded by 3 at rohith
+Recording ID: 28_7, selected by 6:jikai recorded by 6 at shivvrat
+
+
+------------------------------------
+Activity ID:29 - Caprese Bruschetta
+------------------------------------
+Recording ID: 29_129, selected by 1:rohith recorded by 1 at vasundhara
+Recording ID: 29_18, selected by 2:shivvrat recorded by 2 at rohith
+Recording ID: 29_28, selected by 2:shivvrat recorded by 2 at bharath
+Recording ID: 29_29, selected by 8:vasundhara recorded by 8 at vasundhara
+Recording ID: 29_32, selected by 5:akshay recorded by 5 at shivvrat
+Recording ID: 29_34, selected by 4:likhitha recorded by 4 at bharath
+Recording ID: 29_35, selected by 5:akshay recorded by 5 at vasundhara
+Recording ID: 29_37, selected by 6:jikai recorded by 6 at vasundhara
+Recording ID: 29_45, selected by 5:akshay recorded by 5 at rohith
+Recording ID: 29_48, selected by 8:vasundhara recorded by 8 at akshay
+Recording ID: 29_49, selected by 4:likhitha recorded by 4 at akshay
+Recording ID: 29_5, selected by 8:vasundhara recorded by 8 at shivvrat
+Recording ID: 29_6, selected by 5:akshay recorded by 5 at akshay
+Recording ID: 29_7, selected by 4:likhitha recorded by 4 at shivvrat
+
+

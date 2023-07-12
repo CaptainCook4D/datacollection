@@ -1,0 +1,1678 @@
+- activity_id: 8
+  environment: null
+  id: '8_1'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Fill-Fill a microwave-safe mug with skimmed milk
+  - description: Microwave-Microwave the contents of the mug for 1 minute
+  - description: Add-Add 1 teaspoon of white sugar to the mug
+  - description: Add-Add 1/5 teaspoon cinnamon to the mug
+  - description: Add-Add 2 pieces of chocolate to the mug
+  - description: Mix-Mix the contents of the mug
+  - description: Heat-Heat the contents of the mug for 1 minute and serve
+- activity_id: 8
+  environment: null
+  id: '8_2'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Fill-Fill a microwave-safe mug with skimmed milk
+  - description: Microwave-Microwave the contents of the mug for 1 minute
+  - description: Add-Add 1 teaspoon of white sugar to the mug
+  - description: Add-Add 2 pieces of chocolate to the mug
+  - description: Add-Add 1/5 teaspoon cinnamon to the mug
+  - description: Mix-Mix the contents of the mug
+  - description: Heat-Heat the contents of the mug for 1 minute and serve
+- activity_id: 8
+  environment: null
+  id: '8_3'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Fill-Fill a microwave-safe mug with skimmed milk
+  - description: Microwave-Microwave the contents of the mug for 1 minute
+  - description: Add-Add 2 pieces of chocolate to the mug
+  - description: Add-Add 1/5 teaspoon cinnamon to the mug
+  - description: Add-Add 1 teaspoon of white sugar to the mug
+  - description: Mix-Mix the contents of the mug
+  - description: Heat-Heat the contents of the mug for 1 minute and serve
+- activity_id: 8
+  environment: null
+  id: '8_4'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Fill-Fill a microwave-safe mug with skimmed milk
+  - description: Microwave-Microwave the contents of the mug for 1 minute
+  - description: Add-Add 2 pieces of chocolate to the mug
+  - description: Add-Add 1 teaspoon of white sugar to the mug
+  - description: Add-Add 1/5 teaspoon cinnamon to the mug
+  - description: Mix-Mix the contents of the mug
+  - description: Heat-Heat the contents of the mug for 1 minute and serve
+- activity_id: 8
+  environment: null
+  id: '8_5'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Fill-Fill a microwave-safe mug with skimmed milk
+  - description: Microwave-Microwave the contents of the mug for 1 minute
+  - description: Add-Add 1/5 teaspoon cinnamon to the mug
+  - description: Add-Add 1 teaspoon of white sugar to the mug
+  - description: Add-Add 2 pieces of chocolate to the mug
+  - description: Mix-Mix the contents of the mug
+  - description: Heat-Heat the contents of the mug for 1 minute and serve
+- activity_id: 8
+  environment: null
+  id: '8_6'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Fill-Fill a microwave-safe mug with skimmed milk
+  - description: Microwave-Microwave the contents of the mug for 1 minute
+  - description: Add-Add 1/5 teaspoon cinnamon to the mug
+  - description: Add-Add 2 pieces of chocolate to the mug
+  - description: Add-Add 1 teaspoon of white sugar to the mug
+  - description: Mix-Mix the contents of the mug
+  - description: Heat-Heat the contents of the mug for 1 minute and serve
+- activity_id: 8
+  environment: null
+  id: '8_7'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Fill-Fill a microwave-safe mug with skimmed milk
+  - description: Microwave-Microwave the contents of the mug for 1 minute
+  - description: Add-Add 1 teaspoon of white sugar to the mug
+  - description: Add-Add 1/5 teaspoon cinnamon to the mug
+  - description: Add-Add 2 pieces of chocolate to the mug
+  - description: Mix-Mix the contents of the mug
+  - description: Heat-Heat the contents of the mug for 1 minute and serve
+- activity_id: 8
+  environment: null
+  id: '8_8'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Fill-Fill a microwave-safe mug with skimmed milk
+  - description: Microwave-Microwave the contents of the mug for 1 minute
+  - description: Add-Add 1/5 teaspoon cinnamon to the mug
+  - description: Add-Add 1 teaspoon of white sugar to the mug
+  - description: Add-Add 2 pieces of chocolate to the mug
+  - description: Mix-Mix the contents of the mug
+  - description: Heat-Heat the contents of the mug for 1 minute and serve
+- activity_id: 8
+  environment: null
+  id: '8_9'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Fill-Fill a microwave-safe mug with skimmed milk
+  - description: Microwave-Microwave the contents of the mug for 1 minute
+  - description: Add-Add 1 teaspoon of white sugar to the mug
+  - description: Add-Add 2 pieces of chocolate to the mug
+  - description: Add-Add 1/5 teaspoon cinnamon to the mug
+  - description: Mix-Mix the contents of the mug
+  - description: Heat-Heat the contents of the mug for 1 minute and serve
+- activity_id: 8
+  environment: null
+  id: '8_10'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Fill-Fill a microwave-safe mug with skimmed milk
+  - description: Microwave-Microwave the contents of the mug for 1 minute
+  - description: Add-Add 1 teaspoon of white sugar to the mug
+  - description: Add-Add 1/5 teaspoon cinnamon to the mug
+  - description: Add-Add 2 pieces of chocolate to the mug
+  - description: Mix-Mix the contents of the mug
+  - description: Heat-Heat the contents of the mug for 1 minute and serve
+- activity_id: 8
+  environment: null
+  id: '8_11'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Fill-Fill a microwave-safe mug with skimmed milk
+  - description: Microwave-Microwave the contents of the mug for 1 minute
+  - description: Add-Add 1/5 teaspoon cinnamon to the mug
+  - description: Add-Add 2 pieces of chocolate to the mug
+  - description: Add-Add 1 teaspoon of white sugar to the mug
+  - description: Mix-Mix the contents of the mug
+  - description: Heat-Heat the contents of the mug for 1 minute and serve
+- activity_id: 8
+  environment: null
+  id: '8_12'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Fill-Fill a microwave-safe mug with skimmed milk
+  - description: Microwave-Microwave the contents of the mug for 1 minute
+  - description: Add-Add 1/5 teaspoon cinnamon to the mug
+  - description: Add-Add 1 teaspoon of white sugar to the mug
+  - description: Add-Add 2 pieces of chocolate to the mug
+  - description: Mix-Mix the contents of the mug
+  - description: Heat-Heat the contents of the mug for 1 minute and serve
+- activity_id: 8
+  environment: null
+  id: '8_13'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Fill-Fill a microwave-safe mug with skimmed milk
+  - description: Microwave-Microwave the contents of the mug for 1 minute
+  - description: Add-Add 1 teaspoon of white sugar to the mug
+  - description: Add-Add 1/5 teaspoon cinnamon to the mug
+  - description: Add-Add 2 pieces of chocolate to the mug
+  - description: Mix-Mix the contents of the mug
+  - description: Heat-Heat the contents of the mug for 1 minute and serve
+- activity_id: 8
+  environment: null
+  id: '8_14'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Fill-Fill a microwave-safe mug with skimmed milk
+  - description: Microwave-Microwave the contents of the mug for 1 minute
+  - description: Add-Add 1 teaspoon of white sugar to the mug
+  - description: Add-Add 1/5 teaspoon cinnamon to the mug
+  - description: Add-Add 2 pieces of chocolate to the mug
+  - description: Mix-Mix the contents of the mug
+  - description: Heat-Heat the contents of the mug for 1 minute and serve
+- activity_id: 8
+  environment: null
+  id: '8_15'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Fill-Fill a microwave-safe mug with skimmed milk
+  - description: Microwave-Microwave the contents of the mug for 1 minute
+  - description: Add-Add 1 teaspoon of white sugar to the mug
+  - description: Add-Add 2 pieces of chocolate to the mug
+  - description: Add-Add 1/5 teaspoon cinnamon to the mug
+  - description: Mix-Mix the contents of the mug
+  - description: Heat-Heat the contents of the mug for 1 minute and serve
+- activity_id: 8
+  environment: null
+  id: '8_16'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Fill-Fill a microwave-safe mug with skimmed milk
+  - description: Microwave-Microwave the contents of the mug for 1 minute
+  - description: Add-Add 2 pieces of chocolate to the mug
+  - description: Add-Add 1/5 teaspoon cinnamon to the mug
+  - description: Add-Add 1 teaspoon of white sugar to the mug
+  - description: Mix-Mix the contents of the mug
+  - description: Heat-Heat the contents of the mug for 1 minute and serve
+- activity_id: 8
+  environment: null
+  id: '8_17'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Fill-Fill a microwave-safe mug with skimmed milk
+  - description: Microwave-Microwave the contents of the mug for 1 minute
+  - description: Add-Add 1/5 teaspoon cinnamon to the mug
+  - description: Add-Add 2 pieces of chocolate to the mug
+  - description: Add-Add 1 teaspoon of white sugar to the mug
+  - description: Mix-Mix the contents of the mug
+  - description: Heat-Heat the contents of the mug for 1 minute and serve
+- activity_id: 8
+  environment: null
+  id: '8_18'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Fill-Fill a microwave-safe mug with skimmed milk
+  - description: Microwave-Microwave the contents of the mug for 1 minute
+  - description: Add-Add 1 teaspoon of white sugar to the mug
+  - description: Add-Add 2 pieces of chocolate to the mug
+  - description: Add-Add 1/5 teaspoon cinnamon to the mug
+  - description: Mix-Mix the contents of the mug
+  - description: Heat-Heat the contents of the mug for 1 minute and serve
+- activity_id: 8
+  environment: null
+  id: '8_19'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Fill-Fill a microwave-safe mug with skimmed milk
+  - description: Microwave-Microwave the contents of the mug for 1 minute
+  - description: Add-Add 1 teaspoon of white sugar to the mug
+  - description: Add-Add 1/5 teaspoon cinnamon to the mug
+  - description: Add-Add 2 pieces of chocolate to the mug
+  - description: Mix-Mix the contents of the mug
+  - description: Heat-Heat the contents of the mug for 1 minute and serve
+- activity_id: 8
+  environment: null
+  id: '8_20'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Fill-Fill a microwave-safe mug with skimmed milk
+  - description: Microwave-Microwave the contents of the mug for 1 minute
+  - description: Add-Add 1/5 teaspoon cinnamon to the mug
+  - description: Add-Add 2 pieces of chocolate to the mug
+  - description: Add-Add 1 teaspoon of white sugar to the mug
+  - description: Mix-Mix the contents of the mug
+  - description: Heat-Heat the contents of the mug for 1 minute and serve
+- activity_id: 8
+  environment: null
+  id: '8_21'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Fill-Fill a microwave-safe mug with skimmed milk
+  - description: Microwave-Microwave the contents of the mug for 1 minute
+  - description: Add-Add 1/5 teaspoon cinnamon to the mug
+  - description: Add-Add 1 teaspoon of white sugar to the mug
+  - description: Add-Add 2 pieces of chocolate to the mug
+  - description: Mix-Mix the contents of the mug
+  - description: Heat-Heat the contents of the mug for 1 minute and serve
+- activity_id: 8
+  environment: null
+  id: '8_22'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Fill-Fill a microwave-safe mug with skimmed milk
+  - description: Microwave-Microwave the contents of the mug for 1 minute
+  - description: Add-Add 2 pieces of chocolate to the mug
+  - description: Add-Add 1 teaspoon of white sugar to the mug
+  - description: Add-Add 1/5 teaspoon cinnamon to the mug
+  - description: Mix-Mix the contents of the mug
+  - description: Heat-Heat the contents of the mug for 1 minute and serve
+- activity_id: 8
+  environment: null
+  id: '8_23'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Fill-Fill a microwave-safe mug with skimmed milk
+  - description: Microwave-Microwave the contents of the mug for 1 minute
+  - description: Add-Add 1/5 teaspoon cinnamon to the mug
+  - description: Add-Add 1 teaspoon of white sugar to the mug
+  - description: Add-Add 2 pieces of chocolate to the mug
+  - description: Mix-Mix the contents of the mug
+  - description: Heat-Heat the contents of the mug for 1 minute and serve
+- activity_id: 8
+  environment: null
+  id: '8_24'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Fill-Fill a microwave-safe mug with skimmed milk
+  - description: Microwave-Microwave the contents of the mug for 1 minute
+  - description: Add-Add 2 pieces of chocolate to the mug
+  - description: Add-Add 1 teaspoon of white sugar to the mug
+  - description: Add-Add 1/5 teaspoon cinnamon to the mug
+  - description: Mix-Mix the contents of the mug
+  - description: Heat-Heat the contents of the mug for 1 minute and serve
+- activity_id: 8
+  environment: null
+  id: '8_25'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Fill-Fill a microwave-safe mug with skimmed milk
+  - description: Microwave-Microwave the contents of the mug for 1 minute
+  - description: Add-Add 1/5 teaspoon cinnamon to the mug
+  - description: Add-Add 2 pieces of chocolate to the mug
+  - description: Add-Add 1 teaspoon of white sugar to the mug
+  - description: Mix-Mix the contents of the mug
+  - description: Heat-Heat the contents of the mug for 1 minute and serve
+- activity_id: 8
+  environment: null
+  errors:
+  - description: Add-Add 1/5 teaspoon cinnamon to the mug
+    tag: Missing Step
+  id: '8_26'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Fill-Fill a microwave-safe mug with skimmed milk
+  - description: Microwave-Microwave the contents of the mug for 1 minute
+  - description: Add-Add 2 pieces of chocolate to the mug
+  - description: Add-Add 1 teaspoon of white sugar to the mug
+  - description: Mix-Mix the contents of the mug
+  - description: Heat-Heat the contents of the mug for 1 minute and serve
+- activity_id: 8
+  environment: null
+  errors:
+  - description: Add-Add 2 pieces of chocolate to the mug
+    tag: Missing Step
+  id: '8_27'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Fill-Fill a microwave-safe mug with skimmed milk
+  - description: Microwave-Microwave the contents of the mug for 1 minute
+  - description: Add-Add 1/5 teaspoon cinnamon to the mug
+  - description: Add-Add 1 teaspoon of white sugar to the mug
+  - description: Mix-Mix the contents of the mug
+  - description: Heat-Heat the contents of the mug for 1 minute and serve
+- activity_id: 8
+  environment: null
+  errors:
+  - description: Heat-Heat the contents of the mug for 1 minute and serve
+    tag: Missing Step
+  id: '8_28'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Fill-Fill a microwave-safe mug with skimmed milk
+  - description: Microwave-Microwave the contents of the mug for 1 minute
+  - description: Add-Add 1/5 teaspoon cinnamon to the mug
+  - description: Add-Add 2 pieces of chocolate to the mug
+  - description: Add-Add 1 teaspoon of white sugar to the mug
+  - description: Mix-Mix the contents of the mug
+- activity_id: 8
+  environment: null
+  errors:
+  - description: Heat-Heat the contents of the mug for 1 minute and serve
+    tag: Missing Step
+  id: '8_29'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Fill-Fill a microwave-safe mug with skimmed milk
+  - description: Microwave-Microwave the contents of the mug for 1 minute
+  - description: Add-Add 1 teaspoon of white sugar to the mug
+  - description: Add-Add 2 pieces of chocolate to the mug
+  - description: Add-Add 1/5 teaspoon cinnamon to the mug
+  - description: Mix-Mix the contents of the mug
+- activity_id: 8
+  environment: null
+  errors:
+  - description: Microwave-Microwave the contents of the mug for 1 minute
+    tag: Missing Step
+  id: '8_30'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Fill-Fill a microwave-safe mug with skimmed milk
+  - description: Add-Add 2 pieces of chocolate to the mug
+  - description: Add-Add 1/5 teaspoon cinnamon to the mug
+  - description: Add-Add 1 teaspoon of white sugar to the mug
+  - description: Mix-Mix the contents of the mug
+  - description: Heat-Heat the contents of the mug for 1 minute and serve
+- activity_id: 8
+  environment: null
+  errors:
+  - description: Add-Add 1 teaspoon of white sugar to the mug
+    tag: Missing Step
+  - description: Add-Add 2 pieces of chocolate to the mug
+    tag: Missing Step
+  id: '8_31'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Fill-Fill a microwave-safe mug with skimmed milk
+  - description: Microwave-Microwave the contents of the mug for 1 minute
+  - description: Add-Add 1/5 teaspoon cinnamon to the mug
+  - description: Mix-Mix the contents of the mug
+  - description: Heat-Heat the contents of the mug for 1 minute and serve
+- activity_id: 8
+  environment: null
+  errors:
+  - description: Add-Add 2 pieces of chocolate to the mug
+    tag: Missing Step
+  - description: Add-Add 1 teaspoon of white sugar to the mug
+    tag: Missing Step
+  id: '8_32'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Fill-Fill a microwave-safe mug with skimmed milk
+  - description: Microwave-Microwave the contents of the mug for 1 minute
+  - description: Add-Add 1/5 teaspoon cinnamon to the mug
+  - description: Mix-Mix the contents of the mug
+  - description: Heat-Heat the contents of the mug for 1 minute and serve
+- activity_id: 8
+  environment: null
+  errors:
+  - description: Heat-Heat the contents of the mug for 1 minute and serve
+    tag: Missing Step
+  id: '8_33'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Fill-Fill a microwave-safe mug with skimmed milk
+  - description: Microwave-Microwave the contents of the mug for 1 minute
+  - description: Add-Add 2 pieces of chocolate to the mug
+  - description: Add-Add 1 teaspoon of white sugar to the mug
+  - description: Add-Add 1/5 teaspoon cinnamon to the mug
+  - description: Mix-Mix the contents of the mug
+- activity_id: 8
+  environment: null
+  errors:
+  - description: Add-Add 2 pieces of chocolate to the mug
+    tag: Missing Step
+  - tag: Order Error
+  id: '8_34'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Fill-Fill a microwave-safe mug with skimmed milk
+  - description: Microwave-Microwave the contents of the mug for 1 minute
+  - description: Mix-Mix the contents of the mug
+  - description: Add-Add 1/5 teaspoon cinnamon to the mug
+  - description: Add-Add 1 teaspoon of white sugar to the mug
+  - description: Heat-Heat the contents of the mug for 1 minute and serve
+- activity_id: 8
+  environment: null
+  errors:
+  - tag: Order Error
+  id: '8_35'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Fill-Fill a microwave-safe mug with skimmed milk
+  - description: Add-Add 1 teaspoon of white sugar to the mug
+  - description: Microwave-Microwave the contents of the mug for 1 minute
+  - description: Add-Add 1/5 teaspoon cinnamon to the mug
+  - description: Mix-Mix the contents of the mug
+  - description: Add-Add 2 pieces of chocolate to the mug
+  - description: Heat-Heat the contents of the mug for 1 minute and serve
+- activity_id: 8
+  environment: null
+  errors:
+  - tag: Order Error
+  id: '8_36'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Fill-Fill a microwave-safe mug with skimmed milk
+  - description: Add-Add 1/5 teaspoon cinnamon to the mug
+  - description: Add-Add 1 teaspoon of white sugar to the mug
+  - description: Microwave-Microwave the contents of the mug for 1 minute
+  - description: Mix-Mix the contents of the mug
+  - description: Add-Add 2 pieces of chocolate to the mug
+  - description: Heat-Heat the contents of the mug for 1 minute and serve
+- activity_id: 8
+  environment: null
+  errors:
+  - description: Add-Add 1/5 teaspoon cinnamon to the mug
+    tag: Missing Step
+  - description: Add-Add 2 pieces of chocolate to the mug
+    tag: Missing Step
+  - tag: Order Error
+  id: '8_37'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Fill-Fill a microwave-safe mug with skimmed milk
+  - description: Add-Add 1 teaspoon of white sugar to the mug
+  - description: Microwave-Microwave the contents of the mug for 1 minute
+  - description: Heat-Heat the contents of the mug for 1 minute and serve
+  - description: Mix-Mix the contents of the mug
+- activity_id: 8
+  environment: null
+  errors:
+  - tag: Order Error
+  id: '8_38'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Fill-Fill a microwave-safe mug with skimmed milk
+  - description: Microwave-Microwave the contents of the mug for 1 minute
+  - description: Mix-Mix the contents of the mug
+  - description: Add-Add 1 teaspoon of white sugar to the mug
+  - description: Add-Add 2 pieces of chocolate to the mug
+  - description: Add-Add 1/5 teaspoon cinnamon to the mug
+  - description: Heat-Heat the contents of the mug for 1 minute and serve
+- activity_id: 8
+  environment: null
+  errors:
+  - tag: Order Error
+  id: '8_39'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Add-Add 2 pieces of chocolate to the mug
+  - description: Microwave-Microwave the contents of the mug for 1 minute
+  - description: Fill-Fill a microwave-safe mug with skimmed milk
+  - description: Add-Add 1 teaspoon of white sugar to the mug
+  - description: Add-Add 1/5 teaspoon cinnamon to the mug
+  - description: Mix-Mix the contents of the mug
+  - description: Heat-Heat the contents of the mug for 1 minute and serve
+- activity_id: 8
+  environment: null
+  errors:
+  - tag: Order Error
+  id: '8_40'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Add-Add 1/5 teaspoon cinnamon to the mug
+  - description: Add-Add 2 pieces of chocolate to the mug
+  - description: Microwave-Microwave the contents of the mug for 1 minute
+  - description: Fill-Fill a microwave-safe mug with skimmed milk
+  - description: Add-Add 1 teaspoon of white sugar to the mug
+  - description: Mix-Mix the contents of the mug
+  - description: Heat-Heat the contents of the mug for 1 minute and serve
+- activity_id: 8
+  environment: null
+  errors:
+  - tag: Order Error
+  id: '8_41'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Add-Add 1/5 teaspoon cinnamon to the mug
+  - description: Microwave-Microwave the contents of the mug for 1 minute
+  - description: Fill-Fill a microwave-safe mug with skimmed milk
+  - description: Add-Add 1 teaspoon of white sugar to the mug
+  - description: Add-Add 2 pieces of chocolate to the mug
+  - description: Mix-Mix the contents of the mug
+  - description: Heat-Heat the contents of the mug for 1 minute and serve
+- activity_id: 8
+  environment: null
+  errors:
+  - description: Fill-Fill a microwave-safe mug with skimmed milk
+    tag: Missing Step
+  - description: Add-Add 1/5 teaspoon cinnamon to the mug
+    tag: Missing Step
+  - tag: Order Error
+  id: '8_42'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Add-Add 1 teaspoon of white sugar to the mug
+  - description: Add-Add 2 pieces of chocolate to the mug
+  - description: Microwave-Microwave the contents of the mug for 1 minute
+  - description: Mix-Mix the contents of the mug
+  - description: Heat-Heat the contents of the mug for 1 minute and serve
+- activity_id: 8
+  environment: null
+  errors:
+  - description: Fill-Fill a microwave-safe mug with skimmed milk
+    tag: Missing Step
+  - tag: Order Error
+  id: '8_43'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Add-Add 1 teaspoon of white sugar to the mug
+  - description: Add-Add 2 pieces of chocolate to the mug
+  - description: Mix-Mix the contents of the mug
+  - description: Microwave-Microwave the contents of the mug for 1 minute
+  - description: Add-Add 1/5 teaspoon cinnamon to the mug
+  - description: Heat-Heat the contents of the mug for 1 minute and serve
+- activity_id: 8
+  environment: null
+  errors:
+  - description: Mix-Mix the contents of the mug
+    tag: Missing Step
+  - tag: Order Error
+  id: '8_45'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Fill-Fill a microwave-safe mug with skimmed milk
+  - description: Add-Add 2 pieces of chocolate to the mug
+  - description: Add-Add 1/5 teaspoon cinnamon to the mug
+  - description: Add-Add 1 teaspoon of white sugar to the mug
+  - description: Microwave-Microwave the contents of the mug for 1 minute
+  - description: Heat-Heat the contents of the mug for 1 minute and serve
+- activity_id: 8
+  environment: null
+  errors:
+  - tag: Order Error
+  id: '8_46'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Fill-Fill a microwave-safe mug with skimmed milk
+  - description: Add-Add 2 pieces of chocolate to the mug
+  - description: Microwave-Microwave the contents of the mug for 1 minute
+  - description: Add-Add 1 teaspoon of white sugar to the mug
+  - description: Mix-Mix the contents of the mug
+  - description: Add-Add 1/5 teaspoon cinnamon to the mug
+  - description: Heat-Heat the contents of the mug for 1 minute and serve
+- activity_id: 8
+  environment: null
+  errors:
+  - description: Microwave-Microwave the contents of the mug for 1 minute
+    tag: Missing Step
+  - tag: Order Error
+  id: '8_47'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Fill-Fill a microwave-safe mug with skimmed milk
+  - description: Add-Add 1/5 teaspoon cinnamon to the mug
+  - description: Mix-Mix the contents of the mug
+  - description: Add-Add 1 teaspoon of white sugar to the mug
+  - description: Add-Add 2 pieces of chocolate to the mug
+  - description: Heat-Heat the contents of the mug for 1 minute and serve
+- activity_id: 8
+  environment: null
+  errors:
+  - description: Microwave-Microwave the contents of the mug for 1 minute
+    tag: Missing Step
+  - tag: Order Error
+  id: '8_48'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Fill-Fill a microwave-safe mug with skimmed milk
+  - description: Add-Add 2 pieces of chocolate to the mug
+  - description: Mix-Mix the contents of the mug
+  - description: Add-Add 1 teaspoon of white sugar to the mug
+  - description: Add-Add 1/5 teaspoon cinnamon to the mug
+  - description: Heat-Heat the contents of the mug for 1 minute and serve
+- activity_id: 8
+  environment: null
+  errors:
+  - tag: Order Error
+  id: '8_49'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Fill-Fill a microwave-safe mug with skimmed milk
+  - description: Mix-Mix the contents of the mug
+  - description: Heat-Heat the contents of the mug for 1 minute and serve
+  - description: Add-Add 1/5 teaspoon cinnamon to the mug
+  - description: Add-Add 1 teaspoon of white sugar to the mug
+  - description: Add-Add 2 pieces of chocolate to the mug
+  - description: Microwave-Microwave the contents of the mug for 1 minute
+- activity_id: 8
+  environment: null
+  errors:
+  - description: Mix-Mix the contents of the mug
+    tag: Missing Step
+  - description: Add-Add 1/5 teaspoon cinnamon to the mug
+    tag: Missing Step
+  - tag: Order Error
+  id: '8_50'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Add-Add 1 teaspoon of white sugar to the mug
+  - description: Fill-Fill a microwave-safe mug with skimmed milk
+  - description: Microwave-Microwave the contents of the mug for 1 minute
+  - description: Add-Add 2 pieces of chocolate to the mug
+  - description: Heat-Heat the contents of the mug for 1 minute and serve

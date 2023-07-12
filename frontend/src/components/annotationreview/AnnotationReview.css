@@ -1,0 +1,59 @@
+/* AnnotationReview.module.css */
+.reviewContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 auto;
+    height: 80%;
+}
+
+.reviewHeader {
+    width: 100%;
+    flex: 0.1;
+    flex-shrink: 0;
+}
+
+.reviewStepperContainer {
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    flex: 0.9;
+    padding: 24px;
+}
+
+.reviewStepper {
+    flex: 0.1;
+    flex-basis: 10%;
+    flex-shrink: 0;
+}
+
+.reviewContent {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    padding: 24px;
+    background-color: #f5f5f5;
+    border-radius: 4px;
+    margin-bottom: 24px;
+    flex: 0.8;
+    overflow-y: auto;
+}
+
+.reviewButtonContainer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    flex: 0.1;
+    padding: 0 1rem;
+}
+
+.backButton {
+    margin-right: auto;
+}
+
+.nextButton {
+    margin-left: auto;
+}

@@ -1,0 +1,1039 @@
+- activity_id: 5
+  environment: 10
+  id: '5_2'
+  is_error: false
+  recorded_by: 6
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 6
+  steps:
+  - description: Measure-Measure 12 ounces of cold water
+  - description: Place-Place the dripper on top of a coffee mug
+  - description: Weigh-Weigh the coffee beans (0.8oz-0.12 oz)
+  - description: Grind-Grind the coffee beans until the coffee grounds are the consistency
+      of coarse sand, about 20 seconds
+  - description: Prepare-Prepare the filter insert by folding the paper filter in
+      half to create a semi-circle, and in half again to create a quarter-circle
+  - description: transfer-transfer water to a kettle
+  - description: Place-Place the paper filter in the dripper
+  - description: Boil-Boil the water. (While the water is boiling, assemble the filter
+      cone)
+  - description: spread-spread open filter in dripper to create a cone
+  - description: check-Once the water has boiled, check the temperature of the water.
+      (The water should be between 195-205 degrees Fahrenheit or between 91-96 degrees
+      Celsius. If the water is too hot, let it cool briefly.)
+  - description: Transfer-Transfer the grounds to the filter cone
+  - description: Pour-Pour a small amount of water into the filter to wet the grounds
+  - description: Wait-Wait about 30 seconds for the coffee to bloom. (You will see
+      small bubbles or foam on the coffee grounds during this step.)
+  - description: pour-Slowly pour the rest of the water over the grounds in a circular
+      motion. Do not overfill beyond the top of the paper filter
+  - description: drain-Let the coffee drain completely into the mug before removing
+      the dripper
+  - description: Discard-Discard the paper filter and coffee grounds
+- activity_id: 5
+  environment: 5
+  id: '5_3'
+  is_error: false
+  recorded_by: 7
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 7
+  steps:
+  - description: Measure-Measure 12 ounces of cold water
+  - description: Place-Place the dripper on top of a coffee mug
+  - description: transfer-transfer water to a kettle
+  - description: Prepare-Prepare the filter insert by folding the paper filter in
+      half to create a semi-circle, and in half again to create a quarter-circle
+  - description: Place-Place the paper filter in the dripper
+  - description: spread-spread open filter in dripper to create a cone
+  - description: Boil-Boil the water. (While the water is boiling, assemble the filter
+      cone)
+  - description: Weigh-Weigh the coffee beans (8oz-12 oz)
+  - description: Grind-Grind the coffee beans until the coffee grounds are the consistency
+      of coarse sand, about 20 seconds
+  - description: check-Once the water has boiled, check the temperature of the water.
+      (The water should be between 195-205 degrees Fahrenheit or between 91-96 degrees
+      Celsius. If the water is too hot, let it cool briefly.)
+  - description: Transfer-Transfer the grounds to the filter cone
+  - description: Pour-Pour a small amount of water into the filter to wet the grounds
+  - description: Wait-Wait about 30 seconds for the coffee to bloom. (You will see
+      small bubbles or foam on the coffee grounds during this step.)
+  - description: pour-Slowly pour the rest of the water over the grounds in a circular
+      motion. Do not overfill beyond the top of the paper filter
+  - description: drain-Let the coffee drain completely into the mug before removing
+      the dripper
+  - description: Discard-Discard the paper filter and coffee grounds
+- activity_id: 5
+  environment: 6
+  id: '5_4'
+  is_error: false
+  recorded_by: 4
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: '"2023-05-07T01:31:19.189001"'
+  selected_by: 4
+  steps:
+  - description: Prepare-Prepare the filter insert by folding the paper filter in
+      half to create a semi-circle, and in half again to create a quarter-circle
+  - description: Measure-Measure 12 ounces of cold water
+  - description: Weigh-Weigh the coffee beans (0.8oz-0.12 oz)
+  - description: Grind-Grind the coffee beans until the coffee grounds are the consistency
+      of coarse sand, about 20 seconds
+  - description: Place-Place the dripper on top of a coffee mug
+  - description: Place-Place the paper filter in the dripper
+  - description: spread-spread open filter in dripper to create a cone
+  - description: transfer-transfer water to a kettle
+  - description: Transfer-Transfer the grounds to the filter cone
+  - description: Boil-Boil the water. (While the water is boiling, assemble the filter
+      cone)
+  - description: check-Once the water has boiled, check the temperature of the water.
+      (The water should be between 195-205 degrees Fahrenheit or between 91-96 degrees
+      Celsius. If the water is too hot, let it cool briefly.)
+  - description: Pour-Pour a small amount of water into the filter to wet the grounds
+  - description: Wait-Wait about 30 seconds for the coffee to bloom. (You will see
+      small bubbles or foam on the coffee grounds during this step.)
+  - description: pour-Slowly pour the rest of the water over the grounds in a circular
+      motion. Do not overfill beyond the top of the paper filter
+  - description: drain-Let the coffee drain completely into the mug before removing
+      the dripper
+  - description: Discard-Discard the paper filter and coffee grounds
+- activity_id: 5
+  environment: 7
+  id: '5_11'
+  is_error: false
+  recorded_by: 8
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 8
+  steps:
+  - description: Weigh-Weigh the coffee beans (0.8oz-0.12 oz)
+  - description: Place-Place the dripper on top of a coffee mug
+  - description: Prepare-Prepare the filter insert by folding the paper filter in
+      half to create a semi-circle, and in half again to create a quarter-circle
+  - description: Place-Place the paper filter in the dripper
+  - description: Grind-Grind the coffee beans until the coffee grounds are the consistency
+      of coarse sand, about 20 seconds
+  - description: Measure-Measure 12 ounces of cold water
+  - description: spread-spread open filter in dripper to create a cone
+  - description: Transfer-Transfer the grounds to the filter cone
+  - description: transfer-transfer water to a kettle
+  - description: Boil-Boil the water. (While the water is boiling, assemble the filter
+      cone)
+  - description: check-Once the water has boiled, check the temperature of the water.
+      (The water should be between 195-205 degrees Fahrenheit or between 91-96 degrees
+      Celsius. If the water is too hot, let it cool briefly.)
+  - description: Pour-Pour a small amount of water into the filter to wet the grounds
+  - description: Wait-Wait about 30 seconds for the coffee to bloom. (You will see
+      small bubbles or foam on the coffee grounds during this step.)
+  - description: pour-Slowly pour the rest of the water over the grounds in a circular
+      motion. Do not overfill beyond the top of the paper filter
+  - description: drain-Let the coffee drain completely into the mug before removing
+      the dripper
+  - description: Discard-Discard the paper filter and coffee grounds
+- activity_id: 5
+  environment: 6
+  id: '5_15'
+  is_error: true
+  recorded_by: 3
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: '"2023-05-09T18:26:43.109766"'
+  selected_by: 3
+  steps:
+  - description: Weigh-Weigh the coffee beans (0.8oz-0.12 oz)
+  - description: Prepare-Prepare the filter insert by folding the paper filter in
+      half to create a semi-circle, and in half again to create a quarter-circle
+    errors:
+    - description: Took two filter papers instead of one.
+      tag: Preparation Error
+    modified_description: Prepare-Prepare the filter insert by folding the two paper
+      filter in half to create a semi-circle, and in half again to create a quarter-circle
+  - description: Grind-Grind the coffee beans until the coffee grounds are the consistency
+      of coarse sand, about 20 seconds
+  - description: Place-Place the dripper on top of a coffee mug
+  - description: Measure-Measure 12 ounces of cold water
+  - description: transfer-transfer water to a kettle
+  - description: Place-Place the paper filter in the dripper
+  - description: Boil-Boil the water. (While the water is boiling, assemble the filter
+      cone)
+  - description: spread-spread open filter in dripper to create a cone
+  - description: check-Once the water has boiled, check the temperature of the water.
+      (The water should be between 195-205 degrees Fahrenheit or between 91-96 degrees
+      Celsius. If the water is too hot, let it cool briefly.)
+  - description: Transfer-Transfer the grounds to the filter cone
+  - description: Pour-Pour a small amount of water into the filter to wet the grounds
+  - description: Wait-Wait about 30 seconds for the coffee to bloom. (You will see
+      small bubbles or foam on the coffee grounds during this step.)
+  - description: pour-Slowly pour the rest of the water over the grounds in a circular
+      motion. Do not overfill beyond the top of the paper filter
+  - description: drain-Let the coffee drain completely into the mug before removing
+      the dripper
+  - description: Discard-Discard the paper filter and coffee grounds
+- activity_id: 5
+  environment: 11
+  id: '5_18'
+  is_error: false
+  recorded_by: 5
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 5
+  steps:
+  - description: Weigh-Weigh the coffee beans (0.8oz-0.12 oz)
+  - description: Measure-Measure 12 ounces of cold water
+  - description: Prepare-Prepare the filter insert by folding the paper filter in
+      half to create a semi-circle, and in half again to create a quarter-circle
+  - description: transfer-transfer water to a kettle
+  - description: Place-Place the dripper on top of a coffee mug
+  - description: Boil-Boil the water. (While the water is boiling, assemble the filter
+      cone)
+  - description: check-Once the water has boiled, check the temperature of the water.
+      (The water should be between 195-205 degrees Fahrenheit or between 91-96 degrees
+      Celsius. If the water is too hot, let it cool briefly.)
+  - description: Grind-Grind the coffee beans until the coffee grounds are the consistency
+      of coarse sand, about 20 seconds
+  - description: Place-Place the paper filter in the dripper
+  - description: spread-spread open filter in dripper to create a cone
+  - description: Transfer-Transfer the grounds to the filter cone
+  - description: Pour-Pour a small amount of water into the filter to wet the grounds
+  - description: Wait-Wait about 30 seconds for the coffee to bloom. (You will see
+      small bubbles or foam on the coffee grounds during this step.)
+  - description: pour-Slowly pour the rest of the water over the grounds in a circular
+      motion. Do not overfill beyond the top of the paper filter
+  - description: drain-Let the coffee drain completely into the mug before removing
+      the dripper
+  - description: Discard-Discard the paper filter and coffee grounds
+- activity_id: 5
+  environment: 7
+  id: '5_19'
+  is_error: false
+  recorded_by: 4
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 4
+  steps:
+  - description: Place-Place the dripper on top of a coffee mug
+  - description: Prepare-Prepare the filter insert by folding the paper filter in
+      half to create a semi-circle, and in half again to create a quarter-circle
+  - description: Weigh-Weigh the coffee beans (0.8oz-0.12 oz)
+  - description: Measure-Measure 12 ounces of cold water
+  - description: transfer-transfer water to a kettle
+  - description: Grind-Grind the coffee beans until the coffee grounds are the consistency
+      of coarse sand, about 20 seconds
+  - description: Place-Place the paper filter in the dripper
+  - description: Boil-Boil the water. (While the water is boiling, assemble the filter
+      cone)
+  - description: check-Once the water has boiled, check the temperature of the water.
+      (The water should be between 195-205 degrees Fahrenheit or between 91-96 degrees
+      Celsius. If the water is too hot, let it cool briefly.)
+  - description: spread-spread open filter in dripper to create a cone
+  - description: Transfer-Transfer the grounds to the filter cone
+  - description: Pour-Pour a small amount of water into the filter to wet the grounds
+  - description: Wait-Wait about 30 seconds for the coffee to bloom. (You will see
+      small bubbles or foam on the coffee grounds during this step.)
+  - description: pour-Slowly pour the rest of the water over the grounds in a circular
+      motion. Do not overfill beyond the top of the paper filter
+  - description: drain-Let the coffee drain completely into the mug before removing
+      the dripper
+  - description: Discard-Discard the paper filter and coffee grounds
+- activity_id: 5
+  environment: 7
+  id: '5_22'
+  is_error: false
+  recorded_by: 6
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: '"2023-05-13T13:21:46.562952"'
+  selected_by: 6
+  steps:
+  - description: Weigh-Weigh the coffee beans (0.8oz-0.12 oz)
+  - description: Prepare-Prepare the filter insert by folding the paper filter in
+      half to create a semi-circle, and in half again to create a quarter-circle
+  - description: Grind-Grind the coffee beans until the coffee grounds are the consistency
+      of coarse sand, about 20 seconds
+  - description: Measure-Measure 12 ounces of cold water
+  - description: transfer-transfer water to a kettle
+  - description: Place-Place the dripper on top of a coffee mug
+  - description: Place-Place the paper filter in the dripper
+  - description: spread-spread open filter in dripper to create a cone
+  - description: Boil-Boil the water. (While the water is boiling, assemble the filter
+      cone)
+  - description: check-Once the water has boiled, check the temperature of the water.
+      (The water should be between 195-205 degrees Fahrenheit or between 91-96 degrees
+      Celsius. If the water is too hot, let it cool briefly.)
+  - description: Transfer-Transfer the grounds to the filter cone
+  - description: Pour-Pour a small amount of water into the filter to wet the grounds
+  - description: Wait-Wait about 30 seconds for the coffee to bloom. (You will see
+      small bubbles or foam on the coffee grounds during this step.)
+  - description: pour-Slowly pour the rest of the water over the grounds in a circular
+      motion. Do not overfill beyond the top of the paper filter
+  - description: drain-Let the coffee drain completely into the mug before removing
+      the dripper
+  - description: Discard-Discard the paper filter and coffee grounds
+- activity_id: 5
+  environment: 5
+  id: '5_24'
+  is_error: false
+  recorded_by: 8
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 8
+  steps:
+  - description: Measure-Measure 12 ounces of cold water
+  - description: Place-Place the dripper on top of a coffee mug
+  - description: Prepare-Prepare the filter insert by folding the paper filter in
+      half to create a semi-circle, and in half again to create a quarter-circle
+  - description: Weigh-Weigh the coffee beans (8oz-12 oz)
+  - description: transfer-transfer water to a kettle
+  - description: Place-Place the paper filter in the dripper
+  - description: spread-spread open filter in dripper to create a cone
+  - description: Grind-Grind the coffee beans until the coffee grounds are the consistency
+      of coarse sand, about 20 seconds
+  - description: Boil-Boil the water. (While the water is boiling, assemble the filter
+      cone)
+  - description: Transfer-Transfer the grounds to the filter cone
+  - description: check-Once the water has boiled, check the temperature of the water.
+      (The water should be between 195-205 degrees Fahrenheit or between 91-96 degrees
+      Celsius. If the water is too hot, let it cool briefly.)
+  - description: Pour-Pour a small amount of water into the filter to wet the grounds
+  - description: Wait-Wait about 30 seconds for the coffee to bloom. (You will see
+      small bubbles or foam on the coffee grounds during this step.)
+  - description: pour-Slowly pour the rest of the water over the grounds in a circular
+      motion. Do not overfill beyond the top of the paper filter
+  - description: drain-Let the coffee drain completely into the mug before removing
+      the dripper
+  - description: Discard-Discard the paper filter and coffee grounds
+- activity_id: 5
+  environment: 5
+  errors:
+  - description: check-Once the water has boiled, check the temperature of the water.
+      (The water should be between 195-205 degrees Fahrenheit or between 91-96 degrees
+      Celsius. If the water is too hot, let it cool briefly.)
+    tag: Missing Step
+  id: '5_27'
+  is_error: true
+  recorded_by: 5
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 5
+  steps:
+  - description: Measure-Measure 12 ounces of cold water
+    errors:
+    - description: Measure-Measure 12 ounces of milk instead of water
+      tag: Preparation Error
+    modified_description: Measure-Measure 12 ounces of milk
+  - description: transfer-transfer water to a kettle
+    errors:
+    - description: transfer-transfer milk to a microwave safe bowl
+      tag: Preparation Error
+    modified_description: transfer-transfer milk to a microwave safe bowl
+  - description: Prepare-Prepare the filter insert by folding the paper filter in
+      half to create a semi-circle, and in half again to create a quarter-circle
+    errors:
+    - description: Prepare-Prepare the filter insert taking it fully
+      tag: Technique Error
+    modified_description: Prepare-Prepare the filter insert taking it fully
+  - description: Place-Place the dripper on top of a coffee mug
+  - description: Boil-Boil the water. (While the water is boiling, assemble the filter
+      cone)
+    errors:
+    - description: Boil-Boil the milk in microwave. (While the milk is boiling, assemble
+        the filter cone)
+      tag: Technique Error
+    modified_description: Boil-Boil the milk in microwave. (While the milk is boiling,
+      assemble the filter cone)
+  - description: Place-Place the paper filter in the dripper
+    errors:
+    - description: place the improperly folded filter paper in dripper
+      tag: Technique Error
+    modified_description: Place-Place the paper filter in the dripper which is not folded properly
+  - description: spread-spread open filter in dripper to create a cone
+    errors:
+    - description: unsuccessful in creating cone with improperly folded filter paper
+      tag: Technique Error
+    modified_description: spread-spread open filter in dripper to create a cone
+  - description: Weigh-Weigh the coffee beans (0.8oz-0.12 oz)
+    errors:
+    - description: Weigh-Weigh the coffee beans 0.4oz-0.6oz
+      tag: Measurement Error
+    modified_description: Weigh-Weigh the coffee beans 0.4oz-0.6oz
+  - description: Grind-Grind the coffee beans until the coffee grounds are the consistency
+      of coarse sand, about 20 seconds
+    errors:
+    - description: Grind-Grind the coffee beans until the coffee grounds are the consistency
+        of coarse sand, about 40 seconds
+      tag: Timing Error
+    - description: Grind-Grind the coffee beans using stone mortar until the coffee
+        grounds are the consistency of coarse, about 40 seconds
+      tag: Technique Error
+    modified_description: Grind-Grind the coffee beans using stone mortar until the
+      coffee grounds are the consistency of coarse, about 40 seconds
+  - description: Transfer-Transfer the grounds to the filter cone
+  - description: Pour-Pour a small amount of water into the filter to wet the grounds
+    errors:
+    - description: Pour-Pour a small amount of milk into the filter to wet the grounds
+      tag: Preparation Error
+    modified_description: Pour-Pour a small amount of milk into the filter to wet
+      the grounds
+  - description: Wait-Wait about 30 seconds for the coffee to bloom. (You will see
+      small bubbles or foam on the coffee grounds during this step.)
+    errors:
+    - description: Wait-Wait about 1 minute for the coffee to bloom. (You will see
+        small bubbles or foam on the coffee grounds during this step.)
+      tag: Timing Error
+    modified_description: Wait-Wait about 1 minute for the coffee to bloom. (You will
+      see small bubbles or foam on the coffee grounds during this step.)
+  - description: pour-Slowly pour the rest of the water over the grounds in a circular
+      motion. Do not overfill beyond the top of the paper filter
+    errors:
+    - description: pour-fast pour the rest of the milk over the grounds in a bulk
+        and immediately spilling some outside
+      tag: Technique Error
+    - description: pour-fast pour the rest of the milk instead of water over the grounds in a bulk
+        and immediately
+      tag: Preparation Error
+    modified_description: pour-fast pour the rest of the milk over the grounds in
+      a bulk and immediately spilling some outside
+  - description: drain-Let the coffee drain completely into the mug before removing
+      the dripper
+  - description: Discard-Discard the paper filter and coffee grounds
+- activity_id: 5
+  environment: 9
+  errors:
+  - description: Place-Place the paper filter in the dripper
+    tag: Missing Step
+  - description: Grind-Grind the coffee beans until the coffee grounds are the consistency
+      of coarse sand, about 20 seconds
+    tag: Missing Step
+  - description: Prepare-Prepare the filter insert by folding the paper filter in
+      half to create a semi-circle, and in half again to create a quarter-circle
+    tag: Missing Step
+  - description: spread-spread open filter in dripper to create a cone
+    tag: Missing Step
+  - description: Boil-Boil the water. (While the water is boiling, assemble the filter
+    tag: Missing Step
+  id: '5_28'
+  is_error: true
+  recorded_by: 7
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 7
+  steps:
+  - description: Measure-Measure 12 ounces of cold water
+    errors:
+    - description: 16 instead of 12 ounces
+      tag: Measurement Error
+    modified_description: Measure-Measure 16 ounces of cold water
+  - description: transfer-transfer water to a kettle
+    errors:
+    - description: spill some water while transferring
+      tag: Technique Error
+    modified_description: transfer-transfer water to a kettle, but splash some water
+      outside
+  - description: Weigh-Weigh the coffee beans (8oz-12 oz)
+    errors:
+    - description: 4oz instead of (8-12oz)
+      tag: Measurement Error
+    modified_description: Weigh-Weigh the coffee beans (4oz)
+  - description: Place-Place the dripper on top of a coffee mug
+  - description: check-Once the water has boiled, check the temperature of the water.
+      (The water should be between 195-205 degrees Fahrenheit or between 91-96 degrees
+      Celsius. If the water is too hot, let it cool briefly.)
+    errors:
+    - description: The water temperature is wrong
+      tag: Temperature Error
+    modified_description: check-Once the water has boiled, check the temperature of
+      the water. But the water temperature is wrong
+  - description: Transfer-Transfer the grounds to the filter cone
+  - description: Pour-Pour a small amount of water into the filter to wet the grounds
+  - description: Wait-Wait about 30 seconds for the coffee to bloom. (You will see
+      small bubbles or foam on the coffee grounds during this step.)
+    errors:
+    - description: 15 instead of 30 seconds
+      tag: Timing Error
+    modified_description: Wait-Wait about 15 seconds for the coffee to bloom. (You
+      will see small bubbles or foam on the coffee grounds during this step.)
+  - description: pour-Slowly pour the rest of the water over the grounds in a circular
+      motion. Do not overfill beyond the top of the paper filter
+    errors:
+    - description: overfill beyond the top of the paper filter
+      tag: Technique Error
+    modified_description: pour-Slowly pour the rest of the water over the grounds
+      in a circular motion. But overfill beyond the top of the paper filter
+  - description: drain-Let the coffee drain completely into the mug before removing
+      the dripper
+    errors:
+    - description: remove the dripper in advance
+      tag: Timing Error
+    modified_description: drain-Let the coffee drain into the mug, and remove the
+      dripper in advance
+  - description: Discard-Discard the paper filter and coffee grounds
+- activity_id: 5
+  environment: 5
+  errors:
+  - description: Measure-Measure 12 ounces of cold water
+    tag: Missing Step
+  - description: pour-Slowly pour the rest of the water over the grounds in a circular
+      motion. Do not overfill beyond the top of the paper filter
+    tag: Missing Step
+  id: '5_35'
+  is_error: true
+  recorded_by: 6
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 6
+  steps:
+  - description: Prepare-Prepare the filter insert by folding the paper filter in
+      half to create a semi-circle, and in half again to create a quarter-circle
+  - description: Place-Place the dripper on top of a coffee mug
+  - description: Weigh-Weigh the coffee beans (0.8oz-0.12 oz)
+    errors:
+    - description: Weigh coffee beans for 1.4 oz which is more than prescribed weight
+      tag: Measurement Error
+    modified_description: Weigh the coffee beans 1.4 oz
+  - description: Place-Place the paper filter in the dripper
+  - description: transfer-transfer water to a kettle
+  - description: spread-spread open filter in dripper to create a cone
+    errors:
+    - description: not forming cone shape after spread open
+      tag: Technique Error
+    modified_description: spread open filter in dripper to any shape (not cone)
+  - description: Grind-Grind the coffee beans until the coffee grounds are the consistency
+      of coarse sand, about 20 seconds
+    errors:
+    - description: 15 secs
+      tag: Timing Error
+    modified_description: Grind the coffee beans about 15 seconds
+  - description: Boil-Boil the water. (While the water is boiling, assemble the filter
+      cone)
+  - description: check-Once the water has boiled, check the temperature of the water.
+      (The water should be between 195-205 degrees Fahrenheit or between 91-96 degrees
+      Celsius. If the water is too hot, let it cool briefly.)
+    errors:
+    - description: Heating water to a very high temperature instead of prescribed temperature
+      tag: Temperature Error
+    modified_description: Once the water has boiled, check the temperature of the
+      water. Make sure it's too hot (The water should be between 195-205 degrees Fahrenheit
+      or between 91-96 degrees Celsius. )
+  - description: Transfer-Transfer the grounds to the filter cone
+  - description: Pour-Pour a small amount of water into the filter to wet the grounds
+    errors:
+    - description: Pour a big amount of water into the filter to wet the grounds
+      tag: Technique Error
+    modified_description: Pour a big amount of water into the filter to wet the grounds
+  - description: Wait-Wait about 30 seconds for the coffee to bloom. (You will see
+      small bubbles or foam on the coffee grounds during this step.)
+  - description: drain-Let the coffee drain completely into the mug before removing
+      the dripper
+  - description: Discard-Discard the paper filter and coffee grounds
+- activity_id: 5
+  environment: 1
+  errors:
+  - description: Prepare-Prepare the filter insert by folding the paper filter in
+      half to create a semi-circle, and in half again to create a quarter-circle
+    tag: Missing Step
+  - description: check-Once the water has boiled, check the temperature of the water.
+      (The water should be between 195-205 degrees Fahrenheit or between 91-96 degrees
+      Celsius. If the water is too hot, let it cool briefly.)
+    tag: Missing Step
+  - description: Boil-Boil the water. (While the water is boiling, assemble the filter
+      cone)
+    tag: Missing Step
+  id: '5_37'
+  is_error: true
+  recorded_by: 7
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: '"2023-04-17T11:32:34.818282"'
+  selected_by: 7
+  steps:
+  - description: Place-Place the dripper on top of a coffee mug
+  - description: Measure-Measure 12 ounces of cold water
+    errors:
+    - description: 8 instead of 12 ounces of water
+      tag: Measurement Error
+    modified_description: Measure-Measure 8 ounces of cold water
+  - description: transfer-transfer water to a kettle
+    errors:
+    - description: transfer-transfer water to a kettle, while splashing some water outside
+      tag: Technique Error
+    modified_description: transfer-transfer water to a kettle, while splashing some
+      water outside
+  - description: Weigh-Weigh the coffee beans (8oz-12 oz)
+    errors:
+    - description: 4 instead of (8oz-12oz)
+      tag: Measurement Error
+    modified_description: Weigh-Weigh the coffee beans (4oz)
+  - description: Place-Place the paper filter in the dripper
+    errors:
+    - description: roll the paper filter before placing into the dripper
+      tag: Preparation Error
+    modified_description: Place-Place the ball paper filter in the dripper
+  - description: Grind-Grind the coffee beans until the coffee grounds are the consistency
+      of coarse sand, about 20 seconds
+    errors:
+    - description: 10 instead of 20 seconds
+      tag: Timing Error
+    modified_description: Grind-Grind the coffee beans until the coffee grounds are
+      the consistency of coarse sand, about 10 seconds
+  - description: spread-spread open filter in dripper to create a cone
+    errors:
+    - description: forget to open the filter
+      tag: Preparation Error
+    modified_description: spread-spread open filter in dripper to create a cone, but
+      forget to open the filter
+  - description: Transfer-Transfer the grounds to the filter cone
+    errors:
+    - description: splashing some grounds outside
+      tag: Technique Error
+    modified_description: Transfer-Transfer the grounds to the filter cone, while
+      splashing some grounds outside
+  - description: Pour-Pour a small amount of water into the filter to wet the grounds
+  - description: Wait-Wait about 30 seconds for the coffee to bloom. (You will see
+      small bubbles or foam on the coffee grounds during this step.)
+  - description: pour-Slowly pour the rest of the water over the grounds in a circular
+      motion. Do not overfill beyond the top of the paper filter
+  - description: drain-Let the coffee drain completely into the mug before removing
+      the dripper
+  - description: Discard-Discard the paper filter and coffee grounds
+- activity_id: 5
+  environment: 5
+  errors:
+  - tag: Order Error
+  id: '5_42'
+  is_error: true
+  recorded_by: 3
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: '"2023-04-30T17:28:45.065592"'
+  selected_by: 3
+  steps:
+  - description: Weigh-Weigh the coffee beans (0.8oz-0.12 oz)
+    errors:
+    - description: Weighing more than 0.12 Oz
+      tag: Measurement Error
+    modified_description: Weigh-Weigh the coffee beans (0.14 oz)
+  - description: Prepare-Prepare the filter insert by folding the paper filter in
+      half to create a semi-circle, and in half again to create a quarter-circle
+  - description: Place-Place the paper filter in the dripper
+    errors:
+    - description: Not properly placing the paper filter.
+      tag: Technique Error
+    modified_description: Place-Place the paper filter improperly in the dripper.
+  - description: Place-Place the dripper on top of a coffee mug
+  - description: spread-spread open filter in dripper to create a cone
+  - description: Grind-Grind the coffee beans until the coffee grounds are the consistency
+      of coarse sand, about 20 seconds
+    errors:
+    - description: Not grinding properly and grind for 10 seconds only.
+      tag: Timing Error
+    modified_description: Grind-Grind the coffee beans until the coffee grounds are
+      the consistency of coarse sand, about 10 seconds
+  - description: Transfer-Transfer the grounds to the filter cone
+    errors:
+    - description: Spill some while transferring.
+      tag: Technique Error
+    modified_description: Transfer-Transfer the grounds to the filter cone and spill
+      some.
+  - description: Measure-Measure 12 ounces of cold water
+    errors:
+    - description: Measuring less than 12 ounces.
+      tag: Measurement Error
+    modified_description: Measure-Measure 10 ounces of cold water.
+  - description: transfer-transfer water to a kettle
+    errors:
+    - description: Spill some out of the kettle.
+      tag: Technique Error
+    modified_description: Transfer-Transfer water to a kettle and spill some.
+  - description: Pour-Pour a small amount of water into the filter to wet the grounds
+    errors:
+    - description: Using large amount of water instead of small.
+      tag: Technique Error
+    modified_description: Pour-Pour a large amount of water into the filter to wet
+      the grounds.
+  - description: Wait-Wait about 30 seconds for the coffee to bloom. (You will see
+      small bubbles or foam on the coffee grounds during this step.)
+    errors:
+    - description: Waiting for less than 30 seconds.
+      tag: Timing Error
+    modified_description: Wait-Wait about 10 seconds for the coffee to bloom. (You
+      will see small bubbles or foam on the coffee grounds during this step.)
+  - description: pour-Slowly pour the rest of the water over the grounds in a circular
+      motion. Do not overfill beyond the top of the paper filter
+  - description: drain-Let the coffee drain completely into the mug before removing
+      the dripper
+    errors:
+    - description: removing the dripper before the coffee drains completely.
+      tag: Timing Error
+    modified_description: Drain-remove the dripper before coffee drains completely.
+  - description: Boil-Boil the water. (While the water is boiling, assemble the filter
+      cone)
+  - description: check-Once the water has boiled, check the temperature of the water.
+      (The water should be between 195-205 degrees Fahrenheit or between 91-96 degrees
+      Celsius. If the water is too hot, let it cool briefly.)
+    errors:
+    - description: Using less than the desired temperature.
+      tag: Temperature Error
+    modified_description: check-Once the water has boiled, check the temperature of
+      the water. (The water should be between 180 - 190 degrees Fahrenheit or between
+      82-87 degrees Celsius. If the water is too hot, let it cool briefly.)
+  - description: Discard-Discard the paper filter and coffee grounds
+- activity_id: 5
+  environment: 7
+  errors:
+  - tag: Order Error
+  id: '5_44'
+  is_error: true
+  recorded_by: 5
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: '"2023-05-13T21:32:06.138742"'
+  selected_by: 5
+  steps:
+  - description: Weigh-Weigh the coffee beans (0.8oz-0.12 oz)
+    errors:
+    - description: Weigh-Weigh the coffee beans (0.8oz-0.12 oz) directly without using
+        any container. Spilling the coffee beans.
+      tag: Technique Error
+    - description: Weigh-Weigh the coffee beans (0.6-0.7 oz) as coffee beans got
+        spilled.
+      tag: Measurement Error
+    modified_description: Weigh-Weigh the coffee beans (0.6-0.7 oz)
+  - description: Place-Place the paper filter in the dripper
+    errors:
+    - description: Place-Place 3 paper filter in the dripper
+      tag: Measurement Error
+    modified_description: Place-Place 3 paper filter in the dripper
+  - description: Place-Place the dripper on top of a coffee mug
+    errors:
+    - description: Place-Place the dripper on top of a bowl. Use bowl instead of
+        coffee mug.
+      tag: Preparation Error
+    modified_description: Place-Place the dripper on top of a bowl
+  - description: spread-spread open filter in dripper to create a cone
+    errors:
+    - description: spread-spread open 3 filters in dripper to create 3 cones one on top of another without
+        actually folding but just compressing. 3 Filters were just squashed and tried
+        to make ice cream cone structure of filters. No folding was done.
+      tag: Technique Error
+    modified_description: spread-spread open 3 filters in dripper to create 3 cones
+      without actually folding but just compressing one on top of another.
+  - description: Grind-Grind the coffee beans until the coffee grounds are the consistency
+      of coarse sand, about 20 seconds
+    errors:
+    - description: Grind-Grind the coffee beans until the coffee grounds are the consistency
+        of coarse sand, about 5 seconds. While transferring from weighing scale to
+        coffee grinder spilling occurs. Also timing is less so coffee beans are not
+        properly grinded and are like pebbles.
+      tag: Timing Error
+    - description: Grind-Grind the coffee beans until the coffee grounds are the consistency
+        of coarse sand, about 5 seconds. While transferring from weighing scale to
+        coffee grinder spilling occurs. Also timing is less so coffee beans are not
+        properly grinded and are like pebbles.
+      tag: Technique Error
+    modified_description: Grind-Grind the coffee beans until the coffee grounds are
+      the consistency of coarse sand, about 5 seconds.
+  - description: Transfer-Transfer the grounds to the filter cone
+  - description: Measure-Measure 12 ounces of cold water
+    errors:
+    - description: Measure-Measure 12 ounces of cold water without using measuring
+        jug. Used weighing scale instead. Got incorrect mesaurement of 12 ounces.
+      tag: Preparation Error
+    - description: Measure-Measure 12 ounces of cold water without using measuring
+        jug. Used weighing scale instead. Got incorrect mesaurement of 12 ounces.
+      tag: Measurement Error
+    modified_description: Measure 12 ounces of cold water without using measuring
+      jug.
+  - description: transfer-transfer water to a kettle
+    errors:
+    - description: transfer-transfer water to a mixer
+      tag: Preparation Error
+    modified_description: transfer-transfer water to a mixer
+  - description: Pour-Pour a small amount of water into the filter to wet the grounds
+    errors:
+    - description: Pour-Pour a water from tap into the filter by using measuring
+        tsp to wet the grounds
+      tag: Preparation Error
+    modified_description: Pour-Pour a water from tap into the filter by using measuring
+      tsp to wet the grounds
+  - description: Wait-Wait about 30 seconds for the coffee to bloom. (You will see
+      small bubbles or foam on the coffee grounds during this step.)
+  - description: pour-Slowly pour the rest of the water over the grounds in a circular
+      motion. Do not overfill beyond the top of the paper filter
+    errors:
+    - description: pour-In a single shot pour the complete water over the grounds.
+        Overfilling beyond paper filter occurs
+      tag: Technique Error
+    modified_description: pour-In a single shot pour the complete water over the grounds.
+      Overfilling beyond paper filter occurs
+  - description: drain-Let the coffee drain completely into the mug before removing
+      the dripper
+  - description: Boil-Boil the water. (While the water is boiling, assemble the filter
+      cone)
+    errors:
+    - description: Boil-Boil the water in pan. Take water without measuring from tap.
+        (While the water is boiling, assemble the filter cone)
+      tag: Preparation Error
+    modified_description: Boil-Boil the water in pan. Take water without measuring
+      from tap. (While the water is boiling, assemble the filter cone)
+  - description: check-Once the water has boiled, check the temperature of the water.
+      (The water should be between 195-205 degrees Fahrenheit or between 91-96 degrees
+      Celsius. If the water is too hot, let it cool briefly.)
+    errors:
+    - description: check-Once the water has boiled, check the temperature of the water.
+        (The water should be between 140-150 degrees Fahrenheit)
+      tag: Temperature Error
+    modified_description: check-Once the water has boiled, check the temperature of
+      the water. (The water should be between 140-150 degrees Fahrenheit)
+  - description: Prepare-Prepare the filter insert by folding the paper filter in
+      half to create a semi-circle, and in half again to create a quarter-circle
+  - description: Discard-Discard the paper filter and coffee grounds

@@ -1,0 +1,2631 @@
+- activity_id: 23
+  environment: null
+  id: '23_1'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Take-Take 5 in number broccoli florets
+  - description: Add-Add 1/8 teaspoon black pepper to the bowl
+  - description: Add-Add 1/8 cup soy sauce to the bowl
+  - description: Take-Take 2 cremini mushrooms
+  - description: Add-Add 1/6 cup water the bowl
+  - description: Add-Add 1 teaspoon cornstarch to the bowl
+  - description: Peel-Peel 2 cloves of garlic
+  - description: Add-Add 1/2 tablespoon minced ginger to the bowl
+  - description: mince-mince garlic
+  - description: Take-Take 1 bell pepper
+  - description: Add-Add 2 cloves minced garlic to the bowl
+  - description: slice-slice mushrooms
+  - description: Add-Add 1 tablespoon honey to the bowl
+  - description: Whisk-Whisk the contents of bowl
+  - description: Set-Set aside the sauce mixture
+  - description: slice-slice 1/3 of the bell pepper
+  - description: Heat-Heat 2 tablespoons olive oil in a skillet over medium-high heat
+  - description: Add-add sliced mushrooms to the skillet
+  - description: Add-Add broccoli to the skillet
+  - description: cook-cook, stirring often, for 4 minutes. If the pan gets too hot
+      on medium-high, turn the heat down to medium
+  - description: Add-Add bell pepper to the skillet
+  - description: continue cooking-continue cooking, stirring often, for 2-3 minutes,
+      until vegetables are crisp-tender
+  - description: Whisk-Whisk the sauce again to recombine the ingredients
+  - description: Pour-Pour the sauce into the skillet
+  - description: cook-cook, stirring, for 1 minute until the sauce thickens
+- activity_id: 23
+  environment: null
+  id: '23_2'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Take-Take 5 in number broccoli florets
+  - description: Add-Add 1/6 cup water the bowl
+  - description: Peel-Peel 2 cloves of garlic
+  - description: Add-Add 1/2 tablespoon minced ginger to the bowl
+  - description: Take-Take 1 bell pepper
+  - description: Add-Add 1 tablespoon honey to the bowl
+  - description: Add-Add 1/8 cup soy sauce to the bowl
+  - description: mince-mince garlic
+  - description: Add-Add 2 cloves minced garlic to the bowl
+  - description: Take-Take 2 cremini mushrooms
+  - description: Add-Add 1 teaspoon cornstarch to the bowl
+  - description: slice-slice mushrooms
+  - description: Add-Add 1/8 teaspoon black pepper to the bowl
+  - description: Whisk-Whisk the contents of bowl
+  - description: Set-Set aside the sauce mixture
+  - description: slice-slice 1/3 of the bell pepper
+  - description: Heat-Heat 2 tablespoons olive oil in a skillet over medium-high heat
+  - description: Add-add sliced mushrooms to the skillet
+  - description: Add-Add broccoli to the skillet
+  - description: cook-cook, stirring often, for 4 minutes. If the pan gets too hot
+      on medium-high, turn the heat down to medium
+  - description: Add-Add bell pepper to the skillet
+  - description: continue cooking-continue cooking, stirring often, for 2-3 minutes,
+      until vegetables are crisp-tender
+  - description: Whisk-Whisk the sauce again to recombine the ingredients
+  - description: Pour-Pour the sauce into the skillet
+  - description: cook-cook, stirring, for 1 minute until the sauce thickens
+- activity_id: 23
+  environment: null
+  id: '23_3'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Take-Take 5 in number broccoli florets
+  - description: Add-Add 1/8 teaspoon black pepper to the bowl
+  - description: Add-Add 1/8 cup soy sauce to the bowl
+  - description: Take-Take 2 cremini mushrooms
+  - description: Add-Add 1/6 cup water the bowl
+  - description: Add-Add 1 tablespoon honey to the bowl
+  - description: Add-Add 1 teaspoon cornstarch to the bowl
+  - description: slice-slice mushrooms
+  - description: Take-Take 1 bell pepper
+  - description: Peel-Peel 2 cloves of garlic
+  - description: mince-mince garlic
+  - description: Add-Add 1/2 tablespoon minced ginger to the bowl
+  - description: slice-slice 1/3 of the bell pepper
+  - description: Add-Add 2 cloves minced garlic to the bowl
+  - description: Whisk-Whisk the contents of bowl
+  - description: Set-Set aside the sauce mixture
+  - description: Heat-Heat 2 tablespoons olive oil in a skillet over medium-high heat
+  - description: Add-Add broccoli to the skillet
+  - description: Add-add sliced mushrooms to the skillet
+  - description: cook-cook, stirring often, for 4 minutes. If the pan gets too hot
+      on medium-high, turn the heat down to medium
+  - description: Add-Add bell pepper to the skillet
+  - description: continue cooking-continue cooking, stirring often, for 2-3 minutes,
+      until vegetables are crisp-tender
+  - description: Whisk-Whisk the sauce again to recombine the ingredients
+  - description: Pour-Pour the sauce into the skillet
+  - description: cook-cook, stirring, for 1 minute until the sauce thickens
+- activity_id: 23
+  environment: null
+  id: '23_4'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Add-Add 1 tablespoon honey to the bowl
+  - description: Take-Take 1 bell pepper
+  - description: Add-Add 1/8 cup soy sauce to the bowl
+  - description: Add-Add 1 teaspoon cornstarch to the bowl
+  - description: Take-Take 5 in number broccoli florets
+  - description: slice-slice 1/3 of the bell pepper
+  - description: Peel-Peel 2 cloves of garlic
+  - description: mince-mince garlic
+  - description: Add-Add 1/8 teaspoon black pepper to the bowl
+  - description: Add-Add 1/6 cup water the bowl
+  - description: Add-Add 2 cloves minced garlic to the bowl
+  - description: Take-Take 2 cremini mushrooms
+  - description: Add-Add 1/2 tablespoon minced ginger to the bowl
+  - description: Whisk-Whisk the contents of bowl
+  - description: Set-Set aside the sauce mixture
+  - description: slice-slice mushrooms
+  - description: Heat-Heat 2 tablespoons olive oil in a skillet over medium-high heat
+  - description: Add-add sliced mushrooms to the skillet
+  - description: Add-Add broccoli to the skillet
+  - description: cook-cook, stirring often, for 4 minutes. If the pan gets too hot
+      on medium-high, turn the heat down to medium
+  - description: Add-Add bell pepper to the skillet
+  - description: continue cooking-continue cooking, stirring often, for 2-3 minutes,
+      until vegetables are crisp-tender
+  - description: Whisk-Whisk the sauce again to recombine the ingredients
+  - description: Pour-Pour the sauce into the skillet
+  - description: cook-cook, stirring, for 1 minute until the sauce thickens
+- activity_id: 23
+  environment: null
+  id: '23_5'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Take-Take 5 in number broccoli florets
+  - description: Add-Add 1/6 cup water the bowl
+  - description: Peel-Peel 2 cloves of garlic
+  - description: Take-Take 2 cremini mushrooms
+  - description: slice-slice mushrooms
+  - description: Add-Add 1/2 tablespoon minced ginger to the bowl
+  - description: Add-Add 1/8 cup soy sauce to the bowl
+  - description: Add-Add 1/8 teaspoon black pepper to the bowl
+  - description: Add-Add 1 teaspoon cornstarch to the bowl
+  - description: mince-mince garlic
+  - description: Add-Add 2 cloves minced garlic to the bowl
+  - description: Add-Add 1 tablespoon honey to the bowl
+  - description: Whisk-Whisk the contents of bowl
+  - description: Set-Set aside the sauce mixture
+  - description: Take-Take 1 bell pepper
+  - description: slice-slice 1/3 of the bell pepper
+  - description: Heat-Heat 2 tablespoons olive oil in a skillet over medium-high heat
+  - description: Add-add sliced mushrooms to the skillet
+  - description: Add-Add broccoli to the skillet
+  - description: cook-cook, stirring often, for 4 minutes. If the pan gets too hot
+      on medium-high, turn the heat down to medium
+  - description: Add-Add bell pepper to the skillet
+  - description: continue cooking-continue cooking, stirring often, for 2-3 minutes,
+      until vegetables are crisp-tender
+  - description: Whisk-Whisk the sauce again to recombine the ingredients
+  - description: Pour-Pour the sauce into the skillet
+  - description: cook-cook, stirring, for 1 minute until the sauce thickens
+- activity_id: 23
+  environment: null
+  id: '23_6'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Take-Take 5 in number broccoli florets
+  - description: Add-Add 1/6 cup water the bowl
+  - description: Add-Add 1/8 teaspoon black pepper to the bowl
+  - description: Add-Add 1 tablespoon honey to the bowl
+  - description: Add-Add 1 teaspoon cornstarch to the bowl
+  - description: Add-Add 1/2 tablespoon minced ginger to the bowl
+  - description: Peel-Peel 2 cloves of garlic
+  - description: Take-Take 2 cremini mushrooms
+  - description: slice-slice mushrooms
+  - description: Take-Take 1 bell pepper
+  - description: Add-Add 1/8 cup soy sauce to the bowl
+  - description: mince-mince garlic
+  - description: slice-slice 1/3 of the bell pepper
+  - description: Add-Add 2 cloves minced garlic to the bowl
+  - description: Whisk-Whisk the contents of bowl
+  - description: Set-Set aside the sauce mixture
+  - description: Heat-Heat 2 tablespoons olive oil in a skillet over medium-high heat
+  - description: Add-add sliced mushrooms to the skillet
+  - description: Add-Add broccoli to the skillet
+  - description: cook-cook, stirring often, for 4 minutes. If the pan gets too hot
+      on medium-high, turn the heat down to medium
+  - description: Add-Add bell pepper to the skillet
+  - description: continue cooking-continue cooking, stirring often, for 2-3 minutes,
+      until vegetables are crisp-tender
+  - description: Whisk-Whisk the sauce again to recombine the ingredients
+  - description: Pour-Pour the sauce into the skillet
+  - description: cook-cook, stirring, for 1 minute until the sauce thickens
+- activity_id: 23
+  environment: null
+  id: '23_7'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Take-Take 5 in number broccoli florets
+  - description: Add-Add 1/6 cup water the bowl
+  - description: Peel-Peel 2 cloves of garlic
+  - description: Add-Add 1/2 tablespoon minced ginger to the bowl
+  - description: Add-Add 1/8 cup soy sauce to the bowl
+  - description: Add-Add 1 teaspoon cornstarch to the bowl
+  - description: mince-mince garlic
+  - description: Add-Add 1 tablespoon honey to the bowl
+  - description: Add-Add 1/8 teaspoon black pepper to the bowl
+  - description: Add-Add 2 cloves minced garlic to the bowl
+  - description: Whisk-Whisk the contents of bowl
+  - description: Set-Set aside the sauce mixture
+  - description: Take-Take 2 cremini mushrooms
+  - description: slice-slice mushrooms
+  - description: Take-Take 1 bell pepper
+  - description: slice-slice 1/3 of the bell pepper
+  - description: Heat-Heat 2 tablespoons olive oil in a skillet over medium-high heat
+  - description: Add-Add broccoli to the skillet
+  - description: Add-add sliced mushrooms to the skillet
+  - description: cook-cook, stirring often, for 4 minutes. If the pan gets too hot
+      on medium-high, turn the heat down to medium
+  - description: Add-Add bell pepper to the skillet
+  - description: continue cooking-continue cooking, stirring often, for 2-3 minutes,
+      until vegetables are crisp-tender
+  - description: Whisk-Whisk the sauce again to recombine the ingredients
+  - description: Pour-Pour the sauce into the skillet
+  - description: cook-cook, stirring, for 1 minute until the sauce thickens
+- activity_id: 23
+  environment: null
+  id: '23_8'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Add-Add 1 tablespoon honey to the bowl
+  - description: Take-Take 1 bell pepper
+  - description: Take-Take 2 cremini mushrooms
+  - description: Add-Add 1/8 cup soy sauce to the bowl
+  - description: Add-Add 1 teaspoon cornstarch to the bowl
+  - description: Take-Take 5 in number broccoli florets
+  - description: Add-Add 1/2 tablespoon minced ginger to the bowl
+  - description: Peel-Peel 2 cloves of garlic
+  - description: Add-Add 1/8 teaspoon black pepper to the bowl
+  - description: Add-Add 1/6 cup water the bowl
+  - description: mince-mince garlic
+  - description: slice-slice mushrooms
+  - description: Add-Add 2 cloves minced garlic to the bowl
+  - description: Whisk-Whisk the contents of bowl
+  - description: Set-Set aside the sauce mixture
+  - description: slice-slice 1/3 of the bell pepper
+  - description: Heat-Heat 2 tablespoons olive oil in a skillet over medium-high heat
+  - description: Add-Add broccoli to the skillet
+  - description: Add-add sliced mushrooms to the skillet
+  - description: cook-cook, stirring often, for 4 minutes. If the pan gets too hot
+      on medium-high, turn the heat down to medium
+  - description: Add-Add bell pepper to the skillet
+  - description: continue cooking-continue cooking, stirring often, for 2-3 minutes,
+      until vegetables are crisp-tender
+  - description: Whisk-Whisk the sauce again to recombine the ingredients
+  - description: Pour-Pour the sauce into the skillet
+  - description: cook-cook, stirring, for 1 minute until the sauce thickens
+- activity_id: 23
+  environment: null
+  id: '23_9'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Add-Add 1 tablespoon honey to the bowl
+  - description: Take-Take 1 bell pepper
+  - description: Take-Take 2 cremini mushrooms
+  - description: Add-Add 1/8 cup soy sauce to the bowl
+  - description: Peel-Peel 2 cloves of garlic
+  - description: Take-Take 5 in number broccoli florets
+  - description: Add-Add 1/8 teaspoon black pepper to the bowl
+  - description: Add-Add 1 teaspoon cornstarch to the bowl
+  - description: Add-Add 1/6 cup water the bowl
+  - description: mince-mince garlic
+  - description: slice-slice 1/3 of the bell pepper
+  - description: Add-Add 1/2 tablespoon minced ginger to the bowl
+  - description: Add-Add 2 cloves minced garlic to the bowl
+  - description: Whisk-Whisk the contents of bowl
+  - description: Set-Set aside the sauce mixture
+  - description: slice-slice mushrooms
+  - description: Heat-Heat 2 tablespoons olive oil in a skillet over medium-high heat
+  - description: Add-Add broccoli to the skillet
+  - description: Add-add sliced mushrooms to the skillet
+  - description: cook-cook, stirring often, for 4 minutes. If the pan gets too hot
+      on medium-high, turn the heat down to medium
+  - description: Add-Add bell pepper to the skillet
+  - description: continue cooking-continue cooking, stirring often, for 2-3 minutes,
+      until vegetables are crisp-tender
+  - description: Whisk-Whisk the sauce again to recombine the ingredients
+  - description: Pour-Pour the sauce into the skillet
+  - description: cook-cook, stirring, for 1 minute until the sauce thickens
+- activity_id: 23
+  environment: null
+  id: '23_10'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Take-Take 5 in number broccoli florets
+  - description: Add-Add 1/6 cup water the bowl
+  - description: Add-Add 1/8 teaspoon black pepper to the bowl
+  - description: Add-Add 1 tablespoon honey to the bowl
+  - description: Add-Add 1 teaspoon cornstarch to the bowl
+  - description: Add-Add 1/8 cup soy sauce to the bowl
+  - description: Add-Add 1/2 tablespoon minced ginger to the bowl
+  - description: Peel-Peel 2 cloves of garlic
+  - description: Take-Take 2 cremini mushrooms
+  - description: Take-Take 1 bell pepper
+  - description: mince-mince garlic
+  - description: Add-Add 2 cloves minced garlic to the bowl
+  - description: slice-slice 1/3 of the bell pepper
+  - description: Whisk-Whisk the contents of bowl
+  - description: slice-slice mushrooms
+  - description: Set-Set aside the sauce mixture
+  - description: Heat-Heat 2 tablespoons olive oil in a skillet over medium-high heat
+  - description: Add-Add broccoli to the skillet
+  - description: Add-add sliced mushrooms to the skillet
+  - description: cook-cook, stirring often, for 4 minutes. If the pan gets too hot
+      on medium-high, turn the heat down to medium
+  - description: Add-Add bell pepper to the skillet
+  - description: continue cooking-continue cooking, stirring often, for 2-3 minutes,
+      until vegetables are crisp-tender
+  - description: Whisk-Whisk the sauce again to recombine the ingredients
+  - description: Pour-Pour the sauce into the skillet
+  - description: cook-cook, stirring, for 1 minute until the sauce thickens
+- activity_id: 23
+  environment: null
+  id: '23_11'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Add-Add 1 tablespoon honey to the bowl
+  - description: Take-Take 1 bell pepper
+  - description: Add-Add 1/8 cup soy sauce to the bowl
+  - description: Peel-Peel 2 cloves of garlic
+  - description: Add-Add 1/2 tablespoon minced ginger to the bowl
+  - description: Add-Add 1/8 teaspoon black pepper to the bowl
+  - description: Add-Add 1 teaspoon cornstarch to the bowl
+  - description: Add-Add 1/6 cup water the bowl
+  - description: Take-Take 2 cremini mushrooms
+  - description: Take-Take 5 in number broccoli florets
+  - description: slice-slice 1/3 of the bell pepper
+  - description: mince-mince garlic
+  - description: Add-Add 2 cloves minced garlic to the bowl
+  - description: Whisk-Whisk the contents of bowl
+  - description: Set-Set aside the sauce mixture
+  - description: slice-slice mushrooms
+  - description: Heat-Heat 2 tablespoons olive oil in a skillet over medium-high heat
+  - description: Add-Add broccoli to the skillet
+  - description: Add-add sliced mushrooms to the skillet
+  - description: cook-cook, stirring often, for 4 minutes. If the pan gets too hot
+      on medium-high, turn the heat down to medium
+  - description: Add-Add bell pepper to the skillet
+  - description: continue cooking-continue cooking, stirring often, for 2-3 minutes,
+      until vegetables are crisp-tender
+  - description: Whisk-Whisk the sauce again to recombine the ingredients
+  - description: Pour-Pour the sauce into the skillet
+  - description: cook-cook, stirring, for 1 minute until the sauce thickens
+- activity_id: 23
+  environment: null
+  id: '23_12'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Take-Take 5 in number broccoli florets
+  - description: Add-Add 1/8 teaspoon black pepper to the bowl
+  - description: Add-Add 1/8 cup soy sauce to the bowl
+  - description: Add-Add 1/6 cup water the bowl
+  - description: Peel-Peel 2 cloves of garlic
+  - description: Add-Add 1 tablespoon honey to the bowl
+  - description: mince-mince garlic
+  - description: Take-Take 2 cremini mushrooms
+  - description: Add-Add 1/2 tablespoon minced ginger to the bowl
+  - description: Add-Add 1 teaspoon cornstarch to the bowl
+  - description: slice-slice mushrooms
+  - description: Add-Add 2 cloves minced garlic to the bowl
+  - description: Whisk-Whisk the contents of bowl
+  - description: Take-Take 1 bell pepper
+  - description: Set-Set aside the sauce mixture
+  - description: slice-slice 1/3 of the bell pepper
+  - description: Heat-Heat 2 tablespoons olive oil in a skillet over medium-high heat
+  - description: Add-Add broccoli to the skillet
+  - description: Add-add sliced mushrooms to the skillet
+  - description: cook-cook, stirring often, for 4 minutes. If the pan gets too hot
+      on medium-high, turn the heat down to medium
+  - description: Add-Add bell pepper to the skillet
+  - description: continue cooking-continue cooking, stirring often, for 2-3 minutes,
+      until vegetables are crisp-tender
+  - description: Whisk-Whisk the sauce again to recombine the ingredients
+  - description: Pour-Pour the sauce into the skillet
+  - description: cook-cook, stirring, for 1 minute until the sauce thickens
+- activity_id: 23
+  environment: null
+  id: '23_13'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Take-Take 5 in number broccoli florets
+  - description: Add-Add 1/8 teaspoon black pepper to the bowl
+  - description: Add-Add 1/8 cup soy sauce to the bowl
+  - description: Add-Add 1/6 cup water the bowl
+  - description: Peel-Peel 2 cloves of garlic
+  - description: Add-Add 1 tablespoon honey to the bowl
+  - description: mince-mince garlic
+  - description: Take-Take 2 cremini mushrooms
+  - description: Add-Add 1/2 tablespoon minced ginger to the bowl
+  - description: slice-slice mushrooms
+  - description: Add-Add 2 cloves minced garlic to the bowl
+  - description: Add-Add 1 teaspoon cornstarch to the bowl
+  - description: Whisk-Whisk the contents of bowl
+  - description: Take-Take 1 bell pepper
+  - description: slice-slice 1/3 of the bell pepper
+  - description: Set-Set aside the sauce mixture
+  - description: Heat-Heat 2 tablespoons olive oil in a skillet over medium-high heat
+  - description: Add-Add broccoli to the skillet
+  - description: Add-add sliced mushrooms to the skillet
+  - description: cook-cook, stirring often, for 4 minutes. If the pan gets too hot
+      on medium-high, turn the heat down to medium
+  - description: Add-Add bell pepper to the skillet
+  - description: continue cooking-continue cooking, stirring often, for 2-3 minutes,
+      until vegetables are crisp-tender
+  - description: Whisk-Whisk the sauce again to recombine the ingredients
+  - description: Pour-Pour the sauce into the skillet
+  - description: cook-cook, stirring, for 1 minute until the sauce thickens
+- activity_id: 23
+  environment: null
+  id: '23_14'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Take-Take 5 in number broccoli florets
+  - description: Add-Add 1/6 cup water the bowl
+  - description: Add-Add 1/8 teaspoon black pepper to the bowl
+  - description: Add-Add 1/2 tablespoon minced ginger to the bowl
+  - description: Take-Take 2 cremini mushrooms
+  - description: Add-Add 1 tablespoon honey to the bowl
+  - description: slice-slice mushrooms
+  - description: Add-Add 1/8 cup soy sauce to the bowl
+  - description: Add-Add 1 teaspoon cornstarch to the bowl
+  - description: Peel-Peel 2 cloves of garlic
+  - description: Take-Take 1 bell pepper
+  - description: mince-mince garlic
+  - description: Add-Add 2 cloves minced garlic to the bowl
+  - description: Whisk-Whisk the contents of bowl
+  - description: Set-Set aside the sauce mixture
+  - description: slice-slice 1/3 of the bell pepper
+  - description: Heat-Heat 2 tablespoons olive oil in a skillet over medium-high heat
+  - description: Add-add sliced mushrooms to the skillet
+  - description: Add-Add broccoli to the skillet
+  - description: cook-cook, stirring often, for 4 minutes. If the pan gets too hot
+      on medium-high, turn the heat down to medium
+  - description: Add-Add bell pepper to the skillet
+  - description: continue cooking-continue cooking, stirring often, for 2-3 minutes,
+      until vegetables are crisp-tender
+  - description: Whisk-Whisk the sauce again to recombine the ingredients
+  - description: Pour-Pour the sauce into the skillet
+  - description: cook-cook, stirring, for 1 minute until the sauce thickens
+- activity_id: 23
+  environment: null
+  id: '23_15'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Take-Take 5 in number broccoli florets
+  - description: Add-Add 1/6 cup water the bowl
+  - description: Add-Add 1/8 teaspoon black pepper to the bowl
+  - description: Add-Add 1/2 tablespoon minced ginger to the bowl
+  - description: Take-Take 2 cremini mushrooms
+  - description: Peel-Peel 2 cloves of garlic
+  - description: mince-mince garlic
+  - description: Add-Add 1 tablespoon honey to the bowl
+  - description: Add-Add 1 teaspoon cornstarch to the bowl
+  - description: Add-Add 2 cloves minced garlic to the bowl
+  - description: Add-Add 1/8 cup soy sauce to the bowl
+  - description: Take-Take 1 bell pepper
+  - description: Whisk-Whisk the contents of bowl
+  - description: slice-slice 1/3 of the bell pepper
+  - description: Set-Set aside the sauce mixture
+  - description: slice-slice mushrooms
+  - description: Heat-Heat 2 tablespoons olive oil in a skillet over medium-high heat
+  - description: Add-add sliced mushrooms to the skillet
+  - description: Add-Add broccoli to the skillet
+  - description: cook-cook, stirring often, for 4 minutes. If the pan gets too hot
+      on medium-high, turn the heat down to medium
+  - description: Add-Add bell pepper to the skillet
+  - description: continue cooking-continue cooking, stirring often, for 2-3 minutes,
+      until vegetables are crisp-tender
+  - description: Whisk-Whisk the sauce again to recombine the ingredients
+  - description: Pour-Pour the sauce into the skillet
+  - description: cook-cook, stirring, for 1 minute until the sauce thickens
+- activity_id: 23
+  environment: null
+  id: '23_16'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Add-Add 1 tablespoon honey to the bowl
+  - description: Take-Take 1 bell pepper
+  - description: Take-Take 2 cremini mushrooms
+  - description: Add-Add 1/8 cup soy sauce to the bowl
+  - description: Add-Add 1 teaspoon cornstarch to the bowl
+  - description: Add-Add 1/8 teaspoon black pepper to the bowl
+  - description: Add-Add 1/2 tablespoon minced ginger to the bowl
+  - description: Take-Take 5 in number broccoli florets
+  - description: Add-Add 1/6 cup water the bowl
+  - description: slice-slice mushrooms
+  - description: Peel-Peel 2 cloves of garlic
+  - description: mince-mince garlic
+  - description: Add-Add 2 cloves minced garlic to the bowl
+  - description: Whisk-Whisk the contents of bowl
+  - description: Set-Set aside the sauce mixture
+  - description: slice-slice 1/3 of the bell pepper
+  - description: Heat-Heat 2 tablespoons olive oil in a skillet over medium-high heat
+  - description: Add-add sliced mushrooms to the skillet
+  - description: Add-Add broccoli to the skillet
+  - description: cook-cook, stirring often, for 4 minutes. If the pan gets too hot
+      on medium-high, turn the heat down to medium
+  - description: Add-Add bell pepper to the skillet
+  - description: continue cooking-continue cooking, stirring often, for 2-3 minutes,
+      until vegetables are crisp-tender
+  - description: Whisk-Whisk the sauce again to recombine the ingredients
+  - description: Pour-Pour the sauce into the skillet
+  - description: cook-cook, stirring, for 1 minute until the sauce thickens
+- activity_id: 23
+  environment: null
+  id: '23_17'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Add-Add 1 tablespoon honey to the bowl
+  - description: Add-Add 1 teaspoon cornstarch to the bowl
+  - description: Add-Add 1/8 teaspoon black pepper to the bowl
+  - description: Peel-Peel 2 cloves of garlic
+  - description: mince-mince garlic
+  - description: Add-Add 1/8 cup soy sauce to the bowl
+  - description: Take-Take 2 cremini mushrooms
+  - description: Add-Add 1/2 tablespoon minced ginger to the bowl
+  - description: Add-Add 1/6 cup water the bowl
+  - description: Take-Take 5 in number broccoli florets
+  - description: Add-Add 2 cloves minced garlic to the bowl
+  - description: Take-Take 1 bell pepper
+  - description: slice-slice 1/3 of the bell pepper
+  - description: Whisk-Whisk the contents of bowl
+  - description: Set-Set aside the sauce mixture
+  - description: slice-slice mushrooms
+  - description: Heat-Heat 2 tablespoons olive oil in a skillet over medium-high heat
+  - description: Add-Add broccoli to the skillet
+  - description: Add-add sliced mushrooms to the skillet
+  - description: cook-cook, stirring often, for 4 minutes. If the pan gets too hot
+      on medium-high, turn the heat down to medium
+  - description: Add-Add bell pepper to the skillet
+  - description: continue cooking-continue cooking, stirring often, for 2-3 minutes,
+      until vegetables are crisp-tender
+  - description: Whisk-Whisk the sauce again to recombine the ingredients
+  - description: Pour-Pour the sauce into the skillet
+  - description: cook-cook, stirring, for 1 minute until the sauce thickens
+- activity_id: 23
+  environment: null
+  id: '23_18'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Take-Take 5 in number broccoli florets
+  - description: Add-Add 1/6 cup water the bowl
+  - description: Peel-Peel 2 cloves of garlic
+  - description: Add-Add 1/2 tablespoon minced ginger to the bowl
+  - description: Add-Add 1/8 cup soy sauce to the bowl
+  - description: Add-Add 1 teaspoon cornstarch to the bowl
+  - description: mince-mince garlic
+  - description: Add-Add 1 tablespoon honey to the bowl
+  - description: Add-Add 1/8 teaspoon black pepper to the bowl
+  - description: Add-Add 2 cloves minced garlic to the bowl
+  - description: Whisk-Whisk the contents of bowl
+  - description: Take-Take 2 cremini mushrooms
+  - description: Set-Set aside the sauce mixture
+  - description: Take-Take 1 bell pepper
+  - description: slice-slice 1/3 of the bell pepper
+  - description: slice-slice mushrooms
+  - description: Heat-Heat 2 tablespoons olive oil in a skillet over medium-high heat
+  - description: Add-Add broccoli to the skillet
+  - description: Add-add sliced mushrooms to the skillet
+  - description: cook-cook, stirring often, for 4 minutes. If the pan gets too hot
+      on medium-high, turn the heat down to medium
+  - description: Add-Add bell pepper to the skillet
+  - description: continue cooking-continue cooking, stirring often, for 2-3 minutes,
+      until vegetables are crisp-tender
+  - description: Whisk-Whisk the sauce again to recombine the ingredients
+  - description: Pour-Pour the sauce into the skillet
+  - description: cook-cook, stirring, for 1 minute until the sauce thickens
+- activity_id: 23
+  environment: null
+  id: '23_19'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Take-Take 5 in number broccoli florets
+  - description: Add-Add 1/6 cup water the bowl
+  - description: Peel-Peel 2 cloves of garlic
+  - description: Add-Add 1/2 tablespoon minced ginger to the bowl
+  - description: Take-Take 1 bell pepper
+  - description: Add-Add 1 tablespoon honey to the bowl
+  - description: Add-Add 1/8 teaspoon black pepper to the bowl
+  - description: Add-Add 1 teaspoon cornstarch to the bowl
+  - description: mince-mince garlic
+  - description: Add-Add 1/8 cup soy sauce to the bowl
+  - description: Take-Take 2 cremini mushrooms
+  - description: slice-slice 1/3 of the bell pepper
+  - description: Add-Add 2 cloves minced garlic to the bowl
+  - description: Whisk-Whisk the contents of bowl
+  - description: Set-Set aside the sauce mixture
+  - description: slice-slice mushrooms
+  - description: Heat-Heat 2 tablespoons olive oil in a skillet over medium-high heat
+  - description: Add-Add broccoli to the skillet
+  - description: Add-add sliced mushrooms to the skillet
+  - description: cook-cook, stirring often, for 4 minutes. If the pan gets too hot
+      on medium-high, turn the heat down to medium
+  - description: Add-Add bell pepper to the skillet
+  - description: continue cooking-continue cooking, stirring often, for 2-3 minutes,
+      until vegetables are crisp-tender
+  - description: Whisk-Whisk the sauce again to recombine the ingredients
+  - description: Pour-Pour the sauce into the skillet
+  - description: cook-cook, stirring, for 1 minute until the sauce thickens
+- activity_id: 23
+  environment: null
+  id: '23_20'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Add-Add 1 tablespoon honey to the bowl
+  - description: Add-Add 1 teaspoon cornstarch to the bowl
+  - description: Add-Add 1/8 teaspoon black pepper to the bowl
+  - description: Peel-Peel 2 cloves of garlic
+  - description: Add-Add 1/2 tablespoon minced ginger to the bowl
+  - description: Take-Take 2 cremini mushrooms
+  - description: mince-mince garlic
+  - description: Add-Add 2 cloves minced garlic to the bowl
+  - description: slice-slice mushrooms
+  - description: Add-Add 1/8 cup soy sauce to the bowl
+  - description: Take-Take 1 bell pepper
+  - description: Take-Take 5 in number broccoli florets
+  - description: Add-Add 1/6 cup water the bowl
+  - description: Whisk-Whisk the contents of bowl
+  - description: slice-slice 1/3 of the bell pepper
+  - description: Set-Set aside the sauce mixture
+  - description: Heat-Heat 2 tablespoons olive oil in a skillet over medium-high heat
+  - description: Add-add sliced mushrooms to the skillet
+  - description: Add-Add broccoli to the skillet
+  - description: cook-cook, stirring often, for 4 minutes. If the pan gets too hot
+      on medium-high, turn the heat down to medium
+  - description: Add-Add bell pepper to the skillet
+  - description: continue cooking-continue cooking, stirring often, for 2-3 minutes,
+      until vegetables are crisp-tender
+  - description: Whisk-Whisk the sauce again to recombine the ingredients
+  - description: Pour-Pour the sauce into the skillet
+  - description: cook-cook, stirring, for 1 minute until the sauce thickens
+- activity_id: 23
+  environment: null
+  id: '23_21'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Add-Add 1 tablespoon honey to the bowl
+  - description: Take-Take 1 bell pepper
+  - description: Add-Add 1/8 cup soy sauce to the bowl
+  - description: Peel-Peel 2 cloves of garlic
+  - description: Add-Add 1/2 tablespoon minced ginger to the bowl
+  - description: Take-Take 2 cremini mushrooms
+  - description: Take-Take 5 in number broccoli florets
+  - description: slice-slice 1/3 of the bell pepper
+  - description: Add-Add 1/8 teaspoon black pepper to the bowl
+  - description: mince-mince garlic
+  - description: Add-Add 1/6 cup water the bowl
+  - description: Add-Add 2 cloves minced garlic to the bowl
+  - description: slice-slice mushrooms
+  - description: Add-Add 1 teaspoon cornstarch to the bowl
+  - description: Whisk-Whisk the contents of bowl
+  - description: Set-Set aside the sauce mixture
+  - description: Heat-Heat 2 tablespoons olive oil in a skillet over medium-high heat
+  - description: Add-add sliced mushrooms to the skillet
+  - description: Add-Add broccoli to the skillet
+  - description: cook-cook, stirring often, for 4 minutes. If the pan gets too hot
+      on medium-high, turn the heat down to medium
+  - description: Add-Add bell pepper to the skillet
+  - description: continue cooking-continue cooking, stirring often, for 2-3 minutes,
+      until vegetables are crisp-tender
+  - description: Whisk-Whisk the sauce again to recombine the ingredients
+  - description: Pour-Pour the sauce into the skillet
+  - description: cook-cook, stirring, for 1 minute until the sauce thickens
+- activity_id: 23
+  environment: null
+  id: '23_22'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Add-Add 1 tablespoon honey to the bowl
+  - description: Add-Add 1 teaspoon cornstarch to the bowl
+  - description: Add-Add 1/8 cup soy sauce to the bowl
+  - description: Add-Add 1/2 tablespoon minced ginger to the bowl
+  - description: Peel-Peel 2 cloves of garlic
+  - description: Add-Add 1/6 cup water the bowl
+  - description: mince-mince garlic
+  - description: Add-Add 1/8 teaspoon black pepper to the bowl
+  - description: Take-Take 2 cremini mushrooms
+  - description: Take-Take 1 bell pepper
+  - description: Take-Take 5 in number broccoli florets
+  - description: Add-Add 2 cloves minced garlic to the bowl
+  - description: slice-slice 1/3 of the bell pepper
+  - description: Whisk-Whisk the contents of bowl
+  - description: Set-Set aside the sauce mixture
+  - description: slice-slice mushrooms
+  - description: Heat-Heat 2 tablespoons olive oil in a skillet over medium-high heat
+  - description: Add-Add broccoli to the skillet
+  - description: Add-add sliced mushrooms to the skillet
+  - description: cook-cook, stirring often, for 4 minutes. If the pan gets too hot
+      on medium-high, turn the heat down to medium
+  - description: Add-Add bell pepper to the skillet
+  - description: continue cooking-continue cooking, stirring often, for 2-3 minutes,
+      until vegetables are crisp-tender
+  - description: Whisk-Whisk the sauce again to recombine the ingredients
+  - description: Pour-Pour the sauce into the skillet
+  - description: cook-cook, stirring, for 1 minute until the sauce thickens
+- activity_id: 23
+  environment: null
+  id: '23_24'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Add-Add 1 tablespoon honey to the bowl
+  - description: Add-Add 1 teaspoon cornstarch to the bowl
+  - description: Add-Add 1/8 cup soy sauce to the bowl
+  - description: Peel-Peel 2 cloves of garlic
+  - description: Add-Add 1/6 cup water the bowl
+  - description: Take-Take 1 bell pepper
+  - description: Take-Take 2 cremini mushrooms
+  - description: mince-mince garlic
+  - description: Take-Take 5 in number broccoli florets
+  - description: Add-Add 2 cloves minced garlic to the bowl
+  - description: Add-Add 1/2 tablespoon minced ginger to the bowl
+  - description: Add-Add 1/8 teaspoon black pepper to the bowl
+  - description: slice-slice mushrooms
+  - description: slice-slice 1/3 of the bell pepper
+  - description: Whisk-Whisk the contents of bowl
+  - description: Set-Set aside the sauce mixture
+  - description: Heat-Heat 2 tablespoons olive oil in a skillet over medium-high heat
+  - description: Add-Add broccoli to the skillet
+  - description: Add-add sliced mushrooms to the skillet
+  - description: cook-cook, stirring often, for 4 minutes. If the pan gets too hot
+      on medium-high, turn the heat down to medium
+  - description: Add-Add bell pepper to the skillet
+  - description: continue cooking-continue cooking, stirring often, for 2-3 minutes,
+      until vegetables are crisp-tender
+  - description: Whisk-Whisk the sauce again to recombine the ingredients
+  - description: Pour-Pour the sauce into the skillet
+  - description: cook-cook, stirring, for 1 minute until the sauce thickens
+- activity_id: 23
+  environment: null
+  id: '23_25'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Take-Take 5 in number broccoli florets
+  - description: Add-Add 1/8 teaspoon black pepper to the bowl
+  - description: Add-Add 1/8 cup soy sauce to the bowl
+  - description: Add-Add 1/6 cup water the bowl
+  - description: Peel-Peel 2 cloves of garlic
+  - description: Add-Add 1 tablespoon honey to the bowl
+  - description: mince-mince garlic
+  - description: Take-Take 2 cremini mushrooms
+  - description: Add-Add 2 cloves minced garlic to the bowl
+  - description: Add-Add 1/2 tablespoon minced ginger to the bowl
+  - description: Add-Add 1 teaspoon cornstarch to the bowl
+  - description: Take-Take 1 bell pepper
+  - description: Whisk-Whisk the contents of bowl
+  - description: slice-slice 1/3 of the bell pepper
+  - description: slice-slice mushrooms
+  - description: Set-Set aside the sauce mixture
+  - description: Heat-Heat 2 tablespoons olive oil in a skillet over medium-high heat
+  - description: Add-add sliced mushrooms to the skillet
+  - description: Add-Add broccoli to the skillet
+  - description: cook-cook, stirring often, for 4 minutes. If the pan gets too hot
+      on medium-high, turn the heat down to medium
+  - description: Add-Add bell pepper to the skillet
+  - description: continue cooking-continue cooking, stirring often, for 2-3 minutes,
+      until vegetables are crisp-tender
+  - description: Whisk-Whisk the sauce again to recombine the ingredients
+  - description: Pour-Pour the sauce into the skillet
+  - description: cook-cook, stirring, for 1 minute until the sauce thickens
+- activity_id: 23
+  environment: null
+  errors:
+  - description: Add-Add 1/2 tablespoon minced ginger to the bowl
+    tag: Missing Step
+  - description: Add-Add broccoli to the skillet
+    tag: Missing Step
+  id: '23_26'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Add-Add 1 tablespoon honey to the bowl
+  - description: Add-Add 1 teaspoon cornstarch to the bowl
+  - description: Add-Add 1/8 teaspoon black pepper to the bowl
+  - description: Peel-Peel 2 cloves of garlic
+  - description: mince-mince garlic
+  - description: Add-Add 1/8 cup soy sauce to the bowl
+  - description: Take-Take 2 cremini mushrooms
+  - description: Add-Add 2 cloves minced garlic to the bowl
+  - description: Take-Take 1 bell pepper
+  - description: Add-Add 1/6 cup water the bowl
+  - description: slice-slice mushrooms
+  - description: slice-slice 1/3 of the bell pepper
+  - description: Whisk-Whisk the contents of bowl
+  - description: Take-Take 5 in number broccoli florets
+  - description: Set-Set aside the sauce mixture
+  - description: Heat-Heat 2 tablespoons olive oil in a skillet over medium-high heat
+  - description: Add-add sliced mushrooms to the skillet
+  - description: cook-cook, stirring often, for 4 minutes. If the pan gets too hot
+      on medium-high, turn the heat down to medium
+  - description: Add-Add bell pepper to the skillet
+  - description: continue cooking-continue cooking, stirring often, for 2-3 minutes,
+      until vegetables are crisp-tender
+  - description: Whisk-Whisk the sauce again to recombine the ingredients
+  - description: Pour-Pour the sauce into the skillet
+  - description: cook-cook, stirring, for 1 minute until the sauce thickens
+- activity_id: 23
+  environment: null
+  errors:
+  - description: Whisk-Whisk the contents of bowl
+    tag: Missing Step
+  - description: Add-add sliced mushrooms to the skillet
+    tag: Missing Step
+  id: '23_27'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Add-Add 1 tablespoon honey to the bowl
+  - description: Add-Add 1 teaspoon cornstarch to the bowl
+  - description: Add-Add 1/8 teaspoon black pepper to the bowl
+  - description: Peel-Peel 2 cloves of garlic
+  - description: Add-Add 1/2 tablespoon minced ginger to the bowl
+  - description: Take-Take 2 cremini mushrooms
+  - description: Add-Add 1/8 cup soy sauce to the bowl
+  - description: Take-Take 5 in number broccoli florets
+  - description: Take-Take 1 bell pepper
+  - description: Add-Add 1/6 cup water the bowl
+  - description: slice-slice 1/3 of the bell pepper
+  - description: mince-mince garlic
+  - description: Add-Add 2 cloves minced garlic to the bowl
+  - description: Set-Set aside the sauce mixture
+  - description: slice-slice mushrooms
+  - description: Heat-Heat 2 tablespoons olive oil in a skillet over medium-high heat
+  - description: Add-Add broccoli to the skillet
+  - description: cook-cook, stirring often, for 4 minutes. If the pan gets too hot
+      on medium-high, turn the heat down to medium
+  - description: Add-Add bell pepper to the skillet
+  - description: continue cooking-continue cooking, stirring often, for 2-3 minutes,
+      until vegetables are crisp-tender
+  - description: Whisk-Whisk the sauce again to recombine the ingredients
+  - description: Pour-Pour the sauce into the skillet
+  - description: cook-cook, stirring, for 1 minute until the sauce thickens
+- activity_id: 23
+  environment: null
+  errors:
+  - description: Add-Add 1/2 tablespoon minced ginger to the bowl
+    tag: Missing Step
+  - description: slice-slice mushrooms
+    tag: Missing Step
+  - description: Add-add sliced mushrooms to the skillet
+    tag: Missing Step
+  - description: slice-slice 1/3 of the bell pepper
+    tag: Missing Step
+  id: '23_28'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Take-Take 5 in number broccoli florets
+  - description: Add-Add 1/6 cup water the bowl
+  - description: Add-Add 1/8 teaspoon black pepper to the bowl
+  - description: Add-Add 1 tablespoon honey to the bowl
+  - description: Add-Add 1 teaspoon cornstarch to the bowl
+  - description: Take-Take 2 cremini mushrooms
+  - description: Peel-Peel 2 cloves of garlic
+  - description: mince-mince garlic
+  - description: Add-Add 2 cloves minced garlic to the bowl
+  - description: Add-Add 1/8 cup soy sauce to the bowl
+  - description: Take-Take 1 bell pepper
+  - description: Whisk-Whisk the contents of bowl
+  - description: Set-Set aside the sauce mixture
+  - description: Heat-Heat 2 tablespoons olive oil in a skillet over medium-high heat
+  - description: Add-Add broccoli to the skillet
+  - description: cook-cook, stirring often, for 4 minutes. If the pan gets too hot
+      on medium-high, turn the heat down to medium
+  - description: Add-Add bell pepper to the skillet
+  - description: continue cooking-continue cooking, stirring often, for 2-3 minutes,
+      until vegetables are crisp-tender
+  - description: Whisk-Whisk the sauce again to recombine the ingredients
+  - description: Pour-Pour the sauce into the skillet
+  - description: cook-cook, stirring, for 1 minute until the sauce thickens
+- activity_id: 23
+  environment: null
+  errors:
+  - description: Add-Add 1/6 cup water the bowl
+    tag: Missing Step
+  - description: Add-Add 1/8 teaspoon black pepper to the bowl
+    tag: Missing Step
+  - description: mince-mince garlic
+    tag: Missing Step
+  id: '23_29'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Add-Add 1 tablespoon honey to the bowl
+  - description: Take-Take 1 bell pepper
+  - description: Add-Add 1/8 cup soy sauce to the bowl
+  - description: Add-Add 1 teaspoon cornstarch to the bowl
+  - description: Add-Add 1/2 tablespoon minced ginger to the bowl
+  - description: Peel-Peel 2 cloves of garlic
+  - description: Take-Take 2 cremini mushrooms
+  - description: Take-Take 5 in number broccoli florets
+  - description: slice-slice 1/3 of the bell pepper
+  - description: Add-Add 2 cloves minced garlic to the bowl
+  - description: slice-slice mushrooms
+  - description: Whisk-Whisk the contents of bowl
+  - description: Set-Set aside the sauce mixture
+  - description: Heat-Heat 2 tablespoons olive oil in a skillet over medium-high heat
+  - description: Add-Add broccoli to the skillet
+  - description: Add-add sliced mushrooms to the skillet
+  - description: cook-cook, stirring often, for 4 minutes. If the pan gets too hot
+      on medium-high, turn the heat down to medium
+  - description: Add-Add bell pepper to the skillet
+  - description: continue cooking-continue cooking, stirring often, for 2-3 minutes,
+      until vegetables are crisp-tender
+  - description: Whisk-Whisk the sauce again to recombine the ingredients
+  - description: Pour-Pour the sauce into the skillet
+  - description: cook-cook, stirring, for 1 minute until the sauce thickens
+- activity_id: 23
+  environment: null
+  errors:
+  - description: Add-Add 1/2 tablespoon minced ginger to the bowl
+    tag: Missing Step
+  - description: Add-Add broccoli to the skillet
+    tag: Missing Step
+  id: '23_30'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Take-Take 5 in number broccoli florets
+  - description: Add-Add 1/6 cup water the bowl
+  - description: Peel-Peel 2 cloves of garlic
+  - description: Add-Add 1/8 cup soy sauce to the bowl
+  - description: Add-Add 1 teaspoon cornstarch to the bowl
+  - description: Add-Add 1 tablespoon honey to the bowl
+  - description: mince-mince garlic
+  - description: Take-Take 1 bell pepper
+  - description: slice-slice 1/3 of the bell pepper
+  - description: Add-Add 2 cloves minced garlic to the bowl
+  - description: Add-Add 1/8 teaspoon black pepper to the bowl
+  - description: Take-Take 2 cremini mushrooms
+  - description: Whisk-Whisk the contents of bowl
+  - description: slice-slice mushrooms
+  - description: Set-Set aside the sauce mixture
+  - description: Heat-Heat 2 tablespoons olive oil in a skillet over medium-high heat
+  - description: Add-add sliced mushrooms to the skillet
+  - description: cook-cook, stirring often, for 4 minutes. If the pan gets too hot
+      on medium-high, turn the heat down to medium
+  - description: Add-Add bell pepper to the skillet
+  - description: continue cooking-continue cooking, stirring often, for 2-3 minutes,
+      until vegetables are crisp-tender
+  - description: Whisk-Whisk the sauce again to recombine the ingredients
+  - description: Pour-Pour the sauce into the skillet
+  - description: cook-cook, stirring, for 1 minute until the sauce thickens
+- activity_id: 23
+  environment: null
+  errors:
+  - description: Take-Take 1 bell pepper
+    tag: Missing Step
+  - description: mince-mince garlic
+    tag: Missing Step
+  - description: Set-Set aside the sauce mixture
+    tag: Missing Step
+  - description: Heat-Heat 2 tablespoons olive oil in a skillet over medium-high heat
+    tag: Missing Step
+  - description: Add-Add bell pepper to the skillet
+    tag: Missing Step
+  id: '23_31'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Take-Take 5 in number broccoli florets
+  - description: Add-Add 1/6 cup water the bowl
+  - description: Peel-Peel 2 cloves of garlic
+  - description: Add-Add 1/2 tablespoon minced ginger to the bowl
+  - description: Add-Add 1 tablespoon honey to the bowl
+  - description: Add-Add 1/8 cup soy sauce to the bowl
+  - description: Add-Add 2 cloves minced garlic to the bowl
+  - description: Take-Take 2 cremini mushrooms
+  - description: Add-Add 1 teaspoon cornstarch to the bowl
+  - description: Add-Add 1/8 teaspoon black pepper to the bowl
+  - description: slice-slice 1/3 of the bell pepper
+  - description: Whisk-Whisk the contents of bowl
+  - description: slice-slice mushrooms
+  - description: Add-Add broccoli to the skillet
+  - description: Add-add sliced mushrooms to the skillet
+  - description: cook-cook, stirring often, for 4 minutes. If the pan gets too hot
+      on medium-high, turn the heat down to medium
+  - description: continue cooking-continue cooking, stirring often, for 2-3 minutes,
+      until vegetables are crisp-tender
+  - description: Whisk-Whisk the sauce again to recombine the ingredients
+  - description: Pour-Pour the sauce into the skillet
+  - description: cook-cook, stirring, for 1 minute until the sauce thickens
+- activity_id: 23
+  environment: null
+  errors:
+  - description: Add-Add 1/2 tablespoon minced ginger to the bowl
+    tag: Missing Step
+  - description: Whisk-Whisk the contents of bowl
+    tag: Missing Step
+  - description: Whisk-Whisk the sauce again to recombine the ingredients
+    tag: Missing Step
+  id: '23_32'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Add-Add 1 tablespoon honey to the bowl
+  - description: Take-Take 1 bell pepper
+  - description: Add-Add 1/8 cup soy sauce to the bowl
+  - description: Add-Add 1 teaspoon cornstarch to the bowl
+  - description: Take-Take 5 in number broccoli florets
+  - description: slice-slice 1/3 of the bell pepper
+  - description: Peel-Peel 2 cloves of garlic
+  - description: mince-mince garlic
+  - description: Add-Add 1/6 cup water the bowl
+  - description: Add-Add 1/8 teaspoon black pepper to the bowl
+  - description: Add-Add 2 cloves minced garlic to the bowl
+  - description: Set-Set aside the sauce mixture
+  - description: Take-Take 2 cremini mushrooms
+  - description: Heat-Heat 2 tablespoons olive oil in a skillet over medium-high heat
+  - description: slice-slice mushrooms
+  - description: Add-Add broccoli to the skillet
+  - description: Add-add sliced mushrooms to the skillet
+  - description: cook-cook, stirring often, for 4 minutes. If the pan gets too hot
+      on medium-high, turn the heat down to medium
+  - description: Add-Add bell pepper to the skillet
+  - description: continue cooking-continue cooking, stirring often, for 2-3 minutes,
+      until vegetables are crisp-tender
+  - description: Pour-Pour the sauce into the skillet
+  - description: cook-cook, stirring, for 1 minute until the sauce thickens
+- activity_id: 23
+  environment: null
+  errors:
+  - description: cook-cook, stirring often, for 4 minutes. If the pan gets too hot
+      on medium-high, turn the heat down to medium
+    tag: Missing Step
+  - description: continue cooking-continue cooking, stirring often, for 2-3 minutes,
+      until vegetables are crisp-tender
+    tag: Missing Step
+  id: '23_33'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Take-Take 5 in number broccoli florets
+  - description: Add-Add 1/6 cup water the bowl
+  - description: Add-Add 1/8 teaspoon black pepper to the bowl
+  - description: Add-Add 1 tablespoon honey to the bowl
+  - description: Add-Add 1 teaspoon cornstarch to the bowl
+  - description: Add-Add 1/2 tablespoon minced ginger to the bowl
+  - description: Peel-Peel 2 cloves of garlic
+  - description: Add-Add 1/8 cup soy sauce to the bowl
+  - description: Take-Take 2 cremini mushrooms
+  - description: slice-slice mushrooms
+  - description: mince-mince garlic
+  - description: Add-Add 2 cloves minced garlic to the bowl
+  - description: Whisk-Whisk the contents of bowl
+  - description: Take-Take 1 bell pepper
+  - description: Set-Set aside the sauce mixture
+  - description: slice-slice 1/3 of the bell pepper
+  - description: Heat-Heat 2 tablespoons olive oil in a skillet over medium-high heat
+  - description: Add-add sliced mushrooms to the skillet
+  - description: Add-Add broccoli to the skillet
+  - description: Add-Add bell pepper to the skillet
+  - description: Whisk-Whisk the sauce again to recombine the ingredients
+  - description: Pour-Pour the sauce into the skillet
+  - description: cook-cook, stirring, for 1 minute until the sauce thickens
+- activity_id: 23
+  environment: null
+  errors:
+  - description: Heat-Heat 2 tablespoons olive oil in a skillet over medium-high heat
+    tag: Missing Step
+  - description: slice-slice mushrooms
+    tag: Missing Step
+  - description: Add-Add bell pepper to the skillet
+    tag: Missing Step
+  - description: continue cooking-continue cooking, stirring often, for 2-3 minutes,
+      until vegetables are crisp-tender
+    tag: Missing Step
+  id: '23_34'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Take-Take 5 in number broccoli florets
+  - description: Add-Add 1/6 cup water the bowl
+  - description: Peel-Peel 2 cloves of garlic
+  - description: Add-Add 1/2 tablespoon minced ginger to the bowl
+  - description: Take-Take 1 bell pepper
+  - description: Add-Add 1/8 cup soy sauce to the bowl
+  - description: Take-Take 2 cremini mushrooms
+  - description: Add-Add 1 tablespoon honey to the bowl
+  - description: slice-slice 1/3 of the bell pepper
+  - description: mince-mince garlic
+  - description: Add-Add 1 teaspoon cornstarch to the bowl
+  - description: Add-Add 1/8 teaspoon black pepper to the bowl
+  - description: Add-Add 2 cloves minced garlic to the bowl
+  - description: Whisk-Whisk the contents of bowl
+  - description: Set-Set aside the sauce mixture
+  - description: Add-Add broccoli to the skillet
+  - description: Add-add sliced mushrooms to the skillet
+  - description: cook-cook, stirring often, for 4 minutes. If the pan gets too hot
+      on medium-high, turn the heat down to medium
+  - description: Whisk-Whisk the sauce again to recombine the ingredients
+  - description: Pour-Pour the sauce into the skillet
+  - description: cook-cook, stirring, for 1 minute until the sauce thickens
+- activity_id: 23
+  environment: null
+  errors:
+  - description: Add-Add 1/8 cup soy sauce to the bowl
+    tag: Missing Step
+  - description: Whisk-Whisk the contents of bowl
+    tag: Missing Step
+  - description: Heat-Heat 2 tablespoons olive oil in a skillet over medium-high heat
+    tag: Missing Step
+  - description: Add-Add bell pepper to the skillet
+    tag: Missing Step
+  id: '23_35'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Add-Add 1 tablespoon honey to the bowl
+  - description: Add-Add 1 teaspoon cornstarch to the bowl
+  - description: Add-Add 1/2 tablespoon minced ginger to the bowl
+  - description: Peel-Peel 2 cloves of garlic
+  - description: mince-mince garlic
+  - description: Take-Take 1 bell pepper
+  - description: Add-Add 1/6 cup water the bowl
+  - description: Take-Take 5 in number broccoli florets
+  - description: Add-Add 1/8 teaspoon black pepper to the bowl
+  - description: Add-Add 2 cloves minced garlic to the bowl
+  - description: Take-Take 2 cremini mushrooms
+  - description: Set-Set aside the sauce mixture
+  - description: slice-slice mushrooms
+  - description: Add-add sliced mushrooms to the skillet
+  - description: Add-Add broccoli to the skillet
+  - description: cook-cook, stirring often, for 4 minutes. If the pan gets too hot
+      on medium-high, turn the heat down to medium
+  - description: slice-slice 1/3 of the bell pepper
+  - description: continue cooking-continue cooking, stirring often, for 2-3 minutes,
+      until vegetables are crisp-tender
+  - description: Whisk-Whisk the sauce again to recombine the ingredients
+  - description: Pour-Pour the sauce into the skillet
+  - description: cook-cook, stirring, for 1 minute until the sauce thickens
+- activity_id: 23
+  environment: null
+  errors:
+  - description: Add-Add 1 teaspoon cornstarch to the bowl
+    tag: Missing Step
+  - description: cook-cook, stirring often, for 4 minutes. If the pan gets too hot
+      on medium-high, turn the heat down to medium
+    tag: Missing Step
+  - description: Set-Set aside the sauce mixture
+    tag: Missing Step
+  - description: continue cooking-continue cooking, stirring often, for 2-3 minutes,
+      until vegetables are crisp-tender
+    tag: Missing Step
+  - description: Whisk-Whisk the sauce again to recombine the ingredients
+    tag: Missing Step
+  - tag: Order Error
+  id: '23_36'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Take-Take 5 in number broccoli florets
+  - description: Add-Add 1/8 cup soy sauce to the bowl
+  - description: Peel-Peel 2 cloves of garlic
+  - description: mince-mince garlic
+  - description: Take-Take 1 bell pepper
+  - description: Add-Add 1/8 teaspoon black pepper to the bowl
+  - description: slice-slice 1/3 of the bell pepper
+  - description: Add-Add 1 tablespoon honey to the bowl
+  - description: Take-Take 2 cremini mushrooms
+  - description: Add-Add 1/2 tablespoon minced ginger to the bowl
+  - description: Add-Add 1/6 cup water the bowl
+  - description: Add-Add 2 cloves minced garlic to the bowl
+  - description: Whisk-Whisk the contents of bowl
+  - description: Heat-Heat 2 tablespoons olive oil in a skillet over medium-high heat
+  - description: Pour-Pour the sauce into the skillet
+  - description: slice-slice mushrooms
+  - description: Add-add sliced mushrooms to the skillet
+  - description: Add-Add bell pepper to the skillet
+  - description: Add-Add broccoli to the skillet
+  - description: cook-cook, stirring, for 1 minute until the sauce thickens
+- activity_id: 23
+  environment: null
+  errors:
+  - tag: Order Error
+  id: '23_37'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Add-Add 1 tablespoon honey to the bowl
+  - description: Peel-Peel 2 cloves of garlic
+  - description: mince-mince garlic
+  - description: Add-Add 1/8 cup soy sauce to the bowl
+  - description: Add-Add 1/2 tablespoon minced ginger to the bowl
+  - description: Take-Take 1 bell pepper
+  - description: cook-cook, stirring, for 1 minute until the sauce thickens
+  - description: Add-Add 1/6 cup water the bowl
+  - description: slice-slice 1/3 of the bell pepper
+  - description: Add-Add 1/8 teaspoon black pepper to the bowl
+  - description: Take-Take 2 cremini mushrooms
+  - description: slice-slice mushrooms
+  - description: Take-Take 5 in number broccoli florets
+  - description: Add-Add 2 cloves minced garlic to the bowl
+  - description: Add-Add 1 teaspoon cornstarch to the bowl
+  - description: Whisk-Whisk the contents of bowl
+  - description: Set-Set aside the sauce mixture
+  - description: Heat-Heat 2 tablespoons olive oil in a skillet over medium-high heat
+  - description: Add-Add broccoli to the skillet
+  - description: Whisk-Whisk the sauce again to recombine the ingredients
+  - description: cook-cook, stirring often, for 4 minutes. If the pan gets too hot
+      on medium-high, turn the heat down to medium
+  - description: Add-Add bell pepper to the skillet
+  - description: continue cooking-continue cooking, stirring often, for 2-3 minutes,
+      until vegetables are crisp-tender
+  - description: Add-add sliced mushrooms to the skillet
+  - description: Pour-Pour the sauce into the skillet
+- activity_id: 23
+  environment: null
+  errors:
+  - description: Peel-Peel 2 cloves of garlic
+    tag: Missing Step
+  - description: cook-cook, stirring, for 1 minute until the sauce thickens
+    tag: Missing Step
+  - description: Whisk-Whisk the sauce again to recombine the ingredients
+    tag: Missing Step
+  - description: cook-cook, stirring often, for 4 minutes. If the pan gets too hot
+      on medium-high, turn the heat down to medium
+    tag: Missing Step
+  - tag: Order Error
+  id: '23_38'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Take-Take 5 in number broccoli florets
+  - description: Add-Add 1/6 cup water the bowl
+  - description: slice-slice 1/3 of the bell pepper
+  - description: Take-Take 1 bell pepper
+  - description: Take-Take 2 cremini mushrooms
+  - description: Add-Add bell pepper to the skillet
+  - description: Add-Add 1 teaspoon cornstarch to the bowl
+  - description: Add-Add 1 tablespoon honey to the bowl
+  - description: mince-mince garlic
+  - description: Add-Add 2 cloves minced garlic to the bowl
+  - description: Add-Add 1/8 cup soy sauce to the bowl
+  - description: Set-Set aside the sauce mixture
+  - description: Pour-Pour the sauce into the skillet
+  - description: Heat-Heat 2 tablespoons olive oil in a skillet over medium-high heat
+  - description: slice-slice mushrooms
+  - description: Add-add sliced mushrooms to the skillet
+  - description: Add-Add broccoli to the skillet
+  - description: Add-Add 1/8 teaspoon black pepper to the bowl
+  - description: continue cooking-continue cooking, stirring often, for 2-3 minutes,
+      until vegetables are crisp-tender
+  - description: Add-Add 1/2 tablespoon minced ginger to the bowl
+  - description: Whisk-Whisk the contents of bowl
+- activity_id: 23
+  environment: null
+  errors:
+  - description: Peel-Peel 2 cloves of garlic
+    tag: Missing Step
+  - tag: Order Error
+  id: '23_40'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Take-Take 5 in number broccoli florets
+  - description: Add-Add 1/8 teaspoon black pepper to the bowl
+  - description: slice-slice 1/3 of the bell pepper
+  - description: Add-Add 1/6 cup water the bowl
+  - description: Whisk-Whisk the sauce again to recombine the ingredients
+  - description: Add-Add 1 teaspoon cornstarch to the bowl
+  - description: Take-Take 2 cremini mushrooms
+  - description: mince-mince garlic
+  - description: Pour-Pour the sauce into the skillet
+  - description: continue cooking-continue cooking, stirring often, for 2-3 minutes,
+      until vegetables are crisp-tender
+  - description: Add-Add 2 cloves minced garlic to the bowl
+  - description: Whisk-Whisk the contents of bowl
+  - description: Take-Take 1 bell pepper
+  - description: Set-Set aside the sauce mixture
+  - description: Heat-Heat 2 tablespoons olive oil in a skillet over medium-high heat
+  - description: Add-Add 1/8 cup soy sauce to the bowl
+  - description: slice-slice mushrooms
+  - description: Add-add sliced mushrooms to the skillet
+  - description: Add-Add broccoli to the skillet
+  - description: cook-cook, stirring often, for 4 minutes. If the pan gets too hot
+      on medium-high, turn the heat down to medium
+  - description: Add-Add bell pepper to the skillet
+  - description: Add-Add 1/2 tablespoon minced ginger to the bowl
+  - description: Add-Add 1 tablespoon honey to the bowl
+  - description: cook-cook, stirring, for 1 minute until the sauce thickens
+- activity_id: 23
+  environment: null
+  errors:
+  - description: Add-Add 1/6 cup water the bowl
+    tag: Missing Step
+  - tag: Order Error
+  id: '23_41'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Take-Take 5 in number broccoli florets
+  - description: Peel-Peel 2 cloves of garlic
+  - description: mince-mince garlic
+  - description: Add-Add 2 cloves minced garlic to the bowl
+  - description: Add-Add 1/2 tablespoon minced ginger to the bowl
+  - description: Take-Take 1 bell pepper
+  - description: Add-Add 1/8 cup soy sauce to the bowl
+  - description: Add-Add 1/8 teaspoon black pepper to the bowl
+  - description: Take-Take 2 cremini mushrooms
+  - description: slice-slice 1/3 of the bell pepper
+  - description: Heat-Heat 2 tablespoons olive oil in a skillet over medium-high heat
+  - description: Whisk-Whisk the contents of bowl
+  - description: slice-slice mushrooms
+  - description: Set-Set aside the sauce mixture
+  - description: Add-Add 1 tablespoon honey to the bowl
+  - description: Add-Add broccoli to the skillet
+  - description: Add-add sliced mushrooms to the skillet
+  - description: cook-cook, stirring often, for 4 minutes. If the pan gets too hot
+      on medium-high, turn the heat down to medium
+  - description: Add-Add bell pepper to the skillet
+  - description: continue cooking-continue cooking, stirring often, for 2-3 minutes,
+      until vegetables are crisp-tender
+  - description: Whisk-Whisk the sauce again to recombine the ingredients
+  - description: Pour-Pour the sauce into the skillet
+  - description: cook-cook, stirring, for 1 minute until the sauce thickens
+  - description: Add-Add 1 teaspoon cornstarch to the bowl
+- activity_id: 23
+  environment: null
+  errors:
+  - description: Add-Add 1/2 tablespoon minced ginger to the bowl
+    tag: Missing Step
+  - description: mince-mince garlic
+    tag: Missing Step
+  - description: Add-Add 1/8 cup soy sauce to the bowl
+    tag: Missing Step
+  - tag: Order Error
+  id: '23_42'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Add-Add 1 tablespoon honey to the bowl
+  - description: Add-Add 1 teaspoon cornstarch to the bowl
+  - description: Add-Add broccoli to the skillet
+  - description: Peel-Peel 2 cloves of garlic
+  - description: Take-Take 2 cremini mushrooms
+  - description: Add-Add 1/8 teaspoon black pepper to the bowl
+  - description: slice-slice mushrooms
+  - description: Add-Add 1/6 cup water the bowl
+  - description: Add-Add 2 cloves minced garlic to the bowl
+  - description: cook-cook, stirring often, for 4 minutes. If the pan gets too hot
+      on medium-high, turn the heat down to medium
+  - description: Whisk-Whisk the contents of bowl
+  - description: Take-Take 5 in number broccoli florets
+  - description: Set-Set aside the sauce mixture
+  - description: Take-Take 1 bell pepper
+  - description: Add-Add bell pepper to the skillet
+  - description: slice-slice 1/3 of the bell pepper
+  - description: Heat-Heat 2 tablespoons olive oil in a skillet over medium-high heat
+  - description: Add-add sliced mushrooms to the skillet
+  - description: continue cooking-continue cooking, stirring often, for 2-3 minutes,
+      until vegetables are crisp-tender
+  - description: Whisk-Whisk the sauce again to recombine the ingredients
+  - description: Pour-Pour the sauce into the skillet
+  - description: cook-cook, stirring, for 1 minute until the sauce thickens
+- activity_id: 23
+  environment: null
+  errors:
+  - description: Add-Add 1/8 teaspoon black pepper to the bowl
+    tag: Missing Step
+  - description: Whisk-Whisk the contents of bowl
+    tag: Missing Step
+  - description: cook-cook, stirring often, for 4 minutes. If the pan gets too hot
+      on medium-high, turn the heat down to medium
+    tag: Missing Step
+  - description: Whisk-Whisk the sauce again to recombine the ingredients
+    tag: Missing Step
+  - tag: Order Error
+  id: '23_43'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Add-Add 1/8 cup soy sauce to the bowl
+  - description: Add-Add 1/6 cup water the bowl
+  - description: Add-Add 2 cloves minced garlic to the bowl
+  - description: Add-Add 1 tablespoon honey to the bowl
+  - description: slice-slice 1/3 of the bell pepper
+  - description: Take-Take 5 in number broccoli florets
+  - description: Add-Add 1/2 tablespoon minced ginger to the bowl
+  - description: Peel-Peel 2 cloves of garlic
+  - description: Take-Take 1 bell pepper
+  - description: mince-mince garlic
+  - description: Add-Add 1 teaspoon cornstarch to the bowl
+  - description: Take-Take 2 cremini mushrooms
+  - description: slice-slice mushrooms
+  - description: Add-add sliced mushrooms to the skillet
+  - description: Heat-Heat 2 tablespoons olive oil in a skillet over medium-high heat
+  - description: Add-Add broccoli to the skillet
+  - description: Set-Set aside the sauce mixture
+  - description: Add-Add bell pepper to the skillet
+  - description: continue cooking-continue cooking, stirring often, for 2-3 minutes,
+      until vegetables are crisp-tender
+  - description: Pour-Pour the sauce into the skillet
+  - description: cook-cook, stirring, for 1 minute until the sauce thickens
+- activity_id: 23
+  environment: null
+  errors:
+  - tag: Order Error
+  id: '23_44'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Add-Add 1 tablespoon honey to the bowl
+  - description: Take-Take 1 bell pepper
+  - description: Add-Add 1/8 cup soy sauce to the bowl
+  - description: Peel-Peel 2 cloves of garlic
+  - description: slice-slice 1/3 of the bell pepper
+  - description: Add-Add 1/8 teaspoon black pepper to the bowl
+  - description: Add-Add 1 teaspoon cornstarch to the bowl
+  - description: slice-slice mushrooms
+  - description: Add-Add 1/2 tablespoon minced ginger to the bowl
+  - description: Take-Take 5 in number broccoli florets
+  - description: mince-mince garlic
+  - description: Add-Add 2 cloves minced garlic to the bowl
+  - description: Add-Add 1/6 cup water the bowl
+  - description: Whisk-Whisk the contents of bowl
+  - description: Set-Set aside the sauce mixture
+  - description: Add-Add bell pepper to the skillet
+  - description: Take-Take 2 cremini mushrooms
+  - description: Add-Add broccoli to the skillet
+  - description: Whisk-Whisk the sauce again to recombine the ingredients
+  - description: Heat-Heat 2 tablespoons olive oil in a skillet over medium-high heat
+  - description: Pour-Pour the sauce into the skillet
+  - description: cook-cook, stirring often, for 4 minutes. If the pan gets too hot
+      on medium-high, turn the heat down to medium
+  - description: continue cooking-continue cooking, stirring often, for 2-3 minutes,
+      until vegetables are crisp-tender
+  - description: Add-add sliced mushrooms to the skillet
+  - description: cook-cook, stirring, for 1 minute until the sauce thickens
+- activity_id: 23
+  environment: null
+  errors:
+  - tag: Order Error
+  id: '23_45'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Add-Add 1 tablespoon honey to the bowl
+  - description: Add-Add 1 teaspoon cornstarch to the bowl
+  - description: Take-Take 2 cremini mushrooms
+  - description: slice-slice mushrooms
+  - description: Peel-Peel 2 cloves of garlic
+  - description: Pour-Pour the sauce into the skillet
+  - description: Add-Add 1/8 teaspoon black pepper to the bowl
+  - description: Take-Take 1 bell pepper
+  - description: mince-mince garlic
+  - description: Add-Add 1/6 cup water the bowl
+  - description: Add-Add 2 cloves minced garlic to the bowl
+  - description: Take-Take 5 in number broccoli florets
+  - description: Add-Add 1/2 tablespoon minced ginger to the bowl
+  - description: Whisk-Whisk the contents of bowl
+  - description: Set-Set aside the sauce mixture
+  - description: slice-slice 1/3 of the bell pepper
+  - description: Heat-Heat 2 tablespoons olive oil in a skillet over medium-high heat
+  - description: Add-Add broccoli to the skillet
+  - description: Add-add sliced mushrooms to the skillet
+  - description: cook-cook, stirring often, for 4 minutes. If the pan gets too hot
+      on medium-high, turn the heat down to medium
+  - description: Add-Add bell pepper to the skillet
+  - description: continue cooking-continue cooking, stirring often, for 2-3 minutes,
+      until vegetables are crisp-tender
+  - description: Whisk-Whisk the sauce again to recombine the ingredients
+  - description: cook-cook, stirring, for 1 minute until the sauce thickens
+  - description: Add-Add 1/8 cup soy sauce to the bowl
+- activity_id: 23
+  environment: null
+  errors:
+  - tag: Order Error
+  id: '23_46'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Take-Take 5 in number broccoli florets
+  - description: Whisk-Whisk the contents of bowl
+  - description: Add-Add 1/6 cup water the bowl
+  - description: Take-Take 1 bell pepper
+  - description: slice-slice 1/3 of the bell pepper
+  - description: Add-Add 1/2 tablespoon minced ginger to the bowl
+  - description: Take-Take 2 cremini mushrooms
+  - description: Add-Add 1/8 cup soy sauce to the bowl
+  - description: Add-Add 1 tablespoon honey to the bowl
+  - description: Whisk-Whisk the sauce again to recombine the ingredients
+  - description: Peel-Peel 2 cloves of garlic
+  - description: slice-slice mushrooms
+  - description: mince-mince garlic
+  - description: Add-Add 2 cloves minced garlic to the bowl
+  - description: Pour-Pour the sauce into the skillet
+  - description: Add-Add 1 teaspoon cornstarch to the bowl
+  - description: Heat-Heat 2 tablespoons olive oil in a skillet over medium-high heat
+  - description: Add-add sliced mushrooms to the skillet
+  - description: Add-Add broccoli to the skillet
+  - description: cook-cook, stirring often, for 4 minutes. If the pan gets too hot
+      on medium-high, turn the heat down to medium
+  - description: Add-Add bell pepper to the skillet
+  - description: continue cooking-continue cooking, stirring often, for 2-3 minutes,
+      until vegetables are crisp-tender
+  - description: Set-Set aside the sauce mixture
+  - description: Add-Add 1/8 teaspoon black pepper to the bowl
+  - description: cook-cook, stirring, for 1 minute until the sauce thickens
+- activity_id: 23
+  environment: null
+  errors:
+  - tag: Order Error
+  id: '23_47'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Take-Take 5 in number broccoli florets
+  - description: Add-Add 1/6 cup water the bowl
+  - description: Add-Add 1/8 teaspoon black pepper to the bowl
+  - description: Add-Add broccoli to the skillet
+  - description: Heat-Heat 2 tablespoons olive oil in a skillet over medium-high heat
+  - description: Peel-Peel 2 cloves of garlic
+  - description: Add-Add 1 tablespoon honey to the bowl
+  - description: Take-Take 1 bell pepper
+  - description: slice-slice 1/3 of the bell pepper
+  - description: Add-Add 1 teaspoon cornstarch to the bowl
+  - description: mince-mince garlic
+  - description: Add-Add 1/8 cup soy sauce to the bowl
+  - description: Add-Add 2 cloves minced garlic to the bowl
+  - description: Whisk-Whisk the contents of bowl
+  - description: Set-Set aside the sauce mixture
+  - description: slice-slice mushrooms
+  - description: Pour-Pour the sauce into the skillet
+  - description: Add-Add 1/2 tablespoon minced ginger to the bowl
+  - description: Whisk-Whisk the sauce again to recombine the ingredients
+  - description: cook-cook, stirring often, for 4 minutes. If the pan gets too hot
+      on medium-high, turn the heat down to medium
+  - description: Add-Add bell pepper to the skillet
+  - description: continue cooking-continue cooking, stirring often, for 2-3 minutes,
+      until vegetables are crisp-tender
+  - description: Add-add sliced mushrooms to the skillet
+  - description: Take-Take 2 cremini mushrooms
+  - description: cook-cook, stirring, for 1 minute until the sauce thickens
+- activity_id: 23
+  environment: null
+  errors:
+  - tag: Order Error
+  id: '23_48'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Take-Take 5 in number broccoli florets
+  - description: Add-Add 1/8 teaspoon black pepper to the bowl
+  - description: Take-Take 1 bell pepper
+  - description: Add-Add 1/6 cup water the bowl
+  - description: Peel-Peel 2 cloves of garlic
+  - description: mince-mince garlic
+  - description: Add-Add 1 teaspoon cornstarch to the bowl
+  - description: Take-Take 2 cremini mushrooms
+  - description: Add-Add 1/2 tablespoon minced ginger to the bowl
+  - description: Add-Add 2 cloves minced garlic to the bowl
+  - description: Add-Add 1 tablespoon honey to the bowl
+  - description: slice-slice mushrooms
+  - description: Add-Add 1/8 cup soy sauce to the bowl
+  - description: Whisk-Whisk the contents of bowl
+  - description: Set-Set aside the sauce mixture
+  - description: Heat-Heat 2 tablespoons olive oil in a skillet over medium-high heat
+  - description: Whisk-Whisk the sauce again to recombine the ingredients
+  - description: Add-add sliced mushrooms to the skillet
+  - description: slice-slice 1/3 of the bell pepper
+  - description: continue cooking-continue cooking, stirring often, for 2-3 minutes,
+      until vegetables are crisp-tender
+  - description: Add-Add bell pepper to the skillet
+  - description: cook-cook, stirring often, for 4 minutes. If the pan gets too hot
+      on medium-high, turn the heat down to medium
+  - description: Add-Add broccoli to the skillet
+  - description: Pour-Pour the sauce into the skillet
+  - description: cook-cook, stirring, for 1 minute until the sauce thickens
+- activity_id: 23
+  environment: null
+  errors:
+  - tag: Order Error
+  id: '23_49'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Add-Add 1 tablespoon honey to the bowl
+  - description: Add-Add 1 teaspoon cornstarch to the bowl
+  - description: Add-Add 1/8 teaspoon black pepper to the bowl
+  - description: Peel-Peel 2 cloves of garlic
+  - description: mince-mince garlic
+  - description: Add-Add 2 cloves minced garlic to the bowl
+  - description: Take-Take 2 cremini mushrooms
+  - description: slice-slice mushrooms
+  - description: Add-add sliced mushrooms to the skillet
+  - description: Take-Take 5 in number broccoli florets
+  - description: Take-Take 1 bell pepper
+  - description: slice-slice 1/3 of the bell pepper
+  - description: Add-Add 1/8 cup soy sauce to the bowl
+  - description: Add-Add 1/6 cup water the bowl
+  - description: Whisk-Whisk the contents of bowl
+  - description: Set-Set aside the sauce mixture
+  - description: Heat-Heat 2 tablespoons olive oil in a skillet over medium-high heat
+  - description: Add-Add 1/2 tablespoon minced ginger to the bowl
+  - description: Add-Add broccoli to the skillet
+  - description: cook-cook, stirring often, for 4 minutes. If the pan gets too hot
+      on medium-high, turn the heat down to medium
+  - description: Add-Add bell pepper to the skillet
+  - description: continue cooking-continue cooking, stirring often, for 2-3 minutes,
+      until vegetables are crisp-tender
+  - description: Whisk-Whisk the sauce again to recombine the ingredients
+  - description: Pour-Pour the sauce into the skillet
+  - description: cook-cook, stirring, for 1 minute until the sauce thickens
+- activity_id: 23
+  environment: null
+  errors:
+  - tag: Order Error
+  id: '23_50'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Take-Take 2 cremini mushrooms
+  - description: Add-Add 1/8 teaspoon black pepper to the bowl
+  - description: Add-Add 1/8 cup soy sauce to the bowl
+  - description: Whisk-Whisk the contents of bowl
+  - description: Add-Add 1/6 cup water the bowl
+  - description: Add-Add 1 tablespoon honey to the bowl
+  - description: Heat-Heat 2 tablespoons olive oil in a skillet over medium-high heat
+  - description: Peel-Peel 2 cloves of garlic
+  - description: Add-Add 1/2 tablespoon minced ginger to the bowl
+  - description: mince-mince garlic
+  - description: slice-slice mushrooms
+  - description: Add-Add 2 cloves minced garlic to the bowl
+  - description: Add-Add bell pepper to the skillet
+  - description: Pour-Pour the sauce into the skillet
+  - description: Set-Set aside the sauce mixture
+  - description: Add-Add 1 teaspoon cornstarch to the bowl
+  - description: Add-add sliced mushrooms to the skillet
+  - description: Take-Take 1 bell pepper
+  - description: slice-slice 1/3 of the bell pepper
+  - description: Take-Take 5 in number broccoli florets
+  - description: Add-Add broccoli to the skillet
+  - description: cook-cook, stirring often, for 4 minutes. If the pan gets too hot
+      on medium-high, turn the heat down to medium
+  - description: continue cooking-continue cooking, stirring often, for 2-3 minutes,
+      until vegetables are crisp-tender
+  - description: Whisk-Whisk the sauce again to recombine the ingredients
+  - description: cook-cook, stirring, for 1 minute until the sauce thickens

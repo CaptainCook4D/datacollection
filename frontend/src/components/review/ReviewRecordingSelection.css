@@ -1,0 +1,80 @@
+.reviewRecordingsContainer {
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+    align-items: center;
+    width: 100%;
+    padding: 20px;
+}
+
+.reviewEnvironmentRecordingsTableContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 80%;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.reviewEnvironmentTitle {
+    font-size: 1.5em;
+    color: #444;
+    margin: 10px 0;
+}
+
+.reviewEnvironmentRecordingsTable {
+    width: 100%;
+    border-collapse: collapse;
+    display: flex;
+    flex-direction: column;
+}
+
+.reviewEnvironmentRecordingsTable thead,
+.reviewEnvironmentRecordingsTable tbody tr {
+    display: flex;
+    justify-content: space-between;
+}
+
+.reviewEnvironmentRecordingsTable th,
+.reviewEnvironmentRecordingsTable td {
+    flex: 1;
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+    margin-right: 10px; /* Add margin to create space between columns */
+}
+
+.reviewEnvironmentRecordingsTable th:last-child,
+.reviewEnvironmentRecordingsTable td:last-child {
+    margin-right: 0; /* Remove margin for the last column to align the table correctly */
+}
+
+.reviewEnvironmentRecordingRow {
+    border-top: 1px solid #ddd;
+    transition: background-color 0.3s ease;
+}
+
+.reviewEnvironmentRecordingRow:hover {
+    background-color: #f5f5f5;
+}
+
+.reviewEnvironmentReviewButton {
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.reviewEnvironmentReviewButton:hover {
+    background-color: #0056b3;
+}
+
+.reviewEnvironmentErrorMessage {
+    color: red;
+    font-size: 1.5em;
+    text-align: center;
+    margin-top: 20px;
+}

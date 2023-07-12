@@ -1,0 +1,72 @@
+/* RecordingRecordingInfo.css */
+
+.recRecordContent {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.recRecordInfoContainer {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.recRecordGoProInfo,
+.recRecordHololensInfo {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 0 10px;
+}
+
+.recRecordUpdateButtons {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.updateTogglesButton,
+.extraButtons {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+.recRecordButton {
+    display: inline-block;
+    background-color: #007bff;
+    color: #ffffff;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 20px;
+    font-size: 14px;
+    cursor: pointer;
+    text-align: center;
+    margin: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.recRecordButton:hover {
+    background-color: #0056b3;
+}
+
+.recRecordButton1 {
+    background-color: #28a745;
+}
+
+.recRecordButton1:hover {
+    background-color: #218838;
+}
+
+.recRecordButton2 {
+    background-color: #dc3545;
+}
+
+.recRecordButton2:hover {
+    background-color: #c82333;
+}

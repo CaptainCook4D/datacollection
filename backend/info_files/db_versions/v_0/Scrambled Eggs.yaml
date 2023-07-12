@@ -1,0 +1,2206 @@
+- activity_id: 16
+  environment: null
+  id: '16_1'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Chop-Chop 1/4 medium onion
+  - description: Chop-Chop 1 tsp cilantro
+  - description: Chop-Chop 1/4 tomato
+  - description: Chop-Chop 1 green chilli
+  - description: Peel-Peel 2 garlic cloves
+  - description: Mince-Mince peeled garlic cloves
+  - description: Crack-Crack one egg in the bowl
+  - description: add-add  1 tbsp milk to the bowl
+  - description: add-add 1/3 tsp salt to the bowl
+  - description: Whisk-Whisk the egg mixture in the bowl
+  - description: Heat-Heat 2 tbsp oil in a heavy-bottomed or nonstick pan on medium
+      heat
+  - description: add-add 1/3 tsp salt to the pan
+  - description: add-add chopped onions to the pan
+  - description: Saute-Saute the onions on medium heat until they are soft and translucent
+  - description: Add-Add garlic to the pan
+  - description: Add-Add chilli to the pan
+  - description: Cook-Cook for 1 minute, mixing everything
+  - description: Add-Add 1/8 tsp of turmeric to the pan
+  - description: Add-Add tomatoes to the pan
+  - description: Cook-Cook covered for 1 minute or until the tomatoes soften
+  - description: pour-Slowly pour the whisked eggs into the pan
+  - description: mixing-Keep mixing with a spatula for 3 minutes or until the eggs
+      are almost cooked
+  - description: Garnish-Garnish with 1 tbsp chopped cilantro and serve
+- activity_id: 16
+  environment: null
+  id: '16_2'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Chop-Chop 1/4 medium onion
+  - description: Chop-Chop 1/4 tomato
+  - description: Crack-Crack one egg in the bowl
+  - description: add-add  1 tbsp milk to the bowl
+  - description: Chop-Chop 1 green chilli
+  - description: Chop-Chop 1 tsp cilantro
+  - description: Peel-Peel 2 garlic cloves
+  - description: Mince-Mince peeled garlic cloves
+  - description: add-add 1/3 tsp salt to the bowl
+  - description: Whisk-Whisk the egg mixture in the bowl
+  - description: Heat-Heat 2 tbsp oil in a heavy-bottomed or nonstick pan on medium
+      heat
+  - description: add-add 1/3 tsp salt to the pan
+  - description: add-add chopped onions to the pan
+  - description: Saute-Saute the onions on medium heat until they are soft and translucent
+  - description: Add-Add garlic to the pan
+  - description: Add-Add chilli to the pan
+  - description: Cook-Cook for 1 minute, mixing everything
+  - description: Add-Add 1/8 tsp of turmeric to the pan
+  - description: Add-Add tomatoes to the pan
+  - description: Cook-Cook covered for 1 minute or until the tomatoes soften
+  - description: pour-Slowly pour the whisked eggs into the pan
+  - description: mixing-Keep mixing with a spatula for 3 minutes or until the eggs
+      are almost cooked
+  - description: Garnish-Garnish with 1 tbsp chopped cilantro and serve
+- activity_id: 16
+  environment: null
+  id: '16_3'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Chop-Chop 1 green chilli
+  - description: Chop-Chop 1 tsp cilantro
+  - description: Peel-Peel 2 garlic cloves
+  - description: Chop-Chop 1/4 medium onion
+  - description: Chop-Chop 1/4 tomato
+  - description: Crack-Crack one egg in the bowl
+  - description: add-add  1 tbsp milk to the bowl
+  - description: Mince-Mince peeled garlic cloves
+  - description: add-add 1/3 tsp salt to the bowl
+  - description: Whisk-Whisk the egg mixture in the bowl
+  - description: Heat-Heat 2 tbsp oil in a heavy-bottomed or nonstick pan on medium
+      heat
+  - description: add-add 1/3 tsp salt to the pan
+  - description: add-add chopped onions to the pan
+  - description: Saute-Saute the onions on medium heat until they are soft and translucent
+  - description: Add-Add chilli to the pan
+  - description: Add-Add garlic to the pan
+  - description: Cook-Cook for 1 minute, mixing everything
+  - description: Add-Add 1/8 tsp of turmeric to the pan
+  - description: Add-Add tomatoes to the pan
+  - description: Cook-Cook covered for 1 minute or until the tomatoes soften
+  - description: pour-Slowly pour the whisked eggs into the pan
+  - description: mixing-Keep mixing with a spatula for 3 minutes or until the eggs
+      are almost cooked
+  - description: Garnish-Garnish with 1 tbsp chopped cilantro and serve
+- activity_id: 16
+  environment: null
+  id: '16_4'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Peel-Peel 2 garlic cloves
+  - description: Chop-Chop 1/4 medium onion
+  - description: Chop-Chop 1/4 tomato
+  - description: Crack-Crack one egg in the bowl
+  - description: add-add  1 tbsp milk to the bowl
+  - description: Mince-Mince peeled garlic cloves
+  - description: add-add 1/3 tsp salt to the bowl
+  - description: Chop-Chop 1 green chilli
+  - description: Chop-Chop 1 tsp cilantro
+  - description: Whisk-Whisk the egg mixture in the bowl
+  - description: Heat-Heat 2 tbsp oil in a heavy-bottomed or nonstick pan on medium
+      heat
+  - description: add-add chopped onions to the pan
+  - description: add-add 1/3 tsp salt to the pan
+  - description: Saute-Saute the onions on medium heat until they are soft and translucent
+  - description: Add-Add chilli to the pan
+  - description: Add-Add garlic to the pan
+  - description: Cook-Cook for 1 minute, mixing everything
+  - description: Add-Add tomatoes to the pan
+  - description: Add-Add 1/8 tsp of turmeric to the pan
+  - description: Cook-Cook covered for 1 minute or until the tomatoes soften
+  - description: pour-Slowly pour the whisked eggs into the pan
+  - description: mixing-Keep mixing with a spatula for 3 minutes or until the eggs
+      are almost cooked
+  - description: Garnish-Garnish with 1 tbsp chopped cilantro and serve
+- activity_id: 16
+  environment: null
+  id: '16_5'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Crack-Crack one egg in the bowl
+  - description: add-add  1 tbsp milk to the bowl
+  - description: Peel-Peel 2 garlic cloves
+  - description: Chop-Chop 1/4 medium onion
+  - description: Mince-Mince peeled garlic cloves
+  - description: add-add 1/3 tsp salt to the bowl
+  - description: Chop-Chop 1/4 tomato
+  - description: Whisk-Whisk the egg mixture in the bowl
+  - description: Chop-Chop 1 green chilli
+  - description: Chop-Chop 1 tsp cilantro
+  - description: Heat-Heat 2 tbsp oil in a heavy-bottomed or nonstick pan on medium
+      heat
+  - description: add-add chopped onions to the pan
+  - description: add-add 1/3 tsp salt to the pan
+  - description: Saute-Saute the onions on medium heat until they are soft and translucent
+  - description: Add-Add chilli to the pan
+  - description: Add-Add garlic to the pan
+  - description: Cook-Cook for 1 minute, mixing everything
+  - description: Add-Add 1/8 tsp of turmeric to the pan
+  - description: Add-Add tomatoes to the pan
+  - description: Cook-Cook covered for 1 minute or until the tomatoes soften
+  - description: pour-Slowly pour the whisked eggs into the pan
+  - description: mixing-Keep mixing with a spatula for 3 minutes or until the eggs
+      are almost cooked
+  - description: Garnish-Garnish with 1 tbsp chopped cilantro and serve
+- activity_id: 16
+  environment: null
+  id: '16_6'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Peel-Peel 2 garlic cloves
+  - description: add-add  1 tbsp milk to the bowl
+  - description: Chop-Chop 1/4 medium onion
+  - description: Crack-Crack one egg in the bowl
+  - description: Mince-Mince peeled garlic cloves
+  - description: add-add 1/3 tsp salt to the bowl
+  - description: Chop-Chop 1 tsp cilantro
+  - description: Chop-Chop 1/4 tomato
+  - description: Chop-Chop 1 green chilli
+  - description: Whisk-Whisk the egg mixture in the bowl
+  - description: Heat-Heat 2 tbsp oil in a heavy-bottomed or nonstick pan on medium
+      heat
+  - description: add-add 1/3 tsp salt to the pan
+  - description: add-add chopped onions to the pan
+  - description: Saute-Saute the onions on medium heat until they are soft and translucent
+  - description: Add-Add garlic to the pan
+  - description: Add-Add chilli to the pan
+  - description: Cook-Cook for 1 minute, mixing everything
+  - description: Add-Add tomatoes to the pan
+  - description: Add-Add 1/8 tsp of turmeric to the pan
+  - description: Cook-Cook covered for 1 minute or until the tomatoes soften
+  - description: pour-Slowly pour the whisked eggs into the pan
+  - description: mixing-Keep mixing with a spatula for 3 minutes or until the eggs
+      are almost cooked
+  - description: Garnish-Garnish with 1 tbsp chopped cilantro and serve
+- activity_id: 16
+  environment: null
+  id: '16_7'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Crack-Crack one egg in the bowl
+  - description: Chop-Chop 1 green chilli
+  - description: Chop-Chop 1 tsp cilantro
+  - description: Peel-Peel 2 garlic cloves
+  - description: Mince-Mince peeled garlic cloves
+  - description: Chop-Chop 1/4 medium onion
+  - description: Chop-Chop 1/4 tomato
+  - description: add-add  1 tbsp milk to the bowl
+  - description: add-add 1/3 tsp salt to the bowl
+  - description: Whisk-Whisk the egg mixture in the bowl
+  - description: Heat-Heat 2 tbsp oil in a heavy-bottomed or nonstick pan on medium
+      heat
+  - description: add-add 1/3 tsp salt to the pan
+  - description: add-add chopped onions to the pan
+  - description: Saute-Saute the onions on medium heat until they are soft and translucent
+  - description: Add-Add garlic to the pan
+  - description: Add-Add chilli to the pan
+  - description: Cook-Cook for 1 minute, mixing everything
+  - description: Add-Add tomatoes to the pan
+  - description: Add-Add 1/8 tsp of turmeric to the pan
+  - description: Cook-Cook covered for 1 minute or until the tomatoes soften
+  - description: pour-Slowly pour the whisked eggs into the pan
+  - description: mixing-Keep mixing with a spatula for 3 minutes or until the eggs
+      are almost cooked
+  - description: Garnish-Garnish with 1 tbsp chopped cilantro and serve
+- activity_id: 16
+  environment: null
+  id: '16_8'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Chop-Chop 1 green chilli
+  - description: Chop-Chop 1 tsp cilantro
+  - description: Crack-Crack one egg in the bowl
+  - description: add-add  1 tbsp milk to the bowl
+  - description: add-add 1/3 tsp salt to the bowl
+  - description: Chop-Chop 1/4 tomato
+  - description: Whisk-Whisk the egg mixture in the bowl
+  - description: Peel-Peel 2 garlic cloves
+  - description: Chop-Chop 1/4 medium onion
+  - description: Mince-Mince peeled garlic cloves
+  - description: Heat-Heat 2 tbsp oil in a heavy-bottomed or nonstick pan on medium
+      heat
+  - description: add-add 1/3 tsp salt to the pan
+  - description: add-add chopped onions to the pan
+  - description: Saute-Saute the onions on medium heat until they are soft and translucent
+  - description: Add-Add garlic to the pan
+  - description: Add-Add chilli to the pan
+  - description: Cook-Cook for 1 minute, mixing everything
+  - description: Add-Add tomatoes to the pan
+  - description: Add-Add 1/8 tsp of turmeric to the pan
+  - description: Cook-Cook covered for 1 minute or until the tomatoes soften
+  - description: pour-Slowly pour the whisked eggs into the pan
+  - description: mixing-Keep mixing with a spatula for 3 minutes or until the eggs
+      are almost cooked
+  - description: Garnish-Garnish with 1 tbsp chopped cilantro and serve
+- activity_id: 16
+  environment: null
+  id: '16_9'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Crack-Crack one egg in the bowl
+  - description: add-add  1 tbsp milk to the bowl
+  - description: add-add 1/3 tsp salt to the bowl
+  - description: Whisk-Whisk the egg mixture in the bowl
+  - description: Peel-Peel 2 garlic cloves
+  - description: Chop-Chop 1/4 medium onion
+  - description: Chop-Chop 1 green chilli
+  - description: Chop-Chop 1 tsp cilantro
+  - description: Mince-Mince peeled garlic cloves
+  - description: Chop-Chop 1/4 tomato
+  - description: Heat-Heat 2 tbsp oil in a heavy-bottomed or nonstick pan on medium
+      heat
+  - description: add-add 1/3 tsp salt to the pan
+  - description: add-add chopped onions to the pan
+  - description: Saute-Saute the onions on medium heat until they are soft and translucent
+  - description: Add-Add chilli to the pan
+  - description: Add-Add garlic to the pan
+  - description: Cook-Cook for 1 minute, mixing everything
+  - description: Add-Add 1/8 tsp of turmeric to the pan
+  - description: Add-Add tomatoes to the pan
+  - description: Cook-Cook covered for 1 minute or until the tomatoes soften
+  - description: pour-Slowly pour the whisked eggs into the pan
+  - description: mixing-Keep mixing with a spatula for 3 minutes or until the eggs
+      are almost cooked
+  - description: Garnish-Garnish with 1 tbsp chopped cilantro and serve
+- activity_id: 16
+  environment: null
+  id: '16_10'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Chop-Chop 1 green chilli
+  - description: add-add 1/3 tsp salt to the bowl
+  - description: Peel-Peel 2 garlic cloves
+  - description: Chop-Chop 1/4 medium onion
+  - description: Mince-Mince peeled garlic cloves
+  - description: Chop-Chop 1/4 tomato
+  - description: Crack-Crack one egg in the bowl
+  - description: add-add  1 tbsp milk to the bowl
+  - description: Whisk-Whisk the egg mixture in the bowl
+  - description: Chop-Chop 1 tsp cilantro
+  - description: Heat-Heat 2 tbsp oil in a heavy-bottomed or nonstick pan on medium
+      heat
+  - description: add-add chopped onions to the pan
+  - description: add-add 1/3 tsp salt to the pan
+  - description: Saute-Saute the onions on medium heat until they are soft and translucent
+  - description: Add-Add chilli to the pan
+  - description: Add-Add garlic to the pan
+  - description: Cook-Cook for 1 minute, mixing everything
+  - description: Add-Add tomatoes to the pan
+  - description: Add-Add 1/8 tsp of turmeric to the pan
+  - description: Cook-Cook covered for 1 minute or until the tomatoes soften
+  - description: pour-Slowly pour the whisked eggs into the pan
+  - description: mixing-Keep mixing with a spatula for 3 minutes or until the eggs
+      are almost cooked
+  - description: Garnish-Garnish with 1 tbsp chopped cilantro and serve
+- activity_id: 16
+  environment: null
+  id: '16_11'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Peel-Peel 2 garlic cloves
+  - description: Chop-Chop 1/4 medium onion
+  - description: Mince-Mince peeled garlic cloves
+  - description: Crack-Crack one egg in the bowl
+  - description: add-add  1 tbsp milk to the bowl
+  - description: add-add 1/3 tsp salt to the bowl
+  - description: Chop-Chop 1 green chilli
+  - description: Chop-Chop 1 tsp cilantro
+  - description: Chop-Chop 1/4 tomato
+  - description: Whisk-Whisk the egg mixture in the bowl
+  - description: Heat-Heat 2 tbsp oil in a heavy-bottomed or nonstick pan on medium
+      heat
+  - description: add-add 1/3 tsp salt to the pan
+  - description: add-add chopped onions to the pan
+  - description: Saute-Saute the onions on medium heat until they are soft and translucent
+  - description: Add-Add garlic to the pan
+  - description: Add-Add chilli to the pan
+  - description: Cook-Cook for 1 minute, mixing everything
+  - description: Add-Add tomatoes to the pan
+  - description: Add-Add 1/8 tsp of turmeric to the pan
+  - description: Cook-Cook covered for 1 minute or until the tomatoes soften
+  - description: pour-Slowly pour the whisked eggs into the pan
+  - description: mixing-Keep mixing with a spatula for 3 minutes or until the eggs
+      are almost cooked
+  - description: Garnish-Garnish with 1 tbsp chopped cilantro and serve
+- activity_id: 16
+  environment: null
+  id: '16_12'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Crack-Crack one egg in the bowl
+  - description: add-add  1 tbsp milk to the bowl
+  - description: Peel-Peel 2 garlic cloves
+  - description: Chop-Chop 1 green chilli
+  - description: Mince-Mince peeled garlic cloves
+  - description: Chop-Chop 1/4 medium onion
+  - description: add-add 1/3 tsp salt to the bowl
+  - description: Chop-Chop 1/4 tomato
+  - description: Chop-Chop 1 tsp cilantro
+  - description: Whisk-Whisk the egg mixture in the bowl
+  - description: Heat-Heat 2 tbsp oil in a heavy-bottomed or nonstick pan on medium
+      heat
+  - description: add-add chopped onions to the pan
+  - description: add-add 1/3 tsp salt to the pan
+  - description: Saute-Saute the onions on medium heat until they are soft and translucent
+  - description: Add-Add garlic to the pan
+  - description: Add-Add chilli to the pan
+  - description: Cook-Cook for 1 minute, mixing everything
+  - description: Add-Add tomatoes to the pan
+  - description: Add-Add 1/8 tsp of turmeric to the pan
+  - description: Cook-Cook covered for 1 minute or until the tomatoes soften
+  - description: pour-Slowly pour the whisked eggs into the pan
+  - description: mixing-Keep mixing with a spatula for 3 minutes or until the eggs
+      are almost cooked
+  - description: Garnish-Garnish with 1 tbsp chopped cilantro and serve
+- activity_id: 16
+  environment: null
+  id: '16_13'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Chop-Chop 1 green chilli
+  - description: Chop-Chop 1 tsp cilantro
+  - description: Chop-Chop 1/4 medium onion
+  - description: Crack-Crack one egg in the bowl
+  - description: add-add  1 tbsp milk to the bowl
+  - description: add-add 1/3 tsp salt to the bowl
+  - description: Whisk-Whisk the egg mixture in the bowl
+  - description: Chop-Chop 1/4 tomato
+  - description: Peel-Peel 2 garlic cloves
+  - description: Mince-Mince peeled garlic cloves
+  - description: Heat-Heat 2 tbsp oil in a heavy-bottomed or nonstick pan on medium
+      heat
+  - description: add-add 1/3 tsp salt to the pan
+  - description: add-add chopped onions to the pan
+  - description: Saute-Saute the onions on medium heat until they are soft and translucent
+  - description: Add-Add chilli to the pan
+  - description: Add-Add garlic to the pan
+  - description: Cook-Cook for 1 minute, mixing everything
+  - description: Add-Add 1/8 tsp of turmeric to the pan
+  - description: Add-Add tomatoes to the pan
+  - description: Cook-Cook covered for 1 minute or until the tomatoes soften
+  - description: pour-Slowly pour the whisked eggs into the pan
+  - description: mixing-Keep mixing with a spatula for 3 minutes or until the eggs
+      are almost cooked
+  - description: Garnish-Garnish with 1 tbsp chopped cilantro and serve
+- activity_id: 16
+  environment: null
+  id: '16_14'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Peel-Peel 2 garlic cloves
+  - description: Mince-Mince peeled garlic cloves
+  - description: Crack-Crack one egg in the bowl
+  - description: Chop-Chop 1 tsp cilantro
+  - description: add-add  1 tbsp milk to the bowl
+  - description: Chop-Chop 1 green chilli
+  - description: Chop-Chop 1/4 tomato
+  - description: add-add 1/3 tsp salt to the bowl
+  - description: Chop-Chop 1/4 medium onion
+  - description: Whisk-Whisk the egg mixture in the bowl
+  - description: Heat-Heat 2 tbsp oil in a heavy-bottomed or nonstick pan on medium
+      heat
+  - description: add-add 1/3 tsp salt to the pan
+  - description: add-add chopped onions to the pan
+  - description: Saute-Saute the onions on medium heat until they are soft and translucent
+  - description: Add-Add chilli to the pan
+  - description: Add-Add garlic to the pan
+  - description: Cook-Cook for 1 minute, mixing everything
+  - description: Add-Add tomatoes to the pan
+  - description: Add-Add 1/8 tsp of turmeric to the pan
+  - description: Cook-Cook covered for 1 minute or until the tomatoes soften
+  - description: pour-Slowly pour the whisked eggs into the pan
+  - description: mixing-Keep mixing with a spatula for 3 minutes or until the eggs
+      are almost cooked
+  - description: Garnish-Garnish with 1 tbsp chopped cilantro and serve
+- activity_id: 16
+  environment: null
+  id: '16_15'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Chop-Chop 1 tsp cilantro
+  - description: Peel-Peel 2 garlic cloves
+  - description: Chop-Chop 1 green chilli
+  - description: Chop-Chop 1/4 medium onion
+  - description: Crack-Crack one egg in the bowl
+  - description: add-add  1 tbsp milk to the bowl
+  - description: Mince-Mince peeled garlic cloves
+  - description: Chop-Chop 1/4 tomato
+  - description: add-add 1/3 tsp salt to the bowl
+  - description: Whisk-Whisk the egg mixture in the bowl
+  - description: Heat-Heat 2 tbsp oil in a heavy-bottomed or nonstick pan on medium
+      heat
+  - description: add-add 1/3 tsp salt to the pan
+  - description: add-add chopped onions to the pan
+  - description: Saute-Saute the onions on medium heat until they are soft and translucent
+  - description: Add-Add chilli to the pan
+  - description: Add-Add garlic to the pan
+  - description: Cook-Cook for 1 minute, mixing everything
+  - description: Add-Add tomatoes to the pan
+  - description: Add-Add 1/8 tsp of turmeric to the pan
+  - description: Cook-Cook covered for 1 minute or until the tomatoes soften
+  - description: pour-Slowly pour the whisked eggs into the pan
+  - description: mixing-Keep mixing with a spatula for 3 minutes or until the eggs
+      are almost cooked
+  - description: Garnish-Garnish with 1 tbsp chopped cilantro and serve
+- activity_id: 16
+  environment: null
+  id: '16_16'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Chop-Chop 1 green chilli
+  - description: Chop-Chop 1/4 medium onion
+  - description: Chop-Chop 1/4 tomato
+  - description: Peel-Peel 2 garlic cloves
+  - description: Crack-Crack one egg in the bowl
+  - description: add-add  1 tbsp milk to the bowl
+  - description: add-add 1/3 tsp salt to the bowl
+  - description: Chop-Chop 1 tsp cilantro
+  - description: Mince-Mince peeled garlic cloves
+  - description: Whisk-Whisk the egg mixture in the bowl
+  - description: Heat-Heat 2 tbsp oil in a heavy-bottomed or nonstick pan on medium
+      heat
+  - description: add-add 1/3 tsp salt to the pan
+  - description: add-add chopped onions to the pan
+  - description: Saute-Saute the onions on medium heat until they are soft and translucent
+  - description: Add-Add garlic to the pan
+  - description: Add-Add chilli to the pan
+  - description: Cook-Cook for 1 minute, mixing everything
+  - description: Add-Add 1/8 tsp of turmeric to the pan
+  - description: Add-Add tomatoes to the pan
+  - description: Cook-Cook covered for 1 minute or until the tomatoes soften
+  - description: pour-Slowly pour the whisked eggs into the pan
+  - description: mixing-Keep mixing with a spatula for 3 minutes or until the eggs
+      are almost cooked
+  - description: Garnish-Garnish with 1 tbsp chopped cilantro and serve
+- activity_id: 16
+  environment: null
+  id: '16_17'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Crack-Crack one egg in the bowl
+  - description: add-add  1 tbsp milk to the bowl
+  - description: add-add 1/3 tsp salt to the bowl
+  - description: Chop-Chop 1/4 tomato
+  - description: Chop-Chop 1 tsp cilantro
+  - description: Chop-Chop 1/4 medium onion
+  - description: Peel-Peel 2 garlic cloves
+  - description: Chop-Chop 1 green chilli
+  - description: Mince-Mince peeled garlic cloves
+  - description: Whisk-Whisk the egg mixture in the bowl
+  - description: Heat-Heat 2 tbsp oil in a heavy-bottomed or nonstick pan on medium
+      heat
+  - description: add-add 1/3 tsp salt to the pan
+  - description: add-add chopped onions to the pan
+  - description: Saute-Saute the onions on medium heat until they are soft and translucent
+  - description: Add-Add chilli to the pan
+  - description: Add-Add garlic to the pan
+  - description: Cook-Cook for 1 minute, mixing everything
+  - description: Add-Add 1/8 tsp of turmeric to the pan
+  - description: Add-Add tomatoes to the pan
+  - description: Cook-Cook covered for 1 minute or until the tomatoes soften
+  - description: pour-Slowly pour the whisked eggs into the pan
+  - description: mixing-Keep mixing with a spatula for 3 minutes or until the eggs
+      are almost cooked
+  - description: Garnish-Garnish with 1 tbsp chopped cilantro and serve
+- activity_id: 16
+  environment: 1
+  id: '16_18'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 6
+  steps:
+  - description: Peel-Peel 2 garlic cloves
+  - description: Chop-Chop 1 green chilli
+  - description: Chop-Chop 1/4 medium onion
+  - description: add-add 1/3 tsp salt to the bowl
+  - description: Crack-Crack one egg in the bowl
+  - description: add-add  1 tbsp milk to the bowl
+  - description: Whisk-Whisk the egg mixture in the bowl
+  - description: Mince-Mince peeled garlic cloves
+  - description: Chop-Chop 1/4 tomato
+  - description: Chop-Chop 1 tsp cilantro
+  - description: Heat-Heat 2 tbsp oil in a heavy-bottomed or nonstick pan on medium
+      heat
+  - description: add-add chopped onions to the pan
+  - description: add-add 1/3 tsp salt to the pan
+  - description: Saute-Saute the onions on medium heat until they are soft and translucent
+  - description: Add-Add chilli to the pan
+  - description: Add-Add garlic to the pan
+  - description: Cook-Cook for 1 minute, mixing everything
+  - description: Add-Add tomatoes to the pan
+  - description: Add-Add 1/8 tsp of turmeric to the pan
+  - description: Cook-Cook covered for 1 minute or until the tomatoes soften
+  - description: pour-Slowly pour the whisked eggs into the pan
+  - description: mixing-Keep mixing with a spatula for 3 minutes or until the eggs
+      are almost cooked
+  - description: Garnish-Garnish with 1 tbsp chopped cilantro and serve
+- activity_id: 16
+  environment: null
+  id: '16_19'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Chop-Chop 1/4 medium onion
+  - description: Chop-Chop 1 tsp cilantro
+  - description: Peel-Peel 2 garlic cloves
+  - description: Chop-Chop 1/4 tomato
+  - description: Crack-Crack one egg in the bowl
+  - description: add-add  1 tbsp milk to the bowl
+  - description: Chop-Chop 1 green chilli
+  - description: Mince-Mince peeled garlic cloves
+  - description: add-add 1/3 tsp salt to the bowl
+  - description: Whisk-Whisk the egg mixture in the bowl
+  - description: Heat-Heat 2 tbsp oil in a heavy-bottomed or nonstick pan on medium
+      heat
+  - description: add-add chopped onions to the pan
+  - description: add-add 1/3 tsp salt to the pan
+  - description: Saute-Saute the onions on medium heat until they are soft and translucent
+  - description: Add-Add chilli to the pan
+  - description: Add-Add garlic to the pan
+  - description: Cook-Cook for 1 minute, mixing everything
+  - description: Add-Add 1/8 tsp of turmeric to the pan
+  - description: Add-Add tomatoes to the pan
+  - description: Cook-Cook covered for 1 minute or until the tomatoes soften
+  - description: pour-Slowly pour the whisked eggs into the pan
+  - description: mixing-Keep mixing with a spatula for 3 minutes or until the eggs
+      are almost cooked
+  - description: Garnish-Garnish with 1 tbsp chopped cilantro and serve
+- activity_id: 16
+  environment: null
+  id: '16_20'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Crack-Crack one egg in the bowl
+  - description: Chop-Chop 1/4 tomato
+  - description: add-add  1 tbsp milk to the bowl
+  - description: Peel-Peel 2 garlic cloves
+  - description: Chop-Chop 1 green chilli
+  - description: add-add 1/3 tsp salt to the bowl
+  - description: Mince-Mince peeled garlic cloves
+  - description: Whisk-Whisk the egg mixture in the bowl
+  - description: Chop-Chop 1 tsp cilantro
+  - description: Chop-Chop 1/4 medium onion
+  - description: Heat-Heat 2 tbsp oil in a heavy-bottomed or nonstick pan on medium
+      heat
+  - description: add-add 1/3 tsp salt to the pan
+  - description: add-add chopped onions to the pan
+  - description: Saute-Saute the onions on medium heat until they are soft and translucent
+  - description: Add-Add chilli to the pan
+  - description: Add-Add garlic to the pan
+  - description: Cook-Cook for 1 minute, mixing everything
+  - description: Add-Add tomatoes to the pan
+  - description: Add-Add 1/8 tsp of turmeric to the pan
+  - description: Cook-Cook covered for 1 minute or until the tomatoes soften
+  - description: pour-Slowly pour the whisked eggs into the pan
+  - description: mixing-Keep mixing with a spatula for 3 minutes or until the eggs
+      are almost cooked
+  - description: Garnish-Garnish with 1 tbsp chopped cilantro and serve
+- activity_id: 16
+  environment: null
+  id: '16_21'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Chop-Chop 1/4 tomato
+  - description: add-add  1 tbsp milk to the bowl
+  - description: Mince-Mince peeled garlic cloves
+  - description: Chop-Chop 1/4 medium onion
+  - description: add-add 1/3 tsp salt to the bowl
+  - description: Chop-Chop 1 tsp cilantro
+  - description: Crack-Crack one egg in the bowl
+  - description: Peel-Peel 2 garlic cloves
+  - description: Chop-Chop 1 green chilli
+  - description: Whisk-Whisk the egg mixture in the bowl
+  - description: Heat-Heat 2 tbsp oil in a heavy-bottomed or nonstick pan on medium
+      heat
+  - description: add-add 1/3 tsp salt to the pan
+  - description: add-add chopped onions to the pan
+  - description: Saute-Saute the onions on medium heat until they are soft and translucent
+  - description: Add-Add chilli to the pan
+  - description: Add-Add garlic to the pan
+  - description: Cook-Cook for 1 minute, mixing everything
+  - description: Add-Add 1/8 tsp of turmeric to the pan
+  - description: Add-Add tomatoes to the pan
+  - description: Cook-Cook covered for 1 minute or until the tomatoes soften
+  - description: pour-Slowly pour the whisked eggs into the pan
+  - description: mixing-Keep mixing with a spatula for 3 minutes or until the eggs
+      are almost cooked
+  - description: Garnish-Garnish with 1 tbsp chopped cilantro and serve
+- activity_id: 16
+  environment: null
+  id: '16_22'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Chop-Chop 1/4 medium onion
+  - description: Peel-Peel 2 garlic cloves
+  - description: Chop-Chop 1 green chilli
+  - description: add-add 1/3 tsp salt to the bowl
+  - description: Crack-Crack one egg in the bowl
+  - description: add-add  1 tbsp milk to the bowl
+  - description: Chop-Chop 1/4 tomato
+  - description: Chop-Chop 1 tsp cilantro
+  - description: Mince-Mince peeled garlic cloves
+  - description: Whisk-Whisk the egg mixture in the bowl
+  - description: Heat-Heat 2 tbsp oil in a heavy-bottomed or nonstick pan on medium
+      heat
+  - description: add-add chopped onions to the pan
+  - description: add-add 1/3 tsp salt to the pan
+  - description: Saute-Saute the onions on medium heat until they are soft and translucent
+  - description: Add-Add chilli to the pan
+  - description: Add-Add garlic to the pan
+  - description: Cook-Cook for 1 minute, mixing everything
+  - description: Add-Add tomatoes to the pan
+  - description: Add-Add 1/8 tsp of turmeric to the pan
+  - description: Cook-Cook covered for 1 minute or until the tomatoes soften
+  - description: pour-Slowly pour the whisked eggs into the pan
+  - description: mixing-Keep mixing with a spatula for 3 minutes or until the eggs
+      are almost cooked
+  - description: Garnish-Garnish with 1 tbsp chopped cilantro and serve
+- activity_id: 16
+  environment: null
+  id: '16_23'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Chop-Chop 1 green chilli
+  - description: add-add 1/3 tsp salt to the bowl
+  - description: Crack-Crack one egg in the bowl
+  - description: add-add  1 tbsp milk to the bowl
+  - description: Whisk-Whisk the egg mixture in the bowl
+  - description: Chop-Chop 1/4 tomato
+  - description: Chop-Chop 1 tsp cilantro
+  - description: Chop-Chop 1/4 medium onion
+  - description: Peel-Peel 2 garlic cloves
+  - description: Mince-Mince peeled garlic cloves
+  - description: Heat-Heat 2 tbsp oil in a heavy-bottomed or nonstick pan on medium
+      heat
+  - description: add-add 1/3 tsp salt to the pan
+  - description: add-add chopped onions to the pan
+  - description: Saute-Saute the onions on medium heat until they are soft and translucent
+  - description: Add-Add garlic to the pan
+  - description: Add-Add chilli to the pan
+  - description: Cook-Cook for 1 minute, mixing everything
+  - description: Add-Add tomatoes to the pan
+  - description: Add-Add 1/8 tsp of turmeric to the pan
+  - description: Cook-Cook covered for 1 minute or until the tomatoes soften
+  - description: pour-Slowly pour the whisked eggs into the pan
+  - description: mixing-Keep mixing with a spatula for 3 minutes or until the eggs
+      are almost cooked
+  - description: Garnish-Garnish with 1 tbsp chopped cilantro and serve
+- activity_id: 16
+  environment: null
+  id: '16_24'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: add-add 1/3 tsp salt to the bowl
+  - description: Crack-Crack one egg in the bowl
+  - description: add-add  1 tbsp milk to the bowl
+  - description: Whisk-Whisk the egg mixture in the bowl
+  - description: Peel-Peel 2 garlic cloves
+  - description: Mince-Mince peeled garlic cloves
+  - description: Chop-Chop 1/4 medium onion
+  - description: Chop-Chop 1/4 tomato
+  - description: Chop-Chop 1 tsp cilantro
+  - description: Chop-Chop 1 green chilli
+  - description: Heat-Heat 2 tbsp oil in a heavy-bottomed or nonstick pan on medium
+      heat
+  - description: add-add chopped onions to the pan
+  - description: add-add 1/3 tsp salt to the pan
+  - description: Saute-Saute the onions on medium heat until they are soft and translucent
+  - description: Add-Add chilli to the pan
+  - description: Add-Add garlic to the pan
+  - description: Cook-Cook for 1 minute, mixing everything
+  - description: Add-Add 1/8 tsp of turmeric to the pan
+  - description: Add-Add tomatoes to the pan
+  - description: Cook-Cook covered for 1 minute or until the tomatoes soften
+  - description: pour-Slowly pour the whisked eggs into the pan
+  - description: mixing-Keep mixing with a spatula for 3 minutes or until the eggs
+      are almost cooked
+  - description: Garnish-Garnish with 1 tbsp chopped cilantro and serve
+- activity_id: 16
+  environment: null
+  id: '16_25'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Chop-Chop 1 green chilli
+  - description: Chop-Chop 1/4 medium onion
+  - description: add-add 1/3 tsp salt to the bowl
+  - description: Crack-Crack one egg in the bowl
+  - description: Peel-Peel 2 garlic cloves
+  - description: Mince-Mince peeled garlic cloves
+  - description: add-add  1 tbsp milk to the bowl
+  - description: Chop-Chop 1 tsp cilantro
+  - description: Whisk-Whisk the egg mixture in the bowl
+  - description: Chop-Chop 1/4 tomato
+  - description: Heat-Heat 2 tbsp oil in a heavy-bottomed or nonstick pan on medium
+      heat
+  - description: add-add chopped onions to the pan
+  - description: add-add 1/3 tsp salt to the pan
+  - description: Saute-Saute the onions on medium heat until they are soft and translucent
+  - description: Add-Add garlic to the pan
+  - description: Add-Add chilli to the pan
+  - description: Cook-Cook for 1 minute, mixing everything
+  - description: Add-Add 1/8 tsp of turmeric to the pan
+  - description: Add-Add tomatoes to the pan
+  - description: Cook-Cook covered for 1 minute or until the tomatoes soften
+  - description: pour-Slowly pour the whisked eggs into the pan
+  - description: mixing-Keep mixing with a spatula for 3 minutes or until the eggs
+      are almost cooked
+  - description: Garnish-Garnish with 1 tbsp chopped cilantro and serve
+- activity_id: 16
+  environment: null
+  errors:
+  - description: Add-Add garlic to the pan
+    tag: Missing Step
+  - description: Garnish-Garnish with 1 tbsp chopped cilantro and serve
+    tag: Missing Step
+  id: '16_26'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Chop-Chop 1/4 medium onion
+  - description: Chop-Chop 1/4 tomato
+  - description: Heat-Heat 2 tbsp oil in a heavy-bottomed or nonstick pan on medium
+      heat
+  - description: Add-Add 1/8 tsp of turmeric to the pan
+  - description: Chop-Chop 1 tsp cilantro
+  - description: add-add 1/3 tsp salt to the pan
+  - description: Chop-Chop 1 green chilli
+  - description: add-add 1/3 tsp salt to the bowl
+  - description: Add-Add tomatoes to the pan
+  - description: Peel-Peel 2 garlic cloves
+  - description: Crack-Crack one egg in the bowl
+  - description: add-add chopped onions to the pan
+  - description: Mince-Mince peeled garlic cloves
+  - description: Saute-Saute the onions on medium heat until they are soft and translucent
+  - description: Add-Add chilli to the pan
+  - description: Cook-Cook for 1 minute, mixing everything
+  - description: Cook-Cook covered for 1 minute or until the tomatoes soften
+  - description: add-add  1 tbsp milk to the bowl
+  - description: Whisk-Whisk the egg mixture in the bowl
+  - description: pour-Slowly pour the whisked eggs into the pan
+  - description: mixing-Keep mixing with a spatula for 3 minutes or until the eggs
+      are almost cooked
+- activity_id: 16
+  environment: 9
+  errors:
+  - description: Chop-Chop 1/4 tomato
+    tag: Missing Step
+  - description: Add-Add tomatoes to the pan
+    tag: Missing Step
+  - description: Cook-Cook covered for 1 minute or until the tomatoes soften
+    tag: Missing Step
+  id: '16_27'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 7
+  steps:
+  - description: Chop-Chop 1/4 medium onion
+    errors:
+    - description: slice instead of chop
+      tag: Technique Error
+    modified_description: Slice 1/4 medium onion
+  - description: Add-Add 1/8 tsp of turmeric to the pan
+    errors:
+    - description: 1/2 instead of 1/8
+      tag: Measurement Error
+    modified_description: Add-Add 1/2 tsp of turmeric to the pan
+  - description: Chop-Chop 1 tsp cilantro
+    errors:
+    - description: No chop before use the cilantro
+      tag: Preparation Error
+    modified_description: Prepare 1 tsp cilantro
+  - description: Heat-Heat 2 tbsp oil in a heavy-bottomed or nonstick pan on medium
+      heat
+    errors:
+    - description: High heat instead of medium heat
+      tag: Temperature Error
+    modified_description: Heat-Heat 2 tbsp oil in a heavy-bottomed or nonstick pan
+      on high heat
+  - description: add-add 1/3 tsp salt to the pan
+    errors:
+    - description: 1 instead of 1/3 tsp
+      tag: Measurement Error
+    modified_description: add-add 1 tsp salt to the pan
+  - description: add-add  1 tbsp milk to the bowl
+    errors:
+    - description: Splash some milk outside
+      tag: Technique Error
+    modified_description: add-add 1 tbsp milk to the bowl, but splash some milk outside
+  - description: Chop-Chop 1 green chilli
+    errors:
+    - description: 2 instead of 1
+      tag: Measurement Error
+    modified_description: Chop-Chop 2 green chilli
+  - description: Peel-Peel 2 garlic cloves
+    errors:
+    - description: 1 instead of 2 garlic cloves
+      tag: Measurement Error
+    modified_description: Peel-Peel 1 garlic clove
+  - description: add-add 1/3 tsp salt to the bowl
+  - description: Mince-Mince peeled garlic cloves
+    errors:
+    - description: Chop instead of mince
+      tag: Technique Error
+    modified_description: Chop peeled garlic cloves
+  - description: add-add chopped onions to the pan
+  - description: Crack-Crack one egg in the bowl
+    errors:
+    - description: 2 instead of one egg
+      tag: Measurement Error
+    modified_description: Crack-Crack 2 eggs in the bowl
+  - description: Saute-Saute the onions on medium heat until they are soft and translucent
+    errors:
+    - description: remove the onions quickly
+      tag: Timing Error
+    modified_description: Saute-Saute the onions on medium heat, but remove them quickly
+  - description: Add-Add chilli to the pan
+  - description: Add-Add garlic to the pan
+  - description: Whisk-Whisk the egg mixture in the bowl
+  - description: Cook-Cook for 1 minute, mixing everything
+    errors:
+    - description: 30 seconds instead of 1 minute
+      tag: Timing Error
+    modified_description: Cook-Cook for 30 seconds, mixing everything
+  - description: pour-Slowly pour the whisked eggs into the pan
+  - description: mixing-Keep mixing with a spatula for 3 minutes or until the eggs
+      are almost cooked
+  - description: Garnish-Garnish with 1 tbsp chopped cilantro and serve
+- activity_id: 16
+  environment: null
+  errors:
+  - description: Chop-Chop 1 green chilli
+    tag: Missing Step
+  - description: Add-Add chilli to the pan
+    tag: Missing Step
+  - description: Whisk-Whisk the egg mixture in the bowl
+    tag: Missing Step
+  - description: Saute-Saute the onions on medium heat until they are soft and translucent
+    tag: Missing Step
+  - description: mixing-Keep mixing with a spatula for 3 minutes or until the eggs
+      are almost cooked
+    tag: Missing Step
+  id: '16_29'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Chop-Chop 1/4 medium onion
+  - description: Add-Add 1/8 tsp of turmeric to the pan
+  - description: Chop-Chop 1 tsp cilantro
+  - description: Heat-Heat 2 tbsp oil in a heavy-bottomed or nonstick pan on medium
+      heat
+  - description: add-add 1/3 tsp salt to the pan
+  - description: Chop-Chop 1/4 tomato
+  - description: Peel-Peel 2 garlic cloves
+  - description: Mince-Mince peeled garlic cloves
+  - description: add-add  1 tbsp milk to the bowl
+  - description: Crack-Crack one egg in the bowl
+  - description: Add-Add tomatoes to the pan
+  - description: add-add chopped onions to the pan
+  - description: add-add 1/3 tsp salt to the bowl
+  - description: Add-Add garlic to the pan
+  - description: Cook-Cook for 1 minute, mixing everything
+  - description: Cook-Cook covered for 1 minute or until the tomatoes soften
+  - description: pour-Slowly pour the whisked eggs into the pan
+  - description: Garnish-Garnish with 1 tbsp chopped cilantro and serve
+- activity_id: 16
+  environment: null
+  errors:
+  - description: Mince-Mince peeled garlic cloves
+    tag: Missing Step
+  - description: Add-Add chilli to the pan
+    tag: Missing Step
+  - description: Garnish-Garnish with 1 tbsp chopped cilantro and serve
+    tag: Missing Step
+  id: '16_30'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Heat-Heat 2 tbsp oil in a heavy-bottomed or nonstick pan on medium
+      heat
+  - description: Peel-Peel 2 garlic cloves
+  - description: Crack-Crack one egg in the bowl
+  - description: Chop-Chop 1/4 medium onion
+  - description: Chop-Chop 1 tsp cilantro
+  - description: Chop-Chop 1/4 tomato
+  - description: add-add 1/3 tsp salt to the pan
+  - description: Add-Add tomatoes to the pan
+  - description: Add-Add 1/8 tsp of turmeric to the pan
+  - description: add-add chopped onions to the pan
+  - description: add-add 1/3 tsp salt to the bowl
+  - description: Chop-Chop 1 green chilli
+  - description: Saute-Saute the onions on medium heat until they are soft and translucent
+  - description: Add-Add garlic to the pan
+  - description: add-add  1 tbsp milk to the bowl
+  - description: Cook-Cook for 1 minute, mixing everything
+  - description: Cook-Cook covered for 1 minute or until the tomatoes soften
+  - description: Whisk-Whisk the egg mixture in the bowl
+  - description: pour-Slowly pour the whisked eggs into the pan
+  - description: mixing-Keep mixing with a spatula for 3 minutes or until the eggs
+      are almost cooked
+- activity_id: 16
+  environment: null
+  errors:
+  - description: Mince-Mince peeled garlic cloves
+    tag: Missing Step
+  - description: Add-Add tomatoes to the pan
+    tag: Missing Step
+  - description: Cook-Cook covered for 1 minute or until the tomatoes soften
+    tag: Missing Step
+  - description: Cook-Cook for 1 minute, mixing everything
+    tag: Missing Step
+  id: '16_31'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Chop-Chop 1/4 medium onion
+  - description: Add-Add 1/8 tsp of turmeric to the pan
+  - description: Chop-Chop 1 tsp cilantro
+  - description: Chop-Chop 1/4 tomato
+  - description: Heat-Heat 2 tbsp oil in a heavy-bottomed or nonstick pan on medium
+      heat
+  - description: Crack-Crack one egg in the bowl
+  - description: add-add chopped onions to the pan
+  - description: Chop-Chop 1 green chilli
+  - description: Peel-Peel 2 garlic cloves
+  - description: add-add  1 tbsp milk to the bowl
+  - description: add-add 1/3 tsp salt to the pan
+  - description: add-add 1/3 tsp salt to the bowl
+  - description: Saute-Saute the onions on medium heat until they are soft and translucent
+  - description: Add-Add chilli to the pan
+  - description: Add-Add garlic to the pan
+  - description: Whisk-Whisk the egg mixture in the bowl
+  - description: pour-Slowly pour the whisked eggs into the pan
+  - description: mixing-Keep mixing with a spatula for 3 minutes or until the eggs
+      are almost cooked
+  - description: Garnish-Garnish with 1 tbsp chopped cilantro and serve
+- activity_id: 16
+  environment: null
+  errors:
+  - description: Saute-Saute the onions on medium heat until they are soft and translucent
+    tag: Missing Step
+  - description: Cook-Cook covered for 1 minute or until the tomatoes soften
+    tag: Missing Step
+  - description: pour-Slowly pour the whisked eggs into the pan
+    tag: Missing Step
+  - description: mixing-Keep mixing with a spatula for 3 minutes or until the eggs
+      are almost cooked
+    tag: Missing Step
+  id: '16_32'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Heat-Heat 2 tbsp oil in a heavy-bottomed or nonstick pan on medium
+      heat
+  - description: Peel-Peel 2 garlic cloves
+  - description: Chop-Chop 1 green chilli
+  - description: Chop-Chop 1/4 tomato
+  - description: Chop-Chop 1/4 medium onion
+  - description: add-add 1/3 tsp salt to the pan
+  - description: Add-Add 1/8 tsp of turmeric to the pan
+  - description: Mince-Mince peeled garlic cloves
+  - description: add-add chopped onions to the pan
+  - description: Crack-Crack one egg in the bowl
+  - description: add-add 1/3 tsp salt to the bowl
+  - description: Add-Add tomatoes to the pan
+  - description: Chop-Chop 1 tsp cilantro
+  - description: Add-Add chilli to the pan
+  - description: Add-Add garlic to the pan
+  - description: add-add  1 tbsp milk to the bowl
+  - description: Cook-Cook for 1 minute, mixing everything
+  - description: Whisk-Whisk the egg mixture in the bowl
+  - description: Garnish-Garnish with 1 tbsp chopped cilantro and serve
+- activity_id: 16
+  environment: null
+  errors:
+  - description: Heat-Heat 2 tbsp oil in a heavy-bottomed or nonstick pan on medium
+      heat
+    tag: Missing Step
+  - description: Add-Add garlic to the pan
+    tag: Missing Step
+  id: '16_33'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Peel-Peel 2 garlic cloves
+  - description: Chop-Chop 1 green chilli
+  - description: Chop-Chop 1 tsp cilantro
+  - description: add-add  1 tbsp milk to the bowl
+  - description: Chop-Chop 1/4 medium onion
+  - description: Add-Add 1/8 tsp of turmeric to the pan
+  - description: Mince-Mince peeled garlic cloves
+  - description: add-add chopped onions to the pan
+  - description: Crack-Crack one egg in the bowl
+  - description: Chop-Chop 1/4 tomato
+  - description: add-add 1/3 tsp salt to the pan
+  - description: Saute-Saute the onions on medium heat until they are soft and translucent
+  - description: Add-Add chilli to the pan
+  - description: Cook-Cook for 1 minute, mixing everything
+  - description: add-add 1/3 tsp salt to the bowl
+  - description: Whisk-Whisk the egg mixture in the bowl
+  - description: Add-Add tomatoes to the pan
+  - description: Cook-Cook covered for 1 minute or until the tomatoes soften
+  - description: pour-Slowly pour the whisked eggs into the pan
+  - description: mixing-Keep mixing with a spatula for 3 minutes or until the eggs
+      are almost cooked
+  - description: Garnish-Garnish with 1 tbsp chopped cilantro and serve
+- activity_id: 16
+  environment: null
+  errors:
+  - description: Cook-Cook for 1 minute, mixing everything
+    tag: Missing Step
+  - description: Garnish-Garnish with 1 tbsp chopped cilantro and serve
+    tag: Missing Step
+  id: '16_34'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Chop-Chop 1/4 medium onion
+  - description: Add-Add 1/8 tsp of turmeric to the pan
+  - description: Chop-Chop 1 green chilli
+  - description: add-add  1 tbsp milk to the bowl
+  - description: add-add 1/3 tsp salt to the pan
+  - description: Crack-Crack one egg in the bowl
+  - description: Whisk-Whisk the egg mixture in the bowl
+  - description: Peel-Peel 2 garlic cloves
+  - description: Mince-Mince peeled garlic cloves
+  - description: Chop-Chop 1/4 tomato
+  - description: Add-Add tomatoes to the pan
+  - description: Chop-Chop 1 tsp cilantro
+  - description: Heat-Heat 2 tbsp oil in a heavy-bottomed or nonstick pan on medium
+      heat
+  - description: add-add 1/3 tsp salt to the bowl
+  - description: add-add chopped onions to the pan
+  - description: Saute-Saute the onions on medium heat until they are soft and translucent
+  - description: Add-Add chilli to the pan
+  - description: Add-Add garlic to the pan
+  - description: Cook-Cook covered for 1 minute or until the tomatoes soften
+  - description: pour-Slowly pour the whisked eggs into the pan
+  - description: mixing-Keep mixing with a spatula for 3 minutes or until the eggs
+      are almost cooked
+- activity_id: 16
+  environment: null
+  errors:
+  - tag: Order Error
+  id: '16_36'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Chop-Chop 1/4 medium onion
+  - description: Heat-Heat 2 tbsp oil in a heavy-bottomed or nonstick pan on medium
+      heat
+  - description: add-add chopped onions to the pan
+  - description: Peel-Peel 2 garlic cloves
+  - description: Mince-Mince peeled garlic cloves
+  - description: Add-Add garlic to the pan
+  - description: Cook-Cook for 1 minute, mixing everything
+  - description: add-add 1/3 tsp salt to the pan
+  - description: Chop-Chop 1/4 tomato
+  - description: Saute-Saute the onions on medium heat until they are soft and translucent
+  - description: Add-Add tomatoes to the pan
+  - description: Cook-Cook covered for 1 minute or until the tomatoes soften
+  - description: Add-Add 1/8 tsp of turmeric to the pan
+  - description: add-add  1 tbsp milk to the bowl
+  - description: Crack-Crack one egg in the bowl
+  - description: add-add 1/3 tsp salt to the bowl
+  - description: Chop-Chop 1 tsp cilantro
+  - description: Whisk-Whisk the egg mixture in the bowl
+  - description: pour-Slowly pour the whisked eggs into the pan
+  - description: mixing-Keep mixing with a spatula for 3 minutes or until the eggs
+      are almost cooked
+  - description: Chop-Chop 1 green chilli
+  - description: Add-Add chilli to the pan
+  - description: Garnish-Garnish with 1 tbsp chopped cilantro and serve
+- activity_id: 16
+  environment: null
+  errors:
+  - description: add-add  1 tbsp milk to the bowl
+    tag: Missing Step
+  - tag: Order Error
+  id: '16_37'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Heat-Heat 2 tbsp oil in a heavy-bottomed or nonstick pan on medium
+      heat
+  - description: Chop-Chop 1 green chilli
+  - description: Chop-Chop 1/4 tomato
+  - description: Peel-Peel 2 garlic cloves
+  - description: Mince-Mince peeled garlic cloves
+  - description: Chop-Chop 1 tsp cilantro
+  - description: Chop-Chop 1/4 medium onion
+  - description: Add-Add tomatoes to the pan
+  - description: Add-Add 1/8 tsp of turmeric to the pan
+  - description: Cook-Cook covered for 1 minute or until the tomatoes soften
+  - description: Crack-Crack one egg in the bowl
+  - description: add-add 1/3 tsp salt to the pan
+  - description: add-add 1/3 tsp salt to the bowl
+  - description: Add-Add garlic to the pan
+  - description: Add-Add chilli to the pan
+  - description: Whisk-Whisk the egg mixture in the bowl
+  - description: add-add chopped onions to the pan
+  - description: Saute-Saute the onions on medium heat until they are soft and translucent
+  - description: Cook-Cook for 1 minute, mixing everything
+  - description: pour-Slowly pour the whisked eggs into the pan
+  - description: mixing-Keep mixing with a spatula for 3 minutes or until the eggs
+      are almost cooked
+  - description: Garnish-Garnish with 1 tbsp chopped cilantro and serve
+- activity_id: 16
+  environment: null
+  errors:
+  - description: Add-Add tomatoes to the pan
+    tag: Missing Step
+  - description: add-add 1/3 tsp salt to the bowl
+    tag: Missing Step
+  - description: Cook-Cook covered for 1 minute or until the tomatoes soften
+    tag: Missing Step
+  - tag: Order Error
+  id: '16_38'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Chop-Chop 1/4 medium onion
+  - description: Add-Add 1/8 tsp of turmeric to the pan
+  - description: Chop-Chop 1 tsp cilantro
+  - description: Heat-Heat 2 tbsp oil in a heavy-bottomed or nonstick pan on medium
+      heat
+  - description: add-add 1/3 tsp salt to the pan
+  - description: Chop-Chop 1/4 tomato
+  - description: Crack-Crack one egg in the bowl
+  - description: add-add chopped onions to the pan
+  - description: Cook-Cook for 1 minute, mixing everything
+  - description: Chop-Chop 1 green chilli
+  - description: Peel-Peel 2 garlic cloves
+  - description: add-add  1 tbsp milk to the bowl
+  - description: Whisk-Whisk the egg mixture in the bowl
+  - description: Saute-Saute the onions on medium heat until they are soft and translucent
+  - description: Mince-Mince peeled garlic cloves
+  - description: Add-Add chilli to the pan
+  - description: Add-Add garlic to the pan
+  - description: pour-Slowly pour the whisked eggs into the pan
+  - description: mixing-Keep mixing with a spatula for 3 minutes or until the eggs
+      are almost cooked
+  - description: Garnish-Garnish with 1 tbsp chopped cilantro and serve
+- activity_id: 16
+  environment: null
+  errors:
+  - description: Chop-Chop 1/4 medium onion
+    tag: Missing Step
+  - description: Whisk-Whisk the egg mixture in the bowl
+    tag: Missing Step
+  - description: Cook-Cook covered for 1 minute or until the tomatoes soften
+    tag: Missing Step
+  - description: add-add chopped onions to the pan
+    tag: Missing Step
+  - description: Saute-Saute the onions on medium heat until they are soft and translucent
+    tag: Missing Step
+  - tag: Order Error
+  id: '16_39'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Heat-Heat 2 tbsp oil in a heavy-bottomed or nonstick pan on medium
+      heat
+  - description: Add-Add 1/8 tsp of turmeric to the pan
+  - description: Chop-Chop 1 green chilli
+  - description: add-add  1 tbsp milk to the bowl
+  - description: add-add 1/3 tsp salt to the pan
+  - description: Crack-Crack one egg in the bowl
+  - description: Chop-Chop 1/4 tomato
+  - description: Peel-Peel 2 garlic cloves
+  - description: Cook-Cook for 1 minute, mixing everything
+  - description: add-add 1/3 tsp salt to the bowl
+  - description: Mince-Mince peeled garlic cloves
+  - description: Add-Add chilli to the pan
+  - description: Chop-Chop 1 tsp cilantro
+  - description: pour-Slowly pour the whisked eggs into the pan
+  - description: mixing-Keep mixing with a spatula for 3 minutes or until the eggs
+      are almost cooked
+  - description: Add-Add garlic to the pan
+  - description: Add-Add tomatoes to the pan
+  - description: Garnish-Garnish with 1 tbsp chopped cilantro and serve
+- activity_id: 16
+  environment: null
+  errors:
+  - description: Garnish-Garnish with 1 tbsp chopped cilantro and serve
+    tag: Missing Step
+  - tag: Order Error
+  id: '16_41'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Crack-Crack one egg in the bowl
+  - description: Chop-Chop 1/4 tomato
+  - description: Chop-Chop 1 tsp cilantro
+  - description: add-add 1/3 tsp salt to the bowl
+  - description: Chop-Chop 1 green chilli
+  - description: Heat-Heat 2 tbsp oil in a heavy-bottomed or nonstick pan on medium
+      heat
+  - description: Add-Add tomatoes to the pan
+  - description: add-add  1 tbsp milk to the bowl
+  - description: Add-Add 1/8 tsp of turmeric to the pan
+  - description: add-add 1/3 tsp salt to the pan
+  - description: Whisk-Whisk the egg mixture in the bowl
+  - description: Chop-Chop 1/4 medium onion
+  - description: Add-Add chilli to the pan
+  - description: add-add chopped onions to the pan
+  - description: Saute-Saute the onions on medium heat until they are soft and translucent
+  - description: Cook-Cook for 1 minute, mixing everything
+  - description: Cook-Cook covered for 1 minute or until the tomatoes soften
+  - description: pour-Slowly pour the whisked eggs into the pan
+  - description: Peel-Peel 2 garlic cloves
+  - description: Mince-Mince peeled garlic cloves
+  - description: mixing-Keep mixing with a spatula for 3 minutes or until the eggs
+      are almost cooked
+  - description: Add-Add garlic to the pan
+- activity_id: 16
+  environment: null
+  errors:
+  - description: add-add  1 tbsp milk to the bowl
+    tag: Missing Step
+  - tag: Order Error
+  id: '16_42'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Crack-Crack one egg in the bowl
+  - description: add-add 1/3 tsp salt to the bowl
+  - description: Whisk-Whisk the egg mixture in the bowl
+  - description: Add-Add 1/8 tsp of turmeric to the pan
+  - description: Chop-Chop 1 green chilli
+  - description: Chop-Chop 1 tsp cilantro
+  - description: Peel-Peel 2 garlic cloves
+  - description: add-add 1/3 tsp salt to the pan
+  - description: Chop-Chop 1/4 medium onion
+  - description: add-add chopped onions to the pan
+  - description: Chop-Chop 1/4 tomato
+  - description: Mince-Mince peeled garlic cloves
+  - description: Add-Add tomatoes to the pan
+  - description: Add-Add garlic to the pan
+  - description: Heat-Heat 2 tbsp oil in a heavy-bottomed or nonstick pan on medium
+      heat
+  - description: Saute-Saute the onions on medium heat until they are soft and translucent
+  - description: Cook-Cook covered for 1 minute or until the tomatoes soften
+  - description: Cook-Cook for 1 minute, mixing everything
+  - description: pour-Slowly pour the whisked eggs into the pan
+  - description: mixing-Keep mixing with a spatula for 3 minutes or until the eggs
+      are almost cooked
+  - description: Add-Add chilli to the pan
+  - description: Garnish-Garnish with 1 tbsp chopped cilantro and serve
+- activity_id: 16
+  environment: null
+  errors:
+  - description: Chop-Chop 1/4 medium onion
+    tag: Missing Step
+  - description: add-add chopped onions to the pan
+    tag: Missing Step
+  - description: Saute-Saute the onions on medium heat until they are soft and translucent
+    tag: Missing Step
+  - tag: Order Error
+  id: '16_43'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Heat-Heat 2 tbsp oil in a heavy-bottomed or nonstick pan on medium
+      heat
+  - description: Chop-Chop 1 green chilli
+  - description: Add-Add chilli to the pan
+  - description: Chop-Chop 1/4 tomato
+  - description: Crack-Crack one egg in the bowl
+  - description: add-add 1/3 tsp salt to the pan
+  - description: Add-Add 1/8 tsp of turmeric to the pan
+  - description: Peel-Peel 2 garlic cloves
+  - description: Mince-Mince peeled garlic cloves
+  - description: Chop-Chop 1 tsp cilantro
+  - description: add-add  1 tbsp milk to the bowl
+  - description: add-add 1/3 tsp salt to the bowl
+  - description: Whisk-Whisk the egg mixture in the bowl
+  - description: Add-Add tomatoes to the pan
+  - description: Cook-Cook for 1 minute, mixing everything
+  - description: Cook-Cook covered for 1 minute or until the tomatoes soften
+  - description: pour-Slowly pour the whisked eggs into the pan
+  - description: mixing-Keep mixing with a spatula for 3 minutes or until the eggs
+      are almost cooked
+  - description: Add-Add garlic to the pan
+  - description: Garnish-Garnish with 1 tbsp chopped cilantro and serve
+- activity_id: 16
+  environment: null
+  errors:
+  - description: Add-Add chilli to the pan
+    tag: Missing Step
+  - description: Add-Add garlic to the pan
+    tag: Missing Step
+  - description: Saute-Saute the onions on medium heat until they are soft and translucent
+    tag: Missing Step
+  - tag: Order Error
+  id: '16_45'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Heat-Heat 2 tbsp oil in a heavy-bottomed or nonstick pan on medium
+      heat
+  - description: Peel-Peel 2 garlic cloves
+  - description: Chop-Chop 1 green chilli
+  - description: Chop-Chop 1/4 tomato
+  - description: add-add 1/3 tsp salt to the pan
+  - description: Add-Add tomatoes to the pan
+  - description: Add-Add 1/8 tsp of turmeric to the pan
+  - description: Chop-Chop 1/4 medium onion
+  - description: add-add chopped onions to the pan
+  - description: Mince-Mince peeled garlic cloves
+  - description: add-add 1/3 tsp salt to the bowl
+  - description: Crack-Crack one egg in the bowl
+  - description: Chop-Chop 1 tsp cilantro
+  - description: Whisk-Whisk the egg mixture in the bowl
+  - description: add-add  1 tbsp milk to the bowl
+  - description: Cook-Cook for 1 minute, mixing everything
+  - description: Cook-Cook covered for 1 minute or until the tomatoes soften
+  - description: pour-Slowly pour the whisked eggs into the pan
+  - description: mixing-Keep mixing with a spatula for 3 minutes or until the eggs
+      are almost cooked
+  - description: Garnish-Garnish with 1 tbsp chopped cilantro and serve

@@ -1,0 +1,1014 @@
+- activity_id: 2
+  environment: 1
+  id: '2_3'
+  is_error: true
+  recorded_by: 7
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: '"2023-04-17T23:39:19.900078"'
+  selected_by: 7
+  steps:
+  - description: Place-Place 5 meatballs in a Microwave-safe plate
+  - description: Peel-Peel 1 garlic clove
+  - description: Mix-Mix 1/4 cup sweet-and-sour sauce and 1/2 teaspoon soy sauce in
+      a small bowl
+  - description: Peel-Peel one medium onion
+  - description: Cut-Cut 1/8 garlic clove
+  - description: Mince-Mince 1/8 garlic clove
+  - description: cut-Cut onion into two pieces
+  - description: Cut-Cut 1/4 medium carrot into short, thin strips
+  - description: Slice-Slice 1/8 medium onion
+  - description: Top-Top the plate with the carrots, onion, garlic and 1/4 tsp pepper
+      powder.
+  - description: Pour-Pour the sauces over the meatballs
+  - description: Microwave-Microwave the plate, covered, on high for 5 minutes
+    errors:
+    - description: Microwave the plate, covered, on high for 5 minutes instead of
+        1.5 minutes
+      tag: Timing Error
+    modified_description: Microwave-Microwave the plate, covered, on high for 5 minutes
+  - description: Stir-Stir the contents in the microwave with a spoon
+  - description: Microwave-Microwave the plate, covered, on high for 5 minutes
+    errors:
+    - description: Microwave the plate, covered, on high for 5 minutes instead of
+        1.5 minutes
+      tag: Timing Error
+    modified_description: Microwave-Microwave the plate, covered, on high for 5 minutes
+  - description: Stir-Stir the contents in the microwave with a spoon
+  - description: Microwave-Microwave for 1 more minute
+- activity_id: 2
+  environment: 5
+  id: '2_4'
+  is_error: true
+  recorded_by: 7
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 7
+  steps:
+  - description: Place-Place 5 meatballs in a Microwave-safe plate
+  - description: Peel-Peel 1 garlic clove
+  - description: Cut-Cut 1/8 garlic clove
+  - description: Peel-Peel one medium onion
+  - description: Cut-Cut 1/4 medium carrot into short, thin strips
+  - description: Mince-Mince 1/8 garlic clove
+  - description: Mix-Mix 1/4 cup sweet-and-sour sauce and 1/2 teaspoon soy sauce in
+      a small bowl
+  - description: cut-Cut onion into two pieces
+  - description: Slice-Slice 1/8 medium onion
+  - description: Top-Top the plate with the carrots, onion, garlic and 1/4 tsp pepper
+      powder.
+    errors:
+    - description: Put extra 1/4 tsp pepper to the bowl
+      tag: Preparation Error
+    modified_description: Top-Top the plate with the carrots, onion, garlic and 1/4
+      tsp pepper powder, but put extra 1/4 tsp pepper to the bowl
+  - description: Pour-Pour the sauces over the meatballs
+  - description: Microwave-Microwave the plate, covered, on high for 5 minutes
+  - description: Stir-Stir the contents in the microwave with a spoon
+  - description: Microwave-Microwave the plate, covered, on high for 5 minutes
+  - description: Stir-Stir the contents in the microwave with a spoon
+  - description: Microwave-Microwave for 1 more minute
+- activity_id: 2
+  environment: 6
+  id: '2_5'
+  is_error: false
+  recorded_by: 7
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 7
+  steps:
+  - description: Peel-Peel 1 garlic clove
+  - description: Cut-Cut 1/8 garlic clove
+  - description: Mince-Mince 1/8 garlic clove
+  - description: Mix-Mix 1/4 cup sweet-and-sour sauce and 1/2 teaspoon soy sauce in
+      a small bowl
+  - description: Peel-Peel one medium onion
+  - description: Place-Place 5 meatballs in a Microwave-safe plate
+  - description: cut-Cut onion into two pieces
+  - description: Cut-Cut 1/4 medium carrot into short, thin strips
+  - description: Slice-Slice 1/8 medium onion
+  - description: Top-Top the plate with the carrots, onion, garlic and 1/4 tsp pepper
+      powder.
+  - description: Pour-Pour the sauces over the meatballs
+  - description: Microwave-Microwave the plate, covered, on high for 5 minutes
+  - description: Stir-Stir the contents in the microwave with a spoon
+  - description: Microwave-Microwave the plate, covered, on high for 5 minutes
+  - description: Stir-Stir the contents in the microwave with a spoon
+  - description: Microwave-Microwave for 1 more minute
+- activity_id: 2
+  environment: 6
+  id: '2_8'
+  is_error: false
+  recorded_by: 1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: '"2023-05-09T20:06:16.829421"'
+  selected_by: 1
+  steps:
+  - description: Peel-Peel 1 garlic clove
+  - description: Cut-Cut 1/8 garlic clove
+  - description: Peel-Peel one medium onion
+  - description: cut-Cut onion into two pieces
+  - description: Mix-Mix 1/4 cup sweet-and-sour sauce and 1/2 teaspoon soy sauce in
+      a small bowl
+  - description: Mince-Mince 1/8 garlic clove
+  - description: Cut-Cut 1/4 medium carrot into short, thin strips
+  - description: Place-Place 5 meatballs in a Microwave-safe plate
+  - description: Slice-Slice 1/8 medium onion
+  - description: Top-Top the plate with the carrots, onion, garlic and 1/4 tsp pepper
+      powder.
+  - description: Pour-Pour the sauces over the meatballs
+  - description: Microwave-Microwave the plate, covered, on high for 1.5 minutes
+  - description: Stir-Stir the contents in the microwave with a spoon
+  - description: Microwave-Microwave the plate, covered, on high for 1.5 minutes
+  - description: Stir-Stir the contents in the microwave with a spoon
+  - description: Microwave-Microwave for 1 more minute
+- activity_id: 2
+  environment: 1
+  id: '2_13'
+  is_error: false
+  recorded_by: 6
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 6
+  steps:
+  - description: Peel-Peel one medium onion
+  - description: Mix-Mix 1/4 cup sweet-and-sour sauce and 1/2 teaspoon soy sauce in
+      a small bowl
+  - description: cut-Cut onion into two pieces
+  - description: Peel-Peel 1 garlic clove
+  - description: Slice-Slice 1/8 medium onion
+  - description: Cut-Cut 1/8 garlic clove
+  - description: Cut-Cut 1/4 medium carrot into short, thin strips
+  - description: Mince-Mince 1/8 garlic clove
+  - description: Place-Place 5 meatballs in a Microwave-safe plate
+  - description: Top-Top the plate with the carrots, onion, garlic and 1/4 tsp pepper
+      powder.
+  - description: Pour-Pour the sauces over the meatballs
+  - description: Microwave-Microwave the plate, covered, on high for 5 minutes
+  - description: Stir-Stir the contents in the microwave with a spoon
+  - description: Microwave-Microwave the plate, covered, on high for 5 minutes
+  - description: Stir-Stir the contents in the microwave with a spoon
+  - description: Microwave-Microwave for 1 more minute
+- activity_id: 2
+  environment: 2
+  id: '2_19'
+  is_error: false
+  recorded_by: 7
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 7
+  steps:
+  - description: Peel-Peel one medium onion
+  - description: Mix-Mix 1/4 cup sweet-and-sour sauce and 1/2 teaspoon soy sauce in
+      a small bowl
+  - description: Peel-Peel 1 garlic clove
+  - description: cut-Cut onion into two pieces
+  - description: Cut-Cut 1/4 medium carrot into short, thin strips
+  - description: Place-Place 5 meatballs in a Microwave-safe plate
+  - description: Slice-Slice 1/8 medium onion
+  - description: Cut-Cut 1/8 garlic clove
+  - description: Mince-Mince 1/8 garlic clove
+  - description: Top-Top the plate with the carrots, onion, garlic and 1/4 tsp pepper
+      powder.
+  - description: Pour-Pour the sauces over the meatballs
+  - description: Microwave-Microwave the plate, covered, on high for 5 minutes
+  - description: Stir-Stir the contents in the microwave with a spoon
+  - description: Microwave-Microwave the plate, covered, on high for 5 minutes
+  - description: Stir-Stir the contents in the microwave with a spoon
+  - description: Microwave-Microwave for 1 more minute
+- activity_id: 2
+  environment: 5
+  id: '2_22'
+  is_error: false
+  recorded_by: 6
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 6
+  steps:
+  - description: Cut-Cut 1/4 medium carrot into short, thin strips
+  - description: Peel-Peel 1 garlic clove
+  - description: Cut-Cut 1/8 garlic clove
+  - description: Mince-Mince 1/8 garlic clove
+  - description: Peel-Peel one medium onion
+  - description: Mix-Mix 1/4 cup sweet-and-sour sauce and 1/2 teaspoon soy sauce in
+      a small bowl
+  - description: cut-Cut onion into two pieces
+  - description: Slice-Slice 1/8 medium onion
+  - description: Place-Place 5 meatballs in a Microwave-safe plate
+  - description: Top-Top the plate with the carrots, onion, garlic and 1/4 tsp pepper
+      powder.
+  - description: Pour-Pour the sauces over the meatballs
+  - description: Microwave-Microwave the plate, covered, on high for 1.5 minutes
+  - description: Stir-Stir the contents in the microwave with a spoon
+  - description: Microwave-Microwave the plate, covered, on high for 1.5 minutes
+  - description: Stir-Stir the contents in the microwave with a spoon
+  - description: Microwave-Microwave for 1 more minute
+- activity_id: 2
+  environment: 1
+  errors:
+  - description: Top-Top the plate with the carrots, onion, garlic and 1/4 tsp pepper
+      powder.
+    tag: Missing Step
+  - description: Stir-Stir the contents in the microwave with a spoon
+    tag: Missing Step
+  id: '2_26'
+  is_error: true
+  recorded_by: 3
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 3
+  steps:
+  - description: Peel-Peel 1 garlic clove
+    errors:
+    - description: Not properly peeling the garlic clove.
+      tag: Preparation Error
+    modified_description: Peel-Peel 1 garlic clove not properly.
+  - description: Peel-Peel one medium onion
+  - description: Cut-Cut 1/8 garlic clove
+    errors:
+    - description: Using 1/2 garlic instead of 1/8 garlic.
+      tag: Measurement Error
+    modified_description: Cut-Cut 1/2 garlic clove.
+  - description: Mince-Mince 1/8 garlic clove
+    errors:
+    - description: Using 1/2 garlic clove instead of 1/8.
+      tag: Measurement Error
+    modified_description: Mince-Mince 1/2 garlic clove
+  - description: Cut-Cut 1/4 medium carrot into short, thin strips
+    errors:
+    - description: Cutting into long instead of short.
+      tag: Technique Error
+    modified_description: Cut-Cut 1/4 medium carrot into long, thin strips
+  - description: Place-Place 5 meatballs in a Microwave-safe plate
+    errors:
+    - description: Using 6 meatballs instead of 5 meatballs.
+      tag: Measurement Error
+    modified_description: Place-Place 6 meatballs in a Microwave-safe plate
+  - description: cut-Cut onion into two pieces
+    errors:
+    - description: Cutting into 4 pieces instead of 1.
+      tag: Technique Error
+    modified_description: Cut-Cut onion into four pieces
+  - description: Slice-Slice 1/8 medium onion
+    errors:
+    - description: Slicing 1/4 onion instead of 1/8 onion.
+      tag: Measurement Error
+    modified_description: Slice-Slice 1/4 medium onion
+  - description: Mix-Mix 1/4 cup sweet-and-sour sauce and 1/2 teaspoon soy sauce in
+      a small bowl
+    errors:
+    - description: Mixing 1/2 cup instead of 1/4 cup sweet and sour sauce and 1 teaspoon
+        of soy sauce instead of 1/2 teaspoon.
+      tag: Measurement Error
+    - description: Spill soy sauce while measuring.
+      tag: Preparation Error
+    modified_description: Mix-Mix 1/4 cup sweet-and-sour sauce and 1/2 teaspoon soy
+      sauce in a small bowl and spill soy while measuring.
+  - description: Pour-Pour the sauces over the meatballs
+    errors:
+    - description: Instead of pouring sauces over meatballs, put the meatballs into
+        the sauces.
+      tag: Technique Error
+    modified_description: Put-Put the meatballs over the sauce and transfer to the
+      plate.
+  - description: Microwave-Microwave the plate, covered, on high for 5 minutes
+    errors:
+    - description: Microwave the plate uncovered without covering it.
+      tag: Preparation Error
+    modified_description: Microwave-Microwave the plate, uncovered, on high for 5
+      minutes
+  - description: Stir-Stir the contents in the microwave with a spoon
+    errors:
+    - description: Using a fork instead of a spoon.
+      tag: Technique Error
+    modified_description: Stir-Stir the contents in the microwave with a fork.
+  - description: Microwave-Microwave the plate, covered, on high for 5 minutes
+    errors:
+    - description: Instead of high power level we microwave on a medium power level.
+      tag: Temperature Error
+    modified_description: Microwave-Microwave the plate, covered, on medium for 5
+      minutes
+  - description: Microwave-Microwave for 1 more minute
+    errors:
+    - description: Microwave for more than a minute.
+      tag: Timing Error
+    modified_description: Microwave-Microwave for one and half minute.
+- activity_id: 2
+  environment: 5
+  errors:
+  - description: Cut-Cut 1/8 garlic clove
+    tag: Missing Step
+  - description: cut-Cut onion into two pieces
+    tag: Missing Step
+  - description: Microwave-Microwave the plate, covered, on high for 1.5 minutes
+    tag: Missing Step
+  id: '2_28'
+  is_error: true
+  recorded_by: 3
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: '"2023-05-03T20:53:29.996802"'
+  selected_by: 3
+  steps:
+  - description: Peel-Peel one medium onion
+    errors:
+    - description: Not properly peeling the onion.
+      tag: Preparation Error
+    modified_description: Peel-Peel improperly one medium onion.
+  - description: Slice-Slice 1/8 medium onion
+    errors:
+    - description: Using 1/4 medium onion instead of 1/8.
+      tag: Measurement Error
+    modified_description: Slice-Slice 1/4 medium onion.
+  - description: Cut-Cut 1/4 medium carrot into short, thin strips
+    errors:
+    - description: Cutting the carrot into long and thick strips.
+      tag: Technique Error
+    modified_description: Cut-Cut 1/4 medium carrot into long, thick strips.
+  - description: Peel-Peel 1 garlic clove
+  - description: Mix-Mix 1/4 cup sweet-and-sour sauce and 1/2 teaspoon soy sauce in
+      a small bowl
+    errors:
+    - description: Using 1 teaspoon instead of 1/2 teaspoon.
+      tag: Measurement Error
+    modified_description: Mix-Mix 1/4 cup sweet-and-sour sauce and 1 teaspoon soy
+      sauce in a small bowl.
+  - description: Place-Place 5 meatballs in a Microwave-safe plate
+    errors:
+    - description: Place only 4 instead of 5.
+      tag: Measurement Error
+    modified_description: Place-Place 4 meatballs in a Microwave-safe plate.
+  - description: Mince-Mince 1/8 garlic clove
+  - description: Top-Top the plate with the carrots, onion, garlic and 1/4 tsp pepper
+      powder.
+    errors:
+    - description: using 1/2 tsp instead of 1/4 tsp.
+      tag: Measurement Error
+    modified_description: Top-Top the plate with the carrots, onion, garlic and 1/2
+      tsp pepper powder.
+  - description: Pour-Pour the sauces over the meatballs
+    errors:
+    - description: Spill some while pouring the sauces.
+      tag: Preparation Error
+    modified_description: Pour-Pour the sauces over the meatballs and spill some out
+      of the plate.
+  - description: Stir-Stir the contents in the microwave with a spoon
+    errors:
+    - description: Depends on the previous step.
+      tag: Missing Step
+    modified_description: Stir-Stir the contents in the microwave with a fork.
+  - description: Microwave-Microwave the plate, covered, on high for 1.5 minutes
+    errors:
+    - description: Using 1 minute instead of 1.5 minutes.
+      tag: Timing Error
+    - description: Not covered the plate.
+      tag: Preparation Error
+    modified_description: Microwave-Microwave the plate, uncovered, on high for 1
+      minutes.
+  - description: Stir-Stir the contents in the microwave with a spoon
+  - description: Microwave-Microwave for 1 more minute
+    errors:
+    - description: 'NULL'
+      tag: Temperature Error
+- activity_id: 2
+  environment: 10
+  errors:
+  - description: Stir-Stir the contents in the microwave with a spoon
+    tag: Missing Step
+  - description: Stir-Stir the contents in the microwave with a spoon
+    tag: Missing Step
+  id: '2_30'
+  is_error: true
+  recorded_by: 6
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 6
+  steps:
+  - description: Peel-Peel one medium onion
+    errors:
+    - description: Not peel well
+      tag: Technique Error
+  - description: Place-Place 5 meatballs in a Microwave-safe plate
+    errors:
+    - description: Pouring many balls, more than 5
+      tag: Measurement Error
+  - description: Peel-Peel 1 garlic clove
+  - description: cut-Cut onion into two pieces
+  - description: Mix-Mix 1/4 cup sweet-and-sour sauce and 1/2 teaspoon soy sauce in
+      a small bowl
+    errors:
+    - description: 'Butter inside 1/2 tsp, so not enough soy oil '
+      tag: Measurement Error
+  - description: Slice-Slice 1/8 medium onion
+  - description: Cut-Cut 1/8 garlic clove
+    errors:
+    - description: Almost 1/2 garlic clove, and slice it
+      tag: Measurement Error
+  - description: Cut-Cut 1/4 medium carrot into short, thin strips
+    errors:
+    - description: Not thin
+      tag: Technique Error
+  - description: Mince-Mince 1/8 garlic clove
+    errors:
+    - description: 'Almost 1/4 garlic cloves '
+      tag: Measurement Error
+    - description: 'Likely chopping '
+      tag: Technique Error
+  - description: Top-Top the plate with the carrots, onion, garlic and 1/4 tsp pepper
+      powder.
+    errors:
+    - description: 'Seasoning pepper on top, no measuring '
+      tag: Measurement Error
+    - description: Seasoning pepper on top, no measuring
+      tag: Technique Error
+  - description: Pour-Pour the sauces over the meatballs
+  - description: Microwave-Microwave the plate, covered, on high for 1.5 minutes
+    errors:
+    - description: 1 min
+      tag: Timing Error
+  - description: Microwave-Microwave the plate, covered, on high for 1.5 minutes
+    errors:
+    - description: 1 min
+      tag: Timing Error
+  - description: Microwave-Microwave for 1 more minute
+- activity_id: 2
+  environment: 2
+  errors:
+  - description: Mix-Mix 1/4 cup sweet-and-sour sauce and 1/2 teaspoon soy sauce in
+      a small bowl
+    tag: Missing Step
+  - description: Stir-Stir the contents in the microwave with a spoon
+    tag: Missing Step
+  - description: Microwave-Microwave for 1 more minute
+    tag: Missing Step
+  - description: Pour-Pour the sauces over the meatballs
+    tag: Missing Step
+  id: '2_38'
+  is_error: true
+  recorded_by: 3
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: '"2023-04-23T20:32:21.610934"'
+  selected_by: 3
+  steps:
+  - description: Peel-Peel 1 garlic clove
+  - description: Peel-Peel one medium onion
+  - description: Cut-Cut 1/8 garlic clove
+    modified_description: Cut-Cut 1/2 garlic clove
+  - description: Mince-Mince 1/8 garlic clove
+  - description: Cut-Cut 1/4 medium carrot into short, thin strips
+    errors:
+    - description: Instead of short thin strips cutting it into long irregular strips.
+      tag: Technique Error
+    - description: Not taking the 1/4 medium carrot.
+      tag: Measurement Error
+    modified_description: Cut-Cut 1/4 medium carrot into long, irregular size strips.
+  - description: cut-Cut onion into two pieces
+  - description: Slice-Slice 1/8 medium onion
+    errors:
+    - description: Instead of slicing chopping the onion.
+      tag: Technique Error
+    modified_description: Chop-Chop 1/8 medium onion.
+  - description: Place-Place 5 meatballs in a Microwave-safe plate
+    errors:
+    - description: Placing 6 meatballs instead of 5.
+      tag: Measurement Error
+    modified_description: Place-Place 6 meatballs in a Microwave-safe plate.
+  - description: Top-Top the plate with the carrots, onion, garlic and 1/4 tsp pepper
+      powder.
+    errors:
+    - description: Using the 1/2 tsp instead of 1/4 tsp.
+      tag: Measurement Error
+    modified_description: Top-Top the plate with the carrots, onion, garlic and 1/2
+      tsp pepper powder.
+  - description: Microwave-Microwave the plate, covered, on high for 5 minutes
+    errors:
+    - description: Instead of high using medium power level.
+      tag: Temperature Error
+    - description: Not using the microwave cover to cover the contents.
+      tag: Preparation Error
+    modified_description: Microwave-Microwave the plate, covered, on medium power
+      level for 5 minutes.
+  - description: Microwave-Microwave the plate, covered, on high for 5 minutes
+    errors:
+    - description: Instead of 5 minutes only 3 minutes.
+      tag: Timing Error
+    - description: Not using the microwave cover to cover the contents.
+      tag: Preparation Error
+    modified_description: Microwave-Microwave the plate, covered, on high for 3 minutes
+  - description: Stir-Stir the contents in the microwave with a spoon
+    modified_description: Stir-Stir the contents in the microwave with a spoon
+- activity_id: 2
+  environment: 2
+  errors:
+  - description: Cut-Cut 1/4 medium carrot into short, thin strips
+    tag: Missing Step
+  - description: Top-Top the plate with the carrots, onion, garlic and 1/4 tsp pepper
+      powder.
+    tag: Missing Step
+  - tag: Order Error
+  id: '2_41'
+  is_error: true
+  recorded_by: 1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: '"2023-04-28T12:32:21.625738"'
+  selected_by: 1
+  steps:
+  - description: Peel-Peel one medium onion
+    errors:
+    - description: Peel-Peel one medium onion improperly
+      tag: Other
+    - description: Chop carrot instead of slice or cut
+      tag: Other
+    modified_description: Peel-Peel one medium onion improperly
+  - description: Peel-Peel 1 garlic clove
+  - description: cut-Cut onion into two pieces
+    modified_description: cut-Cut onion into two pieces one large and one small
+  - description: Place-Place 5 meatballs in a Microwave-safe plate
+    errors:
+    - description: Place meat balls after the sauces are poured
+      tag: Order Error
+    modified_description: Place - Place meat balls after the sauces are poured
+  - description: Mix-Mix 1/4 cup sweet-and-sour sauce and 1/2 teaspoon soy sauce in
+      a small bowl
+    errors:
+    - description: Mix-Mix 1/2 cup sweet-and-sour sauce and 1/2 cup soy sauce in a
+        small bowl
+      tag: Other
+    modified_description: Mix-Mix 1/2 cup sweet-and-sour sauce and 1/2 cup soy sauce
+      in a small bowl
+  - description: Pour-Pour the sauces over the meatballs
+    modified_description: Pour-Pour the sauces over the meatballs
+  - description: Microwave-Microwave the plate, covered, on high for 1.5 minutes
+    errors:
+    - description: Microwave-Microwave the plate, covered, on high for 3 minutes
+      tag: Timing Error
+    - description: Microwave-Microwave the plate, uncovered, on high for 3 minutes
+      tag: Other
+    modified_description: Microwave-Microwave the plate, uncovered, on high for 3
+      minutes
+  - description: Cut-Cut 1/8 garlic clove
+  - description: Slice-Slice 1/8 medium onion
+    errors:
+    - description: Chop instead of slice
+      tag: Technique Error
+    - description: Chop 1/2 onion instead of 1/8th
+      tag: Measurement Error
+    modified_description: Chop-Chop 1/2 medium onion
+  - description: Stir-Stir the contents in the microwave with a spoon
+  - description: Microwave-Microwave the plate, covered, on high for 1.5 minutes
+  - description: Stir-Stir the contents in the microwave with a spoon
+    modified_description: Stir-Stir the contents in the microwave with a whisker
+  - description: Mince-Mince 1/8 garlic clove
+  - description: Microwave-Microwave for 1 more minute
+    errors:
+    - description: Microwave-Microwave for 1 more minute
+      tag: Other
+    - description: NONE
+      tag: Other
+    - description: NONE
+      tag: Other
+    - description: NONE
+      tag: Other
+    - description: NONE
+      tag: Other
+    - description: NONE
+      tag: Other
+    - description: NONE
+      tag: Temperature Error
+    - description: NONE
+      tag: Technique Error
+    - description: NONE
+      tag: Timing Error
+    - description: NONE
+      tag: Measurement Error
+    - description: NONE
+      tag: Preparation Error
+    modified_description: Microwave-Microwave for 1 more minute
+- activity_id: 2
+  environment: 2
+  errors:
+  - tag: Order Error
+  id: '2_42'
+  is_error: true
+  recorded_by: 6
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 6
+  steps:
+  - description: Peel-Peel 1 garlic clove
+  - description: Mix-Mix 1/4 cup sweet-and-sour sauce and 1/2 teaspoon soy sauce in
+      a small bowl
+    errors:
+    - description: 1/2 tablespoon soy sauce
+      tag: Preparation Error
+    - description: 1/2 tablespoon soy sauce
+      tag: Measurement Error
+    - description: 1/2 tablespoon soy sauce
+      tag: Technique Error
+    modified_description: Mix 1/4 cup sweet-and-sour sauce and 1/2 tablespoon soy
+      sauce in a small bowl
+  - description: Place-Place 5 meatballs in a Microwave-safe plate
+    errors:
+    - description: Microwave-safe bowl
+      tag: Preparation Error
+    modified_description: Place 5 meatballs in a Microwave-safe bowl
+  - description: Microwave-Microwave the plate, covered, on high for 5 minutes
+    errors:
+    - description: 2 mins
+      tag: Temperature Error
+    - description: 2 mins
+      tag: Timing Error
+    modified_description: Microwave the plate, covered, on high for 5 minutes
+  - description: Cut-Cut 1/4 medium carrot into short, thin strips
+  - description: Peel-Peel one medium onion
+  - description: cut-Cut onion into two pieces
+  - description: Slice-Slice 1/8 medium onion
+    errors:
+    - description: chop
+      tag: Technique Error
+    modified_description: chop 1/8 medium onion
+  - description: Cut-Cut 1/8 garlic clove
+    modified_description: Cut 1/2 garlic clove
+  - description: Mince-Mince 1/8 garlic clove
+  - description: Top-Top the plate with the carrots, onion, garlic and 1/4 tsp pepper
+      powder.
+  - description: Pour-Pour the sauces over the meatballs
+  - description: Stir-Stir the contents in the microwave with a spoon
+  - description: Microwave-Microwave the plate, covered, on high for 5 minutes
+  - description: Stir-Stir the contents in the microwave with a spoon
+  - description: Microwave-Microwave for 1 more minute
+    errors:
+    - description: 1.5 mins
+      tag: Timing Error
+    - description: 1.5 mins
+      tag: Temperature Error
+    modified_description: Microwave for 1.5 more minute
+- activity_id: 2
+  environment: 7
+  errors:
+  - description: Place-Place 5 meatballs in a Microwave-safe plate
+    tag: Missing Step
+  - description: Peel-Peel 1 garlic clove
+    tag: Missing Step
+  - description: Pour-Pour the sauces over the meatballs
+    tag: Missing Step
+  - tag: Order Error
+  id: '2_46'
+  is_error: true
+  recorded_by: 6
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: '"2023-05-13T15:08:34.396019"'
+  selected_by: 6
+  steps:
+  - description: Peel-Peel one medium onion
+  - description: Cut-Cut 1/8 garlic clove
+  - description: Mix-Mix 1/4 cup sweet-and-sour sauce and 1/2 teaspoon soy sauce in
+      a small bowl
+  - description: Microwave-Microwave the plate, covered, on high for 1.5 minutes
+    errors:
+    - description: 1 mins
+      tag: Timing Error
+  - description: Mince-Mince 1/8 garlic clove
+  - description: Stir-Stir the contents in the microwave with a spoon
+  - description: Cut-Cut 1/4 medium carrot into short, thin strips
+    errors:
+    - description: really large carrot
+      tag: Preparation Error
+  - description: cut-Cut onion into two pieces
+  - description: Slice-Slice 1/8 medium onion
+  - description: Top-Top the plate with the carrots, onion, garlic and 1/4 tsp pepper
+      powder.
+  - description: Microwave-Microwave the plate, covered, on high for 1.5 minutes
+    errors:
+    - description: 1 mins
+      tag: Timing Error
+  - description: Microwave-Microwave for 1 more minute
+  - description: Stir-Stir the contents in the microwave with a spoon
+- activity_id: 2
+  environment: 9
+  errors:
+  - tag: Order Error
+  id: '2_47'
+  is_error: true
+  recorded_by: 7
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 7
+  steps:
+  - description: Peel-Peel 1 garlic clove
+    errors:
+    - description: 2 instead of 1 garlic clove
+      tag: Measurement Error
+    modified_description: Peel-Peel 2 garlic cloves
+  - description: Peel-Peel one medium onion
+  - description: cut-Cut onion into two pieces
+    errors:
+    - description: cut into 4 pieces
+      tag: Preparation Error
+    modified_description: cut-Cut onion into four pieces
+  - description: Slice-Slice 1/8 medium onion
+    errors:
+    - description: Chop instead of slice
+      tag: Technique Error
+    modified_description: Chop-Chop 1/8 medium onion
+  - description: Cut-Cut 1/4 medium carrot into short, thin strips
+    errors:
+    - description: the size of carrot is not thin strips
+      tag: Technique Error
+    modified_description: Cut-Cut 1/4 medium carrot into short strips
+  - description: Place-Place 5 meatballs in a Microwave-safe plate
+    errors:
+    - description: 3 meatballs instead of 5 meatballs
+      tag: Measurement Error
+    modified_description: Place-Place 3 meatballs in a Microwave-safe plate
+  - description: Microwave-Microwave the plate, covered, on high for 5 minutes
+    errors:
+    - description: 3 instead of 5 minutes
+      tag: Timing Error
+    - description: medium instead of high
+      tag: Temperature Error
+    modified_description: Microwave-Microwave the plate, covered, on medium for 3
+      minutes
+  - description: Stir-Stir the contents in the microwave with a spoon
+    errors:
+    - description: Stir the contents outside the microwave
+      tag: Technique Error
+    - description: Meatball drop
+      tag: Technique Error
+    modified_description: Stir-Stir the contents outside the microwave with a spoon
+      and meatball drop on the ground
+  - description: Cut-Cut 1/8 garlic clove
+    errors:
+    - description: 1/2 instead of 1/8
+      tag: Measurement Error
+    modified_description: Cut-Cut 1/2 garlic clove
+  - description: Mix-Mix 1/4 cup sweet-and-sour sauce and 1/2 teaspoon soy sauce in
+      a small bowl
+  - description: Mince-Mince 1/8 garlic clove
+    errors:
+    - description: Chop instead of mince
+      tag: Technique Error
+    modified_description: Chop-Chop 1/8 garlic clove
+  - description: Pour-Pour the sauces over the meatballs
+  - description: Top-Top the plate with the carrots, onion, garlic and 1/4 tsp pepper
+      powder.
+  - description: Microwave-Microwave the plate, covered, on high for 5 minutes
+    errors:
+    - description: 1 minute instead of 5 minutes
+      tag: Timing Error
+    modified_description: Microwave-Microwave the plate, covered, on high for 1 minute
+  - description: Stir-Stir the contents in the microwave with a spoon
+  - description: Microwave-Microwave for 1 more minute

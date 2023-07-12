@@ -1,0 +1,797 @@
+- activity_id: 13
+  environment: 2
+  id: '13_5'
+  is_error: false
+  recorded_by: 5
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 5
+  steps:
+  - description: Measure-Measure 2 cups of frozen corn
+  - description: Thaw-Thaw the frozen corn by putting it in a sieve and running it
+      under cold water
+  - description: Add-Add the corn into a microwave-safe bowl
+  - description: Microwave-Microwave the corn for 2 minutes
+  - description: Add-Add 1 teaspoon of softened butter
+  - description: Add-1 teaspoon of pepper powder to the bowl
+  - description: stir-then stir the bowl
+  - description: Microwave-Microwave the corn for 3 more minutes
+  - description: Extract-Extract lime juice from 1/3 lime
+  - description: Add-Add 1 teaspoon salt to the bowl
+  - description: add-add lime juice to the bowl
+  - description: Mix-Mix the contents of the bowl well
+- activity_id: 13
+  environment: 5
+  id: '13_9'
+  is_error: false
+  recorded_by: 2
+  recording_info:
+    end_time: '"2023-04-12T15:44:52.486284"'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: '"2023-04-12T15:43:52.295882"'
+  selected_by: 2
+  steps:
+  - description: Measure-Measure 2 cups of frozen corn
+  - description: Thaw-Thaw the frozen corn by putting it in a sieve and running it
+      under cold water
+  - description: Add-Add the corn into a microwave-safe bowl
+  - description: Microwave-Microwave the corn for 2 minutes
+  - description: Add-1 teaspoon of pepper powder to the bowl
+  - description: Add-Add 1 teaspoon of softened butter
+  - description: stir-then stir the bowl
+  - description: Microwave-Microwave the corn for 3 more minutes
+  - description: Extract-Extract lime juice from 1/3 lime
+  - description: add-add lime juice to the bowl
+  - description: Add-Add 1 teaspoon salt to the bowl
+  - description: Mix-Mix the contents of the bowl well
+- activity_id: 13
+  environment: 2
+  id: '13_12'
+  is_error: true
+  recorded_by: 2
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: '"2023-04-22T23:06:30.805390"'
+  selected_by: 2
+  steps:
+  - description: Measure-Measure 2 cups of frozen corn
+  - description: Thaw-Thaw the frozen corn by putting it in a sieve and running it
+      under cold water
+  - description: Add-Add the corn into a microwave-safe bowl
+  - description: Microwave-Microwave the corn for 2 minutes
+  - description: Add-Add 1 teaspoon of softened butter
+  - description: Add-1 teaspoon of pepper powder to the bowl
+  - description: stir-then stir the bowl
+  - description: Microwave-Microwave the corn for 3 more minutes
+    errors:
+    - description: Spilled the corn
+      tag: Technique Error
+    modified_description: Spilled the cord - Microwave-Microwave the corn for 3 more
+      minutes
+  - description: Extract-Extract lime juice from 1/3 lime
+    errors:
+    - description: missing step
+      tag: Missing Step
+  - description: Add-Add 1 teaspoon salt to the bowl
+    errors:
+    - description: missing step
+      tag: Missing Step
+  - description: add-add lime juice to the bowl
+    errors:
+    - description: missing step
+      tag: Missing Step
+  - description: Mix-Mix the contents of the bowl well
+    errors:
+    - description: missing step
+      tag: Missing Step
+- activity_id: 13
+  environment: 2
+  id: '13_14'
+  is_error: false
+  recorded_by: 8
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 8
+  steps:
+  - description: Measure-Measure 2 cups of frozen corn
+  - description: Thaw-Thaw the frozen corn by putting it in a sieve and running it
+      under cold water
+  - description: Add-Add the corn into a microwave-safe bowl
+  - description: Microwave-Microwave the corn for 2 minutes
+  - description: Add-1 teaspoon of pepper powder to the bowl
+  - description: Add-Add 1 teaspoon of softened butter
+  - description: stir-then stir the bowl
+  - description: Microwave-Microwave the corn for 3 more minutes
+  - description: Extract-Extract lime juice from 1/3 lime
+  - description: Add-Add 1 teaspoon salt to the bowl
+  - description: add-add lime juice to the bowl
+  - description: Mix-Mix the contents of the bowl well
+- activity_id: 13
+  environment: 1
+  id: '13_18'
+  is_error: false
+  recorded_by: 5
+  recording_info:
+    end_time: '"2023-04-11T21:39:29.414785"'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: '"2023-04-11T20:54:48.486290"'
+  selected_by: 5
+  steps:
+  - description: Measure-Measure 2 cups of frozen corn
+  - description: Thaw-Thaw the frozen corn by putting it in a sieve and running it
+      under cold water
+  - description: Add-Add the corn into a microwave-safe bowl
+  - description: Microwave-Microwave the corn for 2 minutes
+  - description: Add-1 teaspoon of pepper powder to the bowl
+  - description: Add-Add 1 teaspoon of softened butter
+  - description: stir-then stir the bowl
+  - description: Microwave-Microwave the corn for 3 more minutes
+  - description: Add-Add 1 teaspoon salt to the bowl
+  - description: Extract-Extract lime juice from 1/3 lime
+  - description: add-add lime juice to the bowl
+  - description: Mix-Mix the contents of the bowl well
+- activity_id: 13
+  environment: 1
+  id: '13_20'
+  is_error: false
+  recorded_by: 3
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 3
+  steps:
+  - description: Measure-Measure 2 cups of frozen corn
+  - description: Thaw-Thaw the frozen corn by putting it in a sieve and running it
+      under cold water
+  - description: Add-Add the corn into a microwave-safe bowl
+  - description: Microwave-Microwave the corn for 2 minutes
+  - description: Add-1 teaspoon of pepper powder to the bowl
+  - description: Add-Add 1 teaspoon of softened butter
+  - description: stir-then stir the bowl
+  - description: Microwave-Microwave the corn for 3 more minutes
+  - description: Extract-Extract lime juice from 1/3 lime
+  - description: add-add lime juice to the bowl
+  - description: Add-Add 1 teaspoon salt to the bowl
+  - description: Mix-Mix the contents of the bowl well
+- activity_id: 13
+  environment: 6
+  id: '13_24'
+  is_error: false
+  recorded_by: 2
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: '"2023-05-06T16:09:30.226627"'
+  selected_by: 2
+  steps:
+  - description: Measure-Measure 2 cups of frozen corn
+  - description: Thaw-Thaw the frozen corn by putting it in a sieve and running it
+      under cold water
+  - description: Add-Add the corn into a microwave-safe bowl
+  - description: Microwave-Microwave the corn for 2 minutes
+  - description: Add-1 teaspoon of pepper powder to the bowl
+  - description: Add-Add 1 teaspoon of softened butter
+  - description: stir-then stir the bowl
+  - description: Microwave-Microwave the corn for 3 more minutes
+  - description: Extract-Extract lime juice from 1/3 lime
+  - description: add-add lime juice to the bowl
+  - description: Add-Add 1 teaspoon salt to the bowl
+  - description: Mix-Mix the contents of the bowl well
+- activity_id: 13
+  environment: 1
+  errors:
+  - description: Add-Add 1 teaspoon of softened butter
+    tag: Missing Step
+  - description: Add-Add 1 teaspoon salt to the bowl
+    tag: Missing Step
+  id: '13_31'
+  is_error: true
+  recorded_by: 8
+  recording_info:
+    end_time: '"2023-04-16T19:23:05.587132"'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: '"2023-04-16T19:12:07.723764"'
+  selected_by: 8
+  steps:
+  - description: Measure-Measure 2 cups of frozen corn
+    errors:
+    - description: Added 3 cups instead of 2 cups
+      tag: Measurement Error
+    modified_description: Measure-Measure 3 cups of frozen corn
+  - description: Thaw-Thaw the frozen corn by putting it in a sieve and running it
+      under cold water
+    errors:
+    - description: Used hot water instead of cold water
+      tag: Temperature Error
+    modified_description: Thaw-Thaw the frozen corn by putting it in a sieve and running
+      it under hot water
+  - description: Add-Add the corn into a microwave-safe bowl
+  - description: Microwave-Microwave the corn for 2 minutes
+    errors:
+    - description: Microwaved only for 30 secs
+      tag: Timing Error
+    modified_description: Microwave-Microwave the corn for 30 seconds
+  - description: Add-1 teaspoon of pepper powder to the bowl
+    errors:
+    - description: Spill while adding
+      tag: Technique Error
+    modified_description: Add-1 teaspoon of pepper powder to the bowl but spill
+  - description: stir-then stir the bowl
+    errors:
+    - description: Do not stir enough
+      tag: Technique Error
+    modified_description: stir-then stir the bowl for 5 seconds
+  - description: Microwave-Microwave the corn for 3 more minutes
+    errors:
+    - description: Microwave the corn for 2 more minutes rather than 3 mins
+      tag: Timing Error
+    modified_description: Microwave-Microwave the corn for 2 more minutes
+  - description: Extract-Extract lime juice from 1/3 lime
+  - description: add-add lime juice to the bowl
+  - description: Mix-Mix the contents of the bowl well
+    errors:
+    - description: Mix for very little time
+      tag: Technique Error
+    modified_description: Mix-Mix the contents of the bowl for 5 seconds
+- activity_id: 13
+  environment: 6
+  errors:
+  - description: Measure-Measure 2 cups of frozen corn
+    tag: Missing Step
+  - description: Add-1 teaspoon of pepper powder to the bowl
+    tag: Missing Step
+  - description: Microwave-Microwave the corn for 3 more minutes
+    tag: Missing Step
+  id: '13_32'
+  is_error: true
+  recorded_by: 8
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: '"2023-05-05T22:45:29.643834"'
+  selected_by: 8
+  steps:
+  - description: Thaw-Thaw the frozen corn by putting it in a sieve and running it
+      under cold water
+    errors:
+    - description: Spill while rinsing
+      tag: Technique Error
+    modified_description: Thaw-Thaw the frozen corn by putting it in a sieve and running
+      it under cold water, but spill by mixing vigorously
+  - description: Add-Add the corn into a microwave-safe bowl
+    errors:
+    - description: Spill while adding
+      tag: Technique Error
+    modified_description: Add-Add the corn into a microwave-safe bowl but spill
+  - description: Microwave-Microwave the corn for 2 minutes
+  - description: Add-Add 1 teaspoon of softened butter
+    errors:
+    - description: Added garlic butter instead of plain butter
+      tag: Preparation Error
+    - description: Used hands to add butter
+      tag: Preparation Error
+    modified_description: Add-Add 1 teaspoon of softened butter with hands
+  - description: stir-then stir the bowl
+    errors:
+    - description: Spill while stirring
+      tag: Technique Error
+    modified_description: stir-then stir the bowl but spill
+  - description: Add-Add 1 teaspoon salt to the bowl
+  - description: Extract-Extract lime juice from 1/3 lime
+    errors:
+    - description: Spill while extracting
+      tag: Technique Error
+    modified_description: Extract-Extract lime juice from 1/3 lime but spill
+  - description: add-add lime juice to the bowl
+    errors:
+    - description: Spill while adding
+      tag: Technique Error
+    modified_description: add-add lime juice to the bowl but spill
+  - description: Mix-Mix the contents of the bowl well
+    errors:
+    - description: Spill while  mixing
+      tag: Technique Error
+    modified_description: Mix-Mix the contents of the bowl well but spill
+- activity_id: 13
+  environment: 11
+  errors:
+  - description: stir-then stir the bowl
+    tag: Missing Step
+  - description: Microwave-Microwave the corn for 3 more minutes
+    tag: Missing Step
+  - description: Extract-Extract lime juice from 1/3 lime
+    tag: Missing Step
+  id: '13_36'
+  is_error: true
+  recorded_by: 5
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 5
+  steps:
+  - description: Measure-Measure 2 cups of frozen corn
+    errors:
+    - description: Measure-Measure 2 cups of frozen corn. Spilling the corn while
+        measuring
+      tag: Technique Error
+    modified_description: Measure-Measure 2 cups of frozen corn. Spilling the corn
+      while measuring
+  - description: Thaw-Thaw the frozen corn by putting it in a sieve and running it
+      under cold water
+    errors:
+    - description: Thaw-Thaw the frozen corn by putting in cup and making hand as
+        lid. Put running cold water on cup. Spillage of corn occurs.
+      tag: Technique Error
+    modified_description: Thaw-Thaw the frozen corn by putting in cup and making hand
+      as lid. Put running cold water on cup. Spillage of corn occurs.
+  - description: Add-Add the corn into a microwave-safe bowl
+    errors:
+    - description: Add-Add the corn into a microwave-safe small glass.
+      tag: Preparation Error
+    modified_description: Add-Add the corn into a microwave-safe small glass.
+  - description: Microwave-Microwave the corn for 2 minutes
+    errors:
+    - description: Microwave-Microwave the corn. Timer started from 20 minutes and
+        stopped at 16:16. Did for 3:44 minutes.
+      tag: Timing Error
+    - description: Microwave-Microwave the corn. Timer started from 20 minutes and
+        stopped at 16:16. Did for 3:44 minutes. While removing from microwave did
+        not use gloves
+      tag: Preparation Error
+    modified_description: Microwave-Microwave the corn. Timer started from 20 minutes
+      and stopped at 16:16. Did for 3:44 minutes. While removing from microwave did
+      not use gloves
+  - description: Add-1 teaspoon of pepper powder to the bowl
+    errors:
+    - description: Add-1 teaspoon of oregano powder to the bowl. Spilling the oregano
+        also happened.
+      tag: Technique Error
+    - description: Add-1 teaspoon of oregano powder to the bowl. Spilling the oregano
+        also happened.
+      tag: Preparation Error
+    modified_description: Add-1 teaspoon of oregano powder to the bowl. Spilling the
+      oregano also happened.
+  - description: Add-Add 1 teaspoon of softened butter
+    errors:
+    - description: Add-Add 1 teaspoon of vegetable oil.
+      tag: Preparation Error
+    modified_description: Add-Add 1 teaspoon of vegetable oil.
+  - description: Add-Add 1 teaspoon salt to the bowl
+    errors:
+    - description: Add-Add 1 teaspoon sugar to the bowl
+      tag: Preparation Error
+    modified_description: Add-Add 1 teaspoon sugar to the bowl
+  - description: add-add lime juice to the bowl
+    errors:
+    - description: add-add lime juice extract from the bottle to the bowl. Did not
+        take the lemon and directly took bottled product. It happened before adding
+        sugar.
+      tag: Order Error
+    modified_description: add-add lime juice extract from the bottle to the bowl.
+      Did not take the lemon and directly took bottled product. It happened before
+      adding sugar.
+  - description: Mix-Mix the contents of the bowl well
+    errors:
+    - description: Mix-Mix the contents of the bowl without circular motion and just
+        pressing the spoon up and down.
+      tag: Technique Error
+    modified_description: Mix-Mix the contents of the bowl without circular motion
+      and just pressing the spoon up and down.
+- activity_id: 13
+  environment: 5
+  errors:
+  - description: Thaw-Thaw the frozen corn by putting it in a sieve and running it
+      under cold water
+    tag: Missing Step
+  - description: stir-then stir the bowl
+    tag: Missing Step
+  - description: add-add lime juice to the bowl
+    tag: Missing Step
+  - tag: Order Error
+  id: '13_38'
+  is_error: true
+  recorded_by: 8
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 8
+  steps:
+  - description: Measure-Measure 2 cups of frozen corn
+    errors:
+    - description: Measured less
+      tag: Measurement Error
+    modified_description: Measure-Measure 1 cup of frozen corn
+  - description: Add-Add the corn into a microwave-safe bowl
+    errors:
+    - description: Spill
+      tag: Technique Error
+    modified_description: Add-Add the corn into a microwave-safe bowl but spill
+  - description: Add-1 teaspoon of pepper powder to the bowl
+  - description: Microwave-Microwave the corn for 2 minutes
+    errors:
+    - description: Microwave for 3 minutes
+      tag: Timing Error
+    - description: Microwave on low power instead of high power
+      tag: Temperature Error
+    modified_description: Microwave-Microwave the corn for 3 minutes on low power
+  - description: Add-Add 1 teaspoon of softened butter
+    errors:
+    - description: Use unsoftened butter
+      tag: Preparation Error
+    modified_description: Add-Add 1 teaspoon of unsoftened butter
+  - description: Microwave-Microwave the corn for 3 more minutes
+  - description: Add-Add 1 teaspoon salt to the bowl
+  - description: Extract-Extract lime juice from 1/3 lime
+  - description: Mix-Mix the contents of the bowl well
+- activity_id: 13
+  environment: 7
+  errors:
+  - tag: Order Error
+  id: '13_41'
+  is_error: true
+  recorded_by: 4
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: '"2023-05-11T22:43:14.036646"'
+  selected_by: 4
+  steps:
+  - description: Measure-Measure 2 cups of frozen corn
+  - description: Thaw-Thaw the frozen corn by putting it in a sieve and running it
+      under cold water
+  - description: Add-Add the corn into a microwave-safe bowl
+    errors:
+    - description: spillage while adding
+      tag: Technique Error
+    modified_description: Add-Add the corn into a microwave-safe bowl and spill some
+      while adding
+  - description: Microwave-Microwave the corn for 2 minutes
+  - description: Add-1 teaspoon of pepper powder to the bowl
+    errors:
+    - description: spilled some pepper into corn bowl while measuring leading to adding
+        extra pepper
+      tag: Technique Error
+    - description: spilled some pepper into corn bowl while measuring leading to adding
+        extra pepper
+      tag: Measurement Error
+    modified_description: Add-1 teaspoon of pepper powder to the bowl and spill some
+      while measuring in to the bowl.
+  - description: Extract-Extract lime juice from 1/3 lime
+    errors:
+    - description: directly extract lime juice to the bowl. so next step becomes obselete
+      tag: Other
+    modified_description: Extract-Extract lime juice from 1/3 lime directly into the
+      bowl
+  - description: add-add lime juice to the bowl
+    errors:
+    - description: this step is included into the above step
+      tag: Other
+    modified_description: add-add lime juice to the bowl
+  - description: Add-Add 1 teaspoon of softened butter
+  - description: stir-then stir the bowl
+  - description: Microwave-Microwave the corn for 3 more minutes
+  - description: Add-Add 1 teaspoon salt to the bowl
+  - description: Mix-Mix the contents of the bowl well
+    errors:
+    - description: spilled some corn out
+      tag: Technique Error
+    modified_description: Mix-Mix the contents of the bowl well and spill some corn
+      out while stirring
+- activity_id: 13
+  environment: 6
+  errors:
+  - tag: Order Error
+  id: '13_44'
+  is_error: true
+  recorded_by: 4
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: '"2023-05-06T21:54:30.388337"'
+  selected_by: 4
+  steps:
+  - description: Measure-Measure 2 cups of frozen corn
+  - description: Thaw-Thaw the frozen corn by putting it in a sieve and running it
+      under cold water
+    errors:
+    - description: spill the corn while adding it to seive
+      tag: Technique Error
+    - description: spill some corn in sink while thawing
+      tag: Technique Error
+    modified_description: Thaw-Thaw the frozen corn by putting it in a sieve and running
+      it under cold water. Spill some out while putting corn in seive and spill some
+      corn in sink while thawing
+  - description: Add-Add the corn into a microwave-safe bowl
+  - description: Microwave-Microwave the corn for 2 minutes
+  - description: Add-1 teaspoon of pepper powder to the bowl
+  - description: Add-Add 1 teaspoon of softened butter
+  - description: stir-then stir the bowl
+  - description: Mix-Mix the contents of the bowl well
+    errors:
+    - description: spill while mixing
+      tag: Technique Error
+    modified_description: Mix-Mix the contents of the bowl well and spill them out
+      while mixing
+  - description: Add-Add 1 teaspoon salt to the bowl
+    errors:
+    - description: spill some salt while adding
+      tag: Technique Error
+    modified_description: Add-Add 1 teaspoon salt to the bowl and spill some out
+  - description: Extract-Extract lime juice from 1/3 lime
+  - description: add-add lime juice to the bowl
+  - description: Microwave-Microwave the corn for 3 more minutes
+    errors:
+    - description: stopped the microwave at 2 mins only
+      tag: Timing Error
+    modified_description: Microwave-Microwave the corn for 3 more minutes and stop
+      it after 2 mins only
+- activity_id: 13
+  environment: 1
+  errors:
+  - tag: Order Error
+  id: '13_45'
+  is_error: true
+  recorded_by: 2
+  recording_info:
+    end_time: '"2023-04-12T20:37:03.804418"'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: '"2023-04-12T20:20:15.529043"'
+  selected_by: 2
+  steps:
+  - description: Measure-Measure 2 cups of frozen corn
+    errors:
+    - description: Measure 3 cups instead of 2
+      tag: Measurement Error
+    modified_description: Measure-Measure 3 cups of frozen corn
+  - description: Thaw-Thaw the frozen corn by putting it in a sieve and running it
+      under cold water
+    errors:
+    - description: Thaw under hot water
+      tag: Temperature Error
+    modified_description: Thaw-Thaw the frozen corn by putting it in a sieve and running
+      it under hot water
+  - description: Add-Add the corn into a microwave-safe bowl
+  - description: Microwave-Microwave the corn for 2 minutes
+    errors:
+    - description: Microwave for 1 minute 30 seconds
+      tag: Timing Error
+    modified_description: Microwave-Microwave the corn for 1 minute 30 seconds
+  - description: Add-Add 1 teaspoon of softened butter
+  - description: Add-1 teaspoon of pepper powder to the bowl
+  - description: Add-Add 1 teaspoon salt to the bowl
+    errors:
+    - description: Add 1.5 tsp
+      tag: Measurement Error
+    modified_description: Add-Add 1.5 teaspoon salt to the bowl
+  - description: Microwave-Microwave the corn for 3 more minutes
+  - description: Extract-Extract lime juice from 1/3 lime
+    errors:
+    - description: Spill some lime juice
+      tag: Technique Error
+    modified_description: Extract-Extract (and spill) lime juice from 1/3 lime
+  - description: add-add lime juice to the bowl
+  - description: stir-then stir the bowl
+    errors:
+    - description: Do not stir enough
+      tag: Technique Error
+    modified_description: stir-stir the contents in bowl 2 times
+  - description: Mix-Mix the contents of the bowl well
+

@@ -1,0 +1,1949 @@
+- activity_id: 9
+  environment: null
+  id: '9_1'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Cut or tear-Cut or tear 1 slices of bread into bite-size pieces
+  - description: melt-In a large mug, melt 1 tablespoon of softened butter in the
+      microwave for about 30 seconds
+  - description: Roll-Roll the butter around in the cup to coat it
+  - description: whisk-In the mug, whisk one egg with a fork until well blended
+  - description: Add-Add 1/4 teaspoon vanilla extract to the mug
+  - description: Sprinkle-Sprinkle 1/4 teaspoon cinnamon over the egg
+  - description: stir-stir the mug
+  - description: add-add bread pieces to the egg mixture in the mug, pressing the
+      bread down into the egg
+  - description: Microwave-Microwave on high for 90 seconds until the egg is cooked
+      through
+  - description: Put-Put the cup's contents on a plate
+  - description: cut-cut the contents on plate, and serve
+- activity_id: 9
+  environment: null
+  id: '9_2'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Cut or tear-Cut or tear 1 slices of bread into bite-size pieces
+  - description: melt-In a large mug, melt 1 tablespoon of softened butter in the
+      microwave for about 30 seconds
+  - description: Roll-Roll the butter around in the cup to coat it
+  - description: whisk-In the mug, whisk one egg with a fork until well blended
+  - description: Sprinkle-Sprinkle 1/4 teaspoon cinnamon over the egg
+  - description: Add-Add 1/4 teaspoon vanilla extract to the mug
+  - description: stir-stir the mug
+  - description: add-add bread pieces to the egg mixture in the mug, pressing the
+      bread down into the egg
+  - description: Microwave-Microwave on high for 90 seconds until the egg is cooked
+      through
+  - description: Put-Put the cup's contents on a plate
+  - description: cut-cut the contents on plate, and serve
+- activity_id: 9
+  environment: null
+  id: '9_3'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: melt-In a large mug, melt 1 tablespoon of softened butter in the
+      microwave for about 30 seconds
+  - description: Cut or tear-Cut or tear 1 slices of bread into bite-size pieces
+  - description: Roll-Roll the butter around in the cup to coat it
+  - description: whisk-In the mug, whisk one egg with a fork until well blended
+  - description: Add-Add 1/4 teaspoon vanilla extract to the mug
+  - description: Sprinkle-Sprinkle 1/4 teaspoon cinnamon over the egg
+  - description: stir-stir the mug
+  - description: add-add bread pieces to the egg mixture in the mug, pressing the
+      bread down into the egg
+  - description: Microwave-Microwave on high for 90 seconds until the egg is cooked
+      through
+  - description: Put-Put the cup's contents on a plate
+  - description: cut-cut the contents on plate, and serve
+- activity_id: 9
+  environment: null
+  id: '9_4'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: melt-In a large mug, melt 1 tablespoon of softened butter in the
+      microwave for about 30 seconds
+  - description: Cut or tear-Cut or tear 1 slices of bread into bite-size pieces
+  - description: Roll-Roll the butter around in the cup to coat it
+  - description: whisk-In the mug, whisk one egg with a fork until well blended
+  - description: Sprinkle-Sprinkle 1/4 teaspoon cinnamon over the egg
+  - description: Add-Add 1/4 teaspoon vanilla extract to the mug
+  - description: stir-stir the mug
+  - description: add-add bread pieces to the egg mixture in the mug, pressing the
+      bread down into the egg
+  - description: Microwave-Microwave on high for 90 seconds until the egg is cooked
+      through
+  - description: Put-Put the cup's contents on a plate
+  - description: cut-cut the contents on plate, and serve
+- activity_id: 9
+  environment: null
+  id: '9_5'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: melt-In a large mug, melt 1 tablespoon of softened butter in the
+      microwave for about 30 seconds
+  - description: Roll-Roll the butter around in the cup to coat it
+  - description: Cut or tear-Cut or tear 1 slices of bread into bite-size pieces
+  - description: whisk-In the mug, whisk one egg with a fork until well blended
+  - description: Add-Add 1/4 teaspoon vanilla extract to the mug
+  - description: Sprinkle-Sprinkle 1/4 teaspoon cinnamon over the egg
+  - description: stir-stir the mug
+  - description: add-add bread pieces to the egg mixture in the mug, pressing the
+      bread down into the egg
+  - description: Microwave-Microwave on high for 90 seconds until the egg is cooked
+      through
+  - description: Put-Put the cup's contents on a plate
+  - description: cut-cut the contents on plate, and serve
+- activity_id: 9
+  environment: null
+  id: '9_6'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: melt-In a large mug, melt 1 tablespoon of softened butter in the
+      microwave for about 30 seconds
+  - description: Roll-Roll the butter around in the cup to coat it
+  - description: Cut or tear-Cut or tear 1 slices of bread into bite-size pieces
+  - description: whisk-In the mug, whisk one egg with a fork until well blended
+  - description: Sprinkle-Sprinkle 1/4 teaspoon cinnamon over the egg
+  - description: Add-Add 1/4 teaspoon vanilla extract to the mug
+  - description: stir-stir the mug
+  - description: add-add bread pieces to the egg mixture in the mug, pressing the
+      bread down into the egg
+  - description: Microwave-Microwave on high for 90 seconds until the egg is cooked
+      through
+  - description: Put-Put the cup's contents on a plate
+  - description: cut-cut the contents on plate, and serve
+- activity_id: 9
+  environment: null
+  id: '9_7'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: melt-In a large mug, melt 1 tablespoon of softened butter in the
+      microwave for about 30 seconds
+  - description: Roll-Roll the butter around in the cup to coat it
+  - description: whisk-In the mug, whisk one egg with a fork until well blended
+  - description: Add-Add 1/4 teaspoon vanilla extract to the mug
+  - description: Sprinkle-Sprinkle 1/4 teaspoon cinnamon over the egg
+  - description: Cut or tear-Cut or tear 1 slices of bread into bite-size pieces
+  - description: stir-stir the mug
+  - description: add-add bread pieces to the egg mixture in the mug, pressing the
+      bread down into the egg
+  - description: Microwave-Microwave on high for 90 seconds until the egg is cooked
+      through
+  - description: Put-Put the cup's contents on a plate
+  - description: cut-cut the contents on plate, and serve
+- activity_id: 9
+  environment: null
+  id: '9_9'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: melt-In a large mug, melt 1 tablespoon of softened butter in the
+      microwave for about 30 seconds
+  - description: Roll-Roll the butter around in the cup to coat it
+  - description: whisk-In the mug, whisk one egg with a fork until well blended
+  - description: Add-Add 1/4 teaspoon vanilla extract to the mug
+  - description: Cut or tear-Cut or tear 1 slices of bread into bite-size pieces
+  - description: Sprinkle-Sprinkle 1/4 teaspoon cinnamon over the egg
+  - description: stir-stir the mug
+  - description: add-add bread pieces to the egg mixture in the mug, pressing the
+      bread down into the egg
+  - description: Microwave-Microwave on high for 90 seconds until the egg is cooked
+      through
+  - description: Put-Put the cup's contents on a plate
+  - description: cut-cut the contents on plate, and serve
+- activity_id: 9
+  environment: null
+  id: '9_10'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: melt-In a large mug, melt 1 tablespoon of softened butter in the
+      microwave for about 30 seconds
+  - description: Roll-Roll the butter around in the cup to coat it
+  - description: whisk-In the mug, whisk one egg with a fork until well blended
+  - description: Sprinkle-Sprinkle 1/4 teaspoon cinnamon over the egg
+  - description: Cut or tear-Cut or tear 1 slices of bread into bite-size pieces
+  - description: Add-Add 1/4 teaspoon vanilla extract to the mug
+  - description: stir-stir the mug
+  - description: add-add bread pieces to the egg mixture in the mug, pressing the
+      bread down into the egg
+  - description: Microwave-Microwave on high for 90 seconds until the egg is cooked
+      through
+  - description: Put-Put the cup's contents on a plate
+  - description: cut-cut the contents on plate, and serve
+- activity_id: 9
+  environment: null
+  id: '9_11'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: melt-In a large mug, melt 1 tablespoon of softened butter in the
+      microwave for about 30 seconds
+  - description: Roll-Roll the butter around in the cup to coat it
+  - description: whisk-In the mug, whisk one egg with a fork until well blended
+  - description: Sprinkle-Sprinkle 1/4 teaspoon cinnamon over the egg
+  - description: Add-Add 1/4 teaspoon vanilla extract to the mug
+  - description: Cut or tear-Cut or tear 1 slices of bread into bite-size pieces
+  - description: stir-stir the mug
+  - description: add-add bread pieces to the egg mixture in the mug, pressing the
+      bread down into the egg
+  - description: Microwave-Microwave on high for 90 seconds until the egg is cooked
+      through
+  - description: Put-Put the cup's contents on a plate
+  - description: cut-cut the contents on plate, and serve
+- activity_id: 9
+  environment: null
+  id: '9_12'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: melt-In a large mug, melt 1 tablespoon of softened butter in the
+      microwave for about 30 seconds
+  - description: Roll-Roll the butter around in the cup to coat it
+  - description: whisk-In the mug, whisk one egg with a fork until well blended
+  - description: Sprinkle-Sprinkle 1/4 teaspoon cinnamon over the egg
+  - description: Add-Add 1/4 teaspoon vanilla extract to the mug
+  - description: stir-stir the mug
+  - description: Cut or tear-Cut or tear 1 slices of bread into bite-size pieces
+  - description: add-add bread pieces to the egg mixture in the mug, pressing the
+      bread down into the egg
+  - description: Microwave-Microwave on high for 90 seconds until the egg is cooked
+      through
+  - description: Put-Put the cup's contents on a plate
+  - description: cut-cut the contents on plate, and serve
+- activity_id: 9
+  environment: null
+  id: '9_14'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: melt-In a large mug, melt 1 tablespoon of softened butter in the
+      microwave for about 30 seconds
+  - description: Roll-Roll the butter around in the cup to coat it
+  - description: whisk-In the mug, whisk one egg with a fork until well blended
+  - description: Cut or tear-Cut or tear 1 slices of bread into bite-size pieces
+  - description: Add-Add 1/4 teaspoon vanilla extract to the mug
+  - description: Sprinkle-Sprinkle 1/4 teaspoon cinnamon over the egg
+  - description: stir-stir the mug
+  - description: add-add bread pieces to the egg mixture in the mug, pressing the
+      bread down into the egg
+  - description: Microwave-Microwave on high for 90 seconds until the egg is cooked
+      through
+  - description: Put-Put the cup's contents on a plate
+  - description: cut-cut the contents on plate, and serve
+- activity_id: 9
+  environment: null
+  id: '9_15'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: melt-In a large mug, melt 1 tablespoon of softened butter in the
+      microwave for about 30 seconds
+  - description: Cut or tear-Cut or tear 1 slices of bread into bite-size pieces
+  - description: Roll-Roll the butter around in the cup to coat it
+  - description: whisk-In the mug, whisk one egg with a fork until well blended
+  - description: Sprinkle-Sprinkle 1/4 teaspoon cinnamon over the egg
+  - description: Add-Add 1/4 teaspoon vanilla extract to the mug
+  - description: stir-stir the mug
+  - description: add-add bread pieces to the egg mixture in the mug, pressing the
+      bread down into the egg
+  - description: Microwave-Microwave on high for 90 seconds until the egg is cooked
+      through
+  - description: Put-Put the cup's contents on a plate
+  - description: cut-cut the contents on plate, and serve
+- activity_id: 9
+  environment: null
+  id: '9_16'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: melt-In a large mug, melt 1 tablespoon of softened butter in the
+      microwave for about 30 seconds
+  - description: Roll-Roll the butter around in the cup to coat it
+  - description: whisk-In the mug, whisk one egg with a fork until well blended
+  - description: Sprinkle-Sprinkle 1/4 teaspoon cinnamon over the egg
+  - description: Add-Add 1/4 teaspoon vanilla extract to the mug
+  - description: stir-stir the mug
+  - description: Cut or tear-Cut or tear 1 slices of bread into bite-size pieces
+  - description: add-add bread pieces to the egg mixture in the mug, pressing the
+      bread down into the egg
+  - description: Microwave-Microwave on high for 90 seconds until the egg is cooked
+      through
+  - description: Put-Put the cup's contents on a plate
+  - description: cut-cut the contents on plate, and serve
+- activity_id: 9
+  environment: null
+  id: '9_17'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: melt-In a large mug, melt 1 tablespoon of softened butter in the
+      microwave for about 30 seconds
+  - description: Roll-Roll the butter around in the cup to coat it
+  - description: whisk-In the mug, whisk one egg with a fork until well blended
+  - description: Add-Add 1/4 teaspoon vanilla extract to the mug
+  - description: Cut or tear-Cut or tear 1 slices of bread into bite-size pieces
+  - description: Sprinkle-Sprinkle 1/4 teaspoon cinnamon over the egg
+  - description: stir-stir the mug
+  - description: add-add bread pieces to the egg mixture in the mug, pressing the
+      bread down into the egg
+  - description: Microwave-Microwave on high for 90 seconds until the egg is cooked
+      through
+  - description: Put-Put the cup's contents on a plate
+  - description: cut-cut the contents on plate, and serve
+- activity_id: 9
+  environment: null
+  id: '9_18'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: melt-In a large mug, melt 1 tablespoon of softened butter in the
+      microwave for about 30 seconds
+  - description: Roll-Roll the butter around in the cup to coat it
+  - description: Cut or tear-Cut or tear 1 slices of bread into bite-size pieces
+  - description: whisk-In the mug, whisk one egg with a fork until well blended
+  - description: Sprinkle-Sprinkle 1/4 teaspoon cinnamon over the egg
+  - description: Add-Add 1/4 teaspoon vanilla extract to the mug
+  - description: stir-stir the mug
+  - description: add-add bread pieces to the egg mixture in the mug, pressing the
+      bread down into the egg
+  - description: Microwave-Microwave on high for 90 seconds until the egg is cooked
+      through
+  - description: Put-Put the cup's contents on a plate
+  - description: cut-cut the contents on plate, and serve
+- activity_id: 9
+  environment: null
+  id: '9_19'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: melt-In a large mug, melt 1 tablespoon of softened butter in the
+      microwave for about 30 seconds
+  - description: Cut or tear-Cut or tear 1 slices of bread into bite-size pieces
+  - description: Roll-Roll the butter around in the cup to coat it
+  - description: whisk-In the mug, whisk one egg with a fork until well blended
+  - description: Sprinkle-Sprinkle 1/4 teaspoon cinnamon over the egg
+  - description: Add-Add 1/4 teaspoon vanilla extract to the mug
+  - description: stir-stir the mug
+  - description: add-add bread pieces to the egg mixture in the mug, pressing the
+      bread down into the egg
+  - description: Microwave-Microwave on high for 90 seconds until the egg is cooked
+      through
+  - description: Put-Put the cup's contents on a plate
+  - description: cut-cut the contents on plate, and serve
+- activity_id: 9
+  environment: null
+  id: '9_20'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: melt-In a large mug, melt 1 tablespoon of softened butter in the
+      microwave for about 30 seconds
+  - description: Roll-Roll the butter around in the cup to coat it
+  - description: whisk-In the mug, whisk one egg with a fork until well blended
+  - description: Cut or tear-Cut or tear 1 slices of bread into bite-size pieces
+  - description: Sprinkle-Sprinkle 1/4 teaspoon cinnamon over the egg
+  - description: Add-Add 1/4 teaspoon vanilla extract to the mug
+  - description: stir-stir the mug
+  - description: add-add bread pieces to the egg mixture in the mug, pressing the
+      bread down into the egg
+  - description: Microwave-Microwave on high for 90 seconds until the egg is cooked
+      through
+  - description: Put-Put the cup's contents on a plate
+  - description: cut-cut the contents on plate, and serve
+- activity_id: 9
+  environment: null
+  id: '9_21'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: melt-In a large mug, melt 1 tablespoon of softened butter in the
+      microwave for about 30 seconds
+  - description: Roll-Roll the butter around in the cup to coat it
+  - description: whisk-In the mug, whisk one egg with a fork until well blended
+  - description: Sprinkle-Sprinkle 1/4 teaspoon cinnamon over the egg
+  - description: Add-Add 1/4 teaspoon vanilla extract to the mug
+  - description: stir-stir the mug
+  - description: Cut or tear-Cut or tear 1 slices of bread into bite-size pieces
+  - description: add-add bread pieces to the egg mixture in the mug, pressing the
+      bread down into the egg
+  - description: Microwave-Microwave on high for 90 seconds until the egg is cooked
+      through
+  - description: Put-Put the cup's contents on a plate
+  - description: cut-cut the contents on plate, and serve
+- activity_id: 9
+  environment: null
+  id: '9_22'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Cut or tear-Cut or tear 1 slices of bread into bite-size pieces
+  - description: melt-In a large mug, melt 1 tablespoon of softened butter in the
+      microwave for about 30 seconds
+  - description: Roll-Roll the butter around in the cup to coat it
+  - description: whisk-In the mug, whisk one egg with a fork until well blended
+  - description: Add-Add 1/4 teaspoon vanilla extract to the mug
+  - description: Sprinkle-Sprinkle 1/4 teaspoon cinnamon over the egg
+  - description: stir-stir the mug
+  - description: add-add bread pieces to the egg mixture in the mug, pressing the
+      bread down into the egg
+  - description: Microwave-Microwave on high for 90 seconds until the egg is cooked
+      through
+  - description: Put-Put the cup's contents on a plate
+  - description: cut-cut the contents on plate, and serve
+- activity_id: 9
+  environment: null
+  id: '9_23'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Cut or tear-Cut or tear 1 slices of bread into bite-size pieces
+  - description: melt-In a large mug, melt 1 tablespoon of softened butter in the
+      microwave for about 30 seconds
+  - description: Roll-Roll the butter around in the cup to coat it
+  - description: whisk-In the mug, whisk one egg with a fork until well blended
+  - description: Sprinkle-Sprinkle 1/4 teaspoon cinnamon over the egg
+  - description: Add-Add 1/4 teaspoon vanilla extract to the mug
+  - description: stir-stir the mug
+  - description: add-add bread pieces to the egg mixture in the mug, pressing the
+      bread down into the egg
+  - description: Microwave-Microwave on high for 90 seconds until the egg is cooked
+      through
+  - description: Put-Put the cup's contents on a plate
+  - description: cut-cut the contents on plate, and serve
+- activity_id: 9
+  environment: null
+  id: '9_24'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: melt-In a large mug, melt 1 tablespoon of softened butter in the
+      microwave for about 30 seconds
+  - description: Roll-Roll the butter around in the cup to coat it
+  - description: Cut or tear-Cut or tear 1 slices of bread into bite-size pieces
+  - description: whisk-In the mug, whisk one egg with a fork until well blended
+  - description: Add-Add 1/4 teaspoon vanilla extract to the mug
+  - description: Sprinkle-Sprinkle 1/4 teaspoon cinnamon over the egg
+  - description: stir-stir the mug
+  - description: add-add bread pieces to the egg mixture in the mug, pressing the
+      bread down into the egg
+  - description: Microwave-Microwave on high for 90 seconds until the egg is cooked
+      through
+  - description: Put-Put the cup's contents on a plate
+  - description: cut-cut the contents on plate, and serve
+- activity_id: 9
+  environment: null
+  errors:
+  - description: Sprinkle-Sprinkle 1/4 teaspoon cinnamon over the egg
+    tag: Missing Step
+  id: '9_26'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Cut or tear-Cut or tear 1 slices of bread into bite-size pieces
+  - description: melt-In a large mug, melt 1 tablespoon of softened butter in the
+      microwave for about 30 seconds
+  - description: Roll-Roll the butter around in the cup to coat it
+  - description: whisk-In the mug, whisk one egg with a fork until well blended
+  - description: Add-Add 1/4 teaspoon vanilla extract to the mug
+  - description: stir-stir the mug
+  - description: add-add bread pieces to the egg mixture in the mug, pressing the
+      bread down into the egg
+  - description: Microwave-Microwave on high for 90 seconds until the egg is cooked
+      through
+  - description: Put-Put the cup's contents on a plate
+  - description: cut-cut the contents on plate, and serve
+- activity_id: 9
+  environment: null
+  errors:
+  - description: Roll-Roll the butter around in the cup to coat it
+    tag: Missing Step
+  id: '9_27'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Cut or tear-Cut or tear 1 slices of bread into bite-size pieces
+  - description: melt-In a large mug, melt 1 tablespoon of softened butter in the
+      microwave for about 30 seconds
+  - description: whisk-In the mug, whisk one egg with a fork until well blended
+  - description: Sprinkle-Sprinkle 1/4 teaspoon cinnamon over the egg
+  - description: Add-Add 1/4 teaspoon vanilla extract to the mug
+  - description: stir-stir the mug
+  - description: add-add bread pieces to the egg mixture in the mug, pressing the
+      bread down into the egg
+  - description: Microwave-Microwave on high for 90 seconds until the egg is cooked
+      through
+  - description: Put-Put the cup's contents on a plate
+  - description: cut-cut the contents on plate, and serve
+- activity_id: 9
+  environment: null
+  errors:
+  - description: melt-In a large mug, melt 1 tablespoon of softened butter in the
+      microwave for about 30 seconds
+    tag: Missing Step
+  - description: cut-cut the contents on plate, and serve
+    tag: Missing Step
+  id: '9_28'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Cut or tear-Cut or tear 1 slices of bread into bite-size pieces
+  - description: Roll-Roll the butter around in the cup to coat it
+  - description: whisk-In the mug, whisk one egg with a fork until well blended
+  - description: Sprinkle-Sprinkle 1/4 teaspoon cinnamon over the egg
+  - description: Add-Add 1/4 teaspoon vanilla extract to the mug
+  - description: stir-stir the mug
+  - description: add-add bread pieces to the egg mixture in the mug, pressing the
+      bread down into the egg
+  - description: Microwave-Microwave on high for 90 seconds until the egg is cooked
+      through
+  - description: Put-Put the cup's contents on a plate
+- activity_id: 9
+  environment: null
+  errors:
+  - description: Cut or tear-Cut or tear 1 slices of bread into bite-size pieces
+    tag: Missing Step
+  - description: Put-Put the cup's contents on a plate
+    tag: Missing Step
+  id: '9_29'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: melt-In a large mug, melt 1 tablespoon of softened butter in the
+      microwave for about 30 seconds
+  - description: Roll-Roll the butter around in the cup to coat it
+  - description: whisk-In the mug, whisk one egg with a fork until well blended
+  - description: Add-Add 1/4 teaspoon vanilla extract to the mug
+  - description: Sprinkle-Sprinkle 1/4 teaspoon cinnamon over the egg
+  - description: stir-stir the mug
+  - description: add-add bread pieces to the egg mixture in the mug, pressing the
+      bread down into the egg
+  - description: Microwave-Microwave on high for 90 seconds until the egg is cooked
+      through
+  - description: cut-cut the contents on plate, and serve
+- activity_id: 9
+  environment: null
+  errors:
+  - description: stir-stir the mug
+    tag: Missing Step
+  - description: Microwave-Microwave on high for 90 seconds until the egg is cooked
+      through
+    tag: Missing Step
+  - description: cut-cut the contents on plate, and serve
+    tag: Missing Step
+  id: '9_30'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: melt-In a large mug, melt 1 tablespoon of softened butter in the
+      microwave for about 30 seconds
+  - description: Roll-Roll the butter around in the cup to coat it
+  - description: whisk-In the mug, whisk one egg with a fork until well blended
+  - description: Add-Add 1/4 teaspoon vanilla extract to the mug
+  - description: Sprinkle-Sprinkle 1/4 teaspoon cinnamon over the egg
+  - description: Cut or tear-Cut or tear 1 slices of bread into bite-size pieces
+  - description: add-add bread pieces to the egg mixture in the mug, pressing the
+      bread down into the egg
+  - description: Put-Put the cup's contents on a plate
+- activity_id: 9
+  environment: null
+  errors:
+  - description: whisk-In the mug, whisk one egg with a fork until well blended
+    tag: Missing Step
+  - description: Cut or tear-Cut or tear 1 slices of bread into bite-size pieces
+    tag: Missing Step
+  id: '9_31'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: melt-In a large mug, melt 1 tablespoon of softened butter in the
+      microwave for about 30 seconds
+  - description: Roll-Roll the butter around in the cup to coat it
+  - description: Add-Add 1/4 teaspoon vanilla extract to the mug
+  - description: Sprinkle-Sprinkle 1/4 teaspoon cinnamon over the egg
+  - description: stir-stir the mug
+  - description: add-add bread pieces to the egg mixture in the mug, pressing the
+      bread down into the egg
+  - description: Microwave-Microwave on high for 90 seconds until the egg is cooked
+      through
+  - description: Put-Put the cup's contents on a plate
+  - description: cut-cut the contents on plate, and serve
+- activity_id: 9
+  environment: null
+  errors:
+  - description: whisk-In the mug, whisk one egg with a fork until well blended
+    tag: Missing Step
+  id: '9_32'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: melt-In a large mug, melt 1 tablespoon of softened butter in the
+      microwave for about 30 seconds
+  - description: Roll-Roll the butter around in the cup to coat it
+  - description: Add-Add 1/4 teaspoon vanilla extract to the mug
+  - description: Cut or tear-Cut or tear 1 slices of bread into bite-size pieces
+  - description: Sprinkle-Sprinkle 1/4 teaspoon cinnamon over the egg
+  - description: stir-stir the mug
+  - description: add-add bread pieces to the egg mixture in the mug, pressing the
+      bread down into the egg
+  - description: Microwave-Microwave on high for 90 seconds until the egg is cooked
+      through
+  - description: Put-Put the cup's contents on a plate
+  - description: cut-cut the contents on plate, and serve
+- activity_id: 9
+  environment: null
+  errors:
+  - description: Add-Add 1/4 teaspoon vanilla extract to the mug
+    tag: Missing Step
+  id: '9_33'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: melt-In a large mug, melt 1 tablespoon of softened butter in the
+      microwave for about 30 seconds
+  - description: Roll-Roll the butter around in the cup to coat it
+  - description: whisk-In the mug, whisk one egg with a fork until well blended
+  - description: Sprinkle-Sprinkle 1/4 teaspoon cinnamon over the egg
+  - description: stir-stir the mug
+  - description: Cut or tear-Cut or tear 1 slices of bread into bite-size pieces
+  - description: add-add bread pieces to the egg mixture in the mug, pressing the
+      bread down into the egg
+  - description: Microwave-Microwave on high for 90 seconds until the egg is cooked
+      through
+  - description: Put-Put the cup's contents on a plate
+  - description: cut-cut the contents on plate, and serve
+- activity_id: 9
+  environment: null
+  errors:
+  - description: melt-In a large mug, melt 1 tablespoon of softened butter in the
+      microwave for about 30 seconds
+    tag: Missing Step
+  id: '9_34'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Roll-Roll the butter around in the cup to coat it
+  - description: whisk-In the mug, whisk one egg with a fork until well blended
+  - description: Cut or tear-Cut or tear 1 slices of bread into bite-size pieces
+  - description: Sprinkle-Sprinkle 1/4 teaspoon cinnamon over the egg
+  - description: Add-Add 1/4 teaspoon vanilla extract to the mug
+  - description: stir-stir the mug
+  - description: add-add bread pieces to the egg mixture in the mug, pressing the
+      bread down into the egg
+  - description: Microwave-Microwave on high for 90 seconds until the egg is cooked
+      through
+  - description: Put-Put the cup's contents on a plate
+  - description: cut-cut the contents on plate, and serve
+- activity_id: 9
+  environment: null
+  errors:
+  - description: cut-cut the contents on plate, and serve
+    tag: Missing Step
+  id: '9_35'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: melt-In a large mug, melt 1 tablespoon of softened butter in the
+      microwave for about 30 seconds
+  - description: Roll-Roll the butter around in the cup to coat it
+  - description: whisk-In the mug, whisk one egg with a fork until well blended
+  - description: Cut or tear-Cut or tear 1 slices of bread into bite-size pieces
+  - description: Add-Add 1/4 teaspoon vanilla extract to the mug
+  - description: Sprinkle-Sprinkle 1/4 teaspoon cinnamon over the egg
+  - description: stir-stir the mug
+  - description: add-add bread pieces to the egg mixture in the mug, pressing the
+      bread down into the egg
+  - description: Microwave-Microwave on high for 90 seconds until the egg is cooked
+      through
+  - description: Put-Put the cup's contents on a plate
+- activity_id: 9
+  environment: null
+  errors:
+  - description: Cut or tear-Cut or tear 1 slices of bread into bite-size pieces
+    tag: Missing Step
+  id: '9_36'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: melt-In a large mug, melt 1 tablespoon of softened butter in the
+      microwave for about 30 seconds
+  - description: Roll-Roll the butter around in the cup to coat it
+  - description: whisk-In the mug, whisk one egg with a fork until well blended
+  - description: Add-Add 1/4 teaspoon vanilla extract to the mug
+  - description: Sprinkle-Sprinkle 1/4 teaspoon cinnamon over the egg
+  - description: stir-stir the mug
+  - description: add-add bread pieces to the egg mixture in the mug, pressing the
+      bread down into the egg
+  - description: Microwave-Microwave on high for 90 seconds until the egg is cooked
+      through
+  - description: Put-Put the cup's contents on a plate
+  - description: cut-cut the contents on plate, and serve
+- activity_id: 9
+  environment: null
+  errors:
+  - description: Cut or tear-Cut or tear 1 slices of bread into bite-size pieces
+    tag: Missing Step
+  id: '9_37'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: melt-In a large mug, melt 1 tablespoon of softened butter in the
+      microwave for about 30 seconds
+  - description: Roll-Roll the butter around in the cup to coat it
+  - description: whisk-In the mug, whisk one egg with a fork until well blended
+  - description: Sprinkle-Sprinkle 1/4 teaspoon cinnamon over the egg
+  - description: Add-Add 1/4 teaspoon vanilla extract to the mug
+  - description: stir-stir the mug
+  - description: add-add bread pieces to the egg mixture in the mug, pressing the
+      bread down into the egg
+  - description: Microwave-Microwave on high for 90 seconds until the egg is cooked
+      through
+  - description: Put-Put the cup's contents on a plate
+  - description: cut-cut the contents on plate, and serve
+- activity_id: 9
+  environment: null
+  errors:
+  - description: melt-In a large mug, melt 1 tablespoon of softened butter in the
+      microwave for about 30 seconds
+    tag: Missing Step
+  id: '9_38'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Roll-Roll the butter around in the cup to coat it
+  - description: whisk-In the mug, whisk one egg with a fork until well blended
+  - description: Add-Add 1/4 teaspoon vanilla extract to the mug
+  - description: Sprinkle-Sprinkle 1/4 teaspoon cinnamon over the egg
+  - description: stir-stir the mug
+  - description: Cut or tear-Cut or tear 1 slices of bread into bite-size pieces
+  - description: add-add bread pieces to the egg mixture in the mug, pressing the
+      bread down into the egg
+  - description: Microwave-Microwave on high for 90 seconds until the egg is cooked
+      through
+  - description: Put-Put the cup's contents on a plate
+  - description: cut-cut the contents on plate, and serve
+- activity_id: 9
+  environment: null
+  errors:
+  - description: stir-stir the mug
+    tag: Missing Step
+  id: '9_39'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: melt-In a large mug, melt 1 tablespoon of softened butter in the
+      microwave for about 30 seconds
+  - description: Roll-Roll the butter around in the cup to coat it
+  - description: whisk-In the mug, whisk one egg with a fork until well blended
+  - description: Sprinkle-Sprinkle 1/4 teaspoon cinnamon over the egg
+  - description: Add-Add 1/4 teaspoon vanilla extract to the mug
+  - description: Cut or tear-Cut or tear 1 slices of bread into bite-size pieces
+  - description: add-add bread pieces to the egg mixture in the mug, pressing the
+      bread down into the egg
+  - description: Microwave-Microwave on high for 90 seconds until the egg is cooked
+      through
+  - description: Put-Put the cup's contents on a plate
+  - description: cut-cut the contents on plate, and serve
+- activity_id: 9
+  environment: null
+  errors:
+  - description: Add-Add 1/4 teaspoon vanilla extract to the mug
+    tag: Missing Step
+  - description: Cut or tear-Cut or tear 1 slices of bread into bite-size pieces
+    tag: Missing Step
+  - description: Sprinkle-Sprinkle 1/4 teaspoon cinnamon over the egg
+    tag: Missing Step
+  - tag: Order Error
+  id: '9_40'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: melt-In a large mug, melt 1 tablespoon of softened butter in the
+      microwave for about 30 seconds
+  - description: Roll-Roll the butter around in the cup to coat it
+  - description: whisk-In the mug, whisk one egg with a fork until well blended
+  - description: Microwave-Microwave on high for 90 seconds until the egg is cooked
+      through
+  - description: add-add bread pieces to the egg mixture in the mug, pressing the
+      bread down into the egg
+  - description: stir-stir the mug
+  - description: Put-Put the cup's contents on a plate
+  - description: cut-cut the contents on plate, and serve
+- activity_id: 9
+  environment: null
+  errors:
+  - description: Roll-Roll the butter around in the cup to coat it
+    tag: Missing Step
+  - description: Sprinkle-Sprinkle 1/4 teaspoon cinnamon over the egg
+    tag: Missing Step
+  - tag: Order Error
+  id: '9_41'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: melt-In a large mug, melt 1 tablespoon of softened butter in the
+      microwave for about 30 seconds
+  - description: whisk-In the mug, whisk one egg with a fork until well blended
+  - description: Cut or tear-Cut or tear 1 slices of bread into bite-size pieces
+  - description: stir-stir the mug
+  - description: add-add bread pieces to the egg mixture in the mug, pressing the
+      bread down into the egg
+  - description: Microwave-Microwave on high for 90 seconds until the egg is cooked
+      through
+  - description: Add-Add 1/4 teaspoon vanilla extract to the mug
+  - description: Put-Put the cup's contents on a plate
+  - description: cut-cut the contents on plate, and serve
+- activity_id: 9
+  environment: null
+  errors:
+  - tag: Order Error
+  id: '9_42'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: melt-In a large mug, melt 1 tablespoon of softened butter in the
+      microwave for about 30 seconds
+  - description: Roll-Roll the butter around in the cup to coat it
+  - description: whisk-In the mug, whisk one egg with a fork until well blended
+  - description: Cut or tear-Cut or tear 1 slices of bread into bite-size pieces
+  - description: Sprinkle-Sprinkle 1/4 teaspoon cinnamon over the egg
+  - description: Add-Add 1/4 teaspoon vanilla extract to the mug
+  - description: add-add bread pieces to the egg mixture in the mug, pressing the
+      bread down into the egg
+  - description: stir-stir the mug
+  - description: Microwave-Microwave on high for 90 seconds until the egg is cooked
+      through
+  - description: Put-Put the cup's contents on a plate
+  - description: cut-cut the contents on plate, and serve
+- activity_id: 9
+  environment: null
+  errors:
+  - description: Cut or tear-Cut or tear 1 slices of bread into bite-size pieces
+    tag: Missing Step
+  - tag: Order Error
+  id: '9_43'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: melt-In a large mug, melt 1 tablespoon of softened butter in the
+      microwave for about 30 seconds
+  - description: Roll-Roll the butter around in the cup to coat it
+  - description: whisk-In the mug, whisk one egg with a fork until well blended
+  - description: add-add bread pieces to the egg mixture in the mug, pressing the
+      bread down into the egg
+  - description: stir-stir the mug
+  - description: Add-Add 1/4 teaspoon vanilla extract to the mug
+  - description: Sprinkle-Sprinkle 1/4 teaspoon cinnamon over the egg
+  - description: Microwave-Microwave on high for 90 seconds until the egg is cooked
+      through
+  - description: Put-Put the cup's contents on a plate
+  - description: cut-cut the contents on plate, and serve
+- activity_id: 9
+  environment: null
+  errors:
+  - tag: Order Error
+  id: '9_44'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: melt-In a large mug, melt 1 tablespoon of softened butter in the
+      microwave for about 30 seconds
+  - description: Cut or tear-Cut or tear 1 slices of bread into bite-size pieces
+  - description: Roll-Roll the butter around in the cup to coat it
+  - description: whisk-In the mug, whisk one egg with a fork until well blended
+  - description: add-add bread pieces to the egg mixture in the mug, pressing the
+      bread down into the egg
+  - description: Add-Add 1/4 teaspoon vanilla extract to the mug
+  - description: stir-stir the mug
+  - description: Microwave-Microwave on high for 90 seconds until the egg is cooked
+      through
+  - description: Put-Put the cup's contents on a plate
+  - description: Sprinkle-Sprinkle 1/4 teaspoon cinnamon over the egg
+  - description: cut-cut the contents on plate, and serve
+- activity_id: 9
+  environment: null
+  errors:
+  - tag: Order Error
+  id: '9_45'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Add-Add 1/4 teaspoon vanilla extract to the mug
+  - description: melt-In a large mug, melt 1 tablespoon of softened butter in the
+      microwave for about 30 seconds
+  - description: Roll-Roll the butter around in the cup to coat it
+  - description: whisk-In the mug, whisk one egg with a fork until well blended
+  - description: Microwave-Microwave on high for 90 seconds until the egg is cooked
+      through
+  - description: Sprinkle-Sprinkle 1/4 teaspoon cinnamon over the egg
+  - description: stir-stir the mug
+  - description: Cut or tear-Cut or tear 1 slices of bread into bite-size pieces
+  - description: add-add bread pieces to the egg mixture in the mug, pressing the
+      bread down into the egg
+  - description: Put-Put the cup's contents on a plate
+  - description: cut-cut the contents on plate, and serve
+- activity_id: 9
+  environment: null
+  errors:
+  - description: Microwave-Microwave on high for 90 seconds until the egg is cooked
+      through
+    tag: Missing Step
+  - tag: Order Error
+  id: '9_46'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: melt-In a large mug, melt 1 tablespoon of softened butter in the
+      microwave for about 30 seconds
+  - description: Roll-Roll the butter around in the cup to coat it
+  - description: Sprinkle-Sprinkle 1/4 teaspoon cinnamon over the egg
+  - description: whisk-In the mug, whisk one egg with a fork until well blended
+  - description: Cut or tear-Cut or tear 1 slices of bread into bite-size pieces
+  - description: Add-Add 1/4 teaspoon vanilla extract to the mug
+  - description: stir-stir the mug
+  - description: add-add bread pieces to the egg mixture in the mug, pressing the
+      bread down into the egg
+  - description: Put-Put the cup's contents on a plate
+  - description: cut-cut the contents on plate, and serve
+- activity_id: 9
+  environment: null
+  errors:
+  - description: add-add bread pieces to the egg mixture in the mug, pressing the
+      bread down into the egg
+    tag: Missing Step
+  - description: stir-stir the mug
+    tag: Missing Step
+  - tag: Order Error
+  id: '9_47'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Cut or tear-Cut or tear 1 slices of bread into bite-size pieces
+  - description: melt-In a large mug, melt 1 tablespoon of softened butter in the
+      microwave for about 30 seconds
+  - description: Roll-Roll the butter around in the cup to coat it
+  - description: whisk-In the mug, whisk one egg with a fork until well blended
+  - description: Add-Add 1/4 teaspoon vanilla extract to the mug
+  - description: Sprinkle-Sprinkle 1/4 teaspoon cinnamon over the egg
+  - description: Microwave-Microwave on high for 90 seconds until the egg is cooked
+      through
+  - description: Put-Put the cup's contents on a plate
+  - description: cut-cut the contents on plate, and serve
+- activity_id: 9
+  environment: null
+  errors:
+  - description: Cut or tear-Cut or tear 1 slices of bread into bite-size pieces
+    tag: Missing Step
+  - description: Roll-Roll the butter around in the cup to coat it
+    tag: Missing Step
+  - description: melt-In a large mug, melt 1 tablespoon of softened butter in the
+      microwave for about 30 seconds
+    tag: Missing Step
+  - description: Sprinkle-Sprinkle 1/4 teaspoon cinnamon over the egg
+    tag: Missing Step
+  - description: stir-stir the mug
+    tag: Missing Step
+  - tag: Order Error
+  id: '9_48'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: whisk-In the mug, whisk one egg with a fork until well blended
+  - description: Add-Add 1/4 teaspoon vanilla extract to the mug
+  - description: add-add bread pieces to the egg mixture in the mug, pressing the
+      bread down into the egg
+  - description: Microwave-Microwave on high for 90 seconds until the egg is cooked
+      through
+  - description: Put-Put the cup's contents on a plate
+  - description: cut-cut the contents on plate, and serve
+- activity_id: 9
+  environment: null
+  errors:
+  - tag: Order Error
+  id: '9_49'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Cut or tear-Cut or tear 1 slices of bread into bite-size pieces
+  - description: melt-In a large mug, melt 1 tablespoon of softened butter in the
+      microwave for about 30 seconds
+  - description: whisk-In the mug, whisk one egg with a fork until well blended
+  - description: Roll-Roll the butter around in the cup to coat it
+  - description: Add-Add 1/4 teaspoon vanilla extract to the mug
+  - description: add-add bread pieces to the egg mixture in the mug, pressing the
+      bread down into the egg
+  - description: stir-stir the mug
+  - description: Sprinkle-Sprinkle 1/4 teaspoon cinnamon over the egg
+  - description: Microwave-Microwave on high for 90 seconds until the egg is cooked
+      through
+  - description: Put-Put the cup's contents on a plate
+  - description: cut-cut the contents on plate, and serve
+- activity_id: 9
+  environment: null
+  errors:
+  - tag: Order Error
+  id: '9_50'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: melt-In a large mug, melt 1 tablespoon of softened butter in the
+      microwave for about 30 seconds
+  - description: Cut or tear-Cut or tear 1 slices of bread into bite-size pieces
+  - description: Roll-Roll the butter around in the cup to coat it
+  - description: whisk-In the mug, whisk one egg with a fork until well blended
+  - description: Add-Add 1/4 teaspoon vanilla extract to the mug
+  - description: stir-stir the mug
+  - description: add-add bread pieces to the egg mixture in the mug, pressing the
+      bread down into the egg
+  - description: Sprinkle-Sprinkle 1/4 teaspoon cinnamon over the egg
+  - description: Microwave-Microwave on high for 90 seconds until the egg is cooked
+      through
+  - description: cut-cut the contents on plate, and serve
+  - description: Put-Put the cup's contents on a plate

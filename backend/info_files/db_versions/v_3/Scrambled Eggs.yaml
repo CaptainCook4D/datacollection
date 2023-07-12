@@ -1,0 +1,1149 @@
+- activity_id: 16
+  environment: 5
+  id: '16_1'
+  is_error: false
+  recorded_by: 7
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 7
+  steps:
+  - description: Chop-Chop 1/4 medium onion
+  - description: Chop-Chop 1 tsp cilantro
+  - description: Chop-Chop 1/4 tomato
+  - description: Chop-Chop 1 green chilli
+  - description: Peel-Peel 2 garlic cloves
+  - description: Mince-Mince peeled garlic cloves
+  - description: Crack-Crack one egg in the bowl
+  - description: add-add  1 tbsp milk to the bowl
+  - description: add-add 1/3 tsp salt to the bowl
+  - description: Whisk-Whisk the egg mixture in the bowl
+  - description: Heat-Heat 2 tbsp oil in a heavy-bottomed or nonstick pan on medium
+      heat
+  - description: add-add 1/3 tsp salt to the pan
+  - description: add-add chopped onions to the pan
+  - description: Saute-Saute the onions on medium heat until they are soft and translucent
+  - description: Add-Add garlic to the pan
+  - description: Add-Add chilli to the pan
+  - description: Cook-Cook for 1 minute, mixing everything
+  - description: Add-Add 1/8 tsp of turmeric to the pan
+  - description: Add-Add tomatoes to the pan
+  - description: Cook-Cook covered for 1 minute or until the tomatoes soften
+  - description: pour-Slowly pour the whisked eggs into the pan
+  - description: mixing-Keep mixing with a spatula for 3 minutes or until the eggs
+      are almost cooked
+  - description: Garnish-Garnish with 1 tbsp chopped cilantro and serve
+- activity_id: 16
+  environment: 5
+  id: '16_2'
+  is_error: true
+  recorded_by: 1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 6
+  steps:
+  - description: Chop-Chop 1/4 medium onion
+  - description: Chop-Chop 1/4 tomato
+  - description: Crack-Crack one egg in the bowl
+  - description: add-add  1 tbsp milk to the bowl
+    errors:
+    - description: forgot to add milk during cooking
+      tag: Missing Step
+    modified_description: add-forgot to add 1 tbsp milk to the bowl
+  - description: Chop-Chop 1 green chilli
+  - description: Chop-Chop 1 tsp cilantro
+  - description: Peel-Peel 2 garlic cloves
+  - description: Mince-Mince peeled garlic cloves
+  - description: add-add 1/3 tsp salt to the bowl
+  - description: Whisk-Whisk the egg mixture in the bowl
+  - description: Heat-Heat 2 tbsp oil in a heavy-bottomed or nonstick pan on medium
+      heat
+  - description: add-add 1/3 tsp salt to the pan
+  - description: add-add chopped onions to the pan
+  - description: Saute-Saute the onions on medium heat until they are soft and translucent
+  - description: Add-Add garlic to the pan
+  - description: Add-Add chilli to the pan
+  - description: Cook-Cook for 1 minute, mixing everything
+  - description: Add-Add 1/8 tsp of turmeric to the pan
+  - description: Add-Add tomatoes to the pan
+  - description: Cook-Cook covered for 1 minute or until the tomatoes soften
+    errors:
+    - description: forgot to cover the lid during cooking
+      tag: Technique Error
+    modified_description: Cook-Cook uncovered instead of covered for 1 minute or until
+      the tomatoes soften
+  - description: pour-Slowly pour the whisked eggs into the pan
+  - description: mixing-Keep mixing with a spatula for 3 minutes or until the eggs
+      are almost cooked
+  - description: Garnish-Garnish with 1 tbsp chopped cilantro and serve
+- activity_id: 16
+  environment: 10
+  id: '16_10'
+  is_error: false
+  recorded_by: 6
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 6
+  steps:
+  - description: Chop-Chop 1 green chilli
+  - description: add-add 1/3 tsp salt to the bowl
+  - description: Peel-Peel 2 garlic cloves
+  - description: Chop-Chop 1/4 medium onion
+  - description: Mince-Mince peeled garlic cloves
+  - description: Chop-Chop 1/4 tomato
+  - description: Crack-Crack one egg in the bowl
+  - description: add-add  1 tbsp milk to the bowl
+  - description: Whisk-Whisk the egg mixture in the bowl
+  - description: Chop-Chop 1 tsp cilantro
+  - description: Heat-Heat 2 tbsp oil in a heavy-bottomed or nonstick pan on medium
+      heat
+  - description: add-add chopped onions to the pan
+  - description: add-add 1/3 tsp salt to the pan
+  - description: Saute-Saute the onions on medium heat until they are soft and translucent
+  - description: Add-Add chilli to the pan
+  - description: Add-Add garlic to the pan
+  - description: Cook-Cook for 1 minute, mixing everything
+  - description: Add-Add tomatoes to the pan
+  - description: Add-Add 1/8 tsp of turmeric to the pan
+  - description: Cook-Cook covered for 1 minute or until the tomatoes soften
+  - description: pour-Slowly pour the whisked eggs into the pan
+  - description: mixing-Keep mixing with a spatula for 3 minutes or until the eggs
+      are almost cooked
+  - description: Garnish-Garnish with 1 tbsp chopped cilantro and serve
+- activity_id: 16
+  environment: 2
+  id: '16_18'
+  is_error: true
+  recorded_by: 1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: '"2023-04-24T02:02:33.208514"'
+  selected_by: 6
+  steps:
+  - description: Peel-Peel 2 garlic cloves
+  - description: Chop-Chop 1 green chilli
+  - description: Chop-Chop 1/4 medium onion
+  - description: add-add 1/3 tsp salt to the bowl
+  - description: Crack-Crack one egg in the bowl
+  - description: add-add  1 tbsp milk to the bowl
+  - description: Whisk-Whisk the egg mixture in the bowl
+  - description: Mince-Mince peeled garlic cloves
+  - description: Chop-Chop 1/4 tomato
+  - description: Chop-Chop 1 tsp cilantro
+  - description: Heat-Heat 2 tbsp oil in a heavy-bottomed or nonstick pan on medium
+      heat
+  - description: add-add chopped onions to the pan
+  - description: add-add 1/3 tsp salt to the pan
+  - description: Saute-Saute the onions on medium heat until they are soft and translucent
+  - description: Add-Add chilli to the pan
+  - description: Add-Add garlic to the pan
+  - description: Cook-Cook for 1 minute, mixing everything
+  - description: Add-Add tomatoes to the pan
+  - description: Add-Add 1/8 tsp of turmeric to the pan
+    errors:
+    - description: forgot to add turmeric during cooking
+      tag: Missing Step
+    modified_description: Add- forget to Add 1/8 tsp of turmeric to the pan
+  - description: Cook-Cook covered for 1 minute or until the tomatoes soften
+  - description: pour-Slowly pour the whisked eggs into the pan
+  - description: mixing-Keep mixing with a spatula for 3 minutes or until the eggs
+      are almost cooked
+    errors:
+    - description: Did  not mix fully and let it form an omlet instead of scrambled
+        eggs
+      tag: Technique Error
+    modified_description: mixing-Keep mixing incompletely with a spatula for 3 minutes
+      or until the eggs are almost cooked
+  - description: Garnish-Garnish with 1 tbsp chopped cilantro and serve
+- activity_id: 16
+  environment: 2
+  id: '16_23'
+  is_error: false
+  recorded_by: 7
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: '"2023-04-21T12:56:37.382255"'
+  selected_by: 7
+  steps:
+  - description: Chop-Chop 1 green chilli
+  - description: add-add 1/3 tsp salt to the bowl
+  - description: Crack-Crack one egg in the bowl
+  - description: add-add  1 tbsp milk to the bowl
+  - description: Whisk-Whisk the egg mixture in the bowl
+  - description: Chop-Chop 1/4 tomato
+  - description: Chop-Chop 1 tsp cilantro
+  - description: Chop-Chop 1/4 medium onion
+  - description: Peel-Peel 2 garlic cloves
+  - description: Mince-Mince peeled garlic cloves
+  - description: Heat-Heat 2 tbsp oil in a heavy-bottomed or nonstick pan on medium
+      heat
+  - description: add-add 1/3 tsp salt to the pan
+  - description: add-add chopped onions to the pan
+  - description: Saute-Saute the onions on medium heat until they are soft and translucent
+  - description: Add-Add garlic to the pan
+  - description: Add-Add chilli to the pan
+  - description: Cook-Cook for 1 minute, mixing everything
+  - description: Add-Add tomatoes to the pan
+  - description: Add-Add 1/8 tsp of turmeric to the pan
+  - description: Cook-Cook covered for 1 minute or until the tomatoes soften
+  - description: pour-Slowly pour the whisked eggs into the pan
+  - description: mixing-Keep mixing with a spatula for 3 minutes or until the eggs
+      are almost cooked
+  - description: Garnish-Garnish with 1 tbsp chopped cilantro and serve
+- activity_id: 16
+  environment: 6
+  errors:
+  - description: Add-Add garlic to the pan
+    tag: Missing Step
+  - description: Garnish-Garnish with 1 tbsp chopped cilantro and serve
+    tag: Missing Step
+  id: '16_26'
+  is_error: true
+  recorded_by: 7
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 7
+  steps:
+  - description: Chop-Chop 1/4 medium onion
+    errors:
+    - description: Slice instead of chop
+      tag: Preparation Error
+    modified_description: Slice-Slice 1/4 medium onion
+  - description: Chop-Chop 1/4 tomato
+  - description: Heat-Heat 2 tbsp oil in a heavy-bottomed or nonstick pan on medium
+      heat
+    errors:
+    - description: low-medium instead of medium
+      tag: Temperature Error
+    modified_description: Heat-Heat 2 tbsp oil in a heavy-bottomed or nonstick pan
+      on low-medium heat
+  - description: Add-Add 1/8 tsp of turmeric to the pan
+    errors:
+    - description: 1/2 instead of 1/8 tsp
+      tag: Measurement Error
+    modified_description: Add-Add 1/2 tsp of turmeric to the pan
+  - description: Chop-Chop 1 tsp cilantro
+    errors:
+    - description: No chop
+      tag: Preparation Error
+    modified_description: Prepare 1 tsp cilantro and don't chop
+  - description: add-add 1/3 tsp salt to the pan
+    errors:
+    - description: sugar instead of salt
+      tag: Preparation Error
+    modified_description: add-add 1/3 tsp sugar to the pan
+  - description: Chop-Chop 1 green chilli
+  - description: add-add 1/3 tsp salt to the bowl
+    errors:
+    - description: Add salt to the pan
+      tag: Preparation Error
+    modified_description: add-add 1/3 tsp salt to the pan
+  - description: Add-Add tomatoes to the pan
+    errors:
+    - description: Splash some tomatoes outside
+      tag: Technique Error
+    modified_description: Add-Add tomatoes to the pan, but splash some tomatoes outside
+  - description: Peel-Peel 2 garlic cloves
+    errors:
+    - description: 1 instead of 2 garlic cloves
+      tag: Measurement Error
+    modified_description: Peel-Peel 1 garlic clove
+  - description: Crack-Crack one egg in the bowl
+    errors:
+    - description: Wash the bowl before use
+      tag: Preparation Error
+    modified_description: Wash a dirty bowl then Crack-Crack one egg in the bowl
+  - description: add-add chopped onions to the pan
+    errors:
+    - description: Move the onion to the bowl then move to the pan
+      tag: Preparation Error
+    modified_description: add-add chopped onions to the bowl, then move it to the
+      pan
+  - description: Mince-Mince peeled garlic cloves
+    errors:
+    - description: Chop instead of mince
+      tag: Preparation Error
+    modified_description: Chop-Chop peeled garlic cloves
+  - description: Saute-Saute the onions on medium heat until they are soft and translucent
+    errors:
+    - description: Just cook onion for a short time
+      tag: Timing Error
+    modified_description: Saute-Saute the onions on medium heat for a short time
+  - description: Add-Add chilli to the pan
+  - description: Cook-Cook for 1 minute, mixing everything
+  - description: Cook-Cook covered for 1 minute or until the tomatoes soften
+  - description: add-add  1 tbsp milk to the bowl
+    errors:
+    - description: 2 instead of 1 tbsp
+      tag: Measurement Error
+    modified_description: add-add 2 tbsp milk to the bowl
+  - description: Whisk-Whisk the egg mixture in the bowl
+  - description: pour-Slowly pour the whisked eggs into the pan
+    errors:
+    - description: quickly instead of slowly
+      tag: Technique Error
+    modified_description: pour-Quickly pour the whisked eggs into the pan
+  - description: mixing-Keep mixing with a spatula for 3 minutes or until the eggs
+      are almost cooked
+    errors:
+    - description: 1.5 minutes instead of 3 minutes
+      tag: Timing Error
+    modified_description: mixing-Keep mixing with a spatula for 1.5 minutes
+- activity_id: 16
+  environment: 9
+  errors:
+  - description: Chop-Chop 1/4 tomato
+    tag: Missing Step
+  - description: Add-Add tomatoes to the pan
+    tag: Missing Step
+  - description: Cook-Cook covered for 1 minute or until the tomatoes soften
+    tag: Missing Step
+  id: '16_27'
+  is_error: true
+  recorded_by: 7
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 7
+  steps:
+  - description: Chop-Chop 1/4 medium onion
+    errors:
+    - description: slice instead of chop
+      tag: Technique Error
+    modified_description: Slice 1/4 medium onion
+  - description: Add-Add 1/8 tsp of turmeric to the pan
+    errors:
+    - description: 1/2 instead of 1/8
+      tag: Measurement Error
+    modified_description: Add-Add 1/2 tsp of turmeric to the pan
+  - description: Chop-Chop 1 tsp cilantro
+    errors:
+    - description: No chop before use the cilantro
+      tag: Preparation Error
+    modified_description: Prepare 1 tsp cilantro
+  - description: Heat-Heat 2 tbsp oil in a heavy-bottomed or nonstick pan on medium
+      heat
+    errors:
+    - description: High heat instead of medium heat
+      tag: Temperature Error
+    modified_description: Heat-Heat 2 tbsp oil in a heavy-bottomed or nonstick pan
+      on high heat
+  - description: add-add 1/3 tsp salt to the pan
+    errors:
+    - description: 1 instead of 1/3 tsp
+      tag: Measurement Error
+    modified_description: add-add 1 tsp salt to the pan
+  - description: add-add  1 tbsp milk to the bowl
+    errors:
+    - description: Splash some milk outside
+      tag: Technique Error
+    modified_description: add-add 1 tbsp milk to the bowl, but splash some milk outside
+  - description: Chop-Chop 1 green chilli
+    errors:
+    - description: 2 instead of 1
+      tag: Measurement Error
+    modified_description: Chop-Chop 2 green chilli
+  - description: Peel-Peel 2 garlic cloves
+    errors:
+    - description: 1 instead of 2 garlic cloves
+      tag: Measurement Error
+    modified_description: Peel-Peel 1 garlic clove
+  - description: add-add 1/3 tsp salt to the bowl
+  - description: Mince-Mince peeled garlic cloves
+    errors:
+    - description: Chop instead of mince
+      tag: Technique Error
+    modified_description: Chop peeled garlic cloves
+  - description: add-add chopped onions to the pan
+  - description: Crack-Crack one egg in the bowl
+    errors:
+    - description: 2 instead of one egg
+      tag: Measurement Error
+    modified_description: Crack-Crack 2 eggs in the bowl
+  - description: Saute-Saute the onions on medium heat until they are soft and translucent
+    errors:
+    - description: remove the onions quickly
+      tag: Timing Error
+    modified_description: Saute-Saute the onions on medium heat, but remove them quickly
+  - description: Add-Add chilli to the pan
+  - description: Add-Add garlic to the pan
+  - description: Whisk-Whisk the egg mixture in the bowl
+  - description: Cook-Cook for 1 minute, mixing everything
+    errors:
+    - description: 30 seconds instead of 1 minute
+      tag: Timing Error
+    modified_description: Cook-Cook for 30 seconds, mixing everything
+  - description: pour-Slowly pour the whisked eggs into the pan
+  - description: mixing-Keep mixing with a spatula for 3 minutes or until the eggs
+      are almost cooked
+  - description: Garnish-Garnish with 1 tbsp chopped cilantro and serve
+- activity_id: 16
+  environment: 1
+  errors:
+  - description: Garnish-Garnish with 1 tbsp chopped cilantro and serve
+    tag: Missing Step
+  id: '16_28'
+  is_error: true
+  recorded_by: 7
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: '"2023-04-17T13:30:41.068981"'
+  selected_by: 7
+  steps:
+  - description: Chop-Chop 1/4 medium onion
+    errors:
+    - description: slice instead of chop
+      tag: Preparation Error
+    modified_description: Slice-Slice 1/4 medium onion
+  - description: Chop-Chop 1/4 tomato
+    errors:
+    - description: 1/2 instead of 1/4
+      tag: Measurement Error
+    modified_description: Chop-Chop 1/2 tomato
+  - description: Heat-Heat 2 tbsp oil in a heavy-bottomed or nonstick pan on medium
+      heat
+    errors:
+    - description: high level heat instead of medium heat
+      tag: Temperature Error
+    modified_description: Heat-Heat 2 tbsp oil in a heavy-bottomed or nonstick pan
+      on high heat
+  - description: add-add chopped onions to the pan
+    errors:
+    - description: sliced instead of chopped
+      tag: Preparation Error
+    modified_description: add-add sliced onions to the pan
+  - description: add-add 1/3 tsp salt to the pan
+    errors:
+    - description: 1 instead of 1/3
+      tag: Measurement Error
+    modified_description: add-add 1 tsp salt to the pan
+  - description: Chop-Chop 1 tsp cilantro
+  - description: Add-Add tomatoes to the pan
+    errors:
+    - description: pour some tomatoes outside
+      tag: Technique Error
+    modified_description: Add-Add tomatoes to the pan, but pour some tomatoes outside
+  - description: Chop-Chop 1 green chilli
+    errors:
+    - description: mince instead of chop
+      tag: Technique Error
+    - description: not pour into the pan
+      tag: Preparation Error
+    modified_description: ' Chop-Chop 1 green chilli, and not pour into the pan'
+  - description: Add-Add 1/8 tsp of turmeric to the pan
+  - description: Crack-Crack one egg in the bowl
+  - description: add-add 1/3 tsp salt to the bowl
+    errors:
+    - description: splashing some salt
+      tag: Technique Error
+    modified_description: add-add 1/3 tsp salt to the bowl, but splashing some salt
+  - description: add-add 1 tbsp milk to the bowl
+  - description: Saute-Saute the onions on medium heat until they are soft and translucent
+    modified_description: Saute-Saute the onions on medium heat for a little time
+  - description: Peel-Peel 2 garlic cloves
+  - description: Add-Add chilli to the pan
+    errors:
+    - description: not peel 1 garlic clove
+      tag: Missing Step
+    modified_description: Peel-Peel 1 garlic clove
+  - description: Mince-Mince peeled garlic cloves
+    errors:
+    - description: chop instead of mince
+      tag: Technique Error
+    modified_description: Chop-Chop peeled garlic cloves
+  - description: Add-Add garlic to the pan
+  - description: Cook-Cook for 1 minute, mixing everything
+  - description: Cook-Cook covered for 1 minute or until the tomatoes soften
+    errors:
+    - description: 30 seconds instead of 1 minute
+      tag: Timing Error
+    modified_description: Cook-Cook covered for 30 seconds or until the tomatoes soften
+  - description: Whisk-Whisk the egg mixture in the bowl
+  - description: pour-Slowly pour the whisked eggs into the pan
+    errors:
+    - description: rapidly instead of slowly
+      tag: Technique Error
+    modified_description: pour-rapidly pour the whisked eggs into the pan
+  - description: mixing-Keep mixing with a spatula for 3 minutes or until the eggs
+      are almost cooked
+- activity_id: 16
+  environment: 1
+  errors:
+  - description: Mince-Mince peeled garlic cloves
+    tag: Missing Step
+  - description: add-add  1 tbsp milk to the bowl
+    tag: Missing Step
+  id: '16_35'
+  is_error: true
+  recorded_by: 1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: '"2023-04-19T13:10:33.401919"'
+  selected_by: 1
+  steps:
+  - description: Heat-Heat 2 tbsp oil in a heavy-bottomed or nonstick pan on medium
+      heat
+  - description: Peel-Peel 2 garlic cloves
+    errors:
+    - description: Half peel garlic
+      tag: Technique Error
+    modified_description: Peel-Do not completely peel 2 garlic cloves
+  - description: Crack-Crack one egg in the bowl
+    errors:
+    - description: Crack the egg with shells in the bowl
+      tag: Technique Error
+    modified_description: 'Crack-Spill while cracking an egg in the bowl '
+  - description: Chop-Chop 1/4 medium onion
+    errors:
+    - description: Mince onion instead of chopping it
+      tag: Technique Error
+    modified_description: 'Chop-Mince 1/4 medium onion '
+  - description: add-add chopped onions to the pan
+    errors:
+    - description: Throw onions outside the pan while adding them
+      tag: Technique Error
+    modified_description: add-add chopped onions to the pan [throw some outside while
+      adding into the pan]
+  - description: Chop-Chop 1/4 tomato
+    errors:
+    - description: Chop 1/2 tomato instead of 1/4 tomato
+      tag: Measurement Error
+    modified_description: Chop-Chop 1/2 tomato
+  - description: Chop-Chop 1 green chilli
+  - description: add-add 1/3 tsp salt to the pan
+    errors:
+    - description: 'Adding 1/2 tsp salt '
+      tag: Measurement Error
+    modified_description: add-add 1/2 tsp salt to the pan
+  - description: Add-Add tomatoes to the pan
+  - description: Saute-Saute the onions on medium heat until they are soft and translucent
+    errors:
+    - description: Saute onions in high heat
+      tag: Temperature Error
+    modified_description: Saute-Saute the onions on high heat until they are brownish
+      and burnt
+  - description: Add-Add garlic to the pan
+  - description: Add-Add chilli to the pan
+  - description: Cook-Cook for 1 minute, mixing everything
+    errors:
+    - description: Cook for 3 min instead of 1 min
+      tag: Timing Error
+    modified_description: Cook-Cook for 3 minutes, mixing everything
+  - description: Chop-Chop 1 tsp cilantro
+    errors:
+    - description: Using spoilt cilantro instead of good ones
+      tag: Preparation Error
+    modified_description: Chop-Chop spoilt 1 tsp cilantro
+  - description: Add-Add 1/8 tsp of turmeric to the pan
+  - description: add-add 1/3 tsp salt to the bowl
+  - description: Whisk-Whisk the egg mixture in the bowl
+    errors:
+    - description: Spilling while whisking the egg mixture in the bowl
+      tag: Technique Error
+    modified_description: Whisk-Spill while whisking the egg mixture in the bowl
+  - description: Cook-Cook covered for 1 minute or until the tomatoes soften
+    errors:
+    - description: Tomatoes already softened so missed this step
+      tag: Missing Step
+  - description: pour-Slowly pour the whisked eggs into the pan
+    errors:
+    - description: Transfer completely at once
+      tag: Technique Error
+    modified_description: pour- Transfer the whisked eggs into the pan completely
+      at once
+  - description: mixing-Keep mixing with a spatula for 3 minutes or until the eggs
+      are almost cooked
+  - description: Garnish-Garnish with 1 tbsp chopped cilantro and serve
+    errors:
+    - description: Mixing the dish instead of garnishing it
+      tag: Technique Error
+    modified_description: ' Mix-Mix with 1 tbsp chopped cilantro and serve'
+- activity_id: 16
+  environment: 7
+  errors:
+  - description: Chop-Chop 1/4 medium onion
+    tag: Missing Step
+  - description: Whisk-Whisk the egg mixture in the bowl
+    tag: Missing Step
+  - description: Cook-Cook covered for 1 minute or until the tomatoes soften
+    tag: Missing Step
+  - description: add-add chopped onions to the pan
+    tag: Missing Step
+  - description: Saute-Saute the onions on medium heat until they are soft and translucent
+    tag: Missing Step
+  - tag: Order Error
+  id: '16_39'
+  is_error: true
+  recorded_by: 1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 6
+  steps:
+  - description: Heat-Heat 2 tbsp oil in a heavy-bottomed or nonstick pan on medium
+      heat
+  - description: Add-Add 1/8 tsp of turmeric to the pan
+  - description: Chop-Chop 1 green chilli
+    errors:
+    - description: 'Chop, but all connected '
+      tag: Technique Error
+  - description: add-add  1 tbsp milk to the bowl
+    errors:
+    - description: A cup, not bowl
+      tag: Preparation Error
+  - description: add-add 1/3 tsp salt to the pan
+  - description: Crack-Crack one egg in the bowl
+  - description: Chop-Chop 1/4 tomato
+  - description: Peel-Peel 2 garlic cloves
+    errors:
+    - description: 'One slove is not well peeled '
+      tag: Technique Error
+  - description: Cook-Cook for 1 minute, mixing everything
+    errors:
+    - description: Nill error
+      tag: Other
+    modified_description: Cook-Cook for 1 minute, mixing everything
+  - description: add-add 1/3 tsp salt to the bowl
+  - description: Mince-Mince peeled garlic cloves
+    errors:
+    - description: cut the garlic cloves instead of mince
+      tag: Technique Error
+    modified_description: cut-Cut the peeled garlic cloves instead of mincing
+  - description: Add-Add chilli to the pan
+  - description: Chop-Chop 1 tsp cilantro
+    errors:
+    - description: chop 1 tbsp cilantro instead of 1 tsp cilantro
+      tag: Measurement Error
+    modified_description: Chop-chop 1 tbsp cilantro instead of 1 tsp cilantro
+  - description: pour-Slowly pour the whisked eggs into the pan
+    errors:
+    - description: whisk the eggs while pouring into the pan
+      tag: Technique Error
+    modified_description: pour- instead of directly pouring eggs into pan, whisk the
+      eggs as you Slowly pour the eggs into the pan
+  - description: mixing-Keep mixing with a spatula for 3 minutes or until the eggs
+      are almost cooked
+  - description: Add-Add garlic to the pan
+    errors:
+    - description: spill and readd the spilled garlic into the pan
+      tag: Preparation Error
+    modified_description: Add-Add garlic to the pan. spill some out while adding and
+      readd the spilled garlic into the pan.
+  - description: Add-Add tomatoes to the pan
+    errors:
+    - description: added chopped  tomato, garlic full cloves to the pan
+      tag: Other
+    modified_description: Add-Add chopped tomatoes and full cloves of garlic to the
+      pan
+  - description: Garnish-Garnish with 1 tbsp chopped cilantro and serve
+- activity_id: 16
+  environment: 1
+  errors:
+  - description: add-add 1/3 tsp salt to the pan
+    tag: Missing Step
+  - description: Cook-Cook for 1 minute, mixing everything
+    tag: Missing Step
+  - tag: Order Error
+  id: '16_40'
+  is_error: true
+  recorded_by: 3
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 3
+  steps:
+  - description: Heat-Heat 2 tbsp oil in a heavy-bottomed or nonstick pan on medium
+      heat
+    errors:
+    - description: Using 3 tbsp of oil instead of 2 tbsp.
+      tag: Measurement Error
+    - description: Low heat instead of medium.
+      tag: Temperature Error
+    modified_description: Heat-Heat 3 tbsp oil in a heavy-bottomed or nonstick pan
+      on low heat
+  - description: Chop-Chop 1/4 medium onion
+    errors:
+    - description: Instead of chopping doing a slicing.
+      tag: Technique Error
+    modified_description: Slice-Slice 1/4 medium onion
+  - description: Chop-Chop 1 green chilli
+    errors:
+    - description: Not washing the green chilli.
+      tag: Preparation Error
+    modified_description: Chop-Chop 1 green chilli without cleaning.
+  - description: Chop-Chop 1 tsp cilantro
+    errors:
+    - description: Using 1 tbsp instead of 1 tsp.
+      tag: Measurement Error
+    modified_description: Chop-Chop 1 tbsp cilantro.
+  - description: Crack-Crack one egg in the bowl
+    errors:
+    - description: Leaving the egg shell remains in the bowl.
+      tag: Preparation Error
+    modified_description: Crack-Crack one egg in the bowl with some egg shell remains
+      in the bowl.
+  - description: Chop-Chop 1/4 tomato
+    errors:
+    - description: Using 1/2 tomato instead of 1/4 tomato.
+      tag: Measurement Error
+    modified_description: Chop-Chop 1/8 tomato
+  - description: Whisk-Whisk the egg mixture in the bowl
+  - description: Add-Add tomatoes to the pan
+  - description: add-add chopped onions to the pan
+  - description: Peel-Peel 2 garlic cloves
+    errors:
+    - description: Not properly peeling the Garlic cloves.
+      tag: Preparation Error
+    modified_description: Peel-Peel 2 garlic cloves improperly.
+  - description: add-add 1/3 tsp salt to the bowl
+    errors:
+    - description: Adding the 1/3 tbsp instead of 1/3 tsp.
+      tag: Measurement Error
+    modified_description: Add-Add 1/3 tbsp salt to the bowl.
+  - description: Mince-Mince peeled garlic cloves
+  - description: Saute-Saute the onions on medium heat until they are soft and translucent
+  - description: Add-Add chilli to the pan
+  - description: add-add  1 tbsp milk to the bowl
+    errors:
+    - description: Adding 1 tsp milk to the bowl instead of 1 tbsp.
+      tag: Measurement Error
+    modified_description: Add-Add 1 tsp milk to the bowl
+  - description: Cook-Cook covered for 1 minute or until the tomatoes soften
+    errors:
+    - description: Covering more than a minute instead of 1 minute.
+      tag: Timing Error
+    modified_description: Cook-Cook covered for 1.5 minute or until the tomatoes soften
+  - description: pour-Slowly pour the whisked eggs into the pan
+    errors:
+    - description: Pouring very fastly into the pan instead of slowly.
+      tag: Preparation Error
+    modified_description: Pour-Fastly pour the whisked eggs into the pan
+  - description: mixing-Keep mixing with a spatula for 3 minutes or until the eggs
+      are almost cooked
+    errors:
+    - description: Mixing with a spatula less than 3 minutes intead of exactly 3 minutes.
+      tag: Timing Error
+    modified_description: Mixing-Keep mixing with a spatula for less than 3 minutes
+      or until the eggs are almost cooked
+  - description: Garnish-Garnish with 1 tbsp chopped cilantro and serve
+  - description: Add-Add 1/8 tsp of turmeric to the pan
+    errors:
+    - description: Adding 1/8 tbsp turmeric instead of 1/8 tsp.
+      tag: Measurement Error
+    modified_description: Add-Add 1/8 tbsp of turmeric to the pan
+  - description: Add-Add garlic to the pan
+- activity_id: 16
+  environment: 2
+  errors:
+  - description: add-add  1 tbsp milk to the bowl
+    tag: Missing Step
+  - tag: Order Error
+  id: '16_42'
+  is_error: true
+  recorded_by: 1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: '"2023-04-28T19:22:06.792267"'
+  selected_by: 1
+  steps:
+  - description: Crack-Crack one egg in the bowl
+    errors:
+    - description: Throw egg into the bowl while cracking it
+      tag: Technique Error
+    modified_description: Crack-Crack one egg in the bowl
+  - description: add-add 1/3 tsp salt to the bowl
+    modified_description: add-add 1/3 tsp salt to the plate
+  - description: Whisk-Whisk the egg mixture in the bowl
+  - description: Add-Add 1/8 tsp of turmeric to the pan
+    modified_description: Add-Add 1/8 tsp of turmeric to the pan
+  - description: Chop-Chop 1 green chilli
+    errors:
+    - description: Chop-Chop 1 green chilli improperly
+      tag: Technique Error
+    modified_description: Chop-Chop 1 green chilli improperly
+  - description: Chop-Chop 1 tsp cilantro
+    errors:
+    - description: Chop-Chop 1 tsp cilantro
+      tag: Measurement Error
+    modified_description: Chop-Chop 1 tsp cilantro
+  - description: Peel-Peel 2 garlic cloves
+    errors:
+    - description: Peel-Peel 2 garlic cloves improperly
+      tag: Technique Error
+    modified_description: Peel-Peel 2 garlic cloves improperly
+  - description: add-add 1/3 tsp salt to the pan
+  - description: Chop-Chop 1/4 medium onion
+  - description: add-add chopped onions to the pan
+  - description: Chop-Chop 1/4 tomato
+    errors:
+    - description: Chop-Chop 1/2 tomato
+      tag: Measurement Error
+    modified_description: Chop-Chop 1/2 tomato
+  - description: Mince-Mince peeled garlic cloves
+    errors:
+    - description: Cut-Cut peeled garlic cloves instead of mincing it
+      tag: Technique Error
+    modified_description: Cut-Cut peeled garlic cloves instead of mincing it
+  - description: Add-Add tomatoes to the pan
+  - description: Add-Add garlic to the pan
+  - description: Heat-Heat 2 tbsp oil in a heavy-bottomed or nonstick pan on medium
+      heat
+    errors:
+    - description: Drop while adding oil to the pan
+      tag: Technique Error
+    - description: Heat-Heat oil in a heavy-bottomed or nonstick pan on high heat
+      tag: Temperature Error
+    modified_description: Heat-Heat oil in a heavy-bottomed or nonstick pan on high
+      heat
+  - description: Saute-Saute the onions on medium heat until they are soft and translucent
+    errors:
+    - description: Saute-Saute the mixture
+      tag: Other
+    modified_description: Saute-Saute the mixture
+  - description: Cook-Cook covered for 1 minute or until the tomatoes soften
+    errors:
+    - description: Cook-Cook until something is burnt
+      tag: Temperature Error
+    modified_description: Cook-Cook until something is burnt
+  - description: Cook-Cook for 1 minute, mixing everything
+    modified_description: Cook-Cook for 2 minutes, mixing and spilling things
+  - description: pour-Slowly pour the whisked eggs into the pan
+    modified_description: pour-Spill while pouring the whisked eggs into the pan
+  - description: mixing-Keep mixing with a spatula for 3 minutes or until the eggs
+      are almost cooked
+  - description: Add-Add chilli to the pan
+  - description: Garnish-Garnish with 1 tbsp chopped cilantro and serve
+    errors:
+    - description: NONE
+      tag: Preparation Error
+    - description: NONE
+      tag: Measurement Error
+    - description: NONE
+      tag: Timing Error
+    - description: NONE
+      tag: Technique Error
+    - description: NONE
+      tag: Temperature Error
+    modified_description: Mix-Mix with 1 tbsp chopped cilantro and serve
+- activity_id: 16
+  environment: 1
+  errors:
+  - description: add-add 1/3 tsp salt to the bowl
+    tag: Missing Step
+  - description: Add-Add tomatoes to the pan
+    tag: Missing Step
+  - description: Cook-Cook covered for 1 minute or until the tomatoes soften
+    tag: Missing Step
+  - tag: Order Error
+  id: '16_44'
+  is_error: true
+  recorded_by: 6
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 6
+  steps:
+  - description: Heat-Heat 2 tbsp oil in a heavy-bottomed or nonstick pan on medium
+      heat
+    errors:
+    - description: 3 tbsp oil
+      tag: Measurement Error
+    - description: small heat
+      tag: Temperature Error
+    modified_description: Heat-Heat 3 tbsp oil in a heavy-bottomed or nonstick pan
+      on small heat
+  - description: Peel-Peel 2 garlic cloves
+    errors:
+    - description: 3 garlic clove
+      tag: Preparation Error
+    modified_description: Peel 3 garlic cloves
+  - description: Chop-Chop 1/4 tomato
+    errors:
+    - description: only small tomato
+      tag: Preparation Error
+    - description: slice
+      tag: Technique Error
+    modified_description: Slice one small tomato
+  - description: add-add 1/3 tsp salt to the pan
+    errors:
+    - description: 1/4 tsp
+      tag: Measurement Error
+    modified_description: add 1/4 tsp salt to the pan
+  - description: Chop-Chop 1 tsp cilantro
+    errors:
+    - description: two tsp cilantro
+      tag: Preparation Error
+    - description: 2 tsp
+      tag: Measurement Error
+    modified_description: Chop 2 tsp cilantro
+  - description: Mince-Mince peeled garlic cloves
+    errors:
+    - description: slice
+      tag: Technique Error
+    modified_description: Slice peeled garlic cloves
+  - description: Add-Add 1/8 tsp of turmeric to the pan
+    errors:
+    - description: brown sugur
+      tag: Preparation Error
+    - description: Missed
+      tag: Preparation Error
+    modified_description: Add 1/8 tsp of brown sugur to the pan
+  - description: Crack-Crack one egg in the bowl
+  - description: add-add 1 tbsp milk to the bowl
+  - description: Chop-Chop 1 green chilli
+    errors:
+    - description: 1/2 green chilli
+      tag: Measurement Error
+    modified_description: Chop 1/2 green chilli
+  - description: Add-Add garlic to the pan
+  - description: Chop-Chop 1/4 medium onion
+    errors:
+    - description: 1/2 onion
+      tag: Preparation Error
+    - description: 1/2 onion
+      tag: Measurement Error
+    modified_description: Chop 1/2 medium onion
+  - description: Add-Add chilli to the pan
+  - description: Cook-Cook for 1 minute, mixing everything
+    errors:
+    - description: 2 mins
+      tag: Timing Error
+    modified_description: Cook for 2 minute, mixing everything
+  - description: Whisk-Whisk the egg mixture in the bowl
+  - description: add-add chopped onions to the pan
+  - description: Saute-Saute the onions on medium heat until they are soft and translucent
+    errors:
+    - description: lower-medium heat
+      tag: Temperature Error
+    modified_description: Saute the onions on lower-medium heat until they are soft
+      and translucent
+  - description: pour-Slowly pour the whisked eggs into the pan
+    errors:
+    - description: Quickly pour the whisked eggs into the pan
+      tag: Technique Error
+    modified_description: Quickly pour the whisked eggs into the pan
+  - description: mixing-Keep mixing with a spatula for 3 minutes or until the eggs
+      are almost cooked
+    errors:
+    - description: more than 3 mins
+      tag: Timing Error
+    - description: fully cooked
+      tag: Technique Error
+    modified_description: mixing-Keep mixing with a spatula more than 3 minutes or
+      until the eggs are fully cooked
+  - description: Garnish-Garnish with 1 tbsp chopped cilantro and serve
+    errors:
+    - description: Sprinkle
+      tag: Technique Error
+    modified_description: Sprinkle with 1 tbsp chopped cilantro and serve

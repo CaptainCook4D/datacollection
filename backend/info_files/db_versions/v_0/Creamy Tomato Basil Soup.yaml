@@ -1,0 +1,2343 @@
+- activity_id: 30
+  environment: null
+  id: '30_1'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: heat-In a pot, heat 1 tbsp olive oil over medium heat
+  - description: Peel-Peel an onion
+  - description: Dice-Dice 1/4 cup of onion
+  - description: Peel-Peel one garlic clove
+  - description: mince-mince the garlic clove
+  - description: Add-Add the onion to the pot
+  - description: Add-add garlic to the pot
+  - description: cook-cook for 2-3 minutes, until softened
+  - description: Stir-Stir 1/2 cup vegetable broth in the pot
+  - description: Stir-Stir 1/4 can crushed tomatoes in the pot
+  - description: Bring-Bring the contents of the pot to a boil
+  - description: reduce-reduce the heat and simmer for 2 minutes
+  - description: Stir-Stir in the 1/8 cup heavy cream in the pot
+  - description: Chop-Chop 1/16 cup basil
+  - description: Stir-Stir 1/16 cup chopped fresh basil in the pot
+  - description: Season-Season pot with 1/4 tsp salt
+  - description: Season-Season pot with 1/4 tsp pepper
+  - description: Transfer-Transfer the contents of the pot to a serving bowl
+- activity_id: 30
+  environment: null
+  id: '30_2'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: heat-In a pot, heat 1 tbsp olive oil over medium heat
+  - description: Peel-Peel one garlic clove
+  - description: Peel-Peel an onion
+  - description: Dice-Dice 1/4 cup of onion
+  - description: Chop-Chop 1/16 cup basil
+  - description: Add-Add the onion to the pot
+  - description: mince-mince the garlic clove
+  - description: Add-add garlic to the pot
+  - description: cook-cook for 2-3 minutes, until softened
+  - description: Stir-Stir 1/4 can crushed tomatoes in the pot
+  - description: Stir-Stir 1/2 cup vegetable broth in the pot
+  - description: Bring-Bring the contents of the pot to a boil
+  - description: reduce-reduce the heat and simmer for 2 minutes
+  - description: Stir-Stir in the 1/8 cup heavy cream in the pot
+  - description: Stir-Stir 1/16 cup chopped fresh basil in the pot
+  - description: Season-Season pot with 1/4 tsp pepper
+  - description: Season-Season pot with 1/4 tsp salt
+  - description: Transfer-Transfer the contents of the pot to a serving bowl
+- activity_id: 30
+  environment: null
+  id: '30_3'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Peel-Peel one garlic clove
+  - description: mince-mince the garlic clove
+  - description: heat-In a pot, heat 1 tbsp olive oil over medium heat
+  - description: Peel-Peel an onion
+  - description: Add-add garlic to the pot
+  - description: Dice-Dice 1/4 cup of onion
+  - description: Add-Add the onion to the pot
+  - description: cook-cook for 2-3 minutes, until softened
+  - description: Stir-Stir 1/4 can crushed tomatoes in the pot
+  - description: Stir-Stir 1/2 cup vegetable broth in the pot
+  - description: Bring-Bring the contents of the pot to a boil
+  - description: Chop-Chop 1/16 cup basil
+  - description: reduce-reduce the heat and simmer for 2 minutes
+  - description: Stir-Stir 1/16 cup chopped fresh basil in the pot
+  - description: Stir-Stir in the 1/8 cup heavy cream in the pot
+  - description: Season-Season pot with 1/4 tsp salt
+  - description: Season-Season pot with 1/4 tsp pepper
+  - description: Transfer-Transfer the contents of the pot to a serving bowl
+- activity_id: 30
+  environment: null
+  id: '30_4'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Peel-Peel one garlic clove
+  - description: Peel-Peel an onion
+  - description: Dice-Dice 1/4 cup of onion
+  - description: heat-In a pot, heat 1 tbsp olive oil over medium heat
+  - description: mince-mince the garlic clove
+  - description: Add-add garlic to the pot
+  - description: Chop-Chop 1/16 cup basil
+  - description: Add-Add the onion to the pot
+  - description: cook-cook for 2-3 minutes, until softened
+  - description: Stir-Stir 1/4 can crushed tomatoes in the pot
+  - description: Stir-Stir 1/2 cup vegetable broth in the pot
+  - description: Bring-Bring the contents of the pot to a boil
+  - description: reduce-reduce the heat and simmer for 2 minutes
+  - description: Stir-Stir in the 1/8 cup heavy cream in the pot
+  - description: Stir-Stir 1/16 cup chopped fresh basil in the pot
+  - description: Season-Season pot with 1/4 tsp pepper
+  - description: Season-Season pot with 1/4 tsp salt
+  - description: Transfer-Transfer the contents of the pot to a serving bowl
+- activity_id: 30
+  environment: null
+  id: '30_5'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Peel-Peel one garlic clove
+  - description: mince-mince the garlic clove
+  - description: Peel-Peel an onion
+  - description: heat-In a pot, heat 1 tbsp olive oil over medium heat
+  - description: Dice-Dice 1/4 cup of onion
+  - description: Add-Add the onion to the pot
+  - description: Add-add garlic to the pot
+  - description: Chop-Chop 1/16 cup basil
+  - description: cook-cook for 2-3 minutes, until softened
+  - description: Stir-Stir 1/2 cup vegetable broth in the pot
+  - description: Stir-Stir 1/4 can crushed tomatoes in the pot
+  - description: Bring-Bring the contents of the pot to a boil
+  - description: reduce-reduce the heat and simmer for 2 minutes
+  - description: Stir-Stir in the 1/8 cup heavy cream in the pot
+  - description: Stir-Stir 1/16 cup chopped fresh basil in the pot
+  - description: Season-Season pot with 1/4 tsp salt
+  - description: Season-Season pot with 1/4 tsp pepper
+  - description: Transfer-Transfer the contents of the pot to a serving bowl
+- activity_id: 30
+  environment: null
+  id: '30_6'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Peel-Peel one garlic clove
+  - description: mince-mince the garlic clove
+  - description: Peel-Peel an onion
+  - description: heat-In a pot, heat 1 tbsp olive oil over medium heat
+  - description: Add-add garlic to the pot
+  - description: Dice-Dice 1/4 cup of onion
+  - description: Add-Add the onion to the pot
+  - description: cook-cook for 2-3 minutes, until softened
+  - description: Stir-Stir 1/2 cup vegetable broth in the pot
+  - description: Stir-Stir 1/4 can crushed tomatoes in the pot
+  - description: Bring-Bring the contents of the pot to a boil
+  - description: Chop-Chop 1/16 cup basil
+  - description: reduce-reduce the heat and simmer for 2 minutes
+  - description: Stir-Stir 1/16 cup chopped fresh basil in the pot
+  - description: Stir-Stir in the 1/8 cup heavy cream in the pot
+  - description: Season-Season pot with 1/4 tsp salt
+  - description: Season-Season pot with 1/4 tsp pepper
+  - description: Transfer-Transfer the contents of the pot to a serving bowl
+- activity_id: 30
+  environment: null
+  id: '30_7'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Peel-Peel an onion
+  - description: Dice-Dice 1/4 cup of onion
+  - description: heat-In a pot, heat 1 tbsp olive oil over medium heat
+  - description: Peel-Peel one garlic clove
+  - description: Add-Add the onion to the pot
+  - description: mince-mince the garlic clove
+  - description: Add-add garlic to the pot
+  - description: Chop-Chop 1/16 cup basil
+  - description: cook-cook for 2-3 minutes, until softened
+  - description: Stir-Stir 1/2 cup vegetable broth in the pot
+  - description: Stir-Stir 1/4 can crushed tomatoes in the pot
+  - description: Bring-Bring the contents of the pot to a boil
+  - description: reduce-reduce the heat and simmer for 2 minutes
+  - description: Stir-Stir 1/16 cup chopped fresh basil in the pot
+  - description: Stir-Stir in the 1/8 cup heavy cream in the pot
+  - description: Season-Season pot with 1/4 tsp pepper
+  - description: Season-Season pot with 1/4 tsp salt
+  - description: Transfer-Transfer the contents of the pot to a serving bowl
+- activity_id: 30
+  environment: null
+  id: '30_8'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Peel-Peel one garlic clove
+  - description: mince-mince the garlic clove
+  - description: Peel-Peel an onion
+  - description: Dice-Dice 1/4 cup of onion
+  - description: heat-In a pot, heat 1 tbsp olive oil over medium heat
+  - description: Add-add garlic to the pot
+  - description: Add-Add the onion to the pot
+  - description: cook-cook for 2-3 minutes, until softened
+  - description: Stir-Stir 1/4 can crushed tomatoes in the pot
+  - description: Stir-Stir 1/2 cup vegetable broth in the pot
+  - description: Bring-Bring the contents of the pot to a boil
+  - description: reduce-reduce the heat and simmer for 2 minutes
+  - description: Chop-Chop 1/16 cup basil
+  - description: Stir-Stir 1/16 cup chopped fresh basil in the pot
+  - description: Stir-Stir in the 1/8 cup heavy cream in the pot
+  - description: Season-Season pot with 1/4 tsp pepper
+  - description: Season-Season pot with 1/4 tsp salt
+  - description: Transfer-Transfer the contents of the pot to a serving bowl
+- activity_id: 30
+  environment: null
+  id: '30_9'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Peel-Peel one garlic clove
+  - description: Peel-Peel an onion
+  - description: mince-mince the garlic clove
+  - description: Dice-Dice 1/4 cup of onion
+  - description: Chop-Chop 1/16 cup basil
+  - description: heat-In a pot, heat 1 tbsp olive oil over medium heat
+  - description: Add-add garlic to the pot
+  - description: Add-Add the onion to the pot
+  - description: cook-cook for 2-3 minutes, until softened
+  - description: Stir-Stir 1/2 cup vegetable broth in the pot
+  - description: Stir-Stir 1/4 can crushed tomatoes in the pot
+  - description: Bring-Bring the contents of the pot to a boil
+  - description: reduce-reduce the heat and simmer for 2 minutes
+  - description: Stir-Stir 1/16 cup chopped fresh basil in the pot
+  - description: Stir-Stir in the 1/8 cup heavy cream in the pot
+  - description: Season-Season pot with 1/4 tsp salt
+  - description: Season-Season pot with 1/4 tsp pepper
+  - description: Transfer-Transfer the contents of the pot to a serving bowl
+- activity_id: 30
+  environment: null
+  id: '30_10'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: heat-In a pot, heat 1 tbsp olive oil over medium heat
+  - description: Peel-Peel one garlic clove
+  - description: mince-mince the garlic clove
+  - description: Peel-Peel an onion
+  - description: Dice-Dice 1/4 cup of onion
+  - description: Add-Add the onion to the pot
+  - description: Add-add garlic to the pot
+  - description: cook-cook for 2-3 minutes, until softened
+  - description: Stir-Stir 1/2 cup vegetable broth in the pot
+  - description: Chop-Chop 1/16 cup basil
+  - description: Stir-Stir 1/4 can crushed tomatoes in the pot
+  - description: Bring-Bring the contents of the pot to a boil
+  - description: reduce-reduce the heat and simmer for 2 minutes
+  - description: Stir-Stir in the 1/8 cup heavy cream in the pot
+  - description: Stir-Stir 1/16 cup chopped fresh basil in the pot
+  - description: Season-Season pot with 1/4 tsp salt
+  - description: Season-Season pot with 1/4 tsp pepper
+  - description: Transfer-Transfer the contents of the pot to a serving bowl
+- activity_id: 30
+  environment: null
+  id: '30_11'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Peel-Peel an onion
+  - description: Peel-Peel one garlic clove
+  - description: Dice-Dice 1/4 cup of onion
+  - description: mince-mince the garlic clove
+  - description: heat-In a pot, heat 1 tbsp olive oil over medium heat
+  - description: Add-Add the onion to the pot
+  - description: Add-add garlic to the pot
+  - description: Chop-Chop 1/16 cup basil
+  - description: cook-cook for 2-3 minutes, until softened
+  - description: Stir-Stir 1/2 cup vegetable broth in the pot
+  - description: Stir-Stir 1/4 can crushed tomatoes in the pot
+  - description: Bring-Bring the contents of the pot to a boil
+  - description: reduce-reduce the heat and simmer for 2 minutes
+  - description: Stir-Stir 1/16 cup chopped fresh basil in the pot
+  - description: Stir-Stir in the 1/8 cup heavy cream in the pot
+  - description: Season-Season pot with 1/4 tsp salt
+  - description: Season-Season pot with 1/4 tsp pepper
+  - description: Transfer-Transfer the contents of the pot to a serving bowl
+- activity_id: 30
+  environment: null
+  id: '30_12'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Peel-Peel one garlic clove
+  - description: Peel-Peel an onion
+  - description: Dice-Dice 1/4 cup of onion
+  - description: heat-In a pot, heat 1 tbsp olive oil over medium heat
+  - description: mince-mince the garlic clove
+  - description: Add-Add the onion to the pot
+  - description: Chop-Chop 1/16 cup basil
+  - description: Add-add garlic to the pot
+  - description: cook-cook for 2-3 minutes, until softened
+  - description: Stir-Stir 1/2 cup vegetable broth in the pot
+  - description: Stir-Stir 1/4 can crushed tomatoes in the pot
+  - description: Bring-Bring the contents of the pot to a boil
+  - description: reduce-reduce the heat and simmer for 2 minutes
+  - description: Stir-Stir in the 1/8 cup heavy cream in the pot
+  - description: Stir-Stir 1/16 cup chopped fresh basil in the pot
+  - description: Season-Season pot with 1/4 tsp pepper
+  - description: Season-Season pot with 1/4 tsp salt
+  - description: Transfer-Transfer the contents of the pot to a serving bowl
+- activity_id: 30
+  environment: null
+  id: '30_13'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Peel-Peel one garlic clove
+  - description: Peel-Peel an onion
+  - description: Dice-Dice 1/4 cup of onion
+  - description: heat-In a pot, heat 1 tbsp olive oil over medium heat
+  - description: mince-mince the garlic clove
+  - description: Add-Add the onion to the pot
+  - description: Chop-Chop 1/16 cup basil
+  - description: Add-add garlic to the pot
+  - description: cook-cook for 2-3 minutes, until softened
+  - description: Stir-Stir 1/2 cup vegetable broth in the pot
+  - description: Stir-Stir 1/4 can crushed tomatoes in the pot
+  - description: Bring-Bring the contents of the pot to a boil
+  - description: reduce-reduce the heat and simmer for 2 minutes
+  - description: Stir-Stir 1/16 cup chopped fresh basil in the pot
+  - description: Stir-Stir in the 1/8 cup heavy cream in the pot
+  - description: Season-Season pot with 1/4 tsp salt
+  - description: Season-Season pot with 1/4 tsp pepper
+  - description: Transfer-Transfer the contents of the pot to a serving bowl
+- activity_id: 30
+  environment: null
+  id: '30_14'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: heat-In a pot, heat 1 tbsp olive oil over medium heat
+  - description: Peel-Peel an onion
+  - description: Peel-Peel one garlic clove
+  - description: Chop-Chop 1/16 cup basil
+  - description: Dice-Dice 1/4 cup of onion
+  - description: mince-mince the garlic clove
+  - description: Add-add garlic to the pot
+  - description: Add-Add the onion to the pot
+  - description: cook-cook for 2-3 minutes, until softened
+  - description: Stir-Stir 1/4 can crushed tomatoes in the pot
+  - description: Stir-Stir 1/2 cup vegetable broth in the pot
+  - description: Bring-Bring the contents of the pot to a boil
+  - description: reduce-reduce the heat and simmer for 2 minutes
+  - description: Stir-Stir 1/16 cup chopped fresh basil in the pot
+  - description: Stir-Stir in the 1/8 cup heavy cream in the pot
+  - description: Season-Season pot with 1/4 tsp salt
+  - description: Season-Season pot with 1/4 tsp pepper
+  - description: Transfer-Transfer the contents of the pot to a serving bowl
+- activity_id: 30
+  environment: null
+  id: '30_15'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Peel-Peel one garlic clove
+  - description: mince-mince the garlic clove
+  - description: Peel-Peel an onion
+  - description: heat-In a pot, heat 1 tbsp olive oil over medium heat
+  - description: Dice-Dice 1/4 cup of onion
+  - description: Add-Add the onion to the pot
+  - description: Add-add garlic to the pot
+  - description: cook-cook for 2-3 minutes, until softened
+  - description: Stir-Stir 1/4 can crushed tomatoes in the pot
+  - description: Stir-Stir 1/2 cup vegetable broth in the pot
+  - description: Chop-Chop 1/16 cup basil
+  - description: Bring-Bring the contents of the pot to a boil
+  - description: reduce-reduce the heat and simmer for 2 minutes
+  - description: Stir-Stir 1/16 cup chopped fresh basil in the pot
+  - description: Stir-Stir in the 1/8 cup heavy cream in the pot
+  - description: Season-Season pot with 1/4 tsp salt
+  - description: Season-Season pot with 1/4 tsp pepper
+  - description: Transfer-Transfer the contents of the pot to a serving bowl
+- activity_id: 30
+  environment: null
+  id: '30_16'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Peel-Peel one garlic clove
+  - description: mince-mince the garlic clove
+  - description: Peel-Peel an onion
+  - description: heat-In a pot, heat 1 tbsp olive oil over medium heat
+  - description: Chop-Chop 1/16 cup basil
+  - description: Dice-Dice 1/4 cup of onion
+  - description: Add-Add the onion to the pot
+  - description: Add-add garlic to the pot
+  - description: cook-cook for 2-3 minutes, until softened
+  - description: Stir-Stir 1/4 can crushed tomatoes in the pot
+  - description: Stir-Stir 1/2 cup vegetable broth in the pot
+  - description: Bring-Bring the contents of the pot to a boil
+  - description: reduce-reduce the heat and simmer for 2 minutes
+  - description: Stir-Stir in the 1/8 cup heavy cream in the pot
+  - description: Stir-Stir 1/16 cup chopped fresh basil in the pot
+  - description: Season-Season pot with 1/4 tsp pepper
+  - description: Season-Season pot with 1/4 tsp salt
+  - description: Transfer-Transfer the contents of the pot to a serving bowl
+- activity_id: 30
+  environment: null
+  id: '30_17'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Peel-Peel one garlic clove
+  - description: mince-mince the garlic clove
+  - description: heat-In a pot, heat 1 tbsp olive oil over medium heat
+  - description: Peel-Peel an onion
+  - description: Dice-Dice 1/4 cup of onion
+  - description: Add-Add the onion to the pot
+  - description: Add-add garlic to the pot
+  - description: cook-cook for 2-3 minutes, until softened
+  - description: Chop-Chop 1/16 cup basil
+  - description: Stir-Stir 1/2 cup vegetable broth in the pot
+  - description: Stir-Stir 1/4 can crushed tomatoes in the pot
+  - description: Bring-Bring the contents of the pot to a boil
+  - description: reduce-reduce the heat and simmer for 2 minutes
+  - description: Stir-Stir in the 1/8 cup heavy cream in the pot
+  - description: Stir-Stir 1/16 cup chopped fresh basil in the pot
+  - description: Season-Season pot with 1/4 tsp salt
+  - description: Season-Season pot with 1/4 tsp pepper
+  - description: Transfer-Transfer the contents of the pot to a serving bowl
+- activity_id: 30
+  environment: null
+  id: '30_18'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Peel-Peel an onion
+  - description: heat-In a pot, heat 1 tbsp olive oil over medium heat
+  - description: Dice-Dice 1/4 cup of onion
+  - description: Peel-Peel one garlic clove
+  - description: mince-mince the garlic clove
+  - description: Add-Add the onion to the pot
+  - description: Add-add garlic to the pot
+  - description: cook-cook for 2-3 minutes, until softened
+  - description: Stir-Stir 1/4 can crushed tomatoes in the pot
+  - description: Stir-Stir 1/2 cup vegetable broth in the pot
+  - description: Bring-Bring the contents of the pot to a boil
+  - description: reduce-reduce the heat and simmer for 2 minutes
+  - description: Stir-Stir in the 1/8 cup heavy cream in the pot
+  - description: Chop-Chop 1/16 cup basil
+  - description: Stir-Stir 1/16 cup chopped fresh basil in the pot
+  - description: Season-Season pot with 1/4 tsp pepper
+  - description: Season-Season pot with 1/4 tsp salt
+  - description: Transfer-Transfer the contents of the pot to a serving bowl
+- activity_id: 30
+  environment: null
+  id: '30_19'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Peel-Peel an onion
+  - description: Peel-Peel one garlic clove
+  - description: Dice-Dice 1/4 cup of onion
+  - description: heat-In a pot, heat 1 tbsp olive oil over medium heat
+  - description: Add-Add the onion to the pot
+  - description: mince-mince the garlic clove
+  - description: Add-add garlic to the pot
+  - description: cook-cook for 2-3 minutes, until softened
+  - description: Stir-Stir 1/2 cup vegetable broth in the pot
+  - description: Chop-Chop 1/16 cup basil
+  - description: Stir-Stir 1/4 can crushed tomatoes in the pot
+  - description: Bring-Bring the contents of the pot to a boil
+  - description: reduce-reduce the heat and simmer for 2 minutes
+  - description: Stir-Stir in the 1/8 cup heavy cream in the pot
+  - description: Stir-Stir 1/16 cup chopped fresh basil in the pot
+  - description: Season-Season pot with 1/4 tsp salt
+  - description: Season-Season pot with 1/4 tsp pepper
+  - description: Transfer-Transfer the contents of the pot to a serving bowl
+- activity_id: 30
+  environment: null
+  id: '30_20'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Peel-Peel an onion
+  - description: heat-In a pot, heat 1 tbsp olive oil over medium heat
+  - description: Dice-Dice 1/4 cup of onion
+  - description: Peel-Peel one garlic clove
+  - description: mince-mince the garlic clove
+  - description: Add-Add the onion to the pot
+  - description: Add-add garlic to the pot
+  - description: cook-cook for 2-3 minutes, until softened
+  - description: Stir-Stir 1/2 cup vegetable broth in the pot
+  - description: Stir-Stir 1/4 can crushed tomatoes in the pot
+  - description: Chop-Chop 1/16 cup basil
+  - description: Bring-Bring the contents of the pot to a boil
+  - description: reduce-reduce the heat and simmer for 2 minutes
+  - description: Stir-Stir in the 1/8 cup heavy cream in the pot
+  - description: Stir-Stir 1/16 cup chopped fresh basil in the pot
+  - description: Season-Season pot with 1/4 tsp pepper
+  - description: Season-Season pot with 1/4 tsp salt
+  - description: Transfer-Transfer the contents of the pot to a serving bowl
+- activity_id: 30
+  environment: null
+  id: '30_21'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Chop-Chop 1/16 cup basil
+  - description: Peel-Peel an onion
+  - description: Peel-Peel one garlic clove
+  - description: mince-mince the garlic clove
+  - description: heat-In a pot, heat 1 tbsp olive oil over medium heat
+  - description: Dice-Dice 1/4 cup of onion
+  - description: Add-Add the onion to the pot
+  - description: Add-add garlic to the pot
+  - description: cook-cook for 2-3 minutes, until softened
+  - description: Stir-Stir 1/2 cup vegetable broth in the pot
+  - description: Stir-Stir 1/4 can crushed tomatoes in the pot
+  - description: Bring-Bring the contents of the pot to a boil
+  - description: reduce-reduce the heat and simmer for 2 minutes
+  - description: Stir-Stir in the 1/8 cup heavy cream in the pot
+  - description: Stir-Stir 1/16 cup chopped fresh basil in the pot
+  - description: Season-Season pot with 1/4 tsp salt
+  - description: Season-Season pot with 1/4 tsp pepper
+  - description: Transfer-Transfer the contents of the pot to a serving bowl
+- activity_id: 30
+  environment: null
+  id: '30_22'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: heat-In a pot, heat 1 tbsp olive oil over medium heat
+  - description: Peel-Peel one garlic clove
+  - description: mince-mince the garlic clove
+  - description: Peel-Peel an onion
+  - description: Dice-Dice 1/4 cup of onion
+  - description: Chop-Chop 1/16 cup basil
+  - description: Add-Add the onion to the pot
+  - description: Add-add garlic to the pot
+  - description: cook-cook for 2-3 minutes, until softened
+  - description: Stir-Stir 1/4 can crushed tomatoes in the pot
+  - description: Stir-Stir 1/2 cup vegetable broth in the pot
+  - description: Bring-Bring the contents of the pot to a boil
+  - description: reduce-reduce the heat and simmer for 2 minutes
+  - description: Stir-Stir 1/16 cup chopped fresh basil in the pot
+  - description: Stir-Stir in the 1/8 cup heavy cream in the pot
+  - description: Season-Season pot with 1/4 tsp pepper
+  - description: Season-Season pot with 1/4 tsp salt
+  - description: Transfer-Transfer the contents of the pot to a serving bowl
+- activity_id: 30
+  environment: null
+  id: '30_23'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Peel-Peel an onion
+  - description: Peel-Peel one garlic clove
+  - description: mince-mince the garlic clove
+  - description: Dice-Dice 1/4 cup of onion
+  - description: heat-In a pot, heat 1 tbsp olive oil over medium heat
+  - description: Chop-Chop 1/16 cup basil
+  - description: Add-Add the onion to the pot
+  - description: Add-add garlic to the pot
+  - description: cook-cook for 2-3 minutes, until softened
+  - description: Stir-Stir 1/4 can crushed tomatoes in the pot
+  - description: Stir-Stir 1/2 cup vegetable broth in the pot
+  - description: Bring-Bring the contents of the pot to a boil
+  - description: reduce-reduce the heat and simmer for 2 minutes
+  - description: Stir-Stir in the 1/8 cup heavy cream in the pot
+  - description: Stir-Stir 1/16 cup chopped fresh basil in the pot
+  - description: Season-Season pot with 1/4 tsp pepper
+  - description: Season-Season pot with 1/4 tsp salt
+  - description: Transfer-Transfer the contents of the pot to a serving bowl
+- activity_id: 30
+  environment: null
+  id: '30_24'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Peel-Peel one garlic clove
+  - description: heat-In a pot, heat 1 tbsp olive oil over medium heat
+  - description: Peel-Peel an onion
+  - description: mince-mince the garlic clove
+  - description: Dice-Dice 1/4 cup of onion
+  - description: Chop-Chop 1/16 cup basil
+  - description: Add-add garlic to the pot
+  - description: Add-Add the onion to the pot
+  - description: cook-cook for 2-3 minutes, until softened
+  - description: Stir-Stir 1/2 cup vegetable broth in the pot
+  - description: Stir-Stir 1/4 can crushed tomatoes in the pot
+  - description: Bring-Bring the contents of the pot to a boil
+  - description: reduce-reduce the heat and simmer for 2 minutes
+  - description: Stir-Stir 1/16 cup chopped fresh basil in the pot
+  - description: Stir-Stir in the 1/8 cup heavy cream in the pot
+  - description: Season-Season pot with 1/4 tsp pepper
+  - description: Season-Season pot with 1/4 tsp salt
+  - description: Transfer-Transfer the contents of the pot to a serving bowl
+- activity_id: 30
+  environment: null
+  id: '30_25'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Peel-Peel one garlic clove
+  - description: Peel-Peel an onion
+  - description: heat-In a pot, heat 1 tbsp olive oil over medium heat
+  - description: mince-mince the garlic clove
+  - description: Dice-Dice 1/4 cup of onion
+  - description: Add-Add the onion to the pot
+  - description: Add-add garlic to the pot
+  - description: Chop-Chop 1/16 cup basil
+  - description: cook-cook for 2-3 minutes, until softened
+  - description: Stir-Stir 1/4 can crushed tomatoes in the pot
+  - description: Stir-Stir 1/2 cup vegetable broth in the pot
+  - description: Bring-Bring the contents of the pot to a boil
+  - description: reduce-reduce the heat and simmer for 2 minutes
+  - description: Stir-Stir in the 1/8 cup heavy cream in the pot
+  - description: Stir-Stir 1/16 cup chopped fresh basil in the pot
+  - description: Season-Season pot with 1/4 tsp salt
+  - description: Season-Season pot with 1/4 tsp pepper
+  - description: Transfer-Transfer the contents of the pot to a serving bowl
+- activity_id: 30
+  environment: 1
+  errors:
+  - description: reduce-reduce the heat and simmer for 2 minutes
+    tag: Missing Step
+  - description: Transfer-Transfer the contents of the pot to a serving bowl
+    tag: Missing Step
+  id: '30_26'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: '"2023-04-17T12:59:48.107825"'
+  selected_by: 4
+  steps:
+  - description: Peel-Peel an onion
+    errors:
+    - description: Peel onion only halfway
+      tag: Preparation Error
+    - description: Use half rotted onion
+      tag: Preparation Error
+    modified_description: 'Peel onion only halfway and use half rotted onion '
+  - description: Peel-Peel one garlic clove
+  - description: heat-In a pot, heat 1 tbsp olive oil over medium heat
+    errors:
+    - description: 'use 2 tbsp olive oil instead of 1 tbsp '
+      tag: Measurement Error
+    - description: use high heat instead of medium heat
+      tag: Temperature Error
+    modified_description: heat-In a pot, heat 2 tbsp olive oil over high heat
+  - description: mince-mince the garlic clove
+  - description: Dice-Dice 1/4 cup of onion
+    errors:
+    - description: slice instead of dice
+      tag: Technique Error
+    modified_description: Slice-Slice 1/4 cup of onion
+  - description: Add-add garlic to the pot
+  - description: Add-Add the onion to the pot
+    errors:
+    - description: spill some onion while adding
+      tag: Preparation Error
+    modified_description: 'Add-Add the onion to the pot and spill some outside '
+  - description: cook-cook for 2-3 minutes, until softened
+    errors:
+    - description: cook for 1 min only, onions are not soft yet
+      tag: Timing Error
+    modified_description: cook-cook for 1 min, onions may not be soft yet
+  - description: Stir-Stir 1/2 cup vegetable broth in the pot
+  - description: Stir-Stir 1/4 can crushed tomatoes in the pot
+    errors:
+    - description: Stir in 1/2 cup tomatoes
+      tag: Measurement Error
+    - description: spill some out while stirring
+      tag: Technique Error
+    modified_description: Stir-Stir 1/2 can crushed tomatoes in the pot and spill
+      some out while stirring
+  - description: Bring-Bring the contents of the pot to a boil
+    errors:
+    - description: didnot cover the pot
+      tag: Preparation Error
+    modified_description: Bring-did not cover the pot and Bring the contents of the
+      pot to a boil
+  - description: Stir-Stir in the 1/8 cup heavy cream in the pot
+    errors:
+    - description: did not add cream
+      tag: Missing Step
+    modified_description: Stir-Stir in the 1/8 cup heavy cream in the pot
+  - description: Chop-Chop 1/16 cup basil
+    errors:
+    - description: donot wash basil leaves
+      tag: Preparation Error
+    - description: Used rotted basil leaves
+      tag: Preparation Error
+    modified_description: Chop-Chop 1/16 cup rotted basil and donot wash them before
+      chopping
+  - description: Stir-Stir 1/16 cup chopped fresh basil in the pot
+    errors:
+    - description: spill out while stirring
+      tag: Technique Error
+    modified_description: Stir-Stir 1/16 cup chopped basil in the pot and spill some
+      outside while stirring
+  - description: Season-Season pot with 1/4 tsp pepper
+    errors:
+    - description: season with 1 tsp pepper instead of 1/4 tsp
+      tag: Measurement Error
+    modified_description: Season-Season pot with tsp pepper
+  - description: Season-Season pot with 1/4 tsp salt
+    errors:
+    - description: spill some outside while trying to measure 1/4 tsp salt
+      tag: Preparation Error
+    modified_description: Season-Season pot with 1/4 tsp salt and spill some outside
+      while trying to measure 1/4 tsp salt
+- activity_id: 30
+  environment: null
+  errors:
+  - description: Stir-Stir in the 1/8 cup heavy cream in the pot
+    tag: Missing Step
+  - description: Transfer-Transfer the contents of the pot to a serving bowl
+    tag: Missing Step
+  id: '30_27'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Peel-Peel an onion
+  - description: Peel-Peel one garlic clove
+  - description: mince-mince the garlic clove
+  - description: heat-In a pot, heat 1 tbsp olive oil over medium heat
+  - description: Dice-Dice 1/4 cup of onion
+  - description: Add-add garlic to the pot
+  - description: Add-Add the onion to the pot
+  - description: cook-cook for 2-3 minutes, until softened
+  - description: Stir-Stir 1/4 can crushed tomatoes in the pot
+  - description: Stir-Stir 1/2 cup vegetable broth in the pot
+  - description: Chop-Chop 1/16 cup basil
+  - description: Bring-Bring the contents of the pot to a boil
+  - description: reduce-reduce the heat and simmer for 2 minutes
+  - description: Stir-Stir 1/16 cup chopped fresh basil in the pot
+  - description: Season-Season pot with 1/4 tsp pepper
+  - description: Season-Season pot with 1/4 tsp salt
+- activity_id: 30
+  environment: null
+  errors:
+  - description: Season-Season pot with 1/4 tsp pepper
+    tag: Missing Step
+  id: '30_28'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Peel-Peel one garlic clove
+  - description: Chop-Chop 1/16 cup basil
+  - description: heat-In a pot, heat 1 tbsp olive oil over medium heat
+  - description: Peel-Peel an onion
+  - description: mince-mince the garlic clove
+  - description: Dice-Dice 1/4 cup of onion
+  - description: Add-add garlic to the pot
+  - description: Add-Add the onion to the pot
+  - description: cook-cook for 2-3 minutes, until softened
+  - description: Stir-Stir 1/4 can crushed tomatoes in the pot
+  - description: Stir-Stir 1/2 cup vegetable broth in the pot
+  - description: Bring-Bring the contents of the pot to a boil
+  - description: reduce-reduce the heat and simmer for 2 minutes
+  - description: Stir-Stir 1/16 cup chopped fresh basil in the pot
+  - description: Stir-Stir in the 1/8 cup heavy cream in the pot
+  - description: Season-Season pot with 1/4 tsp salt
+  - description: Transfer-Transfer the contents of the pot to a serving bowl
+- activity_id: 30
+  environment: null
+  errors:
+  - description: Transfer-Transfer the contents of the pot to a serving bowl
+    tag: Missing Step
+  - description: Stir-Stir 1/2 cup vegetable broth in the pot
+    tag: Missing Step
+  id: '30_29'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Peel-Peel an onion
+  - description: heat-In a pot, heat 1 tbsp olive oil over medium heat
+  - description: Dice-Dice 1/4 cup of onion
+  - description: Add-Add the onion to the pot
+  - description: Peel-Peel one garlic clove
+  - description: mince-mince the garlic clove
+  - description: Add-add garlic to the pot
+  - description: cook-cook for 2-3 minutes, until softened
+  - description: Chop-Chop 1/16 cup basil
+  - description: Stir-Stir 1/4 can crushed tomatoes in the pot
+  - description: Bring-Bring the contents of the pot to a boil
+  - description: reduce-reduce the heat and simmer for 2 minutes
+  - description: Stir-Stir in the 1/8 cup heavy cream in the pot
+  - description: Stir-Stir 1/16 cup chopped fresh basil in the pot
+  - description: Season-Season pot with 1/4 tsp salt
+  - description: Season-Season pot with 1/4 tsp pepper
+- activity_id: 30
+  environment: null
+  errors:
+  - description: Stir-Stir 1/2 cup vegetable broth in the pot
+    tag: Missing Step
+  - description: Stir-Stir 1/4 can crushed tomatoes in the pot
+    tag: Missing Step
+  - description: reduce-reduce the heat and simmer for 2 minutes
+    tag: Missing Step
+  id: '30_30'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Peel-Peel one garlic clove
+  - description: Peel-Peel an onion
+  - description: mince-mince the garlic clove
+  - description: Dice-Dice 1/4 cup of onion
+  - description: heat-In a pot, heat 1 tbsp olive oil over medium heat
+  - description: Add-add garlic to the pot
+  - description: Add-Add the onion to the pot
+  - description: cook-cook for 2-3 minutes, until softened
+  - description: Chop-Chop 1/16 cup basil
+  - description: Bring-Bring the contents of the pot to a boil
+  - description: Stir-Stir in the 1/8 cup heavy cream in the pot
+  - description: Stir-Stir 1/16 cup chopped fresh basil in the pot
+  - description: Season-Season pot with 1/4 tsp salt
+  - description: Season-Season pot with 1/4 tsp pepper
+  - description: Transfer-Transfer the contents of the pot to a serving bowl
+- activity_id: 30
+  environment: null
+  errors:
+  - description: Stir-Stir 1/4 can crushed tomatoes in the pot
+    tag: Missing Step
+  - description: Stir-Stir in the 1/8 cup heavy cream in the pot
+    tag: Missing Step
+  - description: Transfer-Transfer the contents of the pot to a serving bowl
+    tag: Missing Step
+  id: '30_31'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Peel-Peel an onion
+  - description: Chop-Chop 1/16 cup basil
+  - description: Peel-Peel one garlic clove
+  - description: heat-In a pot, heat 1 tbsp olive oil over medium heat
+  - description: mince-mince the garlic clove
+  - description: Dice-Dice 1/4 cup of onion
+  - description: Add-add garlic to the pot
+  - description: Add-Add the onion to the pot
+  - description: cook-cook for 2-3 minutes, until softened
+  - description: Stir-Stir 1/2 cup vegetable broth in the pot
+  - description: Bring-Bring the contents of the pot to a boil
+  - description: reduce-reduce the heat and simmer for 2 minutes
+  - description: Stir-Stir 1/16 cup chopped fresh basil in the pot
+  - description: Season-Season pot with 1/4 tsp salt
+  - description: Season-Season pot with 1/4 tsp pepper
+- activity_id: 30
+  environment: null
+  errors:
+  - description: Add-Add the onion to the pot
+    tag: Missing Step
+  - description: cook-cook for 2-3 minutes, until softened
+    tag: Missing Step
+  id: '30_32'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Peel-Peel an onion
+  - description: Peel-Peel one garlic clove
+  - description: heat-In a pot, heat 1 tbsp olive oil over medium heat
+  - description: mince-mince the garlic clove
+  - description: Add-add garlic to the pot
+  - description: Chop-Chop 1/16 cup basil
+  - description: Dice-Dice 1/4 cup of onion
+  - description: Stir-Stir 1/4 can crushed tomatoes in the pot
+  - description: Stir-Stir 1/2 cup vegetable broth in the pot
+  - description: Bring-Bring the contents of the pot to a boil
+  - description: reduce-reduce the heat and simmer for 2 minutes
+  - description: Stir-Stir in the 1/8 cup heavy cream in the pot
+  - description: Stir-Stir 1/16 cup chopped fresh basil in the pot
+  - description: Season-Season pot with 1/4 tsp pepper
+  - description: Season-Season pot with 1/4 tsp salt
+  - description: Transfer-Transfer the contents of the pot to a serving bowl
+- activity_id: 30
+  environment: null
+  errors:
+  - description: Add-add garlic to the pot
+    tag: Missing Step
+  - description: Stir-Stir in the 1/8 cup heavy cream in the pot
+    tag: Missing Step
+  id: '30_33'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Peel-Peel one garlic clove
+  - description: heat-In a pot, heat 1 tbsp olive oil over medium heat
+  - description: Peel-Peel an onion
+  - description: Dice-Dice 1/4 cup of onion
+  - description: mince-mince the garlic clove
+  - description: Add-Add the onion to the pot
+  - description: cook-cook for 2-3 minutes, until softened
+  - description: Stir-Stir 1/2 cup vegetable broth in the pot
+  - description: Stir-Stir 1/4 can crushed tomatoes in the pot
+  - description: Chop-Chop 1/16 cup basil
+  - description: Bring-Bring the contents of the pot to a boil
+  - description: reduce-reduce the heat and simmer for 2 minutes
+  - description: Stir-Stir 1/16 cup chopped fresh basil in the pot
+  - description: Season-Season pot with 1/4 tsp salt
+  - description: Season-Season pot with 1/4 tsp pepper
+  - description: Transfer-Transfer the contents of the pot to a serving bowl
+- activity_id: 30
+  environment: null
+  errors:
+  - description: Peel-Peel one garlic clove
+    tag: Missing Step
+  - description: mince-mince the garlic clove
+    tag: Missing Step
+  - description: Stir-Stir 1/16 cup chopped fresh basil in the pot
+    tag: Missing Step
+  - description: Add-add garlic to the pot
+    tag: Missing Step
+  - description: reduce-reduce the heat and simmer for 2 minutes
+    tag: Missing Step
+  id: '30_34'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Peel-Peel an onion
+  - description: Dice-Dice 1/4 cup of onion
+  - description: heat-In a pot, heat 1 tbsp olive oil over medium heat
+  - description: Add-Add the onion to the pot
+  - description: cook-cook for 2-3 minutes, until softened
+  - description: Stir-Stir 1/2 cup vegetable broth in the pot
+  - description: Stir-Stir 1/4 can crushed tomatoes in the pot
+  - description: Bring-Bring the contents of the pot to a boil
+  - description: Stir-Stir in the 1/8 cup heavy cream in the pot
+  - description: Chop-Chop 1/16 cup basil
+  - description: Season-Season pot with 1/4 tsp salt
+  - description: Season-Season pot with 1/4 tsp pepper
+  - description: Transfer-Transfer the contents of the pot to a serving bowl
+- activity_id: 30
+  environment: null
+  errors:
+  - description: Add-add garlic to the pot
+    tag: Missing Step
+  - description: cook-cook for 2-3 minutes, until softened
+    tag: Missing Step
+  id: '30_35'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Peel-Peel one garlic clove
+  - description: Peel-Peel an onion
+  - description: Dice-Dice 1/4 cup of onion
+  - description: mince-mince the garlic clove
+  - description: heat-In a pot, heat 1 tbsp olive oil over medium heat
+  - description: Add-Add the onion to the pot
+  - description: Stir-Stir 1/4 can crushed tomatoes in the pot
+  - description: Stir-Stir 1/2 cup vegetable broth in the pot
+  - description: Bring-Bring the contents of the pot to a boil
+  - description: reduce-reduce the heat and simmer for 2 minutes
+  - description: Chop-Chop 1/16 cup basil
+  - description: Stir-Stir 1/16 cup chopped fresh basil in the pot
+  - description: Stir-Stir in the 1/8 cup heavy cream in the pot
+  - description: Season-Season pot with 1/4 tsp salt
+  - description: Season-Season pot with 1/4 tsp pepper
+  - description: Transfer-Transfer the contents of the pot to a serving bowl
+- activity_id: 30
+  environment: null
+  errors:
+  - description: Season-Season pot with 1/4 tsp salt
+    tag: Missing Step
+  id: '30_36'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Chop-Chop 1/16 cup basil
+  - description: Peel-Peel an onion
+  - description: Peel-Peel one garlic clove
+  - description: Dice-Dice 1/4 cup of onion
+  - description: mince-mince the garlic clove
+  - description: heat-In a pot, heat 1 tbsp olive oil over medium heat
+  - description: Add-Add the onion to the pot
+  - description: Add-add garlic to the pot
+  - description: cook-cook for 2-3 minutes, until softened
+  - description: Stir-Stir 1/4 can crushed tomatoes in the pot
+  - description: Stir-Stir 1/2 cup vegetable broth in the pot
+  - description: Bring-Bring the contents of the pot to a boil
+  - description: reduce-reduce the heat and simmer for 2 minutes
+  - description: Stir-Stir in the 1/8 cup heavy cream in the pot
+  - description: Stir-Stir 1/16 cup chopped fresh basil in the pot
+  - description: Season-Season pot with 1/4 tsp pepper
+  - description: Transfer-Transfer the contents of the pot to a serving bowl
+- activity_id: 30
+  environment: null
+  errors:
+  - description: cook-cook for 2-3 minutes, until softened
+    tag: Missing Step
+  - description: Stir-Stir in the 1/8 cup heavy cream in the pot
+    tag: Missing Step
+  id: '30_37'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Peel-Peel an onion
+  - description: Peel-Peel one garlic clove
+  - description: mince-mince the garlic clove
+  - description: Dice-Dice 1/4 cup of onion
+  - description: heat-In a pot, heat 1 tbsp olive oil over medium heat
+  - description: Add-add garlic to the pot
+  - description: Add-Add the onion to the pot
+  - description: Stir-Stir 1/2 cup vegetable broth in the pot
+  - description: Stir-Stir 1/4 can crushed tomatoes in the pot
+  - description: Chop-Chop 1/16 cup basil
+  - description: Bring-Bring the contents of the pot to a boil
+  - description: reduce-reduce the heat and simmer for 2 minutes
+  - description: Stir-Stir 1/16 cup chopped fresh basil in the pot
+  - description: Season-Season pot with 1/4 tsp salt
+  - description: Season-Season pot with 1/4 tsp pepper
+  - description: Transfer-Transfer the contents of the pot to a serving bowl
+- activity_id: 30
+  environment: null
+  errors:
+  - description: Stir-Stir 1/4 can crushed tomatoes in the pot
+    tag: Missing Step
+  id: '30_38'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Peel-Peel one garlic clove
+  - description: mince-mince the garlic clove
+  - description: heat-In a pot, heat 1 tbsp olive oil over medium heat
+  - description: Peel-Peel an onion
+  - description: Dice-Dice 1/4 cup of onion
+  - description: Add-add garlic to the pot
+  - description: Add-Add the onion to the pot
+  - description: cook-cook for 2-3 minutes, until softened
+  - description: Stir-Stir 1/2 cup vegetable broth in the pot
+  - description: Bring-Bring the contents of the pot to a boil
+  - description: Chop-Chop 1/16 cup basil
+  - description: reduce-reduce the heat and simmer for 2 minutes
+  - description: Stir-Stir 1/16 cup chopped fresh basil in the pot
+  - description: Stir-Stir in the 1/8 cup heavy cream in the pot
+  - description: Season-Season pot with 1/4 tsp salt
+  - description: Season-Season pot with 1/4 tsp pepper
+  - description: Transfer-Transfer the contents of the pot to a serving bowl
+- activity_id: 30
+  environment: null
+  errors:
+  - description: Stir-Stir 1/16 cup chopped fresh basil in the pot
+    tag: Missing Step
+  - description: reduce-reduce the heat and simmer for 2 minutes
+    tag: Missing Step
+  id: '30_39'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: heat-In a pot, heat 1 tbsp olive oil over medium heat
+  - description: Peel-Peel an onion
+  - description: Dice-Dice 1/4 cup of onion
+  - description: Add-Add the onion to the pot
+  - description: Peel-Peel one garlic clove
+  - description: mince-mince the garlic clove
+  - description: Chop-Chop 1/16 cup basil
+  - description: Add-add garlic to the pot
+  - description: cook-cook for 2-3 minutes, until softened
+  - description: Stir-Stir 1/4 can crushed tomatoes in the pot
+  - description: Stir-Stir 1/2 cup vegetable broth in the pot
+  - description: Bring-Bring the contents of the pot to a boil
+  - description: Stir-Stir in the 1/8 cup heavy cream in the pot
+  - description: Season-Season pot with 1/4 tsp pepper
+  - description: Season-Season pot with 1/4 tsp salt
+  - description: Transfer-Transfer the contents of the pot to a serving bowl
+- activity_id: 30
+  environment: null
+  errors:
+  - description: Dice-Dice 1/4 cup of onion
+    tag: Missing Step
+  - description: Add-Add the onion to the pot
+    tag: Missing Step
+  id: '30_40'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Peel-Peel an onion
+  - description: Peel-Peel one garlic clove
+  - description: heat-In a pot, heat 1 tbsp olive oil over medium heat
+  - description: mince-mince the garlic clove
+  - description: Add-add garlic to the pot
+  - description: cook-cook for 2-3 minutes, until softened
+  - description: Stir-Stir 1/2 cup vegetable broth in the pot
+  - description: Stir-Stir 1/4 can crushed tomatoes in the pot
+  - description: Bring-Bring the contents of the pot to a boil
+  - description: Chop-Chop 1/16 cup basil
+  - description: reduce-reduce the heat and simmer for 2 minutes
+  - description: Stir-Stir 1/16 cup chopped fresh basil in the pot
+  - description: Stir-Stir in the 1/8 cup heavy cream in the pot
+  - description: Season-Season pot with 1/4 tsp pepper
+  - description: Season-Season pot with 1/4 tsp salt
+  - description: Transfer-Transfer the contents of the pot to a serving bowl
+- activity_id: 30
+  environment: null
+  errors:
+  - description: Stir-Stir 1/4 can crushed tomatoes in the pot
+    tag: Missing Step
+  - description: Stir-Stir 1/2 cup vegetable broth in the pot
+    tag: Missing Step
+  id: '30_41'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Peel-Peel an onion
+  - description: Chop-Chop 1/16 cup basil
+  - description: heat-In a pot, heat 1 tbsp olive oil over medium heat
+  - description: Dice-Dice 1/4 cup of onion
+  - description: Peel-Peel one garlic clove
+  - description: Add-Add the onion to the pot
+  - description: mince-mince the garlic clove
+  - description: Add-add garlic to the pot
+  - description: cook-cook for 2-3 minutes, until softened
+  - description: Bring-Bring the contents of the pot to a boil
+  - description: reduce-reduce the heat and simmer for 2 minutes
+  - description: Stir-Stir in the 1/8 cup heavy cream in the pot
+  - description: Stir-Stir 1/16 cup chopped fresh basil in the pot
+  - description: Season-Season pot with 1/4 tsp pepper
+  - description: Season-Season pot with 1/4 tsp salt
+  - description: Transfer-Transfer the contents of the pot to a serving bowl
+- activity_id: 30
+  environment: null
+  errors:
+  - description: Stir-Stir 1/4 can crushed tomatoes in the pot
+    tag: Missing Step
+  - description: Add-add garlic to the pot
+    tag: Missing Step
+  id: '30_42'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Peel-Peel one garlic clove
+  - description: Peel-Peel an onion
+  - description: heat-In a pot, heat 1 tbsp olive oil over medium heat
+  - description: mince-mince the garlic clove
+  - description: Dice-Dice 1/4 cup of onion
+  - description: Add-Add the onion to the pot
+  - description: cook-cook for 2-3 minutes, until softened
+  - description: Stir-Stir 1/2 cup vegetable broth in the pot
+  - description: Bring-Bring the contents of the pot to a boil
+  - description: reduce-reduce the heat and simmer for 2 minutes
+  - description: Chop-Chop 1/16 cup basil
+  - description: Stir-Stir in the 1/8 cup heavy cream in the pot
+  - description: Stir-Stir 1/16 cup chopped fresh basil in the pot
+  - description: Season-Season pot with 1/4 tsp salt
+  - description: Season-Season pot with 1/4 tsp pepper
+  - description: Transfer-Transfer the contents of the pot to a serving bowl
+- activity_id: 30
+  environment: null
+  errors:
+  - description: Bring-Bring the contents of the pot to a boil
+    tag: Missing Step
+  - description: cook-cook for 2-3 minutes, until softened
+    tag: Missing Step
+  - tag: Order Error
+  id: '30_43'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Peel-Peel an onion
+  - description: heat-In a pot, heat 1 tbsp olive oil over medium heat
+  - description: Dice-Dice 1/4 cup of onion
+  - description: Stir-Stir 1/4 can crushed tomatoes in the pot
+  - description: Add-Add the onion to the pot
+  - description: Stir-Stir 1/2 cup vegetable broth in the pot
+  - description: Chop-Chop 1/16 cup basil
+  - description: Stir-Stir 1/16 cup chopped fresh basil in the pot
+  - description: Peel-Peel one garlic clove
+  - description: mince-mince the garlic clove
+  - description: Add-add garlic to the pot
+  - description: Stir-Stir in the 1/8 cup heavy cream in the pot
+  - description: Season-Season pot with 1/4 tsp salt
+  - description: Season-Season pot with 1/4 tsp pepper
+  - description: reduce-reduce the heat and simmer for 2 minutes
+  - description: Transfer-Transfer the contents of the pot to a serving bowl
+- activity_id: 30
+  environment: null
+  errors:
+  - description: reduce-reduce the heat and simmer for 2 minutes
+    tag: Missing Step
+  - description: cook-cook for 2-3 minutes, until softened
+    tag: Missing Step
+  - description: Season-Season pot with 1/4 tsp salt
+    tag: Missing Step
+  - tag: Order Error
+  id: '30_44'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Peel-Peel an onion
+  - description: Dice-Dice 1/4 cup of onion
+  - description: heat-In a pot, heat 1 tbsp olive oil over medium heat
+  - description: Peel-Peel one garlic clove
+  - description: Stir-Stir 1/4 can crushed tomatoes in the pot
+  - description: Add-Add the onion to the pot
+  - description: mince-mince the garlic clove
+  - description: Chop-Chop 1/16 cup basil
+  - description: Add-add garlic to the pot
+  - description: Stir-Stir 1/16 cup chopped fresh basil in the pot
+  - description: Stir-Stir 1/2 cup vegetable broth in the pot
+  - description: Bring-Bring the contents of the pot to a boil
+  - description: Stir-Stir in the 1/8 cup heavy cream in the pot
+  - description: Season-Season pot with 1/4 tsp pepper
+  - description: Transfer-Transfer the contents of the pot to a serving bowl
+- activity_id: 30
+  environment: null
+  errors:
+  - tag: Order Error
+  id: '30_45'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Chop-Chop 1/16 cup basil
+  - description: Peel-Peel an onion
+  - description: Peel-Peel one garlic clove
+  - description: Dice-Dice 1/4 cup of onion
+  - description: heat-In a pot, heat 1 tbsp olive oil over medium heat
+  - description: Add-Add the onion to the pot
+  - description: Stir-Stir 1/2 cup vegetable broth in the pot
+  - description: Stir-Stir 1/4 can crushed tomatoes in the pot
+  - description: mince-mince the garlic clove
+  - description: Add-add garlic to the pot
+  - description: cook-cook for 2-3 minutes, until softened
+  - description: reduce-reduce the heat and simmer for 2 minutes
+  - description: Stir-Stir 1/16 cup chopped fresh basil in the pot
+  - description: Stir-Stir in the 1/8 cup heavy cream in the pot
+  - description: Season-Season pot with 1/4 tsp pepper
+  - description: Season-Season pot with 1/4 tsp salt
+  - description: Bring-Bring the contents of the pot to a boil
+  - description: Transfer-Transfer the contents of the pot to a serving bowl
+- activity_id: 30
+  environment: null
+  errors:
+  - description: Peel-Peel one garlic clove
+    tag: Missing Step
+  - description: mince-mince the garlic clove
+    tag: Missing Step
+  - description: Add-add garlic to the pot
+    tag: Missing Step
+  - tag: Order Error
+  id: '30_46'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: heat-In a pot, heat 1 tbsp olive oil over medium heat
+  - description: Peel-Peel an onion
+  - description: Stir-Stir 1/2 cup vegetable broth in the pot
+  - description: Dice-Dice 1/4 cup of onion
+  - description: Add-Add the onion to the pot
+  - description: Season-Season pot with 1/4 tsp pepper
+  - description: Bring-Bring the contents of the pot to a boil
+  - description: Stir-Stir 1/4 can crushed tomatoes in the pot
+  - description: Chop-Chop 1/16 cup basil
+  - description: reduce-reduce the heat and simmer for 2 minutes
+  - description: Stir-Stir in the 1/8 cup heavy cream in the pot
+  - description: Stir-Stir 1/16 cup chopped fresh basil in the pot
+  - description: Season-Season pot with 1/4 tsp salt
+  - description: cook-cook for 2-3 minutes, until softened
+  - description: Transfer-Transfer the contents of the pot to a serving bowl
+- activity_id: 30
+  environment: null
+  errors:
+  - description: Chop-Chop 1/16 cup basil
+    tag: Missing Step
+  - description: Stir-Stir 1/16 cup chopped fresh basil in the pot
+    tag: Missing Step
+  - tag: Order Error
+  id: '30_47'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: heat-In a pot, heat 1 tbsp olive oil over medium heat
+  - description: Stir-Stir 1/2 cup vegetable broth in the pot
+  - description: Peel-Peel one garlic clove
+  - description: Peel-Peel an onion
+  - description: mince-mince the garlic clove
+  - description: Dice-Dice 1/4 cup of onion
+  - description: Add-add garlic to the pot
+  - description: Add-Add the onion to the pot
+  - description: cook-cook for 2-3 minutes, until softened
+  - description: Stir-Stir 1/4 can crushed tomatoes in the pot
+  - description: Stir-Stir in the 1/8 cup heavy cream in the pot
+  - description: reduce-reduce the heat and simmer for 2 minutes
+  - description: Bring-Bring the contents of the pot to a boil
+  - description: Season-Season pot with 1/4 tsp pepper
+  - description: Season-Season pot with 1/4 tsp salt
+  - description: Transfer-Transfer the contents of the pot to a serving bowl
+- activity_id: 30
+  environment: null
+  errors:
+  - description: cook-cook for 2-3 minutes, until softened
+    tag: Missing Step
+  - description: Season-Season pot with 1/4 tsp pepper
+    tag: Missing Step
+  - description: Season-Season pot with 1/4 tsp salt
+    tag: Missing Step
+  - tag: Order Error
+  id: '30_48'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Peel-Peel one garlic clove
+  - description: Peel-Peel an onion
+  - description: heat-In a pot, heat 1 tbsp olive oil over medium heat
+  - description: mince-mince the garlic clove
+  - description: Dice-Dice 1/4 cup of onion
+  - description: Chop-Chop 1/16 cup basil
+  - description: Add-Add the onion to the pot
+  - description: Stir-Stir in the 1/8 cup heavy cream in the pot
+  - description: Stir-Stir 1/2 cup vegetable broth in the pot
+  - description: Stir-Stir 1/4 can crushed tomatoes in the pot
+  - description: Bring-Bring the contents of the pot to a boil
+  - description: reduce-reduce the heat and simmer for 2 minutes
+  - description: Stir-Stir 1/16 cup chopped fresh basil in the pot
+  - description: Add-add garlic to the pot
+  - description: Transfer-Transfer the contents of the pot to a serving bowl
+- activity_id: 30
+  environment: null
+  errors:
+  - tag: Order Error
+  id: '30_49'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Peel-Peel an onion
+  - description: heat-In a pot, heat 1 tbsp olive oil over medium heat
+  - description: Chop-Chop 1/16 cup basil
+  - description: Peel-Peel one garlic clove
+  - description: Stir-Stir 1/2 cup vegetable broth in the pot
+  - description: Dice-Dice 1/4 cup of onion
+  - description: mince-mince the garlic clove
+  - description: Add-Add the onion to the pot
+  - description: Bring-Bring the contents of the pot to a boil
+  - description: cook-cook for 2-3 minutes, until softened
+  - description: Season-Season pot with 1/4 tsp pepper
+  - description: Add-add garlic to the pot
+  - description: reduce-reduce the heat and simmer for 2 minutes
+  - description: Stir-Stir 1/16 cup chopped fresh basil in the pot
+  - description: Stir-Stir in the 1/8 cup heavy cream in the pot
+  - description: Stir-Stir 1/4 can crushed tomatoes in the pot
+  - description: Season-Season pot with 1/4 tsp salt
+  - description: Transfer-Transfer the contents of the pot to a serving bowl
+- activity_id: 30
+  environment: null
+  errors:
+  - tag: Order Error
+  id: '30_50'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Peel-Peel an onion
+  - description: heat-In a pot, heat 1 tbsp olive oil over medium heat
+  - description: Peel-Peel one garlic clove
+  - description: Dice-Dice 1/4 cup of onion
+  - description: mince-mince the garlic clove
+  - description: Season-Season pot with 1/4 tsp salt
+  - description: Season-Season pot with 1/4 tsp pepper
+  - description: Add-Add the onion to the pot
+  - description: Add-add garlic to the pot
+  - description: Chop-Chop 1/16 cup basil
+  - description: Stir-Stir 1/2 cup vegetable broth in the pot
+  - description: cook-cook for 2-3 minutes, until softened
+  - description: Stir-Stir 1/4 can crushed tomatoes in the pot
+  - description: Bring-Bring the contents of the pot to a boil
+  - description: reduce-reduce the heat and simmer for 2 minutes
+  - description: Stir-Stir in the 1/8 cup heavy cream in the pot
+  - description: Stir-Stir 1/16 cup chopped fresh basil in the pot
+  - description: Transfer-Transfer the contents of the pot to a serving bowl

@@ -1,0 +1,876 @@
+- activity_id: 17
+  environment: 7
+  id: '17_2'
+  is_error: false
+  recorded_by: 8
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 8
+  steps:
+  - description: whisk-In a mixing bowl, whisk 1 cup of chilled curd until smooth.
+      Use fresh homemade or packaged curd
+  - description: add-add 1 tablespoon of chopped cilantro leaves to the bowl
+  - description: Add-1/4 teaspoon of red chilli powder to the bowl
+  - description: Rinse-Rinse 1 medium sized cucumber
+  - description: Add-1/4 teaspoon salt to the bowl
+  - description: peel-peel the cucumber
+  - description: Add-Add 1 teaspoon of cumin powder to the bowl
+  - description: chop or grate-chop or grate the cucumber
+  - description: Add-Add the chopped or grated cucumber to the whisked curd
+  - description: Add-1/2 teaspoon of chaat masala powder to the bowl
+  - description: Combine-Combine all the ingredients in the bowl
+- activity_id: 17
+  environment: 1
+  id: '17_3'
+  is_error: false
+  recorded_by: 2
+  recording_info:
+    end_time: '"2023-04-12T17:57:27.725390"'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: '"2023-04-12T17:38:41.459397"'
+  selected_by: 2
+  steps:
+  - description: whisk-In a mixing bowl, whisk 1 cup of chilled curd until smooth.
+      Use fresh homemade or packaged curd
+  - description: Add-1/4 teaspoon of red chilli powder to the bowl
+  - description: Rinse-Rinse 1 medium sized cucumber
+  - description: Add-1/2 teaspoon of chaat masala powder to the bowl
+  - description: peel-peel the cucumber
+  - description: Add-Add 1 teaspoon of cumin powder to the bowl
+  - description: chop or grate-chop or grate the cucumber
+  - description: add-add 1 tablespoon of chopped cilantro leaves to the bowl
+  - description: Add-1/4 teaspoon salt to the bowl
+  - description: Add-Add the chopped or grated cucumber to the whisked curd
+  - description: Combine-Combine all the ingredients in the bowl
+- activity_id: 17
+  environment: 5
+  id: '17_5'
+  is_error: false
+  recorded_by: 8
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 8
+  steps:
+  - description: whisk-In a mixing bowl, whisk 1 cup of chilled curd until smooth.
+      Use fresh homemade or packaged curd
+  - description: Add-1/4 teaspoon of red chilli powder to the bowl
+  - description: add-add 1 tablespoon of chopped cilantro leaves to the bowl
+  - description: Add-Add 1 teaspoon of cumin powder to the bowl
+  - description: Rinse-Rinse 1 medium sized cucumber
+  - description: Add-1/4 teaspoon salt to the bowl
+  - description: peel-peel the cucumber
+  - description: Add-1/2 teaspoon of chaat masala powder to the bowl
+  - description: chop or grate-chop or grate the cucumber
+  - description: Add-Add the chopped or grated cucumber to the whisked curd
+  - description: Combine-Combine all the ingredients in the bowl
+- activity_id: 17
+  environment: 2
+  id: '17_8'
+  is_error: false
+  recorded_by: 5
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: '"2023-04-22T12:53:04.252611"'
+  selected_by: 5
+  steps:
+  - description: whisk-In a mixing bowl, whisk 1 cup of chilled curd until smooth.
+      Use fresh homemade or packaged curd
+  - description: Add-1/2 teaspoon of chaat masala powder to the bowl
+  - description: Rinse-Rinse 1 medium sized cucumber
+  - description: peel-peel the cucumber
+  - description: Add-Add 1 teaspoon of cumin powder to the bowl
+  - description: chop or grate-chop or grate the cucumber
+  - description: add-add 1 tablespoon of chopped cilantro leaves to the bowl
+  - description: Add-1/4 teaspoon of red chilli powder to the bowl
+  - description: Add-1/4 teaspoon salt to the bowl
+  - description: Add-Add the chopped or grated cucumber to the whisked curd
+  - description: Combine-Combine all the ingredients in the bowl
+- activity_id: 17
+  environment: 6
+  id: '17_10'
+  is_error: false
+  recorded_by: 4
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: '"2023-05-06T21:06:33.861096"'
+  selected_by: 4
+  steps:
+  - description: whisk-In a mixing bowl, whisk 1 cup of chilled curd until smooth.
+      Use fresh homemade or packaged curd
+  - description: Add-Add 1 teaspoon of cumin powder to the bowl
+  - description: add-add 1 tablespoon of chopped cilantro leaves to the bowl
+  - description: Rinse-Rinse 1 medium sized cucumber
+  - description: Add-1/2 teaspoon of chaat masala powder to the bowl
+  - description: Add-1/4 teaspoon salt to the bowl
+  - description: peel-peel the cucumber
+  - description: Add-1/4 teaspoon of red chilli powder to the bowl
+  - description: chop or grate-chop or grate the cucumber
+  - description: Add-Add the chopped or grated cucumber to the whisked curd
+  - description: Combine-Combine all the ingredients in the bowl
+- activity_id: 17
+  environment: 2
+  id: '17_11'
+  is_error: false
+  recorded_by: 3
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: '"2023-04-23T18:47:29.657343"'
+  selected_by: 3
+  steps:
+  - description: whisk-In a mixing bowl, whisk 1 cup of chilled curd until smooth.
+      Use fresh homemade or packaged curd
+  - description: add-add 1 tablespoon of chopped cilantro leaves to the bowl
+  - description: Add-1/4 teaspoon salt to the bowl
+  - description: Add-Add 1 teaspoon of cumin powder to the bowl
+  - description: Add-1/2 teaspoon of chaat masala powder to the bowl
+  - description: Rinse-Rinse 1 medium sized cucumber
+  - description: Add-1/4 teaspoon of red chilli powder to the bowl
+  - description: peel-peel the cucumber
+  - description: chop or grate-chop or grate the cucumber
+  - description: Add-Add the chopped or grated cucumber to the whisked curd
+  - description: Combine-Combine all the ingredients in the bowl
+- activity_id: 17
+  environment: 7
+  id: '17_14'
+  is_error: false
+  recorded_by: 8
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 8
+  steps:
+  - description: whisk-In a mixing bowl, whisk 1 cup of chilled curd until smooth.
+      Use fresh homemade or packaged curd
+  - description: Add-1/4 teaspoon of red chilli powder to the bowl
+  - description: add-add 1 tablespoon of chopped cilantro leaves to the bowl
+  - description: Add-Add 1 teaspoon of cumin powder to the bowl
+  - description: Rinse-Rinse 1 medium sized cucumber
+  - description: peel-peel the cucumber
+  - description: chop or grate-chop or grate the cucumber
+  - description: Add-Add the chopped or grated cucumber to the whisked curd
+  - description: Add-1/4 teaspoon salt to the bowl
+  - description: Add-1/2 teaspoon of chaat masala powder to the bowl
+  - description: Combine-Combine all the ingredients in the bowl
+- activity_id: 17
+  environment: 6
+  id: '17_15'
+  is_error: false
+  recorded_by: 2
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 2
+  steps:
+  - description: Rinse-Rinse 1 medium sized cucumber
+  - description: whisk-In a mixing bowl, whisk 1 cup of chilled curd until smooth.
+      Use fresh homemade or packaged curd
+  - description: add-add 1 tablespoon of chopped cilantro leaves to the bowl
+  - description: Add-1/4 teaspoon salt to the bowl
+  - description: peel-peel the cucumber
+  - description: Add-1/4 teaspoon of red chilli powder to the bowl
+  - description: Add-Add 1 teaspoon of cumin powder to the bowl
+  - description: chop or grate-chop or grate the cucumber
+  - description: Add-1/2 teaspoon of chaat masala powder to the bowl
+  - description: Add-Add the chopped or grated cucumber to the whisked curd
+  - description: Combine-Combine all the ingredients in the bowl
+- activity_id: 17
+  environment: 11
+  id: '17_16'
+  is_error: false
+  recorded_by: 5
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 5
+  steps:
+  - description: whisk-In a mixing bowl, whisk 1 cup of chilled curd until smooth.
+      Use fresh homemade or packaged curd
+  - description: Rinse-Rinse 1 medium sized cucumber
+  - description: Add-1/4 teaspoon of red chilli powder to the bowl
+  - description: Add-Add 1 teaspoon of cumin powder to the bowl
+  - description: peel-peel the cucumber
+  - description: add-add 1 tablespoon of chopped cilantro leaves to the bowl
+  - description: chop or grate-chop or grate the cucumber
+  - description: Add-1/4 teaspoon salt to the bowl
+  - description: Add-1/2 teaspoon of chaat masala powder to the bowl
+  - description: Add-Add the chopped or grated cucumber to the whisked curd
+  - description: Combine-Combine all the ingredients in the bowl
+- activity_id: 17
+  environment: 2
+  id: '17_19'
+  is_error: false
+  recorded_by: 2
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: '"2023-04-23T00:01:58.096049"'
+  selected_by: 2
+  steps:
+  - description: whisk-In a mixing bowl, whisk 1 cup of chilled curd until smooth.
+      Use fresh homemade or packaged curd
+  - description: Add-1/2 teaspoon of chaat masala powder to the bowl
+  - description: Add-1/4 teaspoon of red chilli powder to the bowl
+  - description: Rinse-Rinse 1 medium sized cucumber
+  - description: add-add 1 tablespoon of chopped cilantro leaves to the bowl
+  - description: peel-peel the cucumber
+  - description: chop or grate-chop or grate the cucumber
+  - description: Add-1/4 teaspoon salt to the bowl
+  - description: Add-Add the chopped or grated cucumber to the whisked curd
+  - description: Add-Add 1 teaspoon of cumin powder to the bowl
+  - description: Combine-Combine all the ingredients in the bowl
+- activity_id: 17
+  environment: 5
+  id: '17_20'
+  is_error: false
+  recorded_by: 5
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 5
+  steps:
+  - description: whisk-In a mixing bowl, whisk 1 cup of chilled curd until smooth.
+      Use fresh homemade or packaged curd
+  - description: add-add 1 tablespoon of chopped cilantro leaves to the bowl
+  - description: Add-1/4 teaspoon salt to the bowl
+  - description: Add-Add 1 teaspoon of cumin powder to the bowl
+  - description: Add-1/2 teaspoon of chaat masala powder to the bowl
+  - description: Rinse-Rinse 1 medium sized cucumber
+  - description: Add-1/4 teaspoon of red chilli powder to the bowl
+  - description: peel-peel the cucumber
+  - description: chop or grate-chop or grate the cucumber
+  - description: Add-Add the chopped or grated cucumber to the whisked curd
+  - description: Combine-Combine all the ingredients in the bowl
+- activity_id: 17
+  environment: 5
+  id: '17_21'
+  is_error: false
+  recorded_by: 2
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 2
+  steps:
+  - description: Rinse-Rinse 1 medium sized cucumber
+  - description: whisk-In a mixing bowl, whisk 1 cup of chilled curd until smooth.
+      Use fresh homemade or packaged curd
+  - description: Add-1/4 teaspoon of red chilli powder to the bowl
+  - description: peel-peel the cucumber
+  - description: chop or grate-chop or grate the cucumber
+  - description: Add-Add the chopped or grated cucumber to the whisked curd
+  - description: Add-Add 1 teaspoon of cumin powder to the bowl
+  - description: Add-1/4 teaspoon salt to the bowl
+  - description: Add-1/2 teaspoon of chaat masala powder to the bowl
+  - description: add-add 1 tablespoon of chopped cilantro leaves to the bowl
+  - description: Combine-Combine all the ingredients in the bowl
+- activity_id: 17
+  environment: 6
+  id: '17_23'
+  is_error: false
+  recorded_by: 8
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: '"2023-05-05T21:13:59.276465"'
+  selected_by: 8
+  steps:
+  - description: whisk-In a mixing bowl, whisk 1 cup of chilled curd until smooth.
+      Use fresh homemade or packaged curd
+  - description: add-add 1 tablespoon of chopped cilantro leaves to the bowl
+  - description: Rinse-Rinse 1 medium sized cucumber
+  - description: Add-1/2 teaspoon of chaat masala powder to the bowl
+  - description: Add-Add 1 teaspoon of cumin powder to the bowl
+  - description: Add-1/4 teaspoon of red chilli powder to the bowl
+  - description: peel-peel the cucumber
+  - description: chop or grate-chop or grate the cucumber
+  - description: Add-Add the chopped or grated cucumber to the whisked curd
+  - description: Add-1/4 teaspoon salt to the bowl
+  - description: Combine-Combine all the ingredients in the bowl
+- activity_id: 17
+  environment: 7
+  errors:
+  - description: Add-1/4 teaspoon salt to the bowl
+    tag: Missing Step
+  id: '17_29'
+  is_error: true
+  recorded_by: 5
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: '"2023-05-13T20:17:02.838687"'
+  selected_by: 5
+  steps:
+  - description: Rinse-Rinse 1 medium sized cucumber
+    errors:
+    - description: Rinse-Rinse 1 medium sized zucchini instead of cucumber.
+      tag: Preparation Error
+    - description: Rinse-Rinse 1 medium sized zucchini. Incomplete rinse. Rinse only
+        half side of zucchini.
+      tag: Technique Error
+    modified_description: Rinse-Rinse 1 medium sized zucchini. Incomplete rinse.
+  - description: whisk-In a mixing bowl, whisk 1 cup of chilled curd until smooth.
+      Use fresh homemade or packaged curd
+    errors:
+    - description: whisk-In a coffee mug, whisk 1 cup of chilled curd until smooth.
+        Use fresh homemade or packaged curd
+      tag: Preparation Error
+    - description: whisk-In a coffee mug, whisk 1 cup of chilled curd until smooth.
+        Use fresh homemade or packaged curd. Whisking not done properly. Instead of
+        moving hand in circular motion. Used hands by just pusing up and down the
+        curd.
+      tag: Technique Error
+    modified_description: whisk-In a coffee mug, whisk 1 cup of chilled curd until
+      smooth. Use fresh homemade or packaged curd. Whisking not done properly.
+  - description: add-add 1 tablespoon of chopped cilantro leaves to the bowl
+    errors:
+    - description: add-add 1 tablespoon of chopped cilantro leaves to the bowl. Chopping
+        done using peeler. The leaves were not chopped properly and still had stems
+        in them. Whole leafs still exist.
+      tag: Technique Error
+    modified_description: add-add 1 tablespoon of chopped cilantro leaves to the bowl.
+      Chopping done using peeler.
+  - description: peel-peel the cucumber
+    errors:
+    - description: peel-peel the zucchini using fork. Use fork to remove the skin
+        of zucchini. Did not remove the zucchini's top bud as well. After peeling
+        skin of zucchini still visible.
+      tag: Technique Error
+    - description: peel-peel the zucchini using fork. Use fork to remove the skin
+        of zucchini. Did not remove the zucchini's top bud as well. After peeling
+        skin of zucchini still visible.
+      tag: Preparation Error
+    modified_description: peel-peel the zucchini using fork.
+  - description: Add-Add 1 teaspoon of cumin powder to the bowl
+    errors:
+    - description: Add-Add 1 teaspoon of cinnamon powder to the coffee mug
+      tag: Preparation Error
+    modified_description: Add-Add 1 teaspoon of cinnamon powder to the coffee mug
+  - description: Add-1/4 teaspoon of red chilli powder to the bowl
+  - description: chop or grate-chop or grate the cucumber
+    errors:
+    - description: chop or grate-chop or grate the zucchini. Action for chop not proper.
+        Just pressing the zucchini instead of actually cutting it. Also a lot spillage
+        of big chunks of zucchini were made. final pieces after chop quite large.
+      tag: Technique Error
+    modified_description: chop or grate-chop or grate the zucchini improperly.
+  - description: Add-1/2 teaspoon of chaat masala powder to the bowl
+    errors:
+    - description: Add-1/2 teaspoon of chaat masala powder to the mug. Action was
+        not proper should be gently put inside mug but instead forcefully transferred.
+        Spillage might also have happened.
+      tag: Technique Error
+    modified_description: Add-1/2 teaspoon of chaat masala powder to the mug
+  - description: Add-Add the chopped or grated cucumber to the whisked curd
+    errors:
+    - description: Add-Add the chopped or grated zucchini to the whisked curd. Directly
+        transferring the entire cutting board and not the chopped zucchini. Spilling
+        happens. kitchen platform became messy.
+      tag: Technique Error
+    modified_description: Add-Add the chopped or grated zucchini to the whisked curd
+  - description: Combine-Combine all the ingredients in the bowl
+    errors:
+    - description: Combine-Combine all the ingredients in the mug using kitchen knife.
+        Combine not done properly instead of circular motion did up and down of knife
+        on mixture.
+      tag: Preparation Error
+    - description: Combine-Combine all the ingredients in the mug using kitchen knife.
+        Combine not done properly instead of circular motion did up and down of knife
+        on mixture.
+      tag: Technique Error
+    modified_description: Combine all the ingredients in the mug using kitchen knife improperly.
+- activity_id: 17
+  environment: 1
+  errors:
+  - description: chop or grate-chop or grate the cucumber
+    tag: Missing Step
+  - description: Add-Add the chopped or grated cucumber to the whisked curd
+    tag: Missing Step
+  - tag: Order Error
+  id: '17_37'
+  is_error: true
+  recorded_by: 5
+  recording_info:
+    end_time: '"2023-04-16T23:56:49.214076"'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: '"2023-04-16T23:40:33.855419"'
+  selected_by: 5
+  steps:
+  - description: Add-Add 1 teaspoon of cumin powder to the bowl
+    errors:
+    - description: bowl not washed before taking for cooking. Add-Add 1 teaspoon of
+        cumin powder to the bowl performed before bowl being cleaned.
+      tag: Preparation Error
+    modified_description: Add-Add 1 teaspoon of cumin powder to the bowl [not washing
+      the bowl]
+  - description: add-add 1 tablespoon of chopped cilantro leaves to the bowl
+    errors:
+    - description: add-add 2 tablespoons instead of 1 tablespoon of chopped cilantro leaves to the bowl
+      tag: Measurement Error
+    modified_description: add-add 2 tablespoon of chopped cilantro leaves to the bowl
+  - description: Rinse-Rinse 1 medium sized cucumber
+    errors:
+    - description: Rinse-Rinse 1 medium sized cucumber [rinsed not done properly.
+        should be done for atleast 30 seconds under water but did only for 5 seconds]
+      tag: Preparation Error
+    modified_description: Rinse-Rinse 1 medium sized cucumber[ rinse time only 5 seconds]
+  - description: whisk-In a mixing bowl, whisk 1 cup of chilled curd until smooth.
+      Use fresh homemade or packaged curd
+    errors:
+    - description: whisk-In a mixing bowl, whisk 1/2 cup of chilled curd until smooth.
+        Use fresh homemade or packaged curd
+      tag: Measurement Error
+    modified_description: whisk-In a mixing bowl, whisk 1/2 cup of chilled curd until
+      smooth. Use fresh homemade or packaged curd
+  - description: peel-peel the cucumber
+    errors:
+    - description: improper peeling of cucumber. thick peels made. many of the cucumber
+        wasted in peels.
+      tag: Technique Error
+    modified_description: peel-peel the cucumber [not properly]
+  - description: Add-1/4 teaspoon salt to the bowl
+    errors:
+    - description: Add-1/2 teaspoon salt to the bowl.
+      tag: Measurement Error
+    modified_description: Add-1/2 teaspoon salt to the bowl
+  - description: Add-1/4 teaspoon of red chilli powder to the bowl
+  - description: Add-1/2 teaspoon of chaat masala powder to the bowl
+    errors:
+    - description: Add-1 teaspoon of chaat masala powder to the bowl
+      tag: Measurement Error
+    modified_description: Add-1 teaspoon of chaat masala powder to the bowl
+  - description: Combine-Combine all the ingredients in the bowl
+- activity_id: 17
+  environment: 7
+  errors:
+  - description: peel-peel the cucumber
+    tag: Missing Step
+  - tag: Order Error
+  id: '17_40'
+  is_error: true
+  recorded_by: 4
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: '"2023-05-12T01:10:58.472357"'
+  selected_by: 4
+  steps:
+  - description: Add-Add 1 teaspoon of cumin powder to the bowl
+    errors:
+    - description: spill some cumin powder
+      tag: Technique Error
+    modified_description: Add-Add 1 teaspoon of cumin powder to the bowl and spill
+      some out while adding
+  - description: add-add 1 tablespoon of chopped cilantro leaves to the bowl
+    errors:
+    - description: add scallions instead of cilantro
+      tag: Preparation Error
+    modified_description: add-add 1 tablespoon of chopped scallions to the bowl instead
+      of cilantro
+  - description: Rinse-Rinse 1 medium sized cucumber
+    errors:
+    - description: use zuchini instead of cucumber
+      tag: Preparation Error
+    modified_description: Rinse-Rinse 1 medium sized zucchini
+  - description: Add-1/4 teaspoon of red chilli powder to the bowl
+  - description: whisk-In a mixing bowl, whisk 1 cup of chilled curd until smooth.
+      Use fresh homemade or packaged curd
+  - description: chop or grate-chop or grate the cucumber
+    errors:
+    - description: use zucchini instead of cucumber and chop or grate only half zucchini
+        instead of full
+      tag: Measurement Error
+    modified_description: chop or grate-chop or grate only 1/2 of zucchini instead
+      of one medium cucumber
+  - description: Add-1/4 teaspoon salt to the bowl
+  - description: Add-1/2 teaspoon of chaat masala powder to the bowl
+  - description: Add-Add the chopped or grated cucumber to the whisked curd
+  - description: Combine-Combine all the ingredients in the bowl
+- activity_id: 17
+  environment: 2
+  errors:
+  - tag: Order Error
+  id: '17_45'
+  is_error: true
+  recorded_by: 4
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 4
+  steps:
+  - description: Rinse-Rinse 1 medium sized cucumber
+  - description: Add-Add 1 teaspoon of cumin powder to the bowl
+    errors:
+    - description: add 2 teaspoons instead of 1 teaspoon
+      tag: Measurement Error
+    modified_description: Add-Add 2 teaspoon of cumin powder to the bowl
+  - description: Add-1/4 teaspoon of red chilli powder to the bowl
+    errors:
+    - description: Add-1/4 teaspoon of red chilli powder to the bowl and spill some
+        outside
+      tag: Preparation Error
+    modified_description: Add-1/4 teaspoon of red chilli powder to the bowl and spill
+      some outside
+  - description: peel-peel the cucumber
+    errors:
+    - description: peel the cucumber improperly. or half peeled
+      tag: Technique Error
+    modified_description: peel-peel the cucumber improperly
+  - description: add-add 1 tablespoon of chopped cilantro leaves to the bowl
+  - description: Add-1/2 teaspoon of chaat masala powder to the bowl
+  - description: chop or grate-chop or grate the cucumber
+    errors:
+    - description: slice instead of chop or grate
+      tag: Technique Error
+    modified_description: chop or grate-slice the cucumber
+  - description: Add-Add the chopped or grated cucumber to the whisked curd
+  - description: Add-1/4 teaspoon salt to the bowl
+    errors:
+    - description: spill while adding
+      tag: Technique Error
+    modified_description: Add-1/4 teaspoon salt to the bowl and spill some outside
+  - description: whisk-In a mixing bowl, whisk 1 cup of chilled curd until smooth.
+      Use fresh homemade or packaged curd
+    errors:
+    - description: forgot to whisk the curd
+      tag: Preparation Error
+    modified_description: whisk-In a mixing bowl, take 1 cup of chilled curd and forgot
+      to whisk until smooth. Use fresh homemade or packaged curd
+  - description: Combine-Combine all the ingredients in the bowl
+    errors:
+    - description: spill some ingredients out while combining
+      tag: Technique Error
+    modified_description: Combine-Combine all the ingredients in the bowl and spill
+      some out
+- activity_id: 17
+  environment: 1
+  errors:
+  - tag: Order Error
+  id: '17_49'
+  is_error: true
+  recorded_by: 4
+  recording_info:
+    end_time: '"2023-04-13T01:29:33.049283"'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: '"2023-04-13T01:13:53.316322"'
+  selected_by: 4
+  steps:
+  - description: Add-1/4 teaspoon of red chilli powder to the bowl
+    errors:
+    - description: Added tablespoon instead of teaspoon
+      tag: Measurement Error
+    modified_description: Add-1/4 tablespoon of red chilli powder to the bowl instead
+      of teaspoon
+  - description: Rinse-Rinse 1 medium sized cucumber
+  - description: Add-Add 1 teaspoon of cumin powder to the bowl
+    errors:
+    - description: add turmeric instead of cumin powder
+      tag: Preparation Error
+    modified_description: Add-Add 1 teaspoon of turmeric to the bowl
+  - description: peel-peel the cucumber
+    errors:
+    - description: donot peel the cucumber properly
+      tag: Technique Error
+    modified_description: Peel only half the cucumber
+  - description: Add-1/2 teaspoon of chaat masala powder to the bowl
+  - description: Add-1/4 teaspoon salt to the bowl
+    errors:
+    - description: Add 1 teaspoon instead of 1/4 teaspoon
+      tag: Measurement Error
+    modified_description: Add- Add 1 teaspoon salt to the bowl
+  - description: whisk-In a mixing bowl, whisk 1 cup of chilled curd until smooth.
+      Use fresh homemade or packaged curd
+  - description: Combine-Combine all the ingredients in the bowl
+    errors:
+    - description: Spilling while combining in the bowl
+      tag: Technique Error
+    modified_description: Combine-Spill while combining all the ingredients in the
+      bowl
+  - description: add-add 1 tablespoon of chopped cilantro leaves to the bowl
+  - description: chop or grate-chop or grate the cucumber
+    errors:
+    - description: cut cucumber into thin strips instead of chop/ grate
+      tag: Technique Error
+    modified_description: cut cucumber into thin strips
+  - description: Add-Add the chopped or grated cucumber to the whisked curd

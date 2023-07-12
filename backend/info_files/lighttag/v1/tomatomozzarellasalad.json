@@ -1,0 +1,1017 @@
+{
+  "id": "5ee1a3ac21d146e3b49d4c2626042a09",
+  "examples": [
+    {
+      "content": "Rinse a tomato and gently dry it with a tea towel. Slice one tomato into about 1/2 inch thick slices. Place the thick slices of tomatoes on a platter, ensuring they only make a single layer. Season the tomato slices with salt. Sprinkle mozzarella cheese on top of the tomato throughout the platter. Garnish with seasoning. Season with 1/4 teaspoon black pepper. Add a drizzle of extra-virgin olive oil, about 1 tablespoon, over the entire platter.\n\nRinse a tomato and gently dry it with a tea towel. Slice one tomato into about 1/2 inch thick slices. Place the thick slices of tomatoes on a platter, ensuring they only make a single layer. Season the tomato slices with salt. Sprinkle mozzarella cheese on top of the tomato throughout the platter. Garnish with seasoning. Season with 1/4 teaspoon black pepper. Add a drizzle of extra-virgin olive oil, about 1 tablespoon, over the entire platter.",
+      "seen_by": [
+        {
+          "annotator": "rohith.peddi@utdallas.edu",
+          "annotator_id": 1
+        }
+      ],
+      "comments": [],
+      "metadata": {},
+      "example_id": "67a27e94-c0fc-4faf-a95d-a4afa06307ea",
+      "annotations": [
+        {
+          "end": 309,
+          "tag": "how",
+          "start": 305,
+          "value": "with",
+          "tag_id": "3e495173-000a-453a-86ca-62cd9babb5d2",
+          "correct": null,
+          "reviewed": false,
+          "example_id": "67a27e94-c0fc-4faf-a95d-a4afa06307ea",
+          "annotated_by": [
+            {
+              "annotator": null,
+              "timestamp": null,
+              "annotator_id": null
+            }
+          ],
+          "definition_id": "5ee1a3ac-21d1-46e3-b49d-4c2626042a09",
+          "tagged_token_id": "ffbaa66f-c6c3-4182-bf32-a77478b22790"
+        },
+        {
+          "end": 663,
+          "tag": "how",
+          "start": 659,
+          "value": "with",
+          "tag_id": "3e495173-000a-453a-86ca-62cd9babb5d2",
+          "correct": null,
+          "reviewed": false,
+          "example_id": "67a27e94-c0fc-4faf-a95d-a4afa06307ea",
+          "annotated_by": [
+            {
+              "annotator": null,
+              "timestamp": null,
+              "annotator_id": null
+            }
+          ],
+          "definition_id": "5ee1a3ac-21d1-46e3-b49d-4c2626042a09",
+          "tagged_token_id": "ff43b79a-0e2f-4443-804b-04c53450982f"
+        },
+        {
+          "end": 474,
+          "tag": "action",
+          "start": 471,
+          "value": "dry",
+          "tag_id": "4fc956ee-8945-487d-9b1c-bf4525063177",
+          "correct": null,
+          "reviewed": false,
+          "example_id": "67a27e94-c0fc-4faf-a95d-a4afa06307ea",
+          "annotated_by": [
+            {
+              "annotator": "rohith.peddi@utdallas.edu",
+              "timestamp": "2023-03-16T23:40:56.183+00:00",
+              "annotator_id": 1
+            }
+          ],
+          "definition_id": "5ee1a3ac-21d1-46e3-b49d-4c2626042a09",
+          "tagged_token_id": "e9922c5f-a375-4eff-a324-9a5479d4648a"
+        },
+        {
+          "end": 806,
+          "tag": "action",
+          "start": 803,
+          "value": "Add",
+          "tag_id": "4fc956ee-8945-487d-9b1c-bf4525063177",
+          "correct": null,
+          "reviewed": false,
+          "example_id": "67a27e94-c0fc-4faf-a95d-a4afa06307ea",
+          "annotated_by": [
+            {
+              "annotator": "rohith.peddi@utdallas.edu",
+              "timestamp": "2023-03-16T23:41:41.448+00:00",
+              "annotator_id": 1
+            }
+          ],
+          "definition_id": "5ee1a3ac-21d1-46e3-b49d-4c2626042a09",
+          "tagged_token_id": "dc970d3e-60a4-4546-9611-5ca5779b2f04"
+        },
+        {
+          "end": 98,
+          "tag": "step",
+          "start": 51,
+          "value": "Slice one tomato into about 1/2 inch thick slices",
+          "tag_id": "09ee6a58-83d4-4152-b3e4-6b012225ee51",
+          "correct": null,
+          "reviewed": false,
+          "example_id": "67a27e94-c0fc-4faf-a95d-a4afa06307ea",
+          "annotated_by": [
+            {
+              "annotator": "rohith.peddi@utdallas.edu",
+              "timestamp": "2023-03-16T23:43:50.648+00:00",
+              "annotator_id": 1
+            }
+          ],
+          "definition_id": "5ee1a3ac-21d1-46e3-b49d-4c2626042a09",
+          "tagged_token_id": "c066ad68-c9b1-4522-b75c-409d72e69f12"
+        },
+        {
+          "end": 223,
+          "tag": "step",
+          "start": 189,
+          "value": "Season the tomato slices with salt",
+          "tag_id": "09ee6a58-83d4-4152-b3e4-6b012225ee51",
+          "correct": null,
+          "reviewed": false,
+          "example_id": "67a27e94-c0fc-4faf-a95d-a4afa06307ea",
+          "annotated_by": [
+            {
+              "annotator": "rohith.peddi@utdallas.edu",
+              "timestamp": "2023-03-16T23:44:10.088+00:00",
+              "annotator_id": 1
+            }
+          ],
+          "definition_id": "5ee1a3ac-21d1-46e3-b49d-4c2626042a09",
+          "tagged_token_id": "bc91e070-5098-4f52-bc22-30fd7e0cc26b"
+        },
+        {
+          "end": 49,
+          "tag": "step",
+          "start": 19,
+          "value": "gently dry it with a tea towel",
+          "tag_id": "09ee6a58-83d4-4152-b3e4-6b012225ee51",
+          "correct": null,
+          "reviewed": false,
+          "example_id": "67a27e94-c0fc-4faf-a95d-a4afa06307ea",
+          "annotated_by": [
+            {
+              "annotator": "rohith.peddi@utdallas.edu",
+              "timestamp": "2023-03-16T23:43:45.484+00:00",
+              "annotator_id": 1
+            }
+          ],
+          "definition_id": "5ee1a3ac-21d1-46e3-b49d-4c2626042a09",
+          "tagged_token_id": "b0651435-41a6-4016-95c6-b4b7c8ef801e"
+        },
+        {
+          "end": 218,
+          "tag": "how",
+          "start": 214,
+          "value": "with",
+          "tag_id": "3e495173-000a-453a-86ca-62cd9babb5d2",
+          "correct": null,
+          "reviewed": false,
+          "example_id": "67a27e94-c0fc-4faf-a95d-a4afa06307ea",
+          "annotated_by": [
+            {
+              "annotator": null,
+              "timestamp": null,
+              "annotator_id": null
+            }
+          ],
+          "definition_id": "5ee1a3ac-21d1-46e3-b49d-4c2626042a09",
+          "tagged_token_id": "ae526737-7fa1-46ae-8445-decb57621fdd"
+        },
+        {
+          "end": 442,
+          "tag": "step",
+          "start": 358,
+          "value": "Add a drizzle of extra-virgin olive oil, about 1 tablespoon, over the entire platter",
+          "tag_id": "09ee6a58-83d4-4152-b3e4-6b012225ee51",
+          "correct": null,
+          "reviewed": false,
+          "example_id": "67a27e94-c0fc-4faf-a95d-a4afa06307ea",
+          "annotated_by": [
+            {
+              "annotator": "rohith.peddi@utdallas.edu",
+              "timestamp": "2023-03-16T23:44:49.438+00:00",
+              "annotator_id": 1
+            }
+          ],
+          "definition_id": "5ee1a3ac-21d1-46e3-b49d-4c2626042a09",
+          "tagged_token_id": "aad1f62c-845d-4cb7-a52c-f2f3e8c76464"
+        },
+        {
+          "end": 482,
+          "tag": "how",
+          "start": 478,
+          "value": "with",
+          "tag_id": "3e495173-000a-453a-86ca-62cd9babb5d2",
+          "correct": null,
+          "reviewed": false,
+          "example_id": "67a27e94-c0fc-4faf-a95d-a4afa06307ea",
+          "annotated_by": [
+            {
+              "annotator": null,
+              "timestamp": null,
+              "annotator_id": null
+            }
+          ],
+          "definition_id": "5ee1a3ac-21d1-46e3-b49d-4c2626042a09",
+          "tagged_token_id": "a61deee2-0642-4164-9014-f577464cfdc3"
+        },
+        {
+          "end": 450,
+          "tag": "action",
+          "start": 445,
+          "value": "Rinse",
+          "tag_id": "4fc956ee-8945-487d-9b1c-bf4525063177",
+          "correct": null,
+          "reviewed": false,
+          "example_id": "67a27e94-c0fc-4faf-a95d-a4afa06307ea",
+          "annotated_by": [
+            {
+              "annotator": "rohith.peddi@utdallas.edu",
+              "timestamp": "2023-03-16T23:40:50.767+00:00",
+              "annotator_id": 1
+            }
+          ],
+          "definition_id": "5ee1a3ac-21d1-46e3-b49d-4c2626042a09",
+          "tagged_token_id": "9de374ab-27c3-4d4d-b7c2-299dbbd43bb3"
+        },
+        {
+          "end": 187,
+          "tag": "step",
+          "start": 100,
+          "value": "Place the thick slices of tomatoes on a platter, ensuring they only make a single layer",
+          "tag_id": "09ee6a58-83d4-4152-b3e4-6b012225ee51",
+          "correct": null,
+          "reviewed": false,
+          "example_id": "67a27e94-c0fc-4faf-a95d-a4afa06307ea",
+          "annotated_by": [
+            {
+              "annotator": "rohith.peddi@utdallas.edu",
+              "timestamp": "2023-03-16T23:44:03.702+00:00",
+              "annotator_id": 1
+            }
+          ],
+          "definition_id": "5ee1a3ac-21d1-46e3-b49d-4c2626042a09",
+          "tagged_token_id": "9bff6a8e-4cb8-4db5-ac64-86a5745c6642"
+        },
+        {
+          "end": 295,
+          "tag": "step",
+          "start": 225,
+          "value": "Sprinkle mozzarella cheese on top of the tomato throughout the platter",
+          "tag_id": "09ee6a58-83d4-4152-b3e4-6b012225ee51",
+          "correct": null,
+          "reviewed": false,
+          "example_id": "67a27e94-c0fc-4faf-a95d-a4afa06307ea",
+          "annotated_by": [
+            {
+              "annotator": "rohith.peddi@utdallas.edu",
+              "timestamp": "2023-03-16T23:44:16.804+00:00",
+              "annotator_id": 1
+            }
+          ],
+          "definition_id": "5ee1a3ac-21d1-46e3-b49d-4c2626042a09",
+          "tagged_token_id": "9b163073-ade3-4cc4-85d6-bc8743823c5c"
+        },
+        {
+          "end": 772,
+          "tag": "action",
+          "start": 766,
+          "value": "Season",
+          "tag_id": "4fc956ee-8945-487d-9b1c-bf4525063177",
+          "correct": null,
+          "reviewed": false,
+          "example_id": "67a27e94-c0fc-4faf-a95d-a4afa06307ea",
+          "annotated_by": [
+            {
+              "annotator": "rohith.peddi@utdallas.edu",
+              "timestamp": "2023-03-16T23:41:37.654+00:00",
+              "annotator_id": 1
+            }
+          ],
+          "definition_id": "5ee1a3ac-21d1-46e3-b49d-4c2626042a09",
+          "tagged_token_id": "98e1c01c-d879-4a3a-b79f-020522f8dfff"
+        },
+        {
+          "end": 754,
+          "tag": "how",
+          "start": 750,
+          "value": "with",
+          "tag_id": "3e495173-000a-453a-86ca-62cd9babb5d2",
+          "correct": null,
+          "reviewed": false,
+          "example_id": "67a27e94-c0fc-4faf-a95d-a4afa06307ea",
+          "annotated_by": [
+            {
+              "annotator": null,
+              "timestamp": null,
+              "annotator_id": null
+            }
+          ],
+          "definition_id": "5ee1a3ac-21d1-46e3-b49d-4c2626042a09",
+          "tagged_token_id": "87c51b9d-bfed-4ea6-8702-d9abb3755c28"
+        },
+        {
+          "end": 417,
+          "tag": "quantity",
+          "start": 405,
+          "value": "1 tablespoon",
+          "tag_id": "26fa4b11-9c0d-422d-800f-8a8592256106",
+          "correct": null,
+          "reviewed": false,
+          "example_id": "67a27e94-c0fc-4faf-a95d-a4afa06307ea",
+          "annotated_by": [
+            {
+              "annotator": null,
+              "timestamp": null,
+              "annotator_id": null
+            }
+          ],
+          "definition_id": "5ee1a3ac-21d1-46e3-b49d-4c2626042a09",
+          "tagged_token_id": "7b413178-5aff-4006-9278-406e25e05303"
+        },
+        {
+          "end": 640,
+          "tag": "action",
+          "start": 634,
+          "value": "Season",
+          "tag_id": "4fc956ee-8945-487d-9b1c-bf4525063177",
+          "correct": null,
+          "reviewed": false,
+          "example_id": "67a27e94-c0fc-4faf-a95d-a4afa06307ea",
+          "annotated_by": [
+            {
+              "annotator": "rohith.peddi@utdallas.edu",
+              "timestamp": "2023-03-16T23:41:14.666+00:00",
+              "annotator_id": 1
+            }
+          ],
+          "definition_id": "5ee1a3ac-21d1-46e3-b49d-4c2626042a09",
+          "tagged_token_id": "7b259992-7ca4-4d5a-8891-2c551a83ac79"
+        },
+        {
+          "end": 550,
+          "tag": "action",
+          "start": 545,
+          "value": "Place",
+          "tag_id": "4fc956ee-8945-487d-9b1c-bf4525063177",
+          "correct": null,
+          "reviewed": false,
+          "example_id": "67a27e94-c0fc-4faf-a95d-a4afa06307ea",
+          "annotated_by": [
+            {
+              "annotator": "rohith.peddi@utdallas.edu",
+              "timestamp": "2023-03-16T23:41:07.816+00:00",
+              "annotator_id": 1
+            }
+          ],
+          "definition_id": "5ee1a3ac-21d1-46e3-b49d-4c2626042a09",
+          "tagged_token_id": "7ac9c87b-e799-4e60-b955-235d7ee74713"
+        },
+        {
+          "end": 749,
+          "tag": "action",
+          "start": 742,
+          "value": "Garnish",
+          "tag_id": "4fc956ee-8945-487d-9b1c-bf4525063177",
+          "correct": null,
+          "reviewed": false,
+          "example_id": "67a27e94-c0fc-4faf-a95d-a4afa06307ea",
+          "annotated_by": [
+            {
+              "annotator": "rohith.peddi@utdallas.edu",
+              "timestamp": "2023-03-16T23:41:32.409+00:00",
+              "annotator_id": 1
+            }
+          ],
+          "definition_id": "5ee1a3ac-21d1-46e3-b49d-4c2626042a09",
+          "tagged_token_id": "77cbe082-31b7-4990-a0f3-63d9dab178db"
+        },
+        {
+          "end": 332,
+          "tag": "how",
+          "start": 328,
+          "value": "with",
+          "tag_id": "3e495173-000a-453a-86ca-62cd9babb5d2",
+          "correct": null,
+          "reviewed": false,
+          "example_id": "67a27e94-c0fc-4faf-a95d-a4afa06307ea",
+          "annotated_by": [
+            {
+              "annotator": null,
+              "timestamp": null,
+              "annotator_id": null
+            }
+          ],
+          "definition_id": "5ee1a3ac-21d1-46e3-b49d-4c2626042a09",
+          "tagged_token_id": "76c04830-8d4d-44e1-b469-7f305bf46674"
+        },
+        {
+          "end": 777,
+          "tag": "how",
+          "start": 773,
+          "value": "with",
+          "tag_id": "3e495173-000a-453a-86ca-62cd9babb5d2",
+          "correct": null,
+          "reviewed": false,
+          "example_id": "67a27e94-c0fc-4faf-a95d-a4afa06307ea",
+          "annotated_by": [
+            {
+              "annotator": null,
+              "timestamp": null,
+              "annotator_id": null
+            }
+          ],
+          "definition_id": "5ee1a3ac-21d1-46e3-b49d-4c2626042a09",
+          "tagged_token_id": "72c3ae2c-1f87-405a-90b3-6aefaf1d9a74"
+        },
+        {
+          "end": 501,
+          "tag": "action",
+          "start": 496,
+          "value": "Slice",
+          "tag_id": "4fc956ee-8945-487d-9b1c-bf4525063177",
+          "correct": null,
+          "reviewed": false,
+          "example_id": "67a27e94-c0fc-4faf-a95d-a4afa06307ea",
+          "annotated_by": [
+            {
+              "annotator": "rohith.peddi@utdallas.edu",
+              "timestamp": "2023-03-16T23:41:00.366+00:00",
+              "annotator_id": 1
+            }
+          ],
+          "definition_id": "5ee1a3ac-21d1-46e3-b49d-4c2626042a09",
+          "tagged_token_id": "66ef6983-a219-465f-8a86-dbbac753d9b8"
+        },
+        {
+          "end": 56,
+          "tag": "action",
+          "start": 51,
+          "value": "Slice",
+          "tag_id": "4fc956ee-8945-487d-9b1c-bf4525063177",
+          "correct": null,
+          "reviewed": false,
+          "example_id": "67a27e94-c0fc-4faf-a95d-a4afa06307ea",
+          "annotated_by": [
+            {
+              "annotator": null,
+              "timestamp": null,
+              "annotator_id": null
+            }
+          ],
+          "definition_id": "5ee1a3ac-21d1-46e3-b49d-4c2626042a09",
+          "tagged_token_id": "58f5d405-9b4a-4857-a072-d1d5ee52b081"
+        },
+        {
+          "end": 862,
+          "tag": "quantity",
+          "start": 850,
+          "value": "1 tablespoon",
+          "tag_id": "26fa4b11-9c0d-422d-800f-8a8592256106",
+          "correct": null,
+          "reviewed": false,
+          "example_id": "67a27e94-c0fc-4faf-a95d-a4afa06307ea",
+          "annotated_by": [
+            {
+              "annotator": null,
+              "timestamp": null,
+              "annotator_id": null
+            }
+          ],
+          "definition_id": "5ee1a3ac-21d1-46e3-b49d-4c2626042a09",
+          "tagged_token_id": "3606eccb-e205-4ea5-8577-9d4941921ddc"
+        },
+        {
+          "end": 14,
+          "tag": "step",
+          "start": 0,
+          "value": "Rinse a tomato",
+          "tag_id": "09ee6a58-83d4-4152-b3e4-6b012225ee51",
+          "correct": null,
+          "reviewed": false,
+          "example_id": "67a27e94-c0fc-4faf-a95d-a4afa06307ea",
+          "annotated_by": [
+            {
+              "annotator": "rohith.peddi@utdallas.edu",
+              "timestamp": "2023-03-16T23:43:41.49+00:00",
+              "annotator_id": 1
+            }
+          ],
+          "definition_id": "5ee1a3ac-21d1-46e3-b49d-4c2626042a09",
+          "tagged_token_id": "353383b9-6910-4172-bfab-9ffaec627e0c"
+        },
+        {
+          "end": 361,
+          "tag": "action",
+          "start": 358,
+          "value": "Add",
+          "tag_id": "4fc956ee-8945-487d-9b1c-bf4525063177",
+          "correct": null,
+          "reviewed": false,
+          "example_id": "67a27e94-c0fc-4faf-a95d-a4afa06307ea",
+          "annotated_by": [
+            {
+              "annotator": null,
+              "timestamp": null,
+              "annotator_id": null
+            }
+          ],
+          "definition_id": "5ee1a3ac-21d1-46e3-b49d-4c2626042a09",
+          "tagged_token_id": "34e77865-ed7f-4ed5-a8b6-2f92e3be022a"
+        },
+        {
+          "end": 356,
+          "tag": "step",
+          "start": 321,
+          "value": "Season with 1/4 teaspoon black pepper",
+          "tag_id": "09ee6a58-83d4-4152-b3e4-6b012225ee51",
+          "correct": null,
+          "reviewed": false,
+          "example_id": "67a27e94-c0fc-4faf-a95d-a4afa06307ea",
+          "annotated_by": [
+            {
+              "annotator": "rohith.peddi@utdallas.edu",
+              "timestamp": "2023-03-16T23:44:36.202+00:00",
+              "annotator_id": 1
+            }
+          ],
+          "definition_id": "5ee1a3ac-21d1-46e3-b49d-4c2626042a09",
+          "tagged_token_id": "2d20e631-d0fc-41b3-8ab0-05c6855931b8"
+        },
+        {
+          "end": 37,
+          "tag": "how",
+          "start": 33,
+          "value": "with",
+          "tag_id": "3e495173-000a-453a-86ca-62cd9babb5d2",
+          "correct": null,
+          "reviewed": false,
+          "example_id": "67a27e94-c0fc-4faf-a95d-a4afa06307ea",
+          "annotated_by": [
+            {
+              "annotator": null,
+              "timestamp": null,
+              "annotator_id": null
+            }
+          ],
+          "definition_id": "5ee1a3ac-21d1-46e3-b49d-4c2626042a09",
+          "tagged_token_id": "215443a9-34c0-4a5e-be2f-7db81164567b"
+        },
+        {
+          "end": 319,
+          "tag": "step",
+          "start": 297,
+          "value": "Garnish with seasoning",
+          "tag_id": "09ee6a58-83d4-4152-b3e4-6b012225ee51",
+          "correct": null,
+          "reviewed": false,
+          "example_id": "67a27e94-c0fc-4faf-a95d-a4afa06307ea",
+          "annotated_by": [
+            {
+              "annotator": "rohith.peddi@utdallas.edu",
+              "timestamp": "2023-03-16T23:44:20.084+00:00",
+              "annotator_id": 1
+            }
+          ],
+          "definition_id": "5ee1a3ac-21d1-46e3-b49d-4c2626042a09",
+          "tagged_token_id": "15f54315-f684-4287-8d13-c64ce389c62e"
+        },
+        {
+          "end": 459,
+          "tag": "step",
+          "start": 445,
+          "value": "Rinse a tomato",
+          "tag_id": "09ee6a58-83d4-4152-b3e4-6b012225ee51",
+          "correct": null,
+          "reviewed": false,
+          "example_id": "67a27e94-c0fc-4faf-a95d-a4afa06307ea",
+          "annotated_by": [
+            {
+              "annotator": null,
+              "timestamp": null,
+              "annotator_id": null
+            }
+          ],
+          "definition_id": "5ee1a3ac-21d1-46e3-b49d-4c2626042a09",
+          "tagged_token_id": "0a7deea3-b49c-4f14-9a2c-84f17f56a524"
+        },
+        {
+          "end": 678,
+          "tag": "action",
+          "start": 670,
+          "value": "Sprinkle",
+          "tag_id": "4fc956ee-8945-487d-9b1c-bf4525063177",
+          "correct": null,
+          "reviewed": false,
+          "example_id": "67a27e94-c0fc-4faf-a95d-a4afa06307ea",
+          "annotated_by": [
+            {
+              "annotator": "rohith.peddi@utdallas.edu",
+              "timestamp": "2023-03-16T23:41:21.034+00:00",
+              "annotator_id": 1
+            }
+          ],
+          "definition_id": "5ee1a3ac-21d1-46e3-b49d-4c2626042a09",
+          "tagged_token_id": "05f44c36-bdaf-4e6a-a5f2-2533a1fb5d0d"
+        }
+      ],
+      "classifications": []
+    }
+  ],
+  "schema": {
+    "id": "47b79886-8860-4e1a-87fa-3096e0e21944",
+    "archived": false,
+    "slug": "recipe-ner-5",
+    "name": "Recipe NER",
+    "tags": [
+      {
+        "id": "4fc956ee-8945-487d-9b1c-bf4525063177",
+        "name": "action",
+        "description": "",
+        "schema_id": "47b79886-8860-4e1a-87fa-3096e0e21944"
+      },
+      {
+        "id": "4bfe1be7-5b94-4416-b951-0ba73b086b4b",
+        "name": "ingredient",
+        "description": "",
+        "schema_id": "47b79886-8860-4e1a-87fa-3096e0e21944"
+      },
+      {
+        "id": "26fa4b11-9c0d-422d-800f-8a8592256106",
+        "name": "quantity",
+        "description": "",
+        "schema_id": "47b79886-8860-4e1a-87fa-3096e0e21944"
+      },
+      {
+        "id": "a8ef3291-19b4-4261-923b-aebad8ac5c72",
+        "name": "tool",
+        "description": "",
+        "schema_id": "47b79886-8860-4e1a-87fa-3096e0e21944"
+      },
+      {
+        "id": "a9c65a8a-94c4-4b39-ab5b-29f32d16ea98",
+        "name": "temperature",
+        "description": "",
+        "schema_id": "47b79886-8860-4e1a-87fa-3096e0e21944"
+      },
+      {
+        "id": "3e495173-000a-453a-86ca-62cd9babb5d2",
+        "name": "how",
+        "description": "",
+        "schema_id": "47b79886-8860-4e1a-87fa-3096e0e21944"
+      },
+      {
+        "id": "208372b4-34a1-4d3f-80ce-51d0e8c8a064",
+        "name": "why",
+        "description": "",
+        "schema_id": "47b79886-8860-4e1a-87fa-3096e0e21944"
+      },
+      {
+        "id": "09ee6a58-83d4-4152-b3e4-6b012225ee51",
+        "name": "step",
+        "description": "",
+        "schema_id": "47b79886-8860-4e1a-87fa-3096e0e21944"
+      },
+      {
+        "id": "b2cc732c-dbd9-4c46-8a0d-b63c10a3a1df",
+        "name": "time",
+        "description": "",
+        "schema_id": "47b79886-8860-4e1a-87fa-3096e0e21944"
+      },
+      {
+        "id": "788e767d-d26d-47b6-b9ef-e7c47c3b643c",
+        "name": "output",
+        "description": "",
+        "schema_id": "47b79886-8860-4e1a-87fa-3096e0e21944"
+      }
+    ],
+    "project": "4354e700-4516-4207-be53-dfd3e6d69d3f",
+    "classification_types": [
+      {
+        "id": "66e2c297-1467-4cb0-a769-720f8ad96f84",
+        "name": "microwave",
+        "schema_id": "47b79886-8860-4e1a-87fa-3096e0e21944"
+      },
+      {
+        "id": "da96c105-e5d8-4f34-a493-f4999b08eaa1",
+        "name": "non-veg",
+        "schema_id": "47b79886-8860-4e1a-87fa-3096e0e21944"
+      },
+      {
+        "id": "b73473e3-b456-4b01-88a7-10f408a9a903",
+        "name": "nothing",
+        "schema_id": "47b79886-8860-4e1a-87fa-3096e0e21944"
+      },
+      {
+        "id": "a6d8a1d3-508b-48e2-88ca-cfab80109fb4",
+        "name": "pan",
+        "schema_id": "47b79886-8860-4e1a-87fa-3096e0e21944"
+      },
+      {
+        "id": "40043acb-b204-4cb2-90ba-62afd1ae3db8",
+        "name": "veg",
+        "schema_id": "47b79886-8860-4e1a-87fa-3096e0e21944"
+      }
+    ],
+    "project_id": "4354e700-4516-4207-be53-dfd3e6d69d3f",
+    "models": [
+      {
+        "id": "3ea907d3-e5de-4d47-bd64-2fc1c368234a",
+        "url": "/api/v1/projects/default/schemas/recipe-ner-5/models/recipe-ner-ad-hoc-dict-5/",
+        "slug": "recipe-ner-ad-hoc-dict-5",
+        "name": "Recipe NER ad hoc dict",
+        "metadata": {},
+        "schema_id": "47b79886-8860-4e1a-87fa-3096e0e21944"
+      }
+    ],
+    "editable": false,
+    "is_multiclass": false
+  },
+  "dataset": {
+    "id": "27dcb9ee-0cb6-4076-8bb0-44686e71725a",
+    "slug": "tomatomozzarellasalad",
+    "url": "/api/v1/projects/default/datasets/tomatomozzarellasalad/",
+    "name": "TomatoMozzarellaSalad",
+    "id_field": null,
+    "content_field": "content",
+    "aggregation_field": null,
+    "order_field": null,
+    "project_id": "4354e700-4516-4207-be53-dfd3e6d69d3f",
+    "upload_status": "started",
+    "archived": false,
+    "editable": false
+  },
+  "relations": [
+    {
+      "id": "0a11cc26-1b25-465e-8690-9c28a2518aa2",
+      "type": "token",
+      "children": [],
+      "annotator": "rohith.peddi@utdallas.edu",
+      "parent_id": "d442d8d3-86f3-45e6-bcee-91b188e20f8c",
+      "annotator_id": 1,
+      "relation_type": null,
+      "tagged_token_id": "9bff6a8e-4cb8-4db5-ac64-86a5745c6642",
+      "pseudo_node_type": null,
+      "materialized_path": "f0127c90-a3df-4eb6-9a69-f703a6b72699/c36ecb78-aa6c-4f73-b12c-bcfc4f2b4063/d442d8d3-86f3-45e6-bcee-91b188e20f8c/0a11cc26-1b25-465e-8690-9c28a2518aa2"
+    },
+    {
+      "id": "2546a765-484a-4398-bb97-211c8075ca93",
+      "type": "token",
+      "children": [],
+      "annotator": "rohith.peddi@utdallas.edu",
+      "parent_id": "e2b1c9b2-66e5-4920-b3d6-e49875f52b33",
+      "annotator_id": 1,
+      "relation_type": null,
+      "tagged_token_id": "7ac9c87b-e799-4e60-b955-235d7ee74713",
+      "pseudo_node_type": null,
+      "materialized_path": "f0127c90-a3df-4eb6-9a69-f703a6b72699/e2b1c9b2-66e5-4920-b3d6-e49875f52b33/2546a765-484a-4398-bb97-211c8075ca93"
+    },
+    {
+      "id": "2b5549c0-1230-4378-883e-9ed7f5c7996a",
+      "type": "token",
+      "children": [],
+      "annotator": "rohith.peddi@utdallas.edu",
+      "parent_id": "f0ddec13-3dfa-4a56-99a2-6df98c52acc4",
+      "annotator_id": 1,
+      "relation_type": null,
+      "tagged_token_id": "7ac9c87b-e799-4e60-b955-235d7ee74713",
+      "pseudo_node_type": null,
+      "materialized_path": "f0127c90-a3df-4eb6-9a69-f703a6b72699/f0ddec13-3dfa-4a56-99a2-6df98c52acc4/2b5549c0-1230-4378-883e-9ed7f5c7996a"
+    },
+    {
+      "id": "2bb5befb-7815-4e60-8fb7-15e48ced8ae2",
+      "type": "token",
+      "children": [
+        "99b94846-4462-4018-b88a-72acbebcb433",
+        "a1b5dd28-4507-42b2-ad13-83c9dd4d859f"
+      ],
+      "annotator": "rohith.peddi@utdallas.edu",
+      "parent_id": "f6335127-5e58-4923-9460-31ded92e8bec",
+      "annotator_id": 1,
+      "relation_type": null,
+      "tagged_token_id": "e9922c5f-a375-4eff-a324-9a5479d4648a",
+      "pseudo_node_type": null,
+      "materialized_path": "f0127c90-a3df-4eb6-9a69-f703a6b72699/c36ecb78-aa6c-4f73-b12c-bcfc4f2b4063/d442d8d3-86f3-45e6-bcee-91b188e20f8c/f6335127-5e58-4923-9460-31ded92e8bec/2bb5befb-7815-4e60-8fb7-15e48ced8ae2"
+    },
+    {
+      "id": "399b6095-0d7c-4933-bcfb-4640ed424709",
+      "type": "token",
+      "children": [],
+      "annotator": "rohith.peddi@utdallas.edu",
+      "parent_id": "a1b5dd28-4507-42b2-ad13-83c9dd4d859f",
+      "annotator_id": 1,
+      "relation_type": null,
+      "tagged_token_id": "353383b9-6910-4172-bfab-9ffaec627e0c",
+      "pseudo_node_type": null,
+      "materialized_path": "f0127c90-a3df-4eb6-9a69-f703a6b72699/c36ecb78-aa6c-4f73-b12c-bcfc4f2b4063/d442d8d3-86f3-45e6-bcee-91b188e20f8c/f6335127-5e58-4923-9460-31ded92e8bec/2bb5befb-7815-4e60-8fb7-15e48ced8ae2/a1b5dd28-4507-42b2-ad13-83c9dd4d859f/399b6095-0d7c-4933-bcfb-4640ed424709"
+    },
+    {
+      "id": "8716d991-9b58-420a-aef3-234d3f19e143",
+      "type": "token",
+      "children": [],
+      "annotator": "rohith.peddi@utdallas.edu",
+      "parent_id": "f6335127-5e58-4923-9460-31ded92e8bec",
+      "annotator_id": 1,
+      "relation_type": null,
+      "tagged_token_id": "c066ad68-c9b1-4522-b75c-409d72e69f12",
+      "pseudo_node_type": null,
+      "materialized_path": "f0127c90-a3df-4eb6-9a69-f703a6b72699/c36ecb78-aa6c-4f73-b12c-bcfc4f2b4063/d442d8d3-86f3-45e6-bcee-91b188e20f8c/f6335127-5e58-4923-9460-31ded92e8bec/8716d991-9b58-420a-aef3-234d3f19e143"
+    },
+    {
+      "id": "9051286e-5e26-434a-b401-2c3c3566576b",
+      "type": "token",
+      "children": [],
+      "annotator": "rohith.peddi@utdallas.edu",
+      "parent_id": "b0cab804-5f74-43f2-88b1-d59fe5aad40c",
+      "annotator_id": 1,
+      "relation_type": null,
+      "tagged_token_id": "9b163073-ade3-4cc4-85d6-bc8743823c5c",
+      "pseudo_node_type": null,
+      "materialized_path": "f0127c90-a3df-4eb6-9a69-f703a6b72699/b0cab804-5f74-43f2-88b1-d59fe5aad40c/9051286e-5e26-434a-b401-2c3c3566576b"
+    },
+    {
+      "id": "99b94846-4462-4018-b88a-72acbebcb433",
+      "type": "token",
+      "children": [],
+      "annotator": "rohith.peddi@utdallas.edu",
+      "parent_id": "2bb5befb-7815-4e60-8fb7-15e48ced8ae2",
+      "annotator_id": 1,
+      "relation_type": null,
+      "tagged_token_id": "b0651435-41a6-4016-95c6-b4b7c8ef801e",
+      "pseudo_node_type": null,
+      "materialized_path": "f0127c90-a3df-4eb6-9a69-f703a6b72699/c36ecb78-aa6c-4f73-b12c-bcfc4f2b4063/d442d8d3-86f3-45e6-bcee-91b188e20f8c/f6335127-5e58-4923-9460-31ded92e8bec/2bb5befb-7815-4e60-8fb7-15e48ced8ae2/99b94846-4462-4018-b88a-72acbebcb433"
+    },
+    {
+      "id": "a1b5dd28-4507-42b2-ad13-83c9dd4d859f",
+      "type": "token",
+      "children": [
+        "399b6095-0d7c-4933-bcfb-4640ed424709"
+      ],
+      "annotator": "rohith.peddi@utdallas.edu",
+      "parent_id": "2bb5befb-7815-4e60-8fb7-15e48ced8ae2",
+      "annotator_id": 1,
+      "relation_type": null,
+      "tagged_token_id": "9de374ab-27c3-4d4d-b7c2-299dbbd43bb3",
+      "pseudo_node_type": null,
+      "materialized_path": "f0127c90-a3df-4eb6-9a69-f703a6b72699/c36ecb78-aa6c-4f73-b12c-bcfc4f2b4063/d442d8d3-86f3-45e6-bcee-91b188e20f8c/f6335127-5e58-4923-9460-31ded92e8bec/2bb5befb-7815-4e60-8fb7-15e48ced8ae2/a1b5dd28-4507-42b2-ad13-83c9dd4d859f"
+    },
+    {
+      "id": "a89388dd-0283-454a-9184-646b9969ca7c",
+      "type": "token",
+      "children": [],
+      "annotator": "rohith.peddi@utdallas.edu",
+      "parent_id": "b0cab804-5f74-43f2-88b1-d59fe5aad40c",
+      "annotator_id": 1,
+      "relation_type": null,
+      "tagged_token_id": "7ac9c87b-e799-4e60-b955-235d7ee74713",
+      "pseudo_node_type": null,
+      "materialized_path": "f0127c90-a3df-4eb6-9a69-f703a6b72699/b0cab804-5f74-43f2-88b1-d59fe5aad40c/a89388dd-0283-454a-9184-646b9969ca7c"
+    },
+    {
+      "id": "b0cab804-5f74-43f2-88b1-d59fe5aad40c",
+      "type": "token",
+      "children": [
+        "9051286e-5e26-434a-b401-2c3c3566576b",
+        "a89388dd-0283-454a-9184-646b9969ca7c"
+      ],
+      "annotator": "rohith.peddi@utdallas.edu",
+      "parent_id": "f0127c90-a3df-4eb6-9a69-f703a6b72699",
+      "annotator_id": 1,
+      "relation_type": null,
+      "tagged_token_id": "05f44c36-bdaf-4e6a-a5f2-2533a1fb5d0d",
+      "pseudo_node_type": null,
+      "materialized_path": "f0127c90-a3df-4eb6-9a69-f703a6b72699/b0cab804-5f74-43f2-88b1-d59fe5aad40c"
+    },
+    {
+      "id": "bf8dc0d3-c275-4e9a-8d49-16b8a6d6ee7a",
+      "type": "token",
+      "children": [],
+      "annotator": "rohith.peddi@utdallas.edu",
+      "parent_id": "f0ddec13-3dfa-4a56-99a2-6df98c52acc4",
+      "annotator_id": 1,
+      "relation_type": null,
+      "tagged_token_id": "15f54315-f684-4287-8d13-c64ce389c62e",
+      "pseudo_node_type": null,
+      "materialized_path": "f0127c90-a3df-4eb6-9a69-f703a6b72699/f0ddec13-3dfa-4a56-99a2-6df98c52acc4/bf8dc0d3-c275-4e9a-8d49-16b8a6d6ee7a"
+    },
+    {
+      "id": "c36ecb78-aa6c-4f73-b12c-bcfc4f2b4063",
+      "type": "token",
+      "children": [
+        "fe6e1120-6b3f-496c-9865-5ec9c5eab40e",
+        "d442d8d3-86f3-45e6-bcee-91b188e20f8c"
+      ],
+      "annotator": "rohith.peddi@utdallas.edu",
+      "parent_id": "f0127c90-a3df-4eb6-9a69-f703a6b72699",
+      "annotator_id": 1,
+      "relation_type": null,
+      "tagged_token_id": "7b259992-7ca4-4d5a-8891-2c551a83ac79",
+      "pseudo_node_type": null,
+      "materialized_path": "f0127c90-a3df-4eb6-9a69-f703a6b72699/c36ecb78-aa6c-4f73-b12c-bcfc4f2b4063"
+    },
+    {
+      "id": "d442d8d3-86f3-45e6-bcee-91b188e20f8c",
+      "type": "token",
+      "children": [
+        "f6335127-5e58-4923-9460-31ded92e8bec",
+        "0a11cc26-1b25-465e-8690-9c28a2518aa2"
+      ],
+      "annotator": "rohith.peddi@utdallas.edu",
+      "parent_id": "c36ecb78-aa6c-4f73-b12c-bcfc4f2b4063",
+      "annotator_id": 1,
+      "relation_type": null,
+      "tagged_token_id": "7ac9c87b-e799-4e60-b955-235d7ee74713",
+      "pseudo_node_type": null,
+      "materialized_path": "f0127c90-a3df-4eb6-9a69-f703a6b72699/c36ecb78-aa6c-4f73-b12c-bcfc4f2b4063/d442d8d3-86f3-45e6-bcee-91b188e20f8c"
+    },
+    {
+      "id": "d8fed1b5-8c0e-4643-89b7-b9127767973c",
+      "type": "token",
+      "children": [],
+      "annotator": "rohith.peddi@utdallas.edu",
+      "parent_id": "e2b1c9b2-66e5-4920-b3d6-e49875f52b33",
+      "annotator_id": 1,
+      "relation_type": null,
+      "tagged_token_id": "2d20e631-d0fc-41b3-8ab0-05c6855931b8",
+      "pseudo_node_type": null,
+      "materialized_path": "f0127c90-a3df-4eb6-9a69-f703a6b72699/e2b1c9b2-66e5-4920-b3d6-e49875f52b33/d8fed1b5-8c0e-4643-89b7-b9127767973c"
+    },
+    {
+      "id": "e2b1c9b2-66e5-4920-b3d6-e49875f52b33",
+      "type": "token",
+      "children": [
+        "d8fed1b5-8c0e-4643-89b7-b9127767973c",
+        "2546a765-484a-4398-bb97-211c8075ca93"
+      ],
+      "annotator": "rohith.peddi@utdallas.edu",
+      "parent_id": "f0127c90-a3df-4eb6-9a69-f703a6b72699",
+      "annotator_id": 1,
+      "relation_type": null,
+      "tagged_token_id": "98e1c01c-d879-4a3a-b79f-020522f8dfff",
+      "pseudo_node_type": null,
+      "materialized_path": "f0127c90-a3df-4eb6-9a69-f703a6b72699/e2b1c9b2-66e5-4920-b3d6-e49875f52b33"
+    },
+    {
+      "id": "e975bdf9-a496-42d2-84df-ad043dccf441",
+      "type": "token",
+      "children": [],
+      "annotator": "rohith.peddi@utdallas.edu",
+      "parent_id": "f0127c90-a3df-4eb6-9a69-f703a6b72699",
+      "annotator_id": 1,
+      "relation_type": null,
+      "tagged_token_id": "aad1f62c-845d-4cb7-a52c-f2f3e8c76464",
+      "pseudo_node_type": null,
+      "materialized_path": "f0127c90-a3df-4eb6-9a69-f703a6b72699/e975bdf9-a496-42d2-84df-ad043dccf441"
+    },
+    {
+      "id": "f0127c90-a3df-4eb6-9a69-f703a6b72699",
+      "type": "token",
+      "children": [
+        "b0cab804-5f74-43f2-88b1-d59fe5aad40c",
+        "f0ddec13-3dfa-4a56-99a2-6df98c52acc4",
+        "c36ecb78-aa6c-4f73-b12c-bcfc4f2b4063",
+        "e975bdf9-a496-42d2-84df-ad043dccf441",
+        "e2b1c9b2-66e5-4920-b3d6-e49875f52b33"
+      ],
+      "annotator": "rohith.peddi@utdallas.edu",
+      "parent_id": null,
+      "annotator_id": 1,
+      "relation_type": null,
+      "tagged_token_id": "dc970d3e-60a4-4546-9611-5ca5779b2f04",
+      "pseudo_node_type": null,
+      "materialized_path": "f0127c90-a3df-4eb6-9a69-f703a6b72699"
+    },
+    {
+      "id": "f0ddec13-3dfa-4a56-99a2-6df98c52acc4",
+      "type": "token",
+      "children": [
+        "bf8dc0d3-c275-4e9a-8d49-16b8a6d6ee7a",
+        "2b5549c0-1230-4378-883e-9ed7f5c7996a"
+      ],
+      "annotator": "rohith.peddi@utdallas.edu",
+      "parent_id": "f0127c90-a3df-4eb6-9a69-f703a6b72699",
+      "annotator_id": 1,
+      "relation_type": null,
+      "tagged_token_id": "77cbe082-31b7-4990-a0f3-63d9dab178db",
+      "pseudo_node_type": null,
+      "materialized_path": "f0127c90-a3df-4eb6-9a69-f703a6b72699/f0ddec13-3dfa-4a56-99a2-6df98c52acc4"
+    },
+    {
+      "id": "f6335127-5e58-4923-9460-31ded92e8bec",
+      "type": "token",
+      "children": [
+        "2bb5befb-7815-4e60-8fb7-15e48ced8ae2",
+        "8716d991-9b58-420a-aef3-234d3f19e143"
+      ],
+      "annotator": "rohith.peddi@utdallas.edu",
+      "parent_id": "d442d8d3-86f3-45e6-bcee-91b188e20f8c",
+      "annotator_id": 1,
+      "relation_type": null,
+      "tagged_token_id": "66ef6983-a219-465f-8a86-dbbac753d9b8",
+      "pseudo_node_type": null,
+      "materialized_path": "f0127c90-a3df-4eb6-9a69-f703a6b72699/c36ecb78-aa6c-4f73-b12c-bcfc4f2b4063/d442d8d3-86f3-45e6-bcee-91b188e20f8c/f6335127-5e58-4923-9460-31ded92e8bec"
+    },
+    {
+      "id": "fe6e1120-6b3f-496c-9865-5ec9c5eab40e",
+      "type": "token",
+      "children": [],
+      "annotator": "rohith.peddi@utdallas.edu",
+      "parent_id": "c36ecb78-aa6c-4f73-b12c-bcfc4f2b4063",
+      "annotator_id": 1,
+      "relation_type": null,
+      "tagged_token_id": "bc91e070-5098-4f52-bc22-30fd7e0cc26b",
+      "pseudo_node_type": null,
+      "materialized_path": "f0127c90-a3df-4eb6-9a69-f703a6b72699/c36ecb78-aa6c-4f73-b12c-bcfc4f2b4063/fe6e1120-6b3f-496c-9865-5ec9c5eab40e"
+    }
+  ],
+  "name": "TomatoMozzarellaSalad",
+  "annotators_per_example": "1"
+}

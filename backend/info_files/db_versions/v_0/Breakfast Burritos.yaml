@@ -1,0 +1,1918 @@
+- activity_id: 7
+  environment: null
+  id: '7_1'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: add-Extract and add contents of an egg to a microwave-safe bowl
+  - description: Whisk-Whisk the egg
+  - description: Place-Place 8 inch tortilla on a cutting board
+  - description: Microwave-Microwave for 3 minutes, stirring in between
+  - description: Add-Add 1/2 tbsp sweet and sour sauce to the bowl
+  - description: Sprinkle-Sprinkle oregano in the bowl
+  - description: Add-Add 1 tbsp salsa to the bowl
+  - description: Mix-Mix the contents of the bowl well
+  - description: Pour-Pour egg mixture on top of the tortilla
+  - description: Sprinkle-Sprinkle 1 tbsp shredded cheddar cheese on top of the egg
+  - description: Roll-Roll the tortilla from one end to another into a log shape,
+      about 1.5 inches thick. Roll it tight enough to prevent gaps but not so tight
+      that the filling leaks
+- activity_id: 7
+  environment: null
+  id: '7_2'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: add-Extract and add contents of an egg to a microwave-safe bowl
+  - description: Whisk-Whisk the egg
+  - description: Microwave-Microwave for 3 minutes, stirring in between
+  - description: Place-Place 8 inch tortilla on a cutting board
+  - description: Add-Add 1/2 tbsp sweet and sour sauce to the bowl
+  - description: Add-Add 1 tbsp salsa to the bowl
+  - description: Sprinkle-Sprinkle oregano in the bowl
+  - description: Mix-Mix the contents of the bowl well
+  - description: Pour-Pour egg mixture on top of the tortilla
+  - description: Sprinkle-Sprinkle 1 tbsp shredded cheddar cheese on top of the egg
+  - description: Roll-Roll the tortilla from one end to another into a log shape,
+      about 1.5 inches thick. Roll it tight enough to prevent gaps but not so tight
+      that the filling leaks
+- activity_id: 7
+  environment: null
+  id: '7_3'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: add-Extract and add contents of an egg to a microwave-safe bowl
+  - description: Whisk-Whisk the egg
+  - description: Microwave-Microwave for 3 minutes, stirring in between
+  - description: Sprinkle-Sprinkle oregano in the bowl
+  - description: Add-Add 1 tbsp salsa to the bowl
+  - description: Add-Add 1/2 tbsp sweet and sour sauce to the bowl
+  - description: Place-Place 8 inch tortilla on a cutting board
+  - description: Mix-Mix the contents of the bowl well
+  - description: Pour-Pour egg mixture on top of the tortilla
+  - description: Sprinkle-Sprinkle 1 tbsp shredded cheddar cheese on top of the egg
+  - description: Roll-Roll the tortilla from one end to another into a log shape,
+      about 1.5 inches thick. Roll it tight enough to prevent gaps but not so tight
+      that the filling leaks
+- activity_id: 7
+  environment: null
+  id: '7_4'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: add-Extract and add contents of an egg to a microwave-safe bowl
+  - description: Whisk-Whisk the egg
+  - description: Microwave-Microwave for 3 minutes, stirring in between
+  - description: Place-Place 8 inch tortilla on a cutting board
+  - description: Add-Add 1/2 tbsp sweet and sour sauce to the bowl
+  - description: Sprinkle-Sprinkle oregano in the bowl
+  - description: Add-Add 1 tbsp salsa to the bowl
+  - description: Mix-Mix the contents of the bowl well
+  - description: Pour-Pour egg mixture on top of the tortilla
+  - description: Sprinkle-Sprinkle 1 tbsp shredded cheddar cheese on top of the egg
+  - description: Roll-Roll the tortilla from one end to another into a log shape,
+      about 1.5 inches thick. Roll it tight enough to prevent gaps but not so tight
+      that the filling leaks
+- activity_id: 7
+  environment: null
+  id: '7_6'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: add-Extract and add contents of an egg to a microwave-safe bowl
+  - description: Whisk-Whisk the egg
+  - description: Microwave-Microwave for 3 minutes, stirring in between
+  - description: Sprinkle-Sprinkle oregano in the bowl
+  - description: Place-Place 8 inch tortilla on a cutting board
+  - description: Add-Add 1/2 tbsp sweet and sour sauce to the bowl
+  - description: Add-Add 1 tbsp salsa to the bowl
+  - description: Mix-Mix the contents of the bowl well
+  - description: Pour-Pour egg mixture on top of the tortilla
+  - description: Sprinkle-Sprinkle 1 tbsp shredded cheddar cheese on top of the egg
+  - description: Roll-Roll the tortilla from one end to another into a log shape,
+      about 1.5 inches thick. Roll it tight enough to prevent gaps but not so tight
+      that the filling leaks
+- activity_id: 7
+  environment: null
+  id: '7_7'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Place-Place 8 inch tortilla on a cutting board
+  - description: add-Extract and add contents of an egg to a microwave-safe bowl
+  - description: Whisk-Whisk the egg
+  - description: Microwave-Microwave for 3 minutes, stirring in between
+  - description: Add-Add 1/2 tbsp sweet and sour sauce to the bowl
+  - description: Add-Add 1 tbsp salsa to the bowl
+  - description: Sprinkle-Sprinkle oregano in the bowl
+  - description: Mix-Mix the contents of the bowl well
+  - description: Pour-Pour egg mixture on top of the tortilla
+  - description: Sprinkle-Sprinkle 1 tbsp shredded cheddar cheese on top of the egg
+  - description: Roll-Roll the tortilla from one end to another into a log shape,
+      about 1.5 inches thick. Roll it tight enough to prevent gaps but not so tight
+      that the filling leaks
+- activity_id: 7
+  environment: null
+  id: '7_8'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: add-Extract and add contents of an egg to a microwave-safe bowl
+  - description: Whisk-Whisk the egg
+  - description: Place-Place 8 inch tortilla on a cutting board
+  - description: Microwave-Microwave for 3 minutes, stirring in between
+  - description: Sprinkle-Sprinkle oregano in the bowl
+  - description: Add-Add 1 tbsp salsa to the bowl
+  - description: Add-Add 1/2 tbsp sweet and sour sauce to the bowl
+  - description: Mix-Mix the contents of the bowl well
+  - description: Pour-Pour egg mixture on top of the tortilla
+  - description: Sprinkle-Sprinkle 1 tbsp shredded cheddar cheese on top of the egg
+  - description: Roll-Roll the tortilla from one end to another into a log shape,
+      about 1.5 inches thick. Roll it tight enough to prevent gaps but not so tight
+      that the filling leaks
+- activity_id: 7
+  environment: null
+  id: '7_9'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: add-Extract and add contents of an egg to a microwave-safe bowl
+  - description: Whisk-Whisk the egg
+  - description: Microwave-Microwave for 3 minutes, stirring in between
+  - description: Sprinkle-Sprinkle oregano in the bowl
+  - description: Add-Add 1/2 tbsp sweet and sour sauce to the bowl
+  - description: Place-Place 8 inch tortilla on a cutting board
+  - description: Add-Add 1 tbsp salsa to the bowl
+  - description: Mix-Mix the contents of the bowl well
+  - description: Pour-Pour egg mixture on top of the tortilla
+  - description: Sprinkle-Sprinkle 1 tbsp shredded cheddar cheese on top of the egg
+  - description: Roll-Roll the tortilla from one end to another into a log shape,
+      about 1.5 inches thick. Roll it tight enough to prevent gaps but not so tight
+      that the filling leaks
+- activity_id: 7
+  environment: null
+  id: '7_10'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Place-Place 8 inch tortilla on a cutting board
+  - description: add-Extract and add contents of an egg to a microwave-safe bowl
+  - description: Whisk-Whisk the egg
+  - description: Microwave-Microwave for 3 minutes, stirring in between
+  - description: Add-Add 1 tbsp salsa to the bowl
+  - description: Add-Add 1/2 tbsp sweet and sour sauce to the bowl
+  - description: Sprinkle-Sprinkle oregano in the bowl
+  - description: Mix-Mix the contents of the bowl well
+  - description: Pour-Pour egg mixture on top of the tortilla
+  - description: Sprinkle-Sprinkle 1 tbsp shredded cheddar cheese on top of the egg
+  - description: Roll-Roll the tortilla from one end to another into a log shape,
+      about 1.5 inches thick. Roll it tight enough to prevent gaps but not so tight
+      that the filling leaks
+- activity_id: 7
+  environment: null
+  id: '7_11'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Place-Place 8 inch tortilla on a cutting board
+  - description: add-Extract and add contents of an egg to a microwave-safe bowl
+  - description: Whisk-Whisk the egg
+  - description: Microwave-Microwave for 3 minutes, stirring in between
+  - description: Sprinkle-Sprinkle oregano in the bowl
+  - description: Add-Add 1/2 tbsp sweet and sour sauce to the bowl
+  - description: Add-Add 1 tbsp salsa to the bowl
+  - description: Mix-Mix the contents of the bowl well
+  - description: Pour-Pour egg mixture on top of the tortilla
+  - description: Sprinkle-Sprinkle 1 tbsp shredded cheddar cheese on top of the egg
+  - description: Roll-Roll the tortilla from one end to another into a log shape,
+      about 1.5 inches thick. Roll it tight enough to prevent gaps but not so tight
+      that the filling leaks
+- activity_id: 7
+  environment: null
+  id: '7_12'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: add-Extract and add contents of an egg to a microwave-safe bowl
+  - description: Whisk-Whisk the egg
+  - description: Place-Place 8 inch tortilla on a cutting board
+  - description: Microwave-Microwave for 3 minutes, stirring in between
+  - description: Add-Add 1 tbsp salsa to the bowl
+  - description: Sprinkle-Sprinkle oregano in the bowl
+  - description: Add-Add 1/2 tbsp sweet and sour sauce to the bowl
+  - description: Mix-Mix the contents of the bowl well
+  - description: Pour-Pour egg mixture on top of the tortilla
+  - description: Sprinkle-Sprinkle 1 tbsp shredded cheddar cheese on top of the egg
+  - description: Roll-Roll the tortilla from one end to another into a log shape,
+      about 1.5 inches thick. Roll it tight enough to prevent gaps but not so tight
+      that the filling leaks
+- activity_id: 7
+  environment: null
+  id: '7_13'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Place-Place 8 inch tortilla on a cutting board
+  - description: add-Extract and add contents of an egg to a microwave-safe bowl
+  - description: Whisk-Whisk the egg
+  - description: Microwave-Microwave for 3 minutes, stirring in between
+  - description: Add-Add 1 tbsp salsa to the bowl
+  - description: Add-Add 1/2 tbsp sweet and sour sauce to the bowl
+  - description: Sprinkle-Sprinkle oregano in the bowl
+  - description: Mix-Mix the contents of the bowl well
+  - description: Pour-Pour egg mixture on top of the tortilla
+  - description: Sprinkle-Sprinkle 1 tbsp shredded cheddar cheese on top of the egg
+  - description: Roll-Roll the tortilla from one end to another into a log shape,
+      about 1.5 inches thick. Roll it tight enough to prevent gaps but not so tight
+      that the filling leaks
+- activity_id: 7
+  environment: null
+  id: '7_14'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Place-Place 8 inch tortilla on a cutting board
+  - description: add-Extract and add contents of an egg to a microwave-safe bowl
+  - description: Whisk-Whisk the egg
+  - description: Microwave-Microwave for 3 minutes, stirring in between
+  - description: Add-Add 1/2 tbsp sweet and sour sauce to the bowl
+  - description: Add-Add 1 tbsp salsa to the bowl
+  - description: Sprinkle-Sprinkle oregano in the bowl
+  - description: Mix-Mix the contents of the bowl well
+  - description: Pour-Pour egg mixture on top of the tortilla
+  - description: Sprinkle-Sprinkle 1 tbsp shredded cheddar cheese on top of the egg
+  - description: Roll-Roll the tortilla from one end to another into a log shape,
+      about 1.5 inches thick. Roll it tight enough to prevent gaps but not so tight
+      that the filling leaks
+- activity_id: 7
+  environment: null
+  id: '7_15'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Place-Place 8 inch tortilla on a cutting board
+  - description: add-Extract and add contents of an egg to a microwave-safe bowl
+  - description: Whisk-Whisk the egg
+  - description: Microwave-Microwave for 3 minutes, stirring in between
+  - description: Add-Add 1/2 tbsp sweet and sour sauce to the bowl
+  - description: Sprinkle-Sprinkle oregano in the bowl
+  - description: Add-Add 1 tbsp salsa to the bowl
+  - description: Mix-Mix the contents of the bowl well
+  - description: Pour-Pour egg mixture on top of the tortilla
+  - description: Sprinkle-Sprinkle 1 tbsp shredded cheddar cheese on top of the egg
+  - description: Roll-Roll the tortilla from one end to another into a log shape,
+      about 1.5 inches thick. Roll it tight enough to prevent gaps but not so tight
+      that the filling leaks
+- activity_id: 7
+  environment: null
+  id: '7_16'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: add-Extract and add contents of an egg to a microwave-safe bowl
+  - description: Place-Place 8 inch tortilla on a cutting board
+  - description: Whisk-Whisk the egg
+  - description: Microwave-Microwave for 3 minutes, stirring in between
+  - description: Add-Add 1/2 tbsp sweet and sour sauce to the bowl
+  - description: Sprinkle-Sprinkle oregano in the bowl
+  - description: Add-Add 1 tbsp salsa to the bowl
+  - description: Mix-Mix the contents of the bowl well
+  - description: Pour-Pour egg mixture on top of the tortilla
+  - description: Sprinkle-Sprinkle 1 tbsp shredded cheddar cheese on top of the egg
+  - description: Roll-Roll the tortilla from one end to another into a log shape,
+      about 1.5 inches thick. Roll it tight enough to prevent gaps but not so tight
+      that the filling leaks
+- activity_id: 7
+  environment: null
+  id: '7_17'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Place-Place 8 inch tortilla on a cutting board
+  - description: add-Extract and add contents of an egg to a microwave-safe bowl
+  - description: Whisk-Whisk the egg
+  - description: Microwave-Microwave for 3 minutes, stirring in between
+  - description: Sprinkle-Sprinkle oregano in the bowl
+  - description: Add-Add 1/2 tbsp sweet and sour sauce to the bowl
+  - description: Add-Add 1 tbsp salsa to the bowl
+  - description: Mix-Mix the contents of the bowl well
+  - description: Pour-Pour egg mixture on top of the tortilla
+  - description: Sprinkle-Sprinkle 1 tbsp shredded cheddar cheese on top of the egg
+  - description: Roll-Roll the tortilla from one end to another into a log shape,
+      about 1.5 inches thick. Roll it tight enough to prevent gaps but not so tight
+      that the filling leaks
+- activity_id: 7
+  environment: null
+  id: '7_18'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: add-Extract and add contents of an egg to a microwave-safe bowl
+  - description: Place-Place 8 inch tortilla on a cutting board
+  - description: Whisk-Whisk the egg
+  - description: Microwave-Microwave for 3 minutes, stirring in between
+  - description: Sprinkle-Sprinkle oregano in the bowl
+  - description: Add-Add 1/2 tbsp sweet and sour sauce to the bowl
+  - description: Add-Add 1 tbsp salsa to the bowl
+  - description: Mix-Mix the contents of the bowl well
+  - description: Pour-Pour egg mixture on top of the tortilla
+  - description: Sprinkle-Sprinkle 1 tbsp shredded cheddar cheese on top of the egg
+  - description: Roll-Roll the tortilla from one end to another into a log shape,
+      about 1.5 inches thick. Roll it tight enough to prevent gaps but not so tight
+      that the filling leaks
+- activity_id: 7
+  environment: null
+  id: '7_19'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: add-Extract and add contents of an egg to a microwave-safe bowl
+  - description: Whisk-Whisk the egg
+  - description: Microwave-Microwave for 3 minutes, stirring in between
+  - description: Sprinkle-Sprinkle oregano in the bowl
+  - description: Add-Add 1 tbsp salsa to the bowl
+  - description: Place-Place 8 inch tortilla on a cutting board
+  - description: Add-Add 1/2 tbsp sweet and sour sauce to the bowl
+  - description: Mix-Mix the contents of the bowl well
+  - description: Pour-Pour egg mixture on top of the tortilla
+  - description: Sprinkle-Sprinkle 1 tbsp shredded cheddar cheese on top of the egg
+  - description: Roll-Roll the tortilla from one end to another into a log shape,
+      about 1.5 inches thick. Roll it tight enough to prevent gaps but not so tight
+      that the filling leaks
+- activity_id: 7
+  environment: null
+  id: '7_20'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: add-Extract and add contents of an egg to a microwave-safe bowl
+  - description: Whisk-Whisk the egg
+  - description: Microwave-Microwave for 3 minutes, stirring in between
+  - description: Sprinkle-Sprinkle oregano in the bowl
+  - description: Add-Add 1/2 tbsp sweet and sour sauce to the bowl
+  - description: Add-Add 1 tbsp salsa to the bowl
+  - description: Mix-Mix the contents of the bowl well
+  - description: Place-Place 8 inch tortilla on a cutting board
+  - description: Pour-Pour egg mixture on top of the tortilla
+  - description: Sprinkle-Sprinkle 1 tbsp shredded cheddar cheese on top of the egg
+  - description: Roll-Roll the tortilla from one end to another into a log shape,
+      about 1.5 inches thick. Roll it tight enough to prevent gaps but not so tight
+      that the filling leaks
+- activity_id: 7
+  environment: null
+  id: '7_21'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Place-Place 8 inch tortilla on a cutting board
+  - description: add-Extract and add contents of an egg to a microwave-safe bowl
+  - description: Whisk-Whisk the egg
+  - description: Microwave-Microwave for 3 minutes, stirring in between
+  - description: Add-Add 1/2 tbsp sweet and sour sauce to the bowl
+  - description: Sprinkle-Sprinkle oregano in the bowl
+  - description: Add-Add 1 tbsp salsa to the bowl
+  - description: Mix-Mix the contents of the bowl well
+  - description: Pour-Pour egg mixture on top of the tortilla
+  - description: Sprinkle-Sprinkle 1 tbsp shredded cheddar cheese on top of the egg
+  - description: Roll-Roll the tortilla from one end to another into a log shape,
+      about 1.5 inches thick. Roll it tight enough to prevent gaps but not so tight
+      that the filling leaks
+- activity_id: 7
+  environment: null
+  id: '7_22'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: add-Extract and add contents of an egg to a microwave-safe bowl
+  - description: Place-Place 8 inch tortilla on a cutting board
+  - description: Whisk-Whisk the egg
+  - description: Microwave-Microwave for 3 minutes, stirring in between
+  - description: Add-Add 1 tbsp salsa to the bowl
+  - description: Add-Add 1/2 tbsp sweet and sour sauce to the bowl
+  - description: Sprinkle-Sprinkle oregano in the bowl
+  - description: Mix-Mix the contents of the bowl well
+  - description: Pour-Pour egg mixture on top of the tortilla
+  - description: Sprinkle-Sprinkle 1 tbsp shredded cheddar cheese on top of the egg
+  - description: Roll-Roll the tortilla from one end to another into a log shape,
+      about 1.5 inches thick. Roll it tight enough to prevent gaps but not so tight
+      that the filling leaks
+- activity_id: 7
+  environment: null
+  id: '7_23'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: add-Extract and add contents of an egg to a microwave-safe bowl
+  - description: Whisk-Whisk the egg
+  - description: Microwave-Microwave for 3 minutes, stirring in between
+  - description: Place-Place 8 inch tortilla on a cutting board
+  - description: Sprinkle-Sprinkle oregano in the bowl
+  - description: Add-Add 1/2 tbsp sweet and sour sauce to the bowl
+  - description: Add-Add 1 tbsp salsa to the bowl
+  - description: Mix-Mix the contents of the bowl well
+  - description: Pour-Pour egg mixture on top of the tortilla
+  - description: Sprinkle-Sprinkle 1 tbsp shredded cheddar cheese on top of the egg
+  - description: Roll-Roll the tortilla from one end to another into a log shape,
+      about 1.5 inches thick. Roll it tight enough to prevent gaps but not so tight
+      that the filling leaks
+- activity_id: 7
+  environment: null
+  id: '7_24'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: add-Extract and add contents of an egg to a microwave-safe bowl
+  - description: Place-Place 8 inch tortilla on a cutting board
+  - description: Whisk-Whisk the egg
+  - description: Microwave-Microwave for 3 minutes, stirring in between
+  - description: Sprinkle-Sprinkle oregano in the bowl
+  - description: Add-Add 1 tbsp salsa to the bowl
+  - description: Add-Add 1/2 tbsp sweet and sour sauce to the bowl
+  - description: Mix-Mix the contents of the bowl well
+  - description: Pour-Pour egg mixture on top of the tortilla
+  - description: Sprinkle-Sprinkle 1 tbsp shredded cheddar cheese on top of the egg
+  - description: Roll-Roll the tortilla from one end to another into a log shape,
+      about 1.5 inches thick. Roll it tight enough to prevent gaps but not so tight
+      that the filling leaks
+- activity_id: 7
+  environment: null
+  id: '7_25'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: add-Extract and add contents of an egg to a microwave-safe bowl
+  - description: Whisk-Whisk the egg
+  - description: Microwave-Microwave for 3 minutes, stirring in between
+  - description: Add-Add 1 tbsp salsa to the bowl
+  - description: Place-Place 8 inch tortilla on a cutting board
+  - description: Add-Add 1/2 tbsp sweet and sour sauce to the bowl
+  - description: Sprinkle-Sprinkle oregano in the bowl
+  - description: Mix-Mix the contents of the bowl well
+  - description: Pour-Pour egg mixture on top of the tortilla
+  - description: Sprinkle-Sprinkle 1 tbsp shredded cheddar cheese on top of the egg
+  - description: Roll-Roll the tortilla from one end to another into a log shape,
+      about 1.5 inches thick. Roll it tight enough to prevent gaps but not so tight
+      that the filling leaks
+- activity_id: 7
+  environment: 9
+  errors:
+  - description: Whisk-Whisk the egg
+    tag: Missing Step
+  - description: Mix-Mix the contents of the bowl well
+    tag: Missing Step
+  id: '7_26'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 7
+  steps:
+  - description: add-Extract and add contents of an egg to a microwave-safe bowl
+  - description: Microwave-Microwave for 3 minutes, stirring in between
+    errors:
+    - description: Not stir in between
+      tag: Preparation Error
+    - description: 1.5 minutes instead of 3 minutes
+      tag: Timing Error
+    modified_description: Microwave-Microwave for 1.5 minutes
+  - description: Sprinkle-Sprinkle oregano in the bowl
+    errors:
+    - description: Splash some oregano
+      tag: Technique Error
+    modified_description: Sprinkle-Sprinkle oregano in the bowl, but some of them
+      splash outside
+  - description: Add-Add 1/2 tbsp sweet and sour sauce to the bowl
+    errors:
+    - description: 1 tbsp instead of 1/2 tbsp
+      tag: Measurement Error
+    modified_description: Add-Add 1 tbsp sweet and sour sauce to the bowl
+  - description: Add-Add 1 tbsp salsa to the bowl
+    errors:
+    - description: 2 instead of 1 tbsp
+      tag: Measurement Error
+    modified_description: Add-Add 2 tbsp salsa to the bowl
+  - description: Place-Place 8 inch tortilla on a cutting board
+  - description: Pour-Pour egg mixture on top of the tortilla
+  - description: Sprinkle-Sprinkle 1 tbsp shredded cheddar cheese on top of the egg
+    errors:
+    - description: Put the cheese beside the egg
+      tag: Technique Error
+    modified_description: Sprinkle-Sprinkle 1 tbsp shredded cheddar cheese beside
+      the egg
+  - description: Roll-Roll the tortilla from one end to another into a log shape,
+      about 1.5 inches thick. Roll it tight enough to prevent gaps but not so tight
+      that the filling leaks
+    errors:
+    - description: 'Null'
+      tag: Temperature Error
+- activity_id: 7
+  environment: null
+  errors:
+  - description: Whisk-Whisk the egg
+    tag: Missing Step
+  id: '7_27'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: add-Extract and add contents of an egg to a microwave-safe bowl
+  - description: Place-Place 8 inch tortilla on a cutting board
+  - description: Microwave-Microwave for 3 minutes, stirring in between
+  - description: Add-Add 1/2 tbsp sweet and sour sauce to the bowl
+  - description: Sprinkle-Sprinkle oregano in the bowl
+  - description: Add-Add 1 tbsp salsa to the bowl
+  - description: Mix-Mix the contents of the bowl well
+  - description: Pour-Pour egg mixture on top of the tortilla
+  - description: Sprinkle-Sprinkle 1 tbsp shredded cheddar cheese on top of the egg
+  - description: Roll-Roll the tortilla from one end to another into a log shape,
+      about 1.5 inches thick. Roll it tight enough to prevent gaps but not so tight
+      that the filling leaks
+- activity_id: 7
+  environment: null
+  errors:
+  - description: Whisk-Whisk the egg
+    tag: Missing Step
+  - description: Microwave-Microwave for 3 minutes, stirring in between
+    tag: Missing Step
+  id: '7_28'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: add-Extract and add contents of an egg to a microwave-safe bowl
+  - description: Place-Place 8 inch tortilla on a cutting board
+  - description: Add-Add 1 tbsp salsa to the bowl
+  - description: Sprinkle-Sprinkle oregano in the bowl
+  - description: Add-Add 1/2 tbsp sweet and sour sauce to the bowl
+  - description: Mix-Mix the contents of the bowl well
+  - description: Pour-Pour egg mixture on top of the tortilla
+  - description: Sprinkle-Sprinkle 1 tbsp shredded cheddar cheese on top of the egg
+  - description: Roll-Roll the tortilla from one end to another into a log shape,
+      about 1.5 inches thick. Roll it tight enough to prevent gaps but not so tight
+      that the filling leaks
+- activity_id: 7
+  environment: null
+  errors:
+  - description: Pour-Pour egg mixture on top of the tortilla
+    tag: Missing Step
+  - description: Roll-Roll the tortilla from one end to another into a log shape,
+      about 1.5 inches thick. Roll it tight enough to prevent gaps but not so tight
+      that the filling leaks
+    tag: Missing Step
+  id: '7_29'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: add-Extract and add contents of an egg to a microwave-safe bowl
+  - description: Whisk-Whisk the egg
+  - description: Microwave-Microwave for 3 minutes, stirring in between
+  - description: Sprinkle-Sprinkle oregano in the bowl
+  - description: Add-Add 1 tbsp salsa to the bowl
+  - description: Add-Add 1/2 tbsp sweet and sour sauce to the bowl
+  - description: Mix-Mix the contents of the bowl well
+  - description: Place-Place 8 inch tortilla on a cutting board
+  - description: Sprinkle-Sprinkle 1 tbsp shredded cheddar cheese on top of the egg
+- activity_id: 7
+  environment: null
+  errors:
+  - description: Place-Place 8 inch tortilla on a cutting board
+    tag: Missing Step
+  - description: Pour-Pour egg mixture on top of the tortilla
+    tag: Missing Step
+  - description: Roll-Roll the tortilla from one end to another into a log shape,
+      about 1.5 inches thick. Roll it tight enough to prevent gaps but not so tight
+      that the filling leaks
+    tag: Missing Step
+  id: '7_30'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: add-Extract and add contents of an egg to a microwave-safe bowl
+  - description: Whisk-Whisk the egg
+  - description: Microwave-Microwave for 3 minutes, stirring in between
+  - description: Sprinkle-Sprinkle oregano in the bowl
+  - description: Add-Add 1 tbsp salsa to the bowl
+  - description: Add-Add 1/2 tbsp sweet and sour sauce to the bowl
+  - description: Mix-Mix the contents of the bowl well
+  - description: Sprinkle-Sprinkle 1 tbsp shredded cheddar cheese on top of the egg
+- activity_id: 7
+  environment: null
+  errors:
+  - description: Add-Add 1/2 tbsp sweet and sour sauce to the bowl
+    tag: Missing Step
+  id: '7_31'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: add-Extract and add contents of an egg to a microwave-safe bowl
+  - description: Whisk-Whisk the egg
+  - description: Microwave-Microwave for 3 minutes, stirring in between
+  - description: Place-Place 8 inch tortilla on a cutting board
+  - description: Sprinkle-Sprinkle oregano in the bowl
+  - description: Add-Add 1 tbsp salsa to the bowl
+  - description: Mix-Mix the contents of the bowl well
+  - description: Pour-Pour egg mixture on top of the tortilla
+  - description: Sprinkle-Sprinkle 1 tbsp shredded cheddar cheese on top of the egg
+  - description: Roll-Roll the tortilla from one end to another into a log shape,
+      about 1.5 inches thick. Roll it tight enough to prevent gaps but not so tight
+      that the filling leaks
+- activity_id: 7
+  environment: null
+  errors:
+  - description: Add-Add 1 tbsp salsa to the bowl
+    tag: Missing Step
+  - description: Sprinkle-Sprinkle 1 tbsp shredded cheddar cheese on top of the egg
+    tag: Missing Step
+  id: '7_32'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: add-Extract and add contents of an egg to a microwave-safe bowl
+  - description: Whisk-Whisk the egg
+  - description: Microwave-Microwave for 3 minutes, stirring in between
+  - description: Place-Place 8 inch tortilla on a cutting board
+  - description: Add-Add 1/2 tbsp sweet and sour sauce to the bowl
+  - description: Sprinkle-Sprinkle oregano in the bowl
+  - description: Mix-Mix the contents of the bowl well
+  - description: Pour-Pour egg mixture on top of the tortilla
+  - description: Roll-Roll the tortilla from one end to another into a log shape,
+      about 1.5 inches thick. Roll it tight enough to prevent gaps but not so tight
+      that the filling leaks
+- activity_id: 7
+  environment: null
+  errors:
+  - description: Mix-Mix the contents of the bowl well
+    tag: Missing Step
+  id: '7_33'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: add-Extract and add contents of an egg to a microwave-safe bowl
+  - description: Whisk-Whisk the egg
+  - description: Microwave-Microwave for 3 minutes, stirring in between
+  - description: Add-Add 1 tbsp salsa to the bowl
+  - description: Place-Place 8 inch tortilla on a cutting board
+  - description: Add-Add 1/2 tbsp sweet and sour sauce to the bowl
+  - description: Sprinkle-Sprinkle oregano in the bowl
+  - description: Pour-Pour egg mixture on top of the tortilla
+  - description: Sprinkle-Sprinkle 1 tbsp shredded cheddar cheese on top of the egg
+  - description: Roll-Roll the tortilla from one end to another into a log shape,
+      about 1.5 inches thick. Roll it tight enough to prevent gaps but not so tight
+      that the filling leaks
+- activity_id: 7
+  environment: null
+  errors:
+  - description: Add-Add 1 tbsp salsa to the bowl
+    tag: Missing Step
+  - description: Sprinkle-Sprinkle oregano in the bowl
+    tag: Missing Step
+  - tag: Order Error
+  id: '7_34'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: add-Extract and add contents of an egg to a microwave-safe bowl
+  - description: Whisk-Whisk the egg
+  - description: Microwave-Microwave for 3 minutes, stirring in between
+  - description: Place-Place 8 inch tortilla on a cutting board
+  - description: Mix-Mix the contents of the bowl well
+  - description: Add-Add 1/2 tbsp sweet and sour sauce to the bowl
+  - description: Pour-Pour egg mixture on top of the tortilla
+  - description: Sprinkle-Sprinkle 1 tbsp shredded cheddar cheese on top of the egg
+  - description: Roll-Roll the tortilla from one end to another into a log shape,
+      about 1.5 inches thick. Roll it tight enough to prevent gaps but not so tight
+      that the filling leaks
+- activity_id: 7
+  environment: null
+  errors:
+  - tag: Order Error
+  id: '7_36'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: add-Extract and add contents of an egg to a microwave-safe bowl
+  - description: Whisk-Whisk the egg
+  - description: Add-Add 1/2 tbsp sweet and sour sauce to the bowl
+  - description: Place-Place 8 inch tortilla on a cutting board
+  - description: Add-Add 1 tbsp salsa to the bowl
+  - description: Mix-Mix the contents of the bowl well
+  - description: Sprinkle-Sprinkle oregano in the bowl
+  - description: Sprinkle-Sprinkle 1 tbsp shredded cheddar cheese on top of the egg
+  - description: Microwave-Microwave for 3 minutes, stirring in between
+  - description: Pour-Pour egg mixture on top of the tortilla
+  - description: Roll-Roll the tortilla from one end to another into a log shape,
+      about 1.5 inches thick. Roll it tight enough to prevent gaps but not so tight
+      that the filling leaks
+- activity_id: 7
+  environment: null
+  errors:
+  - tag: Order Error
+  id: '7_37'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: add-Extract and add contents of an egg to a microwave-safe bowl
+  - description: Place-Place 8 inch tortilla on a cutting board
+  - description: Roll-Roll the tortilla from one end to another into a log shape,
+      about 1.5 inches thick. Roll it tight enough to prevent gaps but not so tight
+      that the filling leaks
+  - description: Sprinkle-Sprinkle oregano in the bowl
+  - description: Add-Add 1/2 tbsp sweet and sour sauce to the bowl
+  - description: Whisk-Whisk the egg
+  - description: Microwave-Microwave for 3 minutes, stirring in between
+  - description: Add-Add 1 tbsp salsa to the bowl
+  - description: Mix-Mix the contents of the bowl well
+  - description: Pour-Pour egg mixture on top of the tortilla
+  - description: Sprinkle-Sprinkle 1 tbsp shredded cheddar cheese on top of the egg
+- activity_id: 7
+  environment: null
+  errors:
+  - description: Roll-Roll the tortilla from one end to another into a log shape,
+      about 1.5 inches thick. Roll it tight enough to prevent gaps but not so tight
+      that the filling leaks
+    tag: Missing Step
+  - description: Mix-Mix the contents of the bowl well
+    tag: Missing Step
+  - description: Sprinkle-Sprinkle 1 tbsp shredded cheddar cheese on top of the egg
+    tag: Missing Step
+  - description: Add-Add 1/2 tbsp sweet and sour sauce to the bowl
+    tag: Missing Step
+  - tag: Order Error
+  id: '7_39'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: add-Extract and add contents of an egg to a microwave-safe bowl
+  - description: Whisk-Whisk the egg
+  - description: Microwave-Microwave for 3 minutes, stirring in between
+  - description: Add-Add 1 tbsp salsa to the bowl
+  - description: Place-Place 8 inch tortilla on a cutting board
+  - description: Sprinkle-Sprinkle oregano in the bowl
+  - description: Pour-Pour egg mixture on top of the tortilla
+- activity_id: 7
+  environment: null
+  errors:
+  - tag: Order Error
+  id: '7_40'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: add-Extract and add contents of an egg to a microwave-safe bowl
+  - description: Add-Add 1/2 tbsp sweet and sour sauce to the bowl
+  - description: Whisk-Whisk the egg
+  - description: Microwave-Microwave for 3 minutes, stirring in between
+  - description: Sprinkle-Sprinkle oregano in the bowl
+  - description: Place-Place 8 inch tortilla on a cutting board
+  - description: Mix-Mix the contents of the bowl well
+  - description: Add-Add 1 tbsp salsa to the bowl
+  - description: Sprinkle-Sprinkle 1 tbsp shredded cheddar cheese on top of the egg
+  - description: Pour-Pour egg mixture on top of the tortilla
+  - description: Roll-Roll the tortilla from one end to another into a log shape,
+      about 1.5 inches thick. Roll it tight enough to prevent gaps but not so tight
+      that the filling leaks
+- activity_id: 7
+  environment: null
+  errors:
+  - tag: Order Error
+  id: '7_41'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Place-Place 8 inch tortilla on a cutting board
+  - description: add-Extract and add contents of an egg to a microwave-safe bowl
+  - description: Whisk-Whisk the egg
+  - description: Microwave-Microwave for 3 minutes, stirring in between
+  - description: Add-Add 1 tbsp salsa to the bowl
+  - description: Sprinkle-Sprinkle oregano in the bowl
+  - description: Mix-Mix the contents of the bowl well
+  - description: Add-Add 1/2 tbsp sweet and sour sauce to the bowl
+  - description: Pour-Pour egg mixture on top of the tortilla
+  - description: Sprinkle-Sprinkle 1 tbsp shredded cheddar cheese on top of the egg
+  - description: Roll-Roll the tortilla from one end to another into a log shape,
+      about 1.5 inches thick. Roll it tight enough to prevent gaps but not so tight
+      that the filling leaks
+- activity_id: 7
+  environment: null
+  errors:
+  - tag: Order Error
+  id: '7_42'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Place-Place 8 inch tortilla on a cutting board
+  - description: add-Extract and add contents of an egg to a microwave-safe bowl
+  - description: Whisk-Whisk the egg
+  - description: Add-Add 1/2 tbsp sweet and sour sauce to the bowl
+  - description: Sprinkle-Sprinkle oregano in the bowl
+  - description: Mix-Mix the contents of the bowl well
+  - description: Microwave-Microwave for 3 minutes, stirring in between
+  - description: Add-Add 1 tbsp salsa to the bowl
+  - description: Pour-Pour egg mixture on top of the tortilla
+  - description: Sprinkle-Sprinkle 1 tbsp shredded cheddar cheese on top of the egg
+  - description: Roll-Roll the tortilla from one end to another into a log shape,
+      about 1.5 inches thick. Roll it tight enough to prevent gaps but not so tight
+      that the filling leaks
+- activity_id: 7
+  environment: null
+  errors:
+  - tag: Order Error
+  id: '7_43'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Place-Place 8 inch tortilla on a cutting board
+  - description: add-Extract and add contents of an egg to a microwave-safe bowl
+  - description: Whisk-Whisk the egg
+  - description: Microwave-Microwave for 3 minutes, stirring in between
+  - description: Mix-Mix the contents of the bowl well
+  - description: Sprinkle-Sprinkle oregano in the bowl
+  - description: Add-Add 1 tbsp salsa to the bowl
+  - description: Add-Add 1/2 tbsp sweet and sour sauce to the bowl
+  - description: Pour-Pour egg mixture on top of the tortilla
+  - description: Sprinkle-Sprinkle 1 tbsp shredded cheddar cheese on top of the egg
+  - description: Roll-Roll the tortilla from one end to another into a log shape,
+      about 1.5 inches thick. Roll it tight enough to prevent gaps but not so tight
+      that the filling leaks
+- activity_id: 7
+  environment: null
+  errors:
+  - tag: Order Error
+  id: '7_44'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Place-Place 8 inch tortilla on a cutting board
+  - description: add-Extract and add contents of an egg to a microwave-safe bowl
+  - description: Whisk-Whisk the egg
+  - description: Microwave-Microwave for 3 minutes, stirring in between
+  - description: Add-Add 1/2 tbsp sweet and sour sauce to the bowl
+  - description: Add-Add 1 tbsp salsa to the bowl
+  - description: Sprinkle-Sprinkle oregano in the bowl
+  - description: Mix-Mix the contents of the bowl well
+  - description: Pour-Pour egg mixture on top of the tortilla
+  - description: Sprinkle-Sprinkle 1 tbsp shredded cheddar cheese on top of the egg
+  - description: Roll-Roll the tortilla from one end to another into a log shape,
+      about 1.5 inches thick. Roll it tight enough to prevent gaps but not so tight
+      that the filling leaks
+- activity_id: 7
+  environment: null
+  errors:
+  - tag: Order Error
+  id: '7_45'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Place-Place 8 inch tortilla on a cutting board
+  - description: add-Extract and add contents of an egg to a microwave-safe bowl
+  - description: Whisk-Whisk the egg
+  - description: Mix-Mix the contents of the bowl well
+  - description: Roll-Roll the tortilla from one end to another into a log shape,
+      about 1.5 inches thick. Roll it tight enough to prevent gaps but not so tight
+      that the filling leaks
+  - description: Add-Add 1 tbsp salsa to the bowl
+  - description: Sprinkle-Sprinkle oregano in the bowl
+  - description: Microwave-Microwave for 3 minutes, stirring in between
+  - description: Pour-Pour egg mixture on top of the tortilla
+  - description: Sprinkle-Sprinkle 1 tbsp shredded cheddar cheese on top of the egg
+  - description: Add-Add 1/2 tbsp sweet and sour sauce to the bowl
+- activity_id: 7
+  environment: null
+  errors:
+  - tag: Order Error
+  id: '7_46'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: add-Extract and add contents of an egg to a microwave-safe bowl
+  - description: Place-Place 8 inch tortilla on a cutting board
+  - description: Whisk-Whisk the egg
+  - description: Sprinkle-Sprinkle 1 tbsp shredded cheddar cheese on top of the egg
+  - description: Sprinkle-Sprinkle oregano in the bowl
+  - description: Add-Add 1/2 tbsp sweet and sour sauce to the bowl
+  - description: Mix-Mix the contents of the bowl well
+  - description: Add-Add 1 tbsp salsa to the bowl
+  - description: Pour-Pour egg mixture on top of the tortilla
+  - description: Microwave-Microwave for 3 minutes, stirring in between
+  - description: Roll-Roll the tortilla from one end to another into a log shape,
+      about 1.5 inches thick. Roll it tight enough to prevent gaps but not so tight
+      that the filling leaks
+- activity_id: 7
+  environment: null
+  errors:
+  - tag: Order Error
+  id: '7_47'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Place-Place 8 inch tortilla on a cutting board
+  - description: add-Extract and add contents of an egg to a microwave-safe bowl
+  - description: Whisk-Whisk the egg
+  - description: Microwave-Microwave for 3 minutes, stirring in between
+  - description: Add-Add 1 tbsp salsa to the bowl
+  - description: Mix-Mix the contents of the bowl well
+  - description: Add-Add 1/2 tbsp sweet and sour sauce to the bowl
+  - description: Sprinkle-Sprinkle oregano in the bowl
+  - description: Pour-Pour egg mixture on top of the tortilla
+  - description: Sprinkle-Sprinkle 1 tbsp shredded cheddar cheese on top of the egg
+  - description: Roll-Roll the tortilla from one end to another into a log shape,
+      about 1.5 inches thick. Roll it tight enough to prevent gaps but not so tight
+      that the filling leaks
+- activity_id: 7
+  environment: null
+  errors:
+  - tag: Order Error
+  id: '7_48'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Place-Place 8 inch tortilla on a cutting board
+  - description: add-Extract and add contents of an egg to a microwave-safe bowl
+  - description: Add-Add 1/2 tbsp sweet and sour sauce to the bowl
+  - description: Microwave-Microwave for 3 minutes, stirring in between
+  - description: Add-Add 1 tbsp salsa to the bowl
+  - description: Whisk-Whisk the egg
+  - description: Sprinkle-Sprinkle oregano in the bowl
+  - description: Mix-Mix the contents of the bowl well
+  - description: Pour-Pour egg mixture on top of the tortilla
+  - description: Sprinkle-Sprinkle 1 tbsp shredded cheddar cheese on top of the egg
+  - description: Roll-Roll the tortilla from one end to another into a log shape,
+      about 1.5 inches thick. Roll it tight enough to prevent gaps but not so tight
+      that the filling leaks
+- activity_id: 7
+  environment: null
+  errors:
+  - tag: Order Error
+  id: '7_49'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: add-Extract and add contents of an egg to a microwave-safe bowl
+  - description: Place-Place 8 inch tortilla on a cutting board
+  - description: Whisk-Whisk the egg
+  - description: Microwave-Microwave for 3 minutes, stirring in between
+  - description: Add-Add 1 tbsp salsa to the bowl
+  - description: Pour-Pour egg mixture on top of the tortilla
+  - description: Add-Add 1/2 tbsp sweet and sour sauce to the bowl
+  - description: Sprinkle-Sprinkle oregano in the bowl
+  - description: Mix-Mix the contents of the bowl well
+  - description: Sprinkle-Sprinkle 1 tbsp shredded cheddar cheese on top of the egg
+  - description: Roll-Roll the tortilla from one end to another into a log shape,
+      about 1.5 inches thick. Roll it tight enough to prevent gaps but not so tight
+      that the filling leaks
+- activity_id: 7
+  environment: null
+  errors:
+  - tag: Order Error
+  id: '7_50'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: add-Extract and add contents of an egg to a microwave-safe bowl
+  - description: Place-Place 8 inch tortilla on a cutting board
+  - description: Whisk-Whisk the egg
+  - description: Microwave-Microwave for 3 minutes, stirring in between
+  - description: Pour-Pour egg mixture on top of the tortilla
+  - description: Sprinkle-Sprinkle 1 tbsp shredded cheddar cheese on top of the egg
+  - description: Add-Add 1/2 tbsp sweet and sour sauce to the bowl
+  - description: Roll-Roll the tortilla from one end to another into a log shape,
+      about 1.5 inches thick. Roll it tight enough to prevent gaps but not so tight
+      that the filling leaks
+  - description: Sprinkle-Sprinkle oregano in the bowl
+  - description: Mix-Mix the contents of the bowl well
+  - description: Add-Add 1 tbsp salsa to the bowl

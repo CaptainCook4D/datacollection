@@ -1,0 +1,2197 @@
+- activity_id: 6
+  environment: null
+  id: '6_1'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Spray-Spray oil on a microwave-safe cup
+  - description: Combine-Combine 1 tablespoon of softened butter (Make sure it is
+      softened) and 1 tablespoon of white sugar in a bowl using a spoon
+  - description: Add-Add 2 tablespoons oats to the bowl
+  - description: Add-Add 2 tablespoons of flour to the bowl
+  - description: Add-Add 4 dashes (4 sprinkles or 4/5 tsp) of ground cinnamon to the
+      bowl
+  - description: Add-Add 1/2 teaspoon salt to the bowl
+  - description: Mix-Mix the crumble mixture well
+  - description: Cut-Cut 1/2 apple into thin slices after removing the core (Peeling
+      and removing seeds)
+  - description: Flatten-Flatten 1/2 the crumble mixture into the bottom of microwave-safe
+      cup to form a crust
+  - description: Microwave-Microwave crust for 30 seconds on high
+  - description: add-add apple slices on top of the crust
+  - description: Add-Add 1 tablespoon of brown sugar on the top of apple slices
+  - description: Pour-Pour the remaining 1/2 the crumble mixture on top of apple slices
+  - description: Microwave-Microwave for 1 minute and 30 seconds
+- activity_id: 6
+  environment: null
+  id: '6_2'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Combine-Combine 1 tablespoon of softened butter (Make sure it is
+      softened) and 1 tablespoon of white sugar in a bowl using a spoon
+  - description: Add-Add 4 dashes (4 sprinkles or 4/5 tsp) of ground cinnamon to the
+      bowl
+  - description: Add-Add 2 tablespoons oats to the bowl
+  - description: Add-Add 2 tablespoons of flour to the bowl
+  - description: Add-Add 1/2 teaspoon salt to the bowl
+  - description: Spray-Spray oil on a microwave-safe cup
+  - description: Mix-Mix the crumble mixture well
+  - description: Flatten-Flatten 1/2 the crumble mixture into the bottom of microwave-safe
+      cup to form a crust
+  - description: Microwave-Microwave crust for 30 seconds on high
+  - description: Cut-Cut 1/2 apple into thin slices after removing the core (Peeling
+      and removing seeds)
+  - description: add-add apple slices on top of the crust
+  - description: Add-Add 1 tablespoon of brown sugar on the top of apple slices
+  - description: Pour-Pour the remaining 1/2 the crumble mixture on top of apple slices
+  - description: Microwave-Microwave for 1 minute and 30 seconds
+- activity_id: 6
+  environment: null
+  id: '6_3'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Combine-Combine 1 tablespoon of softened butter (Make sure it is
+      softened) and 1 tablespoon of white sugar in a bowl using a spoon
+  - description: Add-Add 4 dashes (4 sprinkles or 4/5 tsp) of ground cinnamon to the
+      bowl
+  - description: Add-Add 2 tablespoons of flour to the bowl
+  - description: Add-Add 2 tablespoons oats to the bowl
+  - description: Add-Add 1/2 teaspoon salt to the bowl
+  - description: Cut-Cut 1/2 apple into thin slices after removing the core (Peeling
+      and removing seeds)
+  - description: Mix-Mix the crumble mixture well
+  - description: Spray-Spray oil on a microwave-safe cup
+  - description: Flatten-Flatten 1/2 the crumble mixture into the bottom of microwave-safe
+      cup to form a crust
+  - description: Microwave-Microwave crust for 30 seconds on high
+  - description: add-add apple slices on top of the crust
+  - description: Add-Add 1 tablespoon of brown sugar on the top of apple slices
+  - description: Pour-Pour the remaining 1/2 the crumble mixture on top of apple slices
+  - description: Microwave-Microwave for 1 minute and 30 seconds
+- activity_id: 6
+  environment: 1
+  id: '6_4'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: '"2023-04-20T18:11:21.862913"'
+  selected_by: 1
+  steps:
+  - description: Spray-Spray oil on a microwave-safe cup
+  - description: Combine-Combine 1 tablespoon of softened butter (Make sure it is
+      softened) and 1 tablespoon of white sugar in a bowl using a spoon
+    errors:
+    - description: 'Did not combine, just added both into the bowl '
+      tag: Missing Step
+  - description: Add-Add 4 dashes (4 sprinkles or 4/5 tsp) of ground cinnamon to the
+      bowl
+  - description: Add-Add 2 tablespoons oats to the bowl
+  - description: Add-Add 2 tablespoons of flour to the bowl
+  - description: Add-Add 1/2 teaspoon salt to the bowl
+  - description: Mix-Mix the crumble mixture well
+  - description: Cut-Cut 1/2 apple into thin slices after removing the core (Peeling
+      and removing seeds)
+  - description: Flatten-Flatten 1/2 the crumble mixture into the bottom of microwave-safe
+      cup to form a crust
+  - description: Microwave-Microwave crust for 30 seconds on high
+  - description: add-add apple slices on top of the crust
+  - description: Add-Add 1 tablespoon of brown sugar on the top of apple slices
+  - description: Pour-Pour the remaining 1/2 the crumble mixture on top of apple slices
+  - description: Microwave-Microwave for 1 minute and 30 seconds
+- activity_id: 6
+  environment: 1
+  id: '6_5'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 1
+  steps:
+  - description: Combine-Combine 1 tablespoon of softened butter (Make sure it is
+      softened) and 1 tablespoon of white sugar in a bowl using a spoon
+    errors:
+    - description: Did not combine the butter and sugar
+      tag: Missing Step
+  - description: Add-Add 2 tablespoons oats to the bowl
+  - description: Add-Add 4 dashes (4 sprinkles or 4/5 tsp) of ground cinnamon to the
+      bowl
+  - description: Cut-Cut 1/2 apple into thin slices after removing the core (Peeling
+      and removing seeds)
+  - description: Spray-Spray oil on a microwave-safe cup
+  - description: Add-Add 1/2 teaspoon salt to the bowl
+  - description: Add-Add 2 tablespoons of flour to the bowl
+  - description: Mix-Mix the crumble mixture well
+  - description: Flatten-Flatten 1/2 the crumble mixture into the bottom of microwave-safe
+      cup to form a crust
+  - description: Microwave-Microwave crust for 30 seconds on high
+  - description: add-add apple slices on top of the crust
+  - description: Add-Add 1 tablespoon of brown sugar on the top of apple slices
+  - description: Pour-Pour the remaining 1/2 the crumble mixture on top of apple slices
+  - description: Microwave-Microwave for 1 minute and 30 seconds
+- activity_id: 6
+  environment: null
+  id: '6_6'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Combine-Combine 1 tablespoon of softened butter (Make sure it is
+      softened) and 1 tablespoon of white sugar in a bowl using a spoon
+  - description: Cut-Cut 1/2 apple into thin slices after removing the core (Peeling
+      and removing seeds)
+  - description: Spray-Spray oil on a microwave-safe cup
+  - description: Add-Add 1/2 teaspoon salt to the bowl
+  - description: Add-Add 2 tablespoons oats to the bowl
+  - description: Add-Add 2 tablespoons of flour to the bowl
+  - description: Add-Add 4 dashes (4 sprinkles or 4/5 tsp) of ground cinnamon to the
+      bowl
+  - description: Mix-Mix the crumble mixture well
+  - description: Flatten-Flatten 1/2 the crumble mixture into the bottom of microwave-safe
+      cup to form a crust
+  - description: Microwave-Microwave crust for 30 seconds on high
+  - description: add-add apple slices on top of the crust
+  - description: Add-Add 1 tablespoon of brown sugar on the top of apple slices
+  - description: Pour-Pour the remaining 1/2 the crumble mixture on top of apple slices
+  - description: Microwave-Microwave for 1 minute and 30 seconds
+- activity_id: 6
+  environment: null
+  id: '6_7'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Cut-Cut 1/2 apple into thin slices after removing the core (Peeling
+      and removing seeds)
+  - description: Combine-Combine 1 tablespoon of softened butter (Make sure it is
+      softened) and 1 tablespoon of white sugar in a bowl using a spoon
+  - description: Spray-Spray oil on a microwave-safe cup
+  - description: Add-Add 4 dashes (4 sprinkles or 4/5 tsp) of ground cinnamon to the
+      bowl
+  - description: Add-Add 2 tablespoons of flour to the bowl
+  - description: Add-Add 2 tablespoons oats to the bowl
+  - description: Add-Add 1/2 teaspoon salt to the bowl
+  - description: Mix-Mix the crumble mixture well
+  - description: Flatten-Flatten 1/2 the crumble mixture into the bottom of microwave-safe
+      cup to form a crust
+  - description: Microwave-Microwave crust for 30 seconds on high
+  - description: add-add apple slices on top of the crust
+  - description: Add-Add 1 tablespoon of brown sugar on the top of apple slices
+  - description: Pour-Pour the remaining 1/2 the crumble mixture on top of apple slices
+  - description: Microwave-Microwave for 1 minute and 30 seconds
+- activity_id: 6
+  environment: null
+  id: '6_8'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Spray-Spray oil on a microwave-safe cup
+  - description: Combine-Combine 1 tablespoon of softened butter (Make sure it is
+      softened) and 1 tablespoon of white sugar in a bowl using a spoon
+  - description: Add-Add 2 tablespoons of flour to the bowl
+  - description: Add-Add 4 dashes (4 sprinkles or 4/5 tsp) of ground cinnamon to the
+      bowl
+  - description: Add-Add 2 tablespoons oats to the bowl
+  - description: Add-Add 1/2 teaspoon salt to the bowl
+  - description: Mix-Mix the crumble mixture well
+  - description: Flatten-Flatten 1/2 the crumble mixture into the bottom of microwave-safe
+      cup to form a crust
+  - description: Microwave-Microwave crust for 30 seconds on high
+  - description: Cut-Cut 1/2 apple into thin slices after removing the core (Peeling
+      and removing seeds)
+  - description: add-add apple slices on top of the crust
+  - description: Add-Add 1 tablespoon of brown sugar on the top of apple slices
+  - description: Pour-Pour the remaining 1/2 the crumble mixture on top of apple slices
+  - description: Microwave-Microwave for 1 minute and 30 seconds
+- activity_id: 6
+  environment: null
+  id: '6_9'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Combine-Combine 1 tablespoon of softened butter (Make sure it is
+      softened) and 1 tablespoon of white sugar in a bowl using a spoon
+  - description: Add-Add 4 dashes (4 sprinkles or 4/5 tsp) of ground cinnamon to the
+      bowl
+  - description: Add-Add 1/2 teaspoon salt to the bowl
+  - description: Cut-Cut 1/2 apple into thin slices after removing the core (Peeling
+      and removing seeds)
+  - description: Add-Add 2 tablespoons oats to the bowl
+  - description: Spray-Spray oil on a microwave-safe cup
+  - description: Add-Add 2 tablespoons of flour to the bowl
+  - description: Mix-Mix the crumble mixture well
+  - description: Flatten-Flatten 1/2 the crumble mixture into the bottom of microwave-safe
+      cup to form a crust
+  - description: Microwave-Microwave crust for 30 seconds on high
+  - description: add-add apple slices on top of the crust
+  - description: Add-Add 1 tablespoon of brown sugar on the top of apple slices
+  - description: Pour-Pour the remaining 1/2 the crumble mixture on top of apple slices
+  - description: Microwave-Microwave for 1 minute and 30 seconds
+- activity_id: 6
+  environment: null
+  id: '6_10'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Combine-Combine 1 tablespoon of softened butter (Make sure it is
+      softened) and 1 tablespoon of white sugar in a bowl using a spoon
+  - description: Add-Add 4 dashes (4 sprinkles or 4/5 tsp) of ground cinnamon to the
+      bowl
+  - description: Add-Add 2 tablespoons oats to the bowl
+  - description: Spray-Spray oil on a microwave-safe cup
+  - description: Add-Add 2 tablespoons of flour to the bowl
+  - description: Cut-Cut 1/2 apple into thin slices after removing the core (Peeling
+      and removing seeds)
+  - description: Add-Add 1/2 teaspoon salt to the bowl
+  - description: Mix-Mix the crumble mixture well
+  - description: Flatten-Flatten 1/2 the crumble mixture into the bottom of microwave-safe
+      cup to form a crust
+  - description: Microwave-Microwave crust for 30 seconds on high
+  - description: add-add apple slices on top of the crust
+  - description: Add-Add 1 tablespoon of brown sugar on the top of apple slices
+  - description: Pour-Pour the remaining 1/2 the crumble mixture on top of apple slices
+  - description: Microwave-Microwave for 1 minute and 30 seconds
+- activity_id: 6
+  environment: null
+  id: '6_11'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Combine-Combine 1 tablespoon of softened butter (Make sure it is
+      softened) and 1 tablespoon of white sugar in a bowl using a spoon
+  - description: Add-Add 2 tablespoons oats to the bowl
+  - description: Add-Add 1/2 teaspoon salt to the bowl
+  - description: Add-Add 2 tablespoons of flour to the bowl
+  - description: Add-Add 4 dashes (4 sprinkles or 4/5 tsp) of ground cinnamon to the
+      bowl
+  - description: Mix-Mix the crumble mixture well
+  - description: Spray-Spray oil on a microwave-safe cup
+  - description: Flatten-Flatten 1/2 the crumble mixture into the bottom of microwave-safe
+      cup to form a crust
+  - description: Microwave-Microwave crust for 30 seconds on high
+  - description: Cut-Cut 1/2 apple into thin slices after removing the core (Peeling
+      and removing seeds)
+  - description: add-add apple slices on top of the crust
+  - description: Add-Add 1 tablespoon of brown sugar on the top of apple slices
+  - description: Pour-Pour the remaining 1/2 the crumble mixture on top of apple slices
+  - description: Microwave-Microwave for 1 minute and 30 seconds
+- activity_id: 6
+  environment: null
+  id: '6_12'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Combine-Combine 1 tablespoon of softened butter (Make sure it is
+      softened) and 1 tablespoon of white sugar in a bowl using a spoon
+  - description: Cut-Cut 1/2 apple into thin slices after removing the core (Peeling
+      and removing seeds)
+  - description: Add-Add 1/2 teaspoon salt to the bowl
+  - description: Add-Add 2 tablespoons oats to the bowl
+  - description: Add-Add 4 dashes (4 sprinkles or 4/5 tsp) of ground cinnamon to the
+      bowl
+  - description: Add-Add 2 tablespoons of flour to the bowl
+  - description: Spray-Spray oil on a microwave-safe cup
+  - description: Mix-Mix the crumble mixture well
+  - description: Flatten-Flatten 1/2 the crumble mixture into the bottom of microwave-safe
+      cup to form a crust
+  - description: Microwave-Microwave crust for 30 seconds on high
+  - description: add-add apple slices on top of the crust
+  - description: Add-Add 1 tablespoon of brown sugar on the top of apple slices
+  - description: Pour-Pour the remaining 1/2 the crumble mixture on top of apple slices
+  - description: Microwave-Microwave for 1 minute and 30 seconds
+- activity_id: 6
+  environment: null
+  id: '6_13'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Combine-Combine 1 tablespoon of softened butter (Make sure it is
+      softened) and 1 tablespoon of white sugar in a bowl using a spoon
+  - description: Cut-Cut 1/2 apple into thin slices after removing the core (Peeling
+      and removing seeds)
+  - description: Add-Add 2 tablespoons of flour to the bowl
+  - description: Add-Add 2 tablespoons oats to the bowl
+  - description: Add-Add 4 dashes (4 sprinkles or 4/5 tsp) of ground cinnamon to the
+      bowl
+  - description: Add-Add 1/2 teaspoon salt to the bowl
+  - description: Spray-Spray oil on a microwave-safe cup
+  - description: Mix-Mix the crumble mixture well
+  - description: Flatten-Flatten 1/2 the crumble mixture into the bottom of microwave-safe
+      cup to form a crust
+  - description: Microwave-Microwave crust for 30 seconds on high
+  - description: add-add apple slices on top of the crust
+  - description: Add-Add 1 tablespoon of brown sugar on the top of apple slices
+  - description: Pour-Pour the remaining 1/2 the crumble mixture on top of apple slices
+  - description: Microwave-Microwave for 1 minute and 30 seconds
+- activity_id: 6
+  environment: null
+  id: '6_14'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Combine-Combine 1 tablespoon of softened butter (Make sure it is
+      softened) and 1 tablespoon of white sugar in a bowl using a spoon
+  - description: Add-Add 2 tablespoons oats to the bowl
+  - description: Spray-Spray oil on a microwave-safe cup
+  - description: Add-Add 4 dashes (4 sprinkles or 4/5 tsp) of ground cinnamon to the
+      bowl
+  - description: Add-Add 2 tablespoons of flour to the bowl
+  - description: Add-Add 1/2 teaspoon salt to the bowl
+  - description: Mix-Mix the crumble mixture well
+  - description: Flatten-Flatten 1/2 the crumble mixture into the bottom of microwave-safe
+      cup to form a crust
+  - description: Cut-Cut 1/2 apple into thin slices after removing the core (Peeling
+      and removing seeds)
+  - description: Microwave-Microwave crust for 30 seconds on high
+  - description: add-add apple slices on top of the crust
+  - description: Add-Add 1 tablespoon of brown sugar on the top of apple slices
+  - description: Pour-Pour the remaining 1/2 the crumble mixture on top of apple slices
+  - description: Microwave-Microwave for 1 minute and 30 seconds
+- activity_id: 6
+  environment: null
+  id: '6_15'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Combine-Combine 1 tablespoon of softened butter (Make sure it is
+      softened) and 1 tablespoon of white sugar in a bowl using a spoon
+  - description: Spray-Spray oil on a microwave-safe cup
+  - description: Add-Add 2 tablespoons of flour to the bowl
+  - description: Add-Add 4 dashes (4 sprinkles or 4/5 tsp) of ground cinnamon to the
+      bowl
+  - description: Add-Add 1/2 teaspoon salt to the bowl
+  - description: Add-Add 2 tablespoons oats to the bowl
+  - description: Cut-Cut 1/2 apple into thin slices after removing the core (Peeling
+      and removing seeds)
+  - description: Mix-Mix the crumble mixture well
+  - description: Flatten-Flatten 1/2 the crumble mixture into the bottom of microwave-safe
+      cup to form a crust
+  - description: Microwave-Microwave crust for 30 seconds on high
+  - description: add-add apple slices on top of the crust
+  - description: Add-Add 1 tablespoon of brown sugar on the top of apple slices
+  - description: Pour-Pour the remaining 1/2 the crumble mixture on top of apple slices
+  - description: Microwave-Microwave for 1 minute and 30 seconds
+- activity_id: 6
+  environment: null
+  id: '6_16'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Spray-Spray oil on a microwave-safe cup
+  - description: Combine-Combine 1 tablespoon of softened butter (Make sure it is
+      softened) and 1 tablespoon of white sugar in a bowl using a spoon
+  - description: Add-Add 1/2 teaspoon salt to the bowl
+  - description: Cut-Cut 1/2 apple into thin slices after removing the core (Peeling
+      and removing seeds)
+  - description: Add-Add 4 dashes (4 sprinkles or 4/5 tsp) of ground cinnamon to the
+      bowl
+  - description: Add-Add 2 tablespoons of flour to the bowl
+  - description: Add-Add 2 tablespoons oats to the bowl
+  - description: Mix-Mix the crumble mixture well
+  - description: Flatten-Flatten 1/2 the crumble mixture into the bottom of microwave-safe
+      cup to form a crust
+  - description: Microwave-Microwave crust for 30 seconds on high
+  - description: add-add apple slices on top of the crust
+  - description: Add-Add 1 tablespoon of brown sugar on the top of apple slices
+  - description: Pour-Pour the remaining 1/2 the crumble mixture on top of apple slices
+  - description: Microwave-Microwave for 1 minute and 30 seconds
+- activity_id: 6
+  environment: null
+  id: '6_17'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Spray-Spray oil on a microwave-safe cup
+  - description: Combine-Combine 1 tablespoon of softened butter (Make sure it is
+      softened) and 1 tablespoon of white sugar in a bowl using a spoon
+  - description: Add-Add 1/2 teaspoon salt to the bowl
+  - description: Add-Add 4 dashes (4 sprinkles or 4/5 tsp) of ground cinnamon to the
+      bowl
+  - description: Add-Add 2 tablespoons oats to the bowl
+  - description: Add-Add 2 tablespoons of flour to the bowl
+  - description: Mix-Mix the crumble mixture well
+  - description: Flatten-Flatten 1/2 the crumble mixture into the bottom of microwave-safe
+      cup to form a crust
+  - description: Microwave-Microwave crust for 30 seconds on high
+  - description: Cut-Cut 1/2 apple into thin slices after removing the core (Peeling
+      and removing seeds)
+  - description: add-add apple slices on top of the crust
+  - description: Add-Add 1 tablespoon of brown sugar on the top of apple slices
+  - description: Pour-Pour the remaining 1/2 the crumble mixture on top of apple slices
+  - description: Microwave-Microwave for 1 minute and 30 seconds
+- activity_id: 6
+  environment: null
+  id: '6_18'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Combine-Combine 1 tablespoon of softened butter (Make sure it is
+      softened) and 1 tablespoon of white sugar in a bowl using a spoon
+  - description: Spray-Spray oil on a microwave-safe cup
+  - description: Add-Add 4 dashes (4 sprinkles or 4/5 tsp) of ground cinnamon to the
+      bowl
+  - description: Add-Add 1/2 teaspoon salt to the bowl
+  - description: Add-Add 2 tablespoons of flour to the bowl
+  - description: Add-Add 2 tablespoons oats to the bowl
+  - description: Cut-Cut 1/2 apple into thin slices after removing the core (Peeling
+      and removing seeds)
+  - description: Mix-Mix the crumble mixture well
+  - description: Flatten-Flatten 1/2 the crumble mixture into the bottom of microwave-safe
+      cup to form a crust
+  - description: Microwave-Microwave crust for 30 seconds on high
+  - description: add-add apple slices on top of the crust
+  - description: Add-Add 1 tablespoon of brown sugar on the top of apple slices
+  - description: Pour-Pour the remaining 1/2 the crumble mixture on top of apple slices
+  - description: Microwave-Microwave for 1 minute and 30 seconds
+- activity_id: 6
+  environment: null
+  id: '6_19'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Spray-Spray oil on a microwave-safe cup
+  - description: Combine-Combine 1 tablespoon of softened butter (Make sure it is
+      softened) and 1 tablespoon of white sugar in a bowl using a spoon
+  - description: Add-Add 2 tablespoons oats to the bowl
+  - description: Add-Add 2 tablespoons of flour to the bowl
+  - description: Add-Add 4 dashes (4 sprinkles or 4/5 tsp) of ground cinnamon to the
+      bowl
+  - description: Add-Add 1/2 teaspoon salt to the bowl
+  - description: Cut-Cut 1/2 apple into thin slices after removing the core (Peeling
+      and removing seeds)
+  - description: Mix-Mix the crumble mixture well
+  - description: Flatten-Flatten 1/2 the crumble mixture into the bottom of microwave-safe
+      cup to form a crust
+  - description: Microwave-Microwave crust for 30 seconds on high
+  - description: add-add apple slices on top of the crust
+  - description: Add-Add 1 tablespoon of brown sugar on the top of apple slices
+  - description: Pour-Pour the remaining 1/2 the crumble mixture on top of apple slices
+  - description: Microwave-Microwave for 1 minute and 30 seconds
+- activity_id: 6
+  environment: null
+  id: '6_20'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Combine-Combine 1 tablespoon of softened butter (Make sure it is
+      softened) and 1 tablespoon of white sugar in a bowl using a spoon
+  - description: Add-Add 2 tablespoons oats to the bowl
+  - description: Spray-Spray oil on a microwave-safe cup
+  - description: Cut-Cut 1/2 apple into thin slices after removing the core (Peeling
+      and removing seeds)
+  - description: Add-Add 4 dashes (4 sprinkles or 4/5 tsp) of ground cinnamon to the
+      bowl
+  - description: Add-Add 1/2 teaspoon salt to the bowl
+  - description: Add-Add 2 tablespoons of flour to the bowl
+  - description: Mix-Mix the crumble mixture well
+  - description: Flatten-Flatten 1/2 the crumble mixture into the bottom of microwave-safe
+      cup to form a crust
+  - description: Microwave-Microwave crust for 30 seconds on high
+  - description: add-add apple slices on top of the crust
+  - description: Add-Add 1 tablespoon of brown sugar on the top of apple slices
+  - description: Pour-Pour the remaining 1/2 the crumble mixture on top of apple slices
+  - description: Microwave-Microwave for 1 minute and 30 seconds
+- activity_id: 6
+  environment: null
+  id: '6_21'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Combine-Combine 1 tablespoon of softened butter (Make sure it is
+      softened) and 1 tablespoon of white sugar in a bowl using a spoon
+  - description: Add-Add 1/2 teaspoon salt to the bowl
+  - description: Add-Add 2 tablespoons of flour to the bowl
+  - description: Add-Add 2 tablespoons oats to the bowl
+  - description: Spray-Spray oil on a microwave-safe cup
+  - description: Add-Add 4 dashes (4 sprinkles or 4/5 tsp) of ground cinnamon to the
+      bowl
+  - description: Mix-Mix the crumble mixture well
+  - description: Cut-Cut 1/2 apple into thin slices after removing the core (Peeling
+      and removing seeds)
+  - description: Flatten-Flatten 1/2 the crumble mixture into the bottom of microwave-safe
+      cup to form a crust
+  - description: Microwave-Microwave crust for 30 seconds on high
+  - description: add-add apple slices on top of the crust
+  - description: Add-Add 1 tablespoon of brown sugar on the top of apple slices
+  - description: Pour-Pour the remaining 1/2 the crumble mixture on top of apple slices
+  - description: Microwave-Microwave for 1 minute and 30 seconds
+- activity_id: 6
+  environment: null
+  id: '6_22'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Combine-Combine 1 tablespoon of softened butter (Make sure it is
+      softened) and 1 tablespoon of white sugar in a bowl using a spoon
+  - description: Add-Add 1/2 teaspoon salt to the bowl
+  - description: Spray-Spray oil on a microwave-safe cup
+  - description: Add-Add 4 dashes (4 sprinkles or 4/5 tsp) of ground cinnamon to the
+      bowl
+  - description: Add-Add 2 tablespoons of flour to the bowl
+  - description: Cut-Cut 1/2 apple into thin slices after removing the core (Peeling
+      and removing seeds)
+  - description: Add-Add 2 tablespoons oats to the bowl
+  - description: Mix-Mix the crumble mixture well
+  - description: Flatten-Flatten 1/2 the crumble mixture into the bottom of microwave-safe
+      cup to form a crust
+  - description: Microwave-Microwave crust for 30 seconds on high
+  - description: add-add apple slices on top of the crust
+  - description: Add-Add 1 tablespoon of brown sugar on the top of apple slices
+  - description: Pour-Pour the remaining 1/2 the crumble mixture on top of apple slices
+  - description: Microwave-Microwave for 1 minute and 30 seconds
+- activity_id: 6
+  environment: null
+  id: '6_23'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Combine-Combine 1 tablespoon of softened butter (Make sure it is
+      softened) and 1 tablespoon of white sugar in a bowl using a spoon
+  - description: Spray-Spray oil on a microwave-safe cup
+  - description: Add-Add 2 tablespoons of flour to the bowl
+  - description: Add-Add 2 tablespoons oats to the bowl
+  - description: Add-Add 4 dashes (4 sprinkles or 4/5 tsp) of ground cinnamon to the
+      bowl
+  - description: Add-Add 1/2 teaspoon salt to the bowl
+  - description: Cut-Cut 1/2 apple into thin slices after removing the core (Peeling
+      and removing seeds)
+  - description: Mix-Mix the crumble mixture well
+  - description: Flatten-Flatten 1/2 the crumble mixture into the bottom of microwave-safe
+      cup to form a crust
+  - description: Microwave-Microwave crust for 30 seconds on high
+  - description: add-add apple slices on top of the crust
+  - description: Add-Add 1 tablespoon of brown sugar on the top of apple slices
+  - description: Pour-Pour the remaining 1/2 the crumble mixture on top of apple slices
+  - description: Microwave-Microwave for 1 minute and 30 seconds
+- activity_id: 6
+  environment: null
+  id: '6_24'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Combine-Combine 1 tablespoon of softened butter (Make sure it is
+      softened) and 1 tablespoon of white sugar in a bowl using a spoon
+  - description: Cut-Cut 1/2 apple into thin slices after removing the core (Peeling
+      and removing seeds)
+  - description: Add-Add 1/2 teaspoon salt to the bowl
+  - description: Add-Add 2 tablespoons of flour to the bowl
+  - description: Add-Add 2 tablespoons oats to the bowl
+  - description: Spray-Spray oil on a microwave-safe cup
+  - description: Add-Add 4 dashes (4 sprinkles or 4/5 tsp) of ground cinnamon to the
+      bowl
+  - description: Mix-Mix the crumble mixture well
+  - description: Flatten-Flatten 1/2 the crumble mixture into the bottom of microwave-safe
+      cup to form a crust
+  - description: Microwave-Microwave crust for 30 seconds on high
+  - description: add-add apple slices on top of the crust
+  - description: Add-Add 1 tablespoon of brown sugar on the top of apple slices
+  - description: Pour-Pour the remaining 1/2 the crumble mixture on top of apple slices
+  - description: Microwave-Microwave for 1 minute and 30 seconds
+- activity_id: 6
+  environment: null
+  errors:
+  - description: Add-Add 1 tablespoon of brown sugar on the top of apple slices
+    tag: Missing Step
+  id: '6_26'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Spray-Spray oil on a microwave-safe cup
+  - description: Cut-Cut 1/2 apple into thin slices after removing the core (Peeling
+      and removing seeds)
+  - description: Combine-Combine 1 tablespoon of softened butter (Make sure it is
+      softened) and 1 tablespoon of white sugar in a bowl using a spoon
+  - description: Add-Add 2 tablespoons of flour to the bowl
+  - description: Add-Add 4 dashes (4 sprinkles or 4/5 tsp) of ground cinnamon to the
+      bowl
+  - description: Add-Add 1/2 teaspoon salt to the bowl
+  - description: Add-Add 2 tablespoons oats to the bowl
+  - description: Mix-Mix the crumble mixture well
+  - description: Flatten-Flatten 1/2 the crumble mixture into the bottom of microwave-safe
+      cup to form a crust
+  - description: Microwave-Microwave crust for 30 seconds on high
+  - description: add-add apple slices on top of the crust
+  - description: Pour-Pour the remaining 1/2 the crumble mixture on top of apple slices
+  - description: Microwave-Microwave for 1 minute and 30 seconds
+- activity_id: 6
+  environment: null
+  errors:
+  - description: Add-Add 2 tablespoons of flour to the bowl
+    tag: Missing Step
+  - description: Mix-Mix the crumble mixture well
+    tag: Missing Step
+  - description: Microwave-Microwave crust for 30 seconds on high
+    tag: Missing Step
+  id: '6_27'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Cut-Cut 1/2 apple into thin slices after removing the core (Peeling
+      and removing seeds)
+  - description: Spray-Spray oil on a microwave-safe cup
+  - description: Combine-Combine 1 tablespoon of softened butter (Make sure it is
+      softened) and 1 tablespoon of white sugar in a bowl using a spoon
+  - description: Add-Add 2 tablespoons oats to the bowl
+  - description: Add-Add 1/2 teaspoon salt to the bowl
+  - description: Add-Add 4 dashes (4 sprinkles or 4/5 tsp) of ground cinnamon to the
+      bowl
+  - description: Flatten-Flatten 1/2 the crumble mixture into the bottom of microwave-safe
+      cup to form a crust
+  - description: add-add apple slices on top of the crust
+  - description: Add-Add 1 tablespoon of brown sugar on the top of apple slices
+  - description: Pour-Pour the remaining 1/2 the crumble mixture on top of apple slices
+  - description: Microwave-Microwave for 1 minute and 30 seconds
+- activity_id: 6
+  environment: null
+  errors:
+  - description: Combine-Combine 1 tablespoon of softened butter (Make sure it is
+      softened) and 1 tablespoon of white sugar in a bowl using a spoon
+    tag: Missing Step
+  - description: Add-Add 2 tablespoons of flour to the bowl
+    tag: Missing Step
+  - description: Mix-Mix the crumble mixture well
+    tag: Missing Step
+  id: '6_28'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Cut-Cut 1/2 apple into thin slices after removing the core (Peeling
+      and removing seeds)
+  - description: Add-Add 1/2 teaspoon salt to the bowl
+  - description: Add-Add 4 dashes (4 sprinkles or 4/5 tsp) of ground cinnamon to the
+      bowl
+  - description: Add-Add 2 tablespoons oats to the bowl
+  - description: Spray-Spray oil on a microwave-safe cup
+  - description: Flatten-Flatten 1/2 the crumble mixture into the bottom of microwave-safe
+      cup to form a crust
+  - description: Microwave-Microwave crust for 30 seconds on high
+  - description: add-add apple slices on top of the crust
+  - description: Add-Add 1 tablespoon of brown sugar on the top of apple slices
+  - description: Pour-Pour the remaining 1/2 the crumble mixture on top of apple slices
+  - description: Microwave-Microwave for 1 minute and 30 seconds
+- activity_id: 6
+  environment: null
+  errors:
+  - description: Mix-Mix the crumble mixture well
+    tag: Missing Step
+  id: '6_29'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Cut-Cut 1/2 apple into thin slices after removing the core (Peeling
+      and removing seeds)
+  - description: Combine-Combine 1 tablespoon of softened butter (Make sure it is
+      softened) and 1 tablespoon of white sugar in a bowl using a spoon
+  - description: Add-Add 2 tablespoons of flour to the bowl
+  - description: Add-Add 2 tablespoons oats to the bowl
+  - description: Add-Add 4 dashes (4 sprinkles or 4/5 tsp) of ground cinnamon to the
+      bowl
+  - description: Spray-Spray oil on a microwave-safe cup
+  - description: Add-Add 1/2 teaspoon salt to the bowl
+  - description: Flatten-Flatten 1/2 the crumble mixture into the bottom of microwave-safe
+      cup to form a crust
+  - description: Microwave-Microwave crust for 30 seconds on high
+  - description: add-add apple slices on top of the crust
+  - description: Add-Add 1 tablespoon of brown sugar on the top of apple slices
+  - description: Pour-Pour the remaining 1/2 the crumble mixture on top of apple slices
+  - description: Microwave-Microwave for 1 minute and 30 seconds
+- activity_id: 6
+  environment: null
+  errors:
+  - description: Add-Add 4 dashes (4 sprinkles or 4/5 tsp) of ground cinnamon to the
+      bowl
+    tag: Missing Step
+  - description: Add-Add 1 tablespoon of brown sugar on the top of apple slices
+    tag: Missing Step
+  id: '6_30'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Combine-Combine 1 tablespoon of softened butter (Make sure it is
+      softened) and 1 tablespoon of white sugar in a bowl using a spoon
+  - description: Add-Add 2 tablespoons oats to the bowl
+  - description: Add-Add 1/2 teaspoon salt to the bowl
+  - description: Spray-Spray oil on a microwave-safe cup
+  - description: Cut-Cut 1/2 apple into thin slices after removing the core (Peeling
+      and removing seeds)
+  - description: Add-Add 2 tablespoons of flour to the bowl
+  - description: Mix-Mix the crumble mixture well
+  - description: Flatten-Flatten 1/2 the crumble mixture into the bottom of microwave-safe
+      cup to form a crust
+  - description: Microwave-Microwave crust for 30 seconds on high
+  - description: add-add apple slices on top of the crust
+  - description: Pour-Pour the remaining 1/2 the crumble mixture on top of apple slices
+  - description: Microwave-Microwave for 1 minute and 30 seconds
+- activity_id: 6
+  environment: null
+  errors:
+  - description: Spray-Spray oil on a microwave-safe cup
+    tag: Missing Step
+  - description: Pour-Pour the remaining 1/2 the crumble mixture on top of apple slices
+    tag: Missing Step
+  id: '6_31'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Combine-Combine 1 tablespoon of softened butter (Make sure it is
+      softened) and 1 tablespoon of white sugar in a bowl using a spoon
+  - description: Add-Add 1/2 teaspoon salt to the bowl
+  - description: Add-Add 4 dashes (4 sprinkles or 4/5 tsp) of ground cinnamon to the
+      bowl
+  - description: Add-Add 2 tablespoons oats to the bowl
+  - description: Add-Add 2 tablespoons of flour to the bowl
+  - description: Mix-Mix the crumble mixture well
+  - description: Flatten-Flatten 1/2 the crumble mixture into the bottom of microwave-safe
+      cup to form a crust
+  - description: Microwave-Microwave crust for 30 seconds on high
+  - description: Cut-Cut 1/2 apple into thin slices after removing the core (Peeling
+      and removing seeds)
+  - description: add-add apple slices on top of the crust
+  - description: Add-Add 1 tablespoon of brown sugar on the top of apple slices
+  - description: Microwave-Microwave for 1 minute and 30 seconds
+- activity_id: 6
+  environment: null
+  errors:
+  - description: Spray-Spray oil on a microwave-safe cup
+    tag: Missing Step
+  - description: Pour-Pour the remaining 1/2 the crumble mixture on top of apple slices
+    tag: Missing Step
+  id: '6_32'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Combine-Combine 1 tablespoon of softened butter (Make sure it is
+      softened) and 1 tablespoon of white sugar in a bowl using a spoon
+  - description: Add-Add 2 tablespoons oats to the bowl
+  - description: Add-Add 2 tablespoons of flour to the bowl
+  - description: Cut-Cut 1/2 apple into thin slices after removing the core (Peeling
+      and removing seeds)
+  - description: Add-Add 4 dashes (4 sprinkles or 4/5 tsp) of ground cinnamon to the
+      bowl
+  - description: Add-Add 1/2 teaspoon salt to the bowl
+  - description: Mix-Mix the crumble mixture well
+  - description: Flatten-Flatten 1/2 the crumble mixture into the bottom of microwave-safe
+      cup to form a crust
+  - description: Microwave-Microwave crust for 30 seconds on high
+  - description: add-add apple slices on top of the crust
+  - description: Add-Add 1 tablespoon of brown sugar on the top of apple slices
+  - description: Microwave-Microwave for 1 minute and 30 seconds
+- activity_id: 6
+  environment: null
+  errors:
+  - description: Add-Add 1/2 teaspoon salt to the bowl
+    tag: Missing Step
+  - description: Add-Add 2 tablespoons of flour to the bowl
+    tag: Missing Step
+  - description: add-add apple slices on top of the crust
+    tag: Missing Step
+  - description: Add-Add 1 tablespoon of brown sugar on the top of apple slices
+    tag: Missing Step
+  - description: Pour-Pour the remaining 1/2 the crumble mixture on top of apple slices
+    tag: Missing Step
+  id: '6_33'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Spray-Spray oil on a microwave-safe cup
+  - description: Combine-Combine 1 tablespoon of softened butter (Make sure it is
+      softened) and 1 tablespoon of white sugar in a bowl using a spoon
+  - description: Add-Add 2 tablespoons oats to the bowl
+  - description: Add-Add 4 dashes (4 sprinkles or 4/5 tsp) of ground cinnamon to the
+      bowl
+  - description: Cut-Cut 1/2 apple into thin slices after removing the core (Peeling
+      and removing seeds)
+  - description: Mix-Mix the crumble mixture well
+  - description: Flatten-Flatten 1/2 the crumble mixture into the bottom of microwave-safe
+      cup to form a crust
+  - description: Microwave-Microwave crust for 30 seconds on high
+  - description: Microwave-Microwave for 1 minute and 30 seconds
+- activity_id: 6
+  environment: null
+  errors:
+  - description: Combine-Combine 1 tablespoon of softened butter (Make sure it is
+      softened) and 1 tablespoon of white sugar in a bowl using a spoon
+    tag: Missing Step
+  - description: Microwave-Microwave crust for 30 seconds on high
+    tag: Missing Step
+  id: '6_34'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Cut-Cut 1/2 apple into thin slices after removing the core (Peeling
+      and removing seeds)
+  - description: Add-Add 4 dashes (4 sprinkles or 4/5 tsp) of ground cinnamon to the
+      bowl
+  - description: Add-Add 2 tablespoons oats to the bowl
+  - description: Add-Add 2 tablespoons of flour to the bowl
+  - description: Spray-Spray oil on a microwave-safe cup
+  - description: Add-Add 1/2 teaspoon salt to the bowl
+  - description: Mix-Mix the crumble mixture well
+  - description: Flatten-Flatten 1/2 the crumble mixture into the bottom of microwave-safe
+      cup to form a crust
+  - description: add-add apple slices on top of the crust
+  - description: Add-Add 1 tablespoon of brown sugar on the top of apple slices
+  - description: Pour-Pour the remaining 1/2 the crumble mixture on top of apple slices
+  - description: Microwave-Microwave for 1 minute and 30 seconds
+- activity_id: 6
+  environment: null
+  errors:
+  - description: Microwave-Microwave crust for 30 seconds on high
+    tag: Missing Step
+  - description: Pour-Pour the remaining 1/2 the crumble mixture on top of apple slices
+    tag: Missing Step
+  id: '6_35'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Combine-Combine 1 tablespoon of softened butter (Make sure it is
+      softened) and 1 tablespoon of white sugar in a bowl using a spoon
+  - description: Cut-Cut 1/2 apple into thin slices after removing the core (Peeling
+      and removing seeds)
+  - description: Add-Add 2 tablespoons oats to the bowl
+  - description: Add-Add 1/2 teaspoon salt to the bowl
+  - description: Add-Add 2 tablespoons of flour to the bowl
+  - description: Add-Add 4 dashes (4 sprinkles or 4/5 tsp) of ground cinnamon to the
+      bowl
+  - description: Mix-Mix the crumble mixture well
+  - description: Spray-Spray oil on a microwave-safe cup
+  - description: Flatten-Flatten 1/2 the crumble mixture into the bottom of microwave-safe
+      cup to form a crust
+  - description: add-add apple slices on top of the crust
+  - description: Add-Add 1 tablespoon of brown sugar on the top of apple slices
+  - description: Microwave-Microwave for 1 minute and 30 seconds
+- activity_id: 6
+  environment: null
+  errors:
+  - description: Add-Add 1/2 teaspoon salt to the bowl
+    tag: Missing Step
+  - description: Mix-Mix the crumble mixture well
+    tag: Missing Step
+  id: '6_36'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Spray-Spray oil on a microwave-safe cup
+  - description: Combine-Combine 1 tablespoon of softened butter (Make sure it is
+      softened) and 1 tablespoon of white sugar in a bowl using a spoon
+  - description: Cut-Cut 1/2 apple into thin slices after removing the core (Peeling
+      and removing seeds)
+  - description: Add-Add 2 tablespoons oats to the bowl
+  - description: Add-Add 4 dashes (4 sprinkles or 4/5 tsp) of ground cinnamon to the
+      bowl
+  - description: Add-Add 2 tablespoons of flour to the bowl
+  - description: Flatten-Flatten 1/2 the crumble mixture into the bottom of microwave-safe
+      cup to form a crust
+  - description: Microwave-Microwave crust for 30 seconds on high
+  - description: add-add apple slices on top of the crust
+  - description: Add-Add 1 tablespoon of brown sugar on the top of apple slices
+  - description: Pour-Pour the remaining 1/2 the crumble mixture on top of apple slices
+  - description: Microwave-Microwave for 1 minute and 30 seconds
+- activity_id: 6
+  environment: null
+  errors:
+  - description: Spray-Spray oil on a microwave-safe cup
+    tag: Missing Step
+  - description: Microwave-Microwave crust for 30 seconds on high
+    tag: Missing Step
+  - description: add-add apple slices on top of the crust
+    tag: Missing Step
+  id: '6_37'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Combine-Combine 1 tablespoon of softened butter (Make sure it is
+      softened) and 1 tablespoon of white sugar in a bowl using a spoon
+  - description: Add-Add 4 dashes (4 sprinkles or 4/5 tsp) of ground cinnamon to the
+      bowl
+  - description: Add-Add 2 tablespoons oats to the bowl
+  - description: Cut-Cut 1/2 apple into thin slices after removing the core (Peeling
+      and removing seeds)
+  - description: Add-Add 1/2 teaspoon salt to the bowl
+  - description: Add-Add 2 tablespoons of flour to the bowl
+  - description: Mix-Mix the crumble mixture well
+  - description: Flatten-Flatten 1/2 the crumble mixture into the bottom of microwave-safe
+      cup to form a crust
+  - description: Add-Add 1 tablespoon of brown sugar on the top of apple slices
+  - description: Pour-Pour the remaining 1/2 the crumble mixture on top of apple slices
+  - description: Microwave-Microwave for 1 minute and 30 seconds
+- activity_id: 6
+  environment: null
+  errors:
+  - description: Microwave-Microwave for 1 minute and 30 seconds
+    tag: Missing Step
+  - description: add-add apple slices on top of the crust
+    tag: Missing Step
+  - tag: Order Error
+  id: '6_38'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Combine-Combine 1 tablespoon of softened butter (Make sure it is
+      softened) and 1 tablespoon of white sugar in a bowl using a spoon
+  - description: Add-Add 2 tablespoons oats to the bowl
+  - description: Add-Add 1/2 teaspoon salt to the bowl
+  - description: Add-Add 4 dashes (4 sprinkles or 4/5 tsp) of ground cinnamon to the
+      bowl
+  - description: Spray-Spray oil on a microwave-safe cup
+  - description: Add-Add 2 tablespoons of flour to the bowl
+  - description: Mix-Mix the crumble mixture well
+  - description: Flatten-Flatten 1/2 the crumble mixture into the bottom of microwave-safe
+      cup to form a crust
+  - description: Cut-Cut 1/2 apple into thin slices after removing the core (Peeling
+      and removing seeds)
+  - description: Microwave-Microwave crust for 30 seconds on high
+  - description: Add-Add 1 tablespoon of brown sugar on the top of apple slices
+  - description: Pour-Pour the remaining 1/2 the crumble mixture on top of apple slices
+- activity_id: 6
+  environment: null
+  errors:
+  - description: Combine-Combine 1 tablespoon of softened butter (Make sure it is
+      softened) and 1 tablespoon of white sugar in a bowl using a spoon
+    tag: Missing Step
+  - description: Mix-Mix the crumble mixture well
+    tag: Missing Step
+  - tag: Order Error
+  id: '6_39'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Add-Add 1/2 teaspoon salt to the bowl
+  - description: Add-Add 4 dashes (4 sprinkles or 4/5 tsp) of ground cinnamon to the
+      bowl
+  - description: Cut-Cut 1/2 apple into thin slices after removing the core (Peeling
+      and removing seeds)
+  - description: Add-Add 2 tablespoons of flour to the bowl
+  - description: Spray-Spray oil on a microwave-safe cup
+  - description: Add-Add 2 tablespoons oats to the bowl
+  - description: Flatten-Flatten 1/2 the crumble mixture into the bottom of microwave-safe
+      cup to form a crust
+  - description: Microwave-Microwave crust for 30 seconds on high
+  - description: add-add apple slices on top of the crust
+  - description: Add-Add 1 tablespoon of brown sugar on the top of apple slices
+  - description: Microwave-Microwave for 1 minute and 30 seconds
+  - description: Pour-Pour the remaining 1/2 the crumble mixture on top of apple slices
+- activity_id: 6
+  environment: null
+  errors:
+  - description: Add-Add 4 dashes (4 sprinkles or 4/5 tsp) of ground cinnamon to the
+      bowl
+    tag: Missing Step
+  - description: add-add apple slices on top of the crust
+    tag: Missing Step
+  - tag: Order Error
+  id: '6_40'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Combine-Combine 1 tablespoon of softened butter (Make sure it is
+      softened) and 1 tablespoon of white sugar in a bowl using a spoon
+  - description: Add-Add 2 tablespoons oats to the bowl
+  - description: Add-Add 2 tablespoons of flour to the bowl
+  - description: Spray-Spray oil on a microwave-safe cup
+  - description: Mix-Mix the crumble mixture well
+  - description: Add-Add 1/2 teaspoon salt to the bowl
+  - description: Cut-Cut 1/2 apple into thin slices after removing the core (Peeling
+      and removing seeds)
+  - description: Flatten-Flatten 1/2 the crumble mixture into the bottom of microwave-safe
+      cup to form a crust
+  - description: Microwave-Microwave for 1 minute and 30 seconds
+  - description: Add-Add 1 tablespoon of brown sugar on the top of apple slices
+  - description: Pour-Pour the remaining 1/2 the crumble mixture on top of apple slices
+  - description: Microwave-Microwave crust for 30 seconds on high
+- activity_id: 6
+  environment: null
+  errors:
+  - description: add-add apple slices on top of the crust
+    tag: Missing Step
+  - tag: Order Error
+  id: '6_41'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Spray-Spray oil on a microwave-safe cup
+  - description: Combine-Combine 1 tablespoon of softened butter (Make sure it is
+      softened) and 1 tablespoon of white sugar in a bowl using a spoon
+  - description: Add-Add 4 dashes (4 sprinkles or 4/5 tsp) of ground cinnamon to the
+      bowl
+  - description: Add-Add 2 tablespoons of flour to the bowl
+  - description: Add-Add 2 tablespoons oats to the bowl
+  - description: Cut-Cut 1/2 apple into thin slices after removing the core (Peeling
+      and removing seeds)
+  - description: Flatten-Flatten 1/2 the crumble mixture into the bottom of microwave-safe
+      cup to form a crust
+  - description: Microwave-Microwave crust for 30 seconds on high
+  - description: Mix-Mix the crumble mixture well
+  - description: Add-Add 1/2 teaspoon salt to the bowl
+  - description: Add-Add 1 tablespoon of brown sugar on the top of apple slices
+  - description: Pour-Pour the remaining 1/2 the crumble mixture on top of apple slices
+  - description: Microwave-Microwave for 1 minute and 30 seconds
+- activity_id: 6
+  environment: null
+  errors:
+  - tag: Order Error
+  id: '6_42'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Spray-Spray oil on a microwave-safe cup
+  - description: Combine-Combine 1 tablespoon of softened butter (Make sure it is
+      softened) and 1 tablespoon of white sugar in a bowl using a spoon
+  - description: Add-Add 2 tablespoons of flour to the bowl
+  - description: Mix-Mix the crumble mixture well
+  - description: Add-Add 2 tablespoons oats to the bowl
+  - description: Flatten-Flatten 1/2 the crumble mixture into the bottom of microwave-safe
+      cup to form a crust
+  - description: Cut-Cut 1/2 apple into thin slices after removing the core (Peeling
+      and removing seeds)
+  - description: Add-Add 1/2 teaspoon salt to the bowl
+  - description: Add-Add 4 dashes (4 sprinkles or 4/5 tsp) of ground cinnamon to the
+      bowl
+  - description: Microwave-Microwave crust for 30 seconds on high
+  - description: add-add apple slices on top of the crust
+  - description: Add-Add 1 tablespoon of brown sugar on the top of apple slices
+  - description: Pour-Pour the remaining 1/2 the crumble mixture on top of apple slices
+  - description: Microwave-Microwave for 1 minute and 30 seconds
+- activity_id: 6
+  environment: null
+  errors:
+  - tag: Order Error
+  id: '6_43'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Cut-Cut 1/2 apple into thin slices after removing the core (Peeling
+      and removing seeds)
+  - description: Combine-Combine 1 tablespoon of softened butter (Make sure it is
+      softened) and 1 tablespoon of white sugar in a bowl using a spoon
+  - description: Add-Add 2 tablespoons of flour to the bowl
+  - description: Add-Add 4 dashes (4 sprinkles or 4/5 tsp) of ground cinnamon to the
+      bowl
+  - description: Add-Add 2 tablespoons oats to the bowl
+  - description: Add-Add 1/2 teaspoon salt to the bowl
+  - description: Mix-Mix the crumble mixture well
+  - description: Spray-Spray oil on a microwave-safe cup
+  - description: Flatten-Flatten 1/2 the crumble mixture into the bottom of microwave-safe
+      cup to form a crust
+  - description: Add-Add 1 tablespoon of brown sugar on the top of apple slices
+  - description: add-add apple slices on top of the crust
+  - description: Microwave-Microwave crust for 30 seconds on high
+  - description: Pour-Pour the remaining 1/2 the crumble mixture on top of apple slices
+  - description: Microwave-Microwave for 1 minute and 30 seconds
+- activity_id: 6
+  environment: null
+  errors:
+  - description: Mix-Mix the crumble mixture well
+    tag: Missing Step
+  - description: Add-Add 2 tablespoons of flour to the bowl
+    tag: Missing Step
+  - description: add-add apple slices on top of the crust
+    tag: Missing Step
+  - tag: Order Error
+  id: '6_44'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Add-Add 2 tablespoons oats to the bowl
+  - description: Add-Add 4 dashes (4 sprinkles or 4/5 tsp) of ground cinnamon to the
+      bowl
+  - description: Spray-Spray oil on a microwave-safe cup
+  - description: Add-Add 1/2 teaspoon salt to the bowl
+  - description: Flatten-Flatten 1/2 the crumble mixture into the bottom of microwave-safe
+      cup to form a crust
+  - description: Cut-Cut 1/2 apple into thin slices after removing the core (Peeling
+      and removing seeds)
+  - description: Pour-Pour the remaining 1/2 the crumble mixture on top of apple slices
+  - description: Microwave-Microwave crust for 30 seconds on high
+  - description: Add-Add 1 tablespoon of brown sugar on the top of apple slices
+  - description: Combine-Combine 1 tablespoon of softened butter (Make sure it is
+      softened) and 1 tablespoon of white sugar in a bowl using a spoon
+  - description: Microwave-Microwave for 1 minute and 30 seconds
+- activity_id: 6
+  environment: null
+  errors:
+  - description: Microwave-Microwave crust for 30 seconds on high
+    tag: Missing Step
+  - description: Microwave-Microwave for 1 minute and 30 seconds
+    tag: Missing Step
+  - tag: Order Error
+  id: '6_45'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Combine-Combine 1 tablespoon of softened butter (Make sure it is
+      softened) and 1 tablespoon of white sugar in a bowl using a spoon
+  - description: Add-Add 4 dashes (4 sprinkles or 4/5 tsp) of ground cinnamon to the
+      bowl
+  - description: Mix-Mix the crumble mixture well
+  - description: Add-Add 2 tablespoons oats to the bowl
+  - description: Add-Add 1/2 teaspoon salt to the bowl
+  - description: Add-Add 2 tablespoons of flour to the bowl
+  - description: Cut-Cut 1/2 apple into thin slices after removing the core (Peeling
+      and removing seeds)
+  - description: Flatten-Flatten 1/2 the crumble mixture into the bottom of microwave-safe
+      cup to form a crust
+  - description: Spray-Spray oil on a microwave-safe cup
+  - description: add-add apple slices on top of the crust
+  - description: Add-Add 1 tablespoon of brown sugar on the top of apple slices
+  - description: Pour-Pour the remaining 1/2 the crumble mixture on top of apple slices
+- activity_id: 6
+  environment: null
+  errors:
+  - tag: Order Error
+  id: '6_47'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Combine-Combine 1 tablespoon of softened butter (Make sure it is
+      softened) and 1 tablespoon of white sugar in a bowl using a spoon
+  - description: Add-Add 4 dashes (4 sprinkles or 4/5 tsp) of ground cinnamon to the
+      bowl
+  - description: Add-Add 2 tablespoons oats to the bowl
+  - description: Mix-Mix the crumble mixture well
+  - description: Add-Add 1/2 teaspoon salt to the bowl
+  - description: Add-Add 2 tablespoons of flour to the bowl
+  - description: Spray-Spray oil on a microwave-safe cup
+  - description: Flatten-Flatten 1/2 the crumble mixture into the bottom of microwave-safe
+      cup to form a crust
+  - description: Microwave-Microwave crust for 30 seconds on high
+  - description: Cut-Cut 1/2 apple into thin slices after removing the core (Peeling
+      and removing seeds)
+  - description: add-add apple slices on top of the crust
+  - description: Add-Add 1 tablespoon of brown sugar on the top of apple slices
+  - description: Pour-Pour the remaining 1/2 the crumble mixture on top of apple slices
+  - description: Microwave-Microwave for 1 minute and 30 seconds
+- activity_id: 6
+  environment: null
+  errors:
+  - description: Add-Add 2 tablespoons of flour to the bowl
+    tag: Missing Step
+  - description: Add-Add 4 dashes (4 sprinkles or 4/5 tsp) of ground cinnamon to the
+      bowl
+    tag: Missing Step
+  - description: Add-Add 1 tablespoon of brown sugar on the top of apple slices
+    tag: Missing Step
+  - tag: Order Error
+  id: '6_48'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Combine-Combine 1 tablespoon of softened butter (Make sure it is
+      softened) and 1 tablespoon of white sugar in a bowl using a spoon
+  - description: Spray-Spray oil on a microwave-safe cup
+  - description: Add-Add 2 tablespoons oats to the bowl
+  - description: Cut-Cut 1/2 apple into thin slices after removing the core (Peeling
+      and removing seeds)
+  - description: Microwave-Microwave for 1 minute and 30 seconds
+  - description: Mix-Mix the crumble mixture well
+  - description: Flatten-Flatten 1/2 the crumble mixture into the bottom of microwave-safe
+      cup to form a crust
+  - description: Microwave-Microwave crust for 30 seconds on high
+  - description: add-add apple slices on top of the crust
+  - description: Pour-Pour the remaining 1/2 the crumble mixture on top of apple slices
+  - description: Add-Add 1/2 teaspoon salt to the bowl
+- activity_id: 6
+  environment: null
+  errors:
+  - tag: Order Error
+  id: '6_49'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Combine-Combine 1 tablespoon of softened butter (Make sure it is
+      softened) and 1 tablespoon of white sugar in a bowl using a spoon
+  - description: Add-Add 1/2 teaspoon salt to the bowl
+  - description: Add-Add 2 tablespoons of flour to the bowl
+  - description: Microwave-Microwave for 1 minute and 30 seconds
+  - description: Spray-Spray oil on a microwave-safe cup
+  - description: Add-Add 2 tablespoons oats to the bowl
+  - description: Mix-Mix the crumble mixture well
+  - description: Flatten-Flatten 1/2 the crumble mixture into the bottom of microwave-safe
+      cup to form a crust
+  - description: Cut-Cut 1/2 apple into thin slices after removing the core (Peeling
+      and removing seeds)
+  - description: Microwave-Microwave crust for 30 seconds on high
+  - description: add-add apple slices on top of the crust
+  - description: Add-Add 1 tablespoon of brown sugar on the top of apple slices
+  - description: Pour-Pour the remaining 1/2 the crumble mixture on top of apple slices
+  - description: Add-Add 4 dashes (4 sprinkles or 4/5 tsp) of ground cinnamon to the
+      bowl
+- activity_id: 6
+  environment: null
+  errors:
+  - tag: Order Error
+  id: '6_50'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Spray-Spray oil on a microwave-safe cup
+  - description: Combine-Combine 1 tablespoon of softened butter (Make sure it is
+      softened) and 1 tablespoon of white sugar in a bowl using a spoon
+  - description: Add-Add 1/2 teaspoon salt to the bowl
+  - description: Cut-Cut 1/2 apple into thin slices after removing the core (Peeling
+      and removing seeds)
+  - description: Add-Add 2 tablespoons oats to the bowl
+  - description: Add-Add 4 dashes (4 sprinkles or 4/5 tsp) of ground cinnamon to the
+      bowl
+  - description: add-add apple slices on top of the crust
+  - description: Mix-Mix the crumble mixture well
+  - description: Flatten-Flatten 1/2 the crumble mixture into the bottom of microwave-safe
+      cup to form a crust
+  - description: Microwave-Microwave crust for 30 seconds on high
+  - description: Add-Add 2 tablespoons of flour to the bowl
+  - description: Add-Add 1 tablespoon of brown sugar on the top of apple slices
+  - description: Pour-Pour the remaining 1/2 the crumble mixture on top of apple slices
+  - description: Microwave-Microwave for 1 minute and 30 seconds

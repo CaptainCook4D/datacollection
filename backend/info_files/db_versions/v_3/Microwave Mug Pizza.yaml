@@ -1,0 +1,727 @@
+- activity_id: 3
+  environment: 5
+  id: '3_2'
+  is_error: false
+  recorded_by: 2
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 2
+  steps:
+  - description: Take-Take a microwavable mug
+  - description: add-Measure 1/16 teaspoon of baking soda and add it to the mug
+  - description: add-Measure 1/8 teaspoon of salt and add it to the mug
+  - description: add-Measure 1/8 teaspoon of baking powder and add it to the mug
+  - description: add-Measure 4 tablespoons of flour and add it to the mug
+  - description: Stir-Stir the contents in the mug well
+  - description: Add-Add in 3 tablespoons of milk to the mug
+  - description: Add-1 tablespoon of olive oil to the mug
+  - description: Mix-Mix the contents of the mug thoroughly. (There might be some
+      lumps, but that is ok.)
+  - description: Take-Take 1 tablespoon of marinara sauce
+  - description: spread-spread marinara sauce around the surface of the batter
+  - description: Sprinkle-Sprinkle 1 generous tablespoon of mozzarella cheese on top
+      of the sauce
+  - description: Sprinkle-Sprinkle dried Italian herbs inside the mug
+  - description: Microwave-Microwave for 1 minute 20 seconds, or until it rises and
+      the toppings are bubbling
+- activity_id: 3
+  environment: 2
+  id: '3_5'
+  is_error: false
+  recorded_by: 8
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 8
+  steps:
+  - description: Take-Take a microwavable mug
+  - description: add-Measure 1/8 teaspoon of baking powder and add it to the mug
+  - description: add-Measure 1/16 teaspoon of baking soda and add it to the mug
+  - description: add-Measure 1/8 teaspoon of salt and add it to the mug
+  - description: add-Measure 4 tablespoons of flour and add it to the mug
+  - description: Stir-Stir the contents in the mug well
+  - description: Add-Add in 3 tablespoons of milk to the mug
+  - description: Add-1 tablespoon of olive oil to the mug
+  - description: Mix-Mix the contents of the mug thoroughly. (There might be some
+      lumps, but that is ok.)
+  - description: Take-Take 1 tablespoon of marinara sauce
+  - description: spread-spread marinara sauce around the surface of the batter
+  - description: Sprinkle-Sprinkle 1 generous tablespoon of mozzarella cheese on top
+      of the sauce
+  - description: Sprinkle-Sprinkle dried Italian herbs inside the mug
+  - description: Microwave-Microwave for 1 minute 20 seconds, or until it rises and
+      the toppings are bubbling
+- activity_id: 3
+  environment: 1
+  id: '3_11'
+  is_error: false
+  recorded_by: 8
+  recording_info:
+    end_time: '"2023-04-16T22:09:53.767040"'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: '"2023-04-16T21:56:07.006428"'
+  selected_by: 8
+  steps:
+  - description: Take-Take a microwavable mug
+  - description: add-Measure 1/16 teaspoon of baking soda and add it to the mug
+  - description: add-Measure 4 tablespoons of flour and add it to the mug
+  - description: add-Measure 1/8 teaspoon of salt and add it to the mug
+  - description: add-Measure 1/8 teaspoon of baking powder and add it to the mug
+  - description: Stir-Stir the contents in the mug well
+  - description: Add-Add in 3 tablespoons of milk to the mug
+  - description: Add-1 tablespoon of olive oil to the mug
+  - description: Mix-Mix the contents of the mug thoroughly. (There might be some
+      lumps, but that is ok.)
+  - description: Take-Take 1 tablespoon of marinara sauce
+  - description: spread-spread marinara sauce around the surface of the batter
+  - description: Sprinkle-Sprinkle 1 generous tablespoon of mozzarella cheese on top
+      of the sauce
+  - description: Sprinkle-Sprinkle dried Italian herbs inside the mug
+  - description: Microwave-Microwave for 1 minute 20 seconds, or until it rises and
+      the toppings are bubbling
+- activity_id: 3
+  environment: 7
+  id: '3_12'
+  is_error: true
+  recorded_by: 8
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 8
+  steps:
+  - description: Take-Take a microwavable mug
+  - description: add-Measure 1/8 teaspoon of salt and add it to the mug
+  - description: add-Measure 4 tablespoons of flour and add it to the mug
+  - description: add-Measure 1/16 teaspoon of baking soda and add it to the mug
+  - description: add-Measure 1/8 teaspoon of baking powder and add it to the mug
+  - description: Stir-Stir the contents in the mug well
+  - description: Add-Add in 3 tablespoons of milk to the mug
+  - description: Add-1 tablespoon of olive oil to the mug
+  - description: Mix-Mix the contents of the mug thoroughly. (There might be some
+      lumps, but that is ok.)
+  - description: Take-Take 1 tablespoon of marinara sauce
+  - description: spread-spread marinara sauce around the surface of the batter
+  - description: Sprinkle-Sprinkle 1 generous tablespoon of mozzarella cheese on top
+      of the sauce
+  - description: Sprinkle-Sprinkle dried Italian herbs inside the mug
+  - description: Microwave-Microwave for 1 minute 20 seconds, or until it rises and
+      the toppings are bubbling
+    errors:
+    - description: Rose above the brim
+      tag: Other
+    modified_description: Microwave-Microwave for 1 minute 20 seconds, or until it
+      rises and the toppings are bubbling
+- activity_id: 3
+  environment: 6
+  id: '3_13'
+  is_error: false
+  recorded_by: 8
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: '"2023-05-05T19:51:19.385255"'
+  selected_by: 8
+  steps:
+  - description: Take-Take a microwavable mug
+  - description: add-Measure 1/16 teaspoon of baking soda and add it to the mug
+  - description: add-Measure 1/8 teaspoon of baking powder and add it to the mug
+  - description: add-Measure 4 tablespoons of flour and add it to the mug
+  - description: add-Measure 1/8 teaspoon of salt and add it to the mug
+  - description: Stir-Stir the contents in the mug well
+  - description: Add-Add in 3 tablespoons of milk to the mug
+  - description: Add-1 tablespoon of olive oil to the mug
+  - description: Mix-Mix the contents of the mug thoroughly. (There might be some
+      lumps, but that is ok.)
+  - description: Take-Take 1 tablespoon of marinara sauce
+  - description: spread-spread marinara sauce around the surface of the batter
+  - description: Sprinkle-Sprinkle 1 generous tablespoon of mozzarella cheese on top
+      of the sauce
+  - description: Sprinkle-Sprinkle dried Italian herbs inside the mug
+  - description: Microwave-Microwave for 1 minute 20 seconds, or until it rises and
+      the toppings are bubbling
+- activity_id: 3
+  environment: 2
+  id: '3_14'
+  is_error: false
+  recorded_by: 2
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 2
+  steps:
+  - description: Take-Take a microwavable mug
+  - description: add-Measure 1/8 teaspoon of baking powder and add it to the mug
+  - description: add-Measure 1/16 teaspoon of baking soda and add it to the mug
+  - description: add-Measure 1/8 teaspoon of salt and add it to the mug
+  - description: add-Measure 4 tablespoons of flour and add it to the mug
+  - description: Stir-Stir the contents in the mug well
+  - description: Add-1 tablespoon of olive oil to the mug
+  - description: Add-Add in 3 tablespoons of milk to the mug
+  - description: Mix-Mix the contents of the mug thoroughly. (There might be some
+      lumps, but that is ok.)
+  - description: Take-Take 1 tablespoon of marinara sauce
+  - description: spread-spread marinara sauce around the surface of the batter
+  - description: Sprinkle-Sprinkle 1 generous tablespoon of mozzarella cheese on top
+      of the sauce
+  - description: Sprinkle-Sprinkle dried Italian herbs inside the mug
+  - description: Microwave-Microwave for 1 minute 20 seconds, or until it rises and
+      the toppings are bubbling
+- activity_id: 3
+  environment: 6
+  id: '3_18'
+  is_error: false
+  recorded_by: 4
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: '"2023-05-06T20:34:34.602120"'
+  selected_by: 4
+  steps:
+  - description: Take-Take a microwavable mug
+  - description: add-Measure 1/8 teaspoon of salt and add it to the mug
+  - description: add-Measure 1/8 teaspoon of baking powder and add it to the mug
+  - description: add-Measure 4 tablespoons of flour and add it to the mug
+  - description: add-Measure 1/16 teaspoon of baking soda and add it to the mug
+  - description: Stir-Stir the contents in the mug well
+  - description: Add-Add in 3 tablespoons of milk to the mug
+  - description: Add-1 tablespoon of olive oil to the mug
+  - description: Mix-Mix the contents of the mug thoroughly. (There might be some
+      lumps, but that is ok.)
+  - description: Take-Take 1 tablespoon of marinara sauce
+  - description: spread-spread marinara sauce around the surface of the batter
+  - description: Sprinkle-Sprinkle 1 generous tablespoon of mozzarella cheese on top
+      of the sauce
+  - description: Sprinkle-Sprinkle dried Italian herbs inside the mug
+  - description: Microwave-Microwave for 1 minute 20 seconds, or until it rises and
+      the toppings are bubbling
+- activity_id: 3
+  environment: 1
+  id: '3_22'
+  is_error: false
+  recorded_by: 4
+  recording_info:
+    end_time: '"2023-04-17T10:54:43.791799"'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: '"2023-04-17T10:29:03.590712"'
+  selected_by: 4
+  steps:
+  - description: Take-Take a microwavable mug
+  - description: add-Measure 1/16 teaspoon of baking soda and add it to the mug
+  - description: add-Measure 1/8 teaspoon of baking powder and add it to the mug
+  - description: add-Measure 1/8 teaspoon of salt and add it to the mug
+  - description: add-Measure 4 tablespoons of flour and add it to the mug
+  - description: Stir-Stir the contents in the mug well
+  - description: Add-1 tablespoon of olive oil to the mug
+  - description: Add-Add in 3 tablespoons of milk to the mug
+  - description: Mix-Mix the contents of the mug thoroughly. (There might be some
+      lumps, but that is ok.)
+  - description: Take-Take 1 tablespoon of marinara sauce
+  - description: spread-spread marinara sauce around the surface of the batter
+  - description: Sprinkle-Sprinkle 1 generous tablespoon of mozzarella cheese on top
+      of the sauce
+  - description: Sprinkle-Sprinkle dried Italian herbs inside the mug
+  - description: Microwave-Microwave for 1 minute 20 seconds, or until it rises and
+      the toppings are bubbling
+- activity_id: 3
+  environment: 7
+  errors:
+  - description: spread-spread marinara sauce around the surface of the batter
+    tag: Missing Step
+  - description: Sprinkle-Sprinkle dried Italian herbs inside the mug
+    tag: Missing Step
+  - tag: Order Error
+  id: '3_34'
+  is_error: true
+  recorded_by: 4
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: '"2023-05-12T01:26:00.825667"'
+  selected_by: 4
+  steps:
+  - description: Take-Take a microwavable mug
+  - description: add-Measure 1/16 teaspoon of baking soda and add it to the mug
+  - description: Stir-Stir the contents in the mug well
+  - description: add-Measure 1/8 teaspoon of salt and add it to the mug
+  - description: add-Measure 1/8 teaspoon of baking powder and add it to the mug
+  - description: Add-1 tablespoon of olive oil to the mug
+  - description: Add-Add in 3 tablespoons of milk to the mug
+  - description: Mix-Mix the contents of the mug thoroughly. (There might be some
+      lumps, but that is ok.)
+  - description: Take-Take 1 tablespoon of marinara sauce
+  - description: add-Measure 4 tablespoons of flour and add it to the mug
+  - description: Sprinkle-Sprinkle 1 generous tablespoon of mozzarella cheese on top
+      of the sauce
+  - description: Microwave-Microwave for 1 minute 20 seconds, or until it rises and
+      the toppings are bubbling
+- activity_id: 3
+  environment: 5
+  errors:
+  - description: Take-Take 1 tablespoon of marinara sauce
+    tag: Missing Step
+  - tag: Order Error
+  id: '3_36'
+  is_error: true
+  recorded_by: 4
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 4
+  steps:
+  - description: Take-Take a microwavable mug
+  - description: Add-1 tablespoon of olive oil to the mug
+    errors:
+    - description: add vegetable oil instead of olive oil
+      tag: Technique Error
+    modified_description: Add-1 tablespoon of vegetable oil to the mug
+  - description: add-Measure 4 tablespoons of flour and add it to the mug
+    errors:
+    - description: add only 3 tablespoons instead of 4 tablespoons
+      tag: Measurement Error
+    modified_description: add-Measure 3 tablespoons of flour and add it to the mug
+  - description: add-Measure 1/8 teaspoon of baking powder and add it to the mug
+    errors:
+    - description: add baking soda instead of baking powder
+      tag: Technique Error
+    modified_description: add-Measure 1/8 teaspoon of baking soda and add it to the
+      mug
+  - description: Stir-Stir the contents in the mug well
+    errors:
+    - description: 'spill some out '
+      tag: Preparation Error
+    modified_description: Stir-Stir the contents in the mug well and spill some outside
+  - description: Add-Add in 3 tablespoons of milk to the mug
+    errors:
+    - description: 4 tbsp instead of 3 tbsp
+      tag: Measurement Error
+    modified_description: Add-Add in 4 tablespoons of milk to the mug
+  - description: add-Measure 1/8 teaspoon of salt and add it to the mug
+  - description: Mix-Mix the contents of the mug thoroughly. (There might be some
+      lumps, but that is ok.)
+  - description: add-Measure 1/16 teaspoon of baking soda and add it to the mug
+  - description: spread-spread marinara sauce around the surface of the batter
+  - description: Sprinkle-Sprinkle 1 generous tablespoon of mozzarella cheese on top
+      of the sauce
+  - description: Sprinkle-Sprinkle dried Italian herbs inside the mug
+    errors:
+    - description: 'NULL'
+      tag: Temperature Error
+    modified_description: ' Sprinkle-Sprinkle dried Italian herbs inside the mug'
+  - description: Microwave-Microwave for 1 minute 20 seconds, or until it rises and
+      the toppings are bubbling
+    errors:
+    - description: do for 3 mins instead of 1 min 20 sec
+      tag: Timing Error
+    modified_description: Microwave-Microwave for 3 minute, or until it rises and
+      the toppings are bubbling
+- activity_id: 3
+  environment: 2
+  errors:
+  - tag: Order Error
+  id: '3_46'
+  is_error: true
+  recorded_by: 4
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: '"2023-04-24T17:19:44.405523"'
+  selected_by: 4
+  steps:
+  - description: Take-Take a microwavable mug
+    errors:
+    - description: Use a soiled mug
+      tag: Preparation Error
+    modified_description: Take-Take a microwavable mug which is soiled and not clean
+  - description: add-Measure 1/16 teaspoon of baking soda and add it to the mug
+    errors:
+    - description: ' add-Measure 1 teaspoon of baking soda and add it to the mug instead
+        of 1/16 teaspoon'
+      tag: Measurement Error
+    modified_description: ' add-Measure 1 teaspoon of baking soda and add it to the
+      mug'
+  - description: add-Measure 1/8 teaspoon of baking powder and add it to the mug
+    errors:
+    - description: 'NULL'
+      tag: Other
+    modified_description: ' add-Measure 1/8 teaspoon of baking powder and add it to
+      the mug'
+  - description: add-Measure 4 tablespoons of flour and add it to the mug
+    errors:
+    - description: add only 2 tbsp of flours instead of 4 tbsp of flour.
+      tag: Measurement Error
+    - description: spill while adding and add only 2 tbsp instead of 4tbsp
+      tag: Preparation Error
+    modified_description: add-Measure 2 tablespoons of flour and add it to the mug
+  - description: add-Measure 1/8 teaspoon of salt and add it to the mug
+    errors:
+    - description: add 1 tsp instead of 1/8 tsp
+      tag: Measurement Error
+    modified_description: add-Measure 1/8 teaspoon of salt and add it to the mug
+  - description: Stir-Stir the contents in the mug well
+    errors:
+    - description: use hand instead of utensil to stir
+      tag: Technique Error
+    modified_description: Stir-Stir the contents in the mug improperly with hand
+  - description: Add-1 tablespoon of olive oil to the mug
+    errors:
+    - description: invert tablespoon and use it
+      tag: Technique Error
+    modified_description: Add-1 tablespoon of olive oil to the mug and invert tablespoon
+      to measure
+  - description: Add-Add in 3 tablespoons of milk to the mug
+  - description: Sprinkle-Sprinkle dried Italian herbs inside the mug
+  - description: Take-Take 1 tablespoon of marinara sauce
+  - description: spread-spread marinara sauce around the surface of the batter
+    errors:
+    - description: instead of spreading on top mix it with contents of the mug
+      tag: Preparation Error
+    modified_description: spread-mix marinara sauce with the batter batter
+  - description: Sprinkle-Sprinkle 1 generous tablespoon of mozzarella cheese on top
+      of the sauce
+  - description: Mix-Mix the contents of the mug thoroughly. (There might be some
+      lumps, but that is ok.)
+  - description: Microwave-Microwave for 1 minute 20 seconds, or until it rises and
+      the toppings are bubbling
+    errors:
+    - description: Microvawe for 2 mins instead of 1 min 20 secs
+      tag: Timing Error
+    - description: 'NULL'
+      tag: Temperature Error
+    modified_description: Microwave-Microwave for 2 minute, or until it rises and
+      the toppings are bubbling
+- activity_id: 3
+  environment: 2
+  errors:
+  - tag: Order Error
+  id: '3_49'
+  is_error: true
+  recorded_by: 5
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 5
+  steps:
+  - description: Take-Take a microwavable mug
+    errors:
+    - description: Take-Take a microwavable mug without cleaning in the sink
+      tag: Preparation Error
+    modified_description: Take-Take a microwavable mug (not washed)
+  - description: add-Measure 1/8 teaspoon of baking powder and add it to the mug
+    errors:
+    - description: add-Measure 1/4 teaspoon of baking powder and add it to the mug
+      tag: Measurement Error
+    modified_description: add-Measure 1/4 teaspoon of baking powder and add it to
+      the mug
+  - description: add-Measure 4 tablespoons of flour and add it to the mug
+    errors:
+    - description: add-Measure 5 tablespoons of flour and add it to the mug
+      tag: Measurement Error
+    modified_description: add-Measure 5 tablespoons of flour and add it to the mug
+  - description: add-Measure 1/16 teaspoon of baking soda and add it to the mug
+  - description: add-Measure 1/8 teaspoon of salt and add it to the mug
+    errors:
+    - description: add-Measure 1/4 teaspoon of salt and add it to the mug
+      tag: Measurement Error
+    modified_description: add-Measure 1/4 teaspoon of salt and add it to the mug
+  - description: Stir-Stir the contents in the mug well
+  - description: Add-1 tablespoon of olive oil to the mug
+  - description: Add-Add in 3 tablespoons of milk to the mug
+    errors:
+    - description: Add-Add in 3 tablespoons of curd to the mug
+      tag: Technique Error
+    modified_description: Add-Add in 3 tablespoons of curd to the mug
+  - description: Sprinkle-Sprinkle dried Italian herbs inside the mug
+  - description: Take-Take 1 tablespoon of marinara sauce
+    errors:
+    - description: Take-Take 1 tablespoon of tomato ketchup
+      tag: Technique Error
+    modified_description: Take-Take 1 tablespoon of tomato ketchup
+  - description: spread-spread marinara sauce around the surface of the batter
+    errors:
+    - description: spread-spread tomato ketchup on the edge of batter
+      tag: Technique Error
+    modified_description: spread-spread tomato ketchup on the edge of batter
+  - description: Sprinkle-Sprinkle 1 generous tablespoon of mozzarella cheese on top
+      of the sauce
+  - description: Mix-Mix the contents of the mug thoroughly. (There might be some
+      lumps, but that is ok.)
+    errors:
+    - description: NONE
+      tag: Temperature Error
+    modified_description: Mix-Mix the contents of the mug thoroughly. (There might
+      be some lumps, but that is ok.)
+  - description: Microwave-Microwave for 1 minute 20 seconds, or until it rises and
+      the toppings are bubbling
+    errors:
+    - description: Microwave-Microwave for 2 minutes, or until it rises and the toppings
+        are bubbling
+      tag: Timing Error
+    modified_description: Microwave-Microwave for 2 minutes, or until it rises and
+      the toppings are bubbling
+- activity_id: 3
+  environment: 6
+  errors:
+  - tag: Order Error
+  id: '3_50'
+  is_error: true
+  recorded_by: 2
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: '"2023-05-06T16:27:27.192607"'
+  selected_by: 2
+  steps:
+  - description: Take-Take a microwavable mug
+  - description: add-Measure 1/8 teaspoon of baking powder and add it to the mug
+    errors:
+    - description: Not using dried and cleaned measuring spoons (might contaminate
+        the ingredients)
+      tag: Preparation Error
+    modified_description: add-Measure 1/8 teaspoon of baking powder using dirty measuring
+      spoon and add it to the mug
+  - description: add-Measure 4 tablespoons of flour and add it to the mug
+    errors:
+    - description: Not using dried and cleaned measuring spoons (might contaminate
+        the ingredients)
+      tag: Preparation Error
+    modified_description: add-Measure 4 tablespoons of flour using dirty measuring
+      spoon and add it to the mug
+  - description: Sprinkle-Sprinkle 1 generous tablespoon of mozzarella cheese on top
+      of the sauce
+    errors:
+    - description: Not using dried and cleaned measuring spoons (might contaminate
+        the ingredients)
+      tag: Preparation Error
+    - description: Use cheddar cheese instead of mozzarella cheese
+      tag: Preparation Error
+    modified_description: Sprinkle-Sprinkle 1 generous tablespoon of cheddar cheese
+      on top of the sauce
+  - description: add-Measure 1/8 teaspoon of salt and add it to the mug
+    errors:
+    - description: Not using dried and cleaned measuring spoons (might contaminate
+        the ingredients)
+      tag: Preparation Error
+    modified_description: 'add-Measure 1/8 teaspoon of salt using dirty measuring
+      spoon and add it to the mug '
+  - description: Stir-Stir the contents in the mug well
+  - description: Add-Add in 3 tablespoons of milk to the mug
+  - description: Add-1 tablespoon of olive oil to the mug
+    errors:
+    - description: Leave olive oil cap open (might spill)
+      tag: Technique Error
+    modified_description: Add-1 tablespoon of olive oil to the mug and leave the cap
+      open
+  - description: Mix-Mix the contents of the mug thoroughly. (There might be some
+      lumps, but that is ok.)
+  - description: Take-Take 1 tablespoon of marinara sauce
+    errors:
+    - description: Use salsa sauce instead of marinara sauce
+      tag: Preparation Error
+    modified_description: Take-Take 1 tablespoon of salsa sauce
+  - description: spread-spread marinara sauce around the surface of the batter
+  - description: add-Measure 1/16 teaspoon of baking soda and add it to the mug
+  - description: Sprinkle-Sprinkle dried Italian herbs inside the mug
+  - description: Microwave-Microwave for 1 minute 20 seconds, or until it rises and
+      the toppings are bubbling

@@ -1,0 +1,1016 @@
+- activity_id: 15
+  environment: 6
+  id: '15_2'
+  is_error: false
+  recorded_by: 8
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 8
+  steps:
+  - description: Peel-Peel 4 large garlic cloves
+  - description: mince-mince the garlic
+  - description: Take-Take 1 tomato
+  - description: Chop-Chop tomato roughly (anysize chunks are fine)
+  - description: puree-puree tomatoes without any water in a blender/mixer
+  - description: Heat-Heat 3 tbsp oil in a pan over medium heat
+  - description: Add-1/2 tsp cumin seeds to the pan
+  - description: Add-Add 1/4 tsp mustard to the pan
+  - description: add-When mustard and cumin seeds begin to sizzle, add minced garlic
+  - description: Lower-Lower the heat
+  - description: Saute-Saute the garlic for 2-3 minutes
+  - description: Add-Add 2 tbsp red chili powder to the pan
+  - description: mix-mix well contents of the pan
+  - description: Add-Add tomato puree to the pan
+  - description: Add-1/2 tsp salt to the pan
+  - description: Mix-Mix well tomato puree with contents in the pan
+  - description: simmer-Allow the mixture to simmer over low heat for 5 minutes or
+      until the mixture becomes thick
+  - description: Take-Take the pan off the heat
+  - description: Transfer-Transfer it to a serving bowl
+- activity_id: 15
+  environment: 2
+  id: '15_4'
+  is_error: false
+  recorded_by: 8
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 8
+  steps:
+  - description: Peel-Peel 4 large garlic cloves
+  - description: Take-Take 1 tomato
+  - description: mince-mince the garlic
+  - description: Chop-Chop tomato roughly (anysize chunks are fine)
+  - description: puree-puree tomatoes without any water in a blender/mixer
+  - description: Heat-Heat 3 tbsp oil in a pan over medium heat
+  - description: Add-Add 1/4 tsp mustard to the pan
+  - description: Add-1/2 tsp cumin seeds to the pan
+  - description: add-When mustard and cumin seeds begin to sizzle, add minced garlic
+  - description: Lower-Lower the heat
+  - description: Saute-Saute the garlic for 2-3 minutes
+  - description: Add-Add 2 tbsp red chili powder to the pan
+  - description: mix-mix well contents of the pan
+  - description: Add-1/2 tsp salt to the pan
+  - description: Add-Add tomato puree to the pan
+  - description: Mix-Mix well tomato puree with contents in the pan
+  - description: simmer-Allow the mixture to simmer over low heat for 5 minutes or
+      until the mixture becomes thick
+  - description: Take-Take the pan off the heat
+  - description: Transfer-Transfer it to a serving bowl
+- activity_id: 15
+  environment: 5
+  id: '15_5'
+  is_error: false
+  recorded_by: 5
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 5
+  steps:
+  - description: Peel-Peel 4 large garlic cloves
+  - description: Take-Take 1 tomato
+  - description: Chop-Chop tomato roughly (anysize chunks are fine)
+  - description: puree-puree tomatoes without any water in a blender/mixer
+  - description: mince-mince the garlic
+  - description: Heat-Heat 3 tbsp oil in a pan over medium heat
+  - description: Add-Add 1/4 tsp mustard to the pan
+  - description: Add-1/2 tsp cumin seeds to the pan
+  - description: add-When mustard and cumin seeds begin to sizzle, add minced garlic
+  - description: Lower-Lower the heat
+  - description: Saute-Saute the garlic for 2-3 minutes
+  - description: Add-Add 2 tbsp red chili powder to the pan
+  - description: mix-mix well contents of the pan
+  - description: Add-1/2 tsp salt to the pan
+  - description: Add-Add tomato puree to the pan
+  - description: Mix-Mix well tomato puree with contents in the pan
+  - description: simmer-Allow the mixture to simmer over low heat for 5 minutes or
+      until the mixture becomes thick
+  - description: Take-Take the pan off the heat
+  - description: Transfer-Transfer it to a serving bowl
+- activity_id: 15
+  environment: 5
+  id: '15_8'
+  is_error: false
+  recorded_by: 3
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: '"2023-05-01T00:12:24.282777"'
+  selected_by: 3
+  steps:
+  - description: Peel-Peel 4 large garlic cloves
+  - description: Take-Take 1 tomato
+  - description: mince-mince the garlic
+  - description: Chop-Chop tomato roughly (anysize chunks are fine)
+  - description: puree-puree tomatoes without any water in a blender/mixer
+  - description: Heat-Heat 3 tbsp oil in a pan over medium heat
+  - description: Add-1/2 tsp cumin seeds to the pan
+  - description: Add-Add 1/4 tsp mustard to the pan
+  - description: add-When mustard and cumin seeds begin to sizzle, add minced garlic
+  - description: Lower-Lower the heat
+  - description: Saute-Saute the garlic for 2-3 minutes
+  - description: Add-Add 2 tbsp red chili powder to the pan
+  - description: mix-mix well contents of the pan
+  - description: Add-Add tomato puree to the pan
+  - description: Add-1/2 tsp salt to the pan
+  - description: Mix-Mix well tomato puree with contents in the pan
+  - description: simmer-Allow the mixture to simmer over low heat for 5 minutes or
+      until the mixture becomes thick
+  - description: Take-Take the pan off the heat
+  - description: Transfer-Transfer it to a serving bowl
+- activity_id: 15
+  environment: 1
+  id: '15_17'
+  is_error: false
+  recorded_by: 4
+  recording_info:
+    end_time: '"2023-04-13T02:58:59.250055"'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: '"2023-04-13T02:57:43.537514"'
+  selected_by: 4
+  steps:
+  - description: Heat-Heat 3 tbsp oil in a pan over medium heat
+  - description: Peel-Peel 4 large garlic cloves
+  - description: Add-Add 1/4 tsp mustard to the pan
+  - description: Take-Take 1 tomato
+  - description: mince-mince the garlic
+  - description: Add-1/2 tsp cumin seeds to the pan
+  - description: add-When mustard and cumin seeds begin to sizzle, add minced garlic
+  - description: Lower-Lower the heat
+  - description: Chop-Chop tomato roughly (anysize chunks are fine)
+  - description: Saute-Saute the garlic for 2-3 minutes
+  - description: Add-Add 2 tbsp red chili powder to the pan
+  - description: mix-mix well contents of the pan
+  - description: Add-1/2 tsp salt to the pan
+  - description: puree-puree tomatoes without any water in a blender/mixer
+  - description: Add-Add tomato puree to the pan
+  - description: Mix-Mix well tomato puree with contents in the pan
+  - description: simmer-Allow the mixture to simmer over low heat for 5 minutes or
+      until the mixture becomes thick
+  - description: Take-Take the pan off the heat
+  - description: Transfer-Transfer it to a serving bowl
+- activity_id: 15
+  environment: 7
+  id: '15_18'
+  is_error: false
+  recorded_by: 4
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: '"2023-05-11T22:00:15.291558"'
+  selected_by: 4
+  steps:
+  - description: Peel-Peel 4 large garlic cloves
+  - description: Take-Take 1 tomato
+  - description: Chop-Chop tomato roughly (anysize chunks are fine)
+  - description: mince-mince the garlic
+  - description: puree-puree tomatoes without any water in a blender/mixer
+  - description: Heat-Heat 3 tbsp oil in a pan over medium heat
+  - description: Add-1/2 tsp cumin seeds to the pan
+  - description: Add-Add 1/4 tsp mustard to the pan
+  - description: add-When mustard and cumin seeds begin to sizzle, add minced garlic
+  - description: Lower-Lower the heat
+  - description: Saute-Saute the garlic for 2-3 minutes
+  - description: Add-Add 2 tbsp red chili powder to the pan
+  - description: mix-mix well contents of the pan
+  - description: Add-Add tomato puree to the pan
+  - description: Add-1/2 tsp salt to the pan
+  - description: Mix-Mix well tomato puree with contents in the pan
+  - description: simmer-Allow the mixture to simmer over low heat for 5 minutes or
+      until the mixture becomes thick
+  - description: Take-Take the pan off the heat
+  - description: Transfer-Transfer it to a serving bowl
+- activity_id: 15
+  environment: 1
+  id: '15_19'
+  is_error: false
+  recorded_by: 3
+  recording_info:
+    end_time: '"2023-04-16T18:03:39.286211"'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: '"2023-04-16T17:27:40.932489"'
+  selected_by: 3
+  steps:
+  - description: Peel-Peel 4 large garlic cloves
+  - description: Heat-Heat 3 tbsp oil in a pan over medium heat
+  - description: Add-Add 1/4 tsp mustard to the pan
+  - description: Add-1/2 tsp cumin seeds to the pan
+  - description: mince-mince the garlic
+  - description: add-When mustard and cumin seeds begin to sizzle, add minced garlic
+  - description: Take-Take 1 tomato
+  - description: Lower-Lower the heat
+  - description: Chop-Chop tomato roughly (anysize chunks are fine)
+  - description: puree-puree tomatoes without any water in a blender/mixer
+  - description: Saute-Saute the garlic for 2-3 minutes
+  - description: Add-Add 2 tbsp red chili powder to the pan
+  - description: mix-mix well contents of the pan
+  - description: Add-Add tomato puree to the pan
+  - description: Add-1/2 tsp salt to the pan
+  - description: Mix-Mix well tomato puree with contents in the pan
+  - description: simmer-Allow the mixture to simmer over low heat for 5 minutes or
+      until the mixture becomes thick
+  - description: Take-Take the pan off the heat
+  - description: Transfer-Transfer it to a serving bowl
+- activity_id: 15
+  environment: 2
+  errors:
+  - description: Peel-Peel 4 large garlic cloves
+    tag: Missing Step
+  - description: mince-mince the garlic
+    tag: Missing Step
+  - description: Saute-Saute the garlic for 2-3 minutes
+    tag: Missing Step
+  - description: add-When mustard and cumin seeds begin to sizzle, add minced garlic
+    tag: Missing Step
+  id: '15_28'
+  is_error: true
+  recorded_by: 5
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 5
+  steps:
+  - description: Heat-Heat 3 tbsp oil in a pan over medium heat
+    errors:
+    - description: Heat 5 tbsp oil in a pan over medium heat
+      tag: Measurement Error
+    - description: Changed to medium heat
+      tag: Temperature Error
+    modified_description: Heat-Heat 5 tbsp oil in a pan over medium heat
+  - description: Add-Add 1/4 tsp mustard to the pan
+  - description: Add-1/2 tsp cumin seeds to the pan
+  - description: Lower-Lower the heat
+    errors:
+    - description: Increase heat from medium to high
+      tag: Temperature Error
+    modified_description: 'Higher: Increase heat from medium to high'
+  - description: Add-Add 2 tbsp red chili powder to the pan
+  - description: Take-Take 1 tomato
+    errors:
+    - description: did not wash the tomato before taking for cooking
+      tag: Preparation Error
+    modified_description: Take-Take 1 tomato unwashed
+  - description: Chop-Chop tomato roughly (anysize chunks are fine)
+    errors:
+    - description: slice instead of chopping the tomatoes
+      tag: Technique Error
+    modified_description: Slice-Slice tomato roughly (anysize chunks are fine)
+  - description: puree-puree tomatoes without any water in a blender/mixer
+    errors:
+    - description: making puree of tomatoes with water in blender/mixer
+      tag: Technique Error
+    modified_description: puree-puree tomatoes with 1 cup water in a blender/mixer
+  - description: mix-mix well contents of the pan
+  - description: Add-1/2 tsp salt to the pan
+    errors:
+    - description: 'Add-1 tsp salt to the pan '
+      tag: Measurement Error
+    modified_description: Add-1/2 tsp salt to the pan
+  - description: Add-Add tomato puree to the pan
+  - description: Mix-Mix well tomato puree with contents in the pan
+  - description: simmer-Allow the mixture to simmer over low heat for 5 minutes or
+      until the mixture becomes thick
+    errors:
+    - description: 'simmer-Allow the mixture to simmer over high heat for 2 minutes '
+      tag: Timing Error
+    - description: 'simmer-Allow the mixture to simmer over high heat for 2 minutes '
+      tag: Temperature Error
+    modified_description: 'simmer-Allow the mixture to simmer over high heat for 2
+      minutes '
+  - description: Take-Take the pan off the heat
+  - description: Transfer-Transfer it to a serving bowl
+- activity_id: 15
+  environment: 2
+  errors:
+  - description: simmer-Allow the mixture to simmer over low heat for 5 minutes or
+      until the mixture becomes thick
+    tag: Missing Step
+  id: '15_29'
+  is_error: true
+  recorded_by: 2
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 2
+  steps:
+  - description: Take-Take 1 tomato
+    errors:
+    - description: Take 2 tomatoes rather than one tomato
+      tag: Measurement Error
+    modified_description: ' Take-Take 2 tomato'
+  - description: Heat-Heat 3 tbsp oil in a pan over medium heat
+    errors:
+    - description: Use a tsp rather than tbsp
+      tag: Measurement Error
+    - description: Use low heat instead of medium heat
+      tag: Temperature Error
+    modified_description: Heat-Heat 3 tsp oil in a pan over low heat
+  - description: Add-1/2 tsp cumin seeds to the pan
+  - description: Add-Add 1/4 tsp mustard to the pan
+  - description: Chop-Chop tomato roughly (anysize chunks are fine)
+    errors:
+    - description: Slice rather than chop
+      tag: Preparation Error
+    modified_description: 'Slice-Slice tomato roughly '
+  - description: Peel-Peel 4 large garlic cloves
+    errors:
+    - description: Break the garlic while peeling
+      tag: Technique Error
+    modified_description: Peel-Peel 4 large garlic cloves (Break the garlic while
+      peeling)
+  - description: mince-mince the garlic
+  - description: add-When mustard and cumin seeds begin to sizzle, add minced garlic
+  - description: Lower-Lower the heat
+  - description: Saute-Saute the garlic for 2-3 minutes
+    errors:
+    - description: Saute for 1 minute
+      tag: Timing Error
+    modified_description: Saute-Saute the garlic for 1 minutes
+  - description: Add-Add 2 tbsp red chili powder to the pan
+    errors:
+    - description: Add 4 tbsp instead of 2 tbsp
+      tag: Measurement Error
+    modified_description: Add-Add 4 tbsp red chili powder to the pan
+  - description: puree-puree tomatoes without any water in a blender/mixer
+    errors:
+    - description: Do not blend enough - Leave some chunks
+      tag: Technique Error
+    modified_description: puree-puree tomatoes without any water in a blender/mixer
+      leving some chunks
+  - description: mix-mix well contents of the pan
+  - description: Add-1/2 tsp salt to the pan
+    errors:
+    - description: Add 1 tsp rather than 1/2 tsp
+      tag: Measurement Error
+    modified_description: Add-1 tsp salt to the pan
+  - description: Add-Add tomato puree to the pan
+  - description: Mix-Mix well tomato puree with contents in the pan
+  - description: Take-Take the pan off the heat
+  - description: Transfer-Transfer it to a serving bowl
+    errors:
+    - description: Spill while transfering
+      tag: Technique Error
+    modified_description: Transfer-Transfer it to a serving bowl
+- activity_id: 15
+  environment: 6
+  errors:
+  - description: Add-Add 2 tbsp red chili powder to the pan
+    tag: Missing Step
+  id: '15_30'
+  is_error: true
+  recorded_by: 4
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 4
+  steps:
+  - description: Heat-Heat 3 tbsp oil in a pan over medium heat
+  - description: Take-Take 1 tomato
+  - description: Add-Add 1/4 tsp mustard to the pan
+  - description: Chop-Chop tomato roughly (anysize chunks are fine)
+  - description: Peel-Peel 4 large garlic cloves
+    errors:
+    - description: only 2 garlic are peeled and minced instead of 4
+      tag: Measurement Error
+    modified_description: Peel-Peel 2 instead of 4 large garlic cloves
+  - description: puree-puree tomatoes without any water in a blender/mixer
+  - description: mince-mince the garlic
+    errors:
+    - description: mince only 2 garlic instead of 4
+      tag: Measurement Error
+    modified_description: mince-mince only 2 garlic instead of 4
+  - description: Add-1/2 tsp cumin seeds to the pan
+  - description: add-When mustard and cumin seeds begin to sizzle, add minced garlic
+    errors:
+    - description: burn mustard
+      tag: Technique Error
+    - description: spill garlic while adding
+      tag: Preparation Error
+    modified_description: 'add-When mustard and cumin seeds begin to sizzle and burn
+      them, add minced garlic and spill it '
+  - description: Lower-Lower the heat
+  - description: Saute-Saute the garlic for 2-3 minutes
+    errors:
+    - description: saute the garlic only for 1 min and burn it
+      tag: Timing Error
+    modified_description: Saute-Saute the garlic for 1 min and burn the garlic
+  - description: mix-mix well contents of the pan
+  - description: Add-1/2 tsp salt to the pan
+  - description: Add-Add tomato puree to the pan
+  - description: Mix-Mix well tomato puree with contents in the pan
+  - description: simmer-Allow the mixture to simmer over low heat for 5 minutes or
+      until the mixture becomes thick
+    errors:
+    - description: simmer only for 1 min
+      tag: Timing Error
+    modified_description: simmer-Allow the mixture to simmer over low heat for 1 minute
+      instead of 5 minutes or until the mixture becomes thick
+  - description: Take-Take the pan off the heat
+  - description: Transfer-Transfer it to a serving bowl
+- activity_id: 15
+  environment: 1
+  errors:
+  - description: add-When mustard and cumin seeds begin to sizzle, add minced garlic
+    tag: Missing Step
+  - description: Add-1/2 tsp cumin seeds to the pan
+    tag: Missing Step
+  - description: Lower-Lower the heat
+    tag: Missing Step
+  - description: Saute-Saute the garlic for 2-3 minutes
+    tag: Missing Step
+  - description: simmer-Allow the mixture to simmer over low heat for 5 minutes or
+      until the mixture becomes thick
+    tag: Missing Step
+  id: '15_33'
+  is_error: true
+  recorded_by: 8
+  recording_info:
+    end_time: '"2023-04-16T18:36:21.378922"'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: '"2023-04-16T18:20:44.032401"'
+  selected_by: 8
+  steps:
+  - description: Take-Take 1 tomato
+    errors:
+    - description: Added more
+      tag: Measurement Error
+    modified_description: Take-Take 2 tomatoes
+  - description: Peel-Peel 4 large garlic cloves
+    errors:
+    - description: Took small garlic cloves
+      tag: Preparation Error
+    modified_description: Peel-Peel 4 small garlic cloves
+  - description: Heat-Heat 3 tbsp oil in a pan over medium heat
+    errors:
+    - description: Used high heat instead of medium heat
+      tag: Temperature Error
+    modified_description: Heat-Heat 3 tbsp oil in a pan over high heat
+  - description: mince-mince the garlic
+    errors:
+    - description: Slice
+      tag: Technique Error
+    modified_description: Slice the garlic
+  - description: Chop-Chop tomato roughly (anysize chunks are fine)
+  - description: puree-puree tomatoes without any water in a blender/mixer
+  - description: Add-Add 1/4 tsp mustard to the pan
+    errors:
+    - description: Added more
+      tag: Measurement Error
+    modified_description: Add-Add 1 tsp mustard to the pan
+  - description: Add-Add 2 tbsp red chili powder to the pan
+    errors:
+    - description: Added less
+      tag: Measurement Error
+    modified_description: Add-Add 1 tbsp red chili powder to the pan
+  - description: mix-mix well contents of the pan
+  - description: Add-Add tomato puree to the pan
+  - description: Add-1/2 tsp salt to the pan
+    errors:
+    - description: Forgot step
+      tag: Missing Step
+    modified_description: Skip
+  - description: Mix-Mix well tomato puree with contents in the pan
+    errors:
+    - description: Leave tomatoes uncooked
+      tag: Timing Error
+    modified_description: Mix-Mix well tomato puree with contents in the pan
+  - description: Take-Take the pan off the heat
+  - description: Transfer-Transfer it to a serving bowl
+- activity_id: 15
+  environment: 2
+  errors:
+  - description: Add-Add 2 tbsp red chili powder to the pan
+    tag: Missing Step
+  id: '15_37'
+  is_error: true
+  recorded_by: 4
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: '"2023-04-26T17:23:25.272035"'
+  selected_by: 4
+  steps:
+  - description: Peel-Peel 4 large garlic cloves
+    modified_description: 'Peel-Peel 4 large garlic cloves incompletely '
+  - description: Heat-Heat 3 tbsp oil in a pan over medium heat
+    errors:
+    - description: heart only 2 tbsp oil instead of 3 tbsp
+      tag: Measurement Error
+    modified_description: Heat-Heat 2 tbsp oil in a pan over medium heat
+  - description: Add-1/2 tsp cumin seeds to the pan
+    errors:
+    - description: spill some out while adding
+      tag: Preparation Error
+    modified_description: Add-1/2 tsp cumin seeds to the pan and spill some out while
+      adding
+  - description: mince-mince the garlic
+    errors:
+    - description: crush the garlic instead of mincing
+      tag: Technique Error
+    modified_description: Crush the garlic
+  - description: Add-Add 1/4 tsp mustard to the pan
+  - description: add-When mustard and cumin seeds begin to sizzle, add minced garlic
+  - description: Lower-Lower the heat
+    errors:
+    - description: increase the great instead of reducing
+      tag: Temperature Error
+    modified_description: Higher-increase the heat
+  - description: Take-Take 1 tomato
+    errors:
+    - description: Use a soiled tomato and don't wash it
+      tag: Preparation Error
+    modified_description: Take-Take 1 soiled tomato
+  - description: Saute-Saute the garlic for 2-3 minutes
+    errors:
+    - description: "Don't saut\xE9, just leave it in pan for 1 min"
+      tag: Timing Error
+    - description: "Don't saut\xE9, just leave it in pan for 1 min"
+      tag: Technique Error
+    - description: "Don't saut\xE9 garlic, just leave it in pan for 1 min"
+      tag: Temperature Error
+    modified_description: "Leave-Don't saut\xE9, just leave it in pan for 1 min, so\
+      \ garlic may be burnt on one side"
+  - description: Chop-Chop tomato roughly (anysize chunks are fine)
+    errors:
+    - description: Don't perform this step
+      tag: Missing Step
+    modified_description: 'null'
+  - description: mix-mix well contents of the pan
+  - description: puree-puree tomatoes without any water in a blender/mixer
+  - description: Add-1/2 tsp salt to the pan
+  - description: Add-Add tomato puree to the pan
+  - description: Mix-Mix well tomato puree with contents in the pan
+    errors:
+    - description: Spill out while mixing
+      tag: Technique Error
+    modified_description: Mix-Mix well tomato puree with contents in the pan and spill
+      out while mixing
+  - description: simmer-Allow the mixture to simmer over low heat for 5 minutes or
+      until the mixture becomes thick
+    errors:
+    - description: Simmer for one min instead of 5 mins
+      tag: Timing Error
+    modified_description: simmer-Allow the mixture to simmer over low heat for 1 minutes
+      or until the mixture becomes thick
+  - description: Take-Take the pan off the heat
+  - description: Transfer-Transfer it to a serving bowl
+- activity_id: 15
+  environment: 11
+  errors:
+  - description: Mix-Mix well tomato puree with contents in the pan
+    tag: Missing Step
+  - description: simmer-Allow the mixture to simmer over low heat for 5 minutes or
+      until the mixture becomes thick
+    tag: Missing Step
+  id: '15_39'
+  is_error: true
+  recorded_by: 5
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: 5
+  steps:
+  - description: Take-Take 1 tomato
+    errors:
+    - description: NONE
+      tag: Measurement Error
+    modified_description: Take-Take 1 tomato
+  - description: Peel-Peel 4 large garlic cloves
+    errors:
+    - description: Peel-Peel 4 large garlic cloves. Peel not done correctly. Did not
+        press the cloves. Did not remove all the peels completely.
+      tag: Technique Error
+    modified_description: Peel-Peel 4 large garlic cloves. Peel not done correctly.
+      Did not press the cloves. Did not remove all the peels completely.
+  - description: mince-mince the garlic
+    errors:
+    - description: mince-mince the garlic incorrectly. Just pressing the clove from
+        top to down with knife. Spilling the cloves in the process.
+      tag: Technique Error
+    modified_description: mince-mince the garlic incorrectly. Just pressing the clove
+      from top to down with knife. Spilling the cloves in the process.
+  - description: Chop-Chop tomato roughly (anysize chunks are fine)
+    errors:
+    - description: Slice-Slice tomato roughly
+      tag: Technique Error
+    modified_description: Slice-Slice tomato roughly
+  - description: Heat-Heat 3 tbsp oil in a pan over medium heat
+    errors:
+    - description: Heat-Heat 3 tbsp oil in a pan over medium heat. Spilling happened
+        while putting oil in the pan.
+      tag: Technique Error
+    modified_description: Heat-Heat 3 tbsp oil in a pan over medium heat. Spilling
+      happened while putting oil in the pan.
+  - description: Add-Add 1/4 tsp mustard to the pan
+    errors:
+    - description: Add-Add 1/4 tsp red chilli flakes to the pan
+      tag: Preparation Error
+    modified_description: Add-Add 1/4 tsp red chilli flakes to the pan
+  - description: Add-1/2 tsp cumin seeds to the pan
+  - description: puree-puree tomatoes without any water in a blender/mixer
+    errors:
+    - description: puree-puree tomatoes without any water in a blender/mixer. Puree
+        not formed properly. Should be done for more time.
+      tag: Timing Error
+    modified_description: puree-puree tomatoes without any water in a blender/mixer.
+      Puree not formed properly. Should be done for more time.
+  - description: add-When mustard and cumin seeds begin to sizzle, add minced garlic
+    errors:
+    - description: add-When mustard and cumin seeds are burnt, add minced garlic
+      tag: Timing Error
+    modified_description: add-When mustard and cumin seeds are burnt, add minced garlic
+  - description: Lower-Lower the heat
+    errors:
+    - description: Turn off the heat. Because of smoke and pungent odor.
+      tag: Temperature Error
+    modified_description: Turn off the heat. Because of smoke and pungent odor.
+  - description: Saute-Saute the garlic for 2-3 minutes
+    errors:
+    - description: Saute-Saute the garlic for 1-2 minutes
+      tag: Timing Error
+    modified_description: Saute-Saute the garlic for 1-2 minutes
+  - description: Add-Add 2 tbsp red chili powder to the pan
+  - description: mix-mix well contents of the pan
+    errors:
+    - description: 'mix-mix well contents of the pan. Done after putting salt. '
+      tag: Order Error
+    modified_description: 'mix-mix well contents of the pan. Done after putting salt. '
+  - description: Add-1/2 tsp salt to the pan
+  - description: Add-Add tomato puree to the pan
+  - description: Take-Take the pan off the heat
+  - description: Transfer-Transfer it to a serving bowl
+- activity_id: 15
+  environment: 5
+  errors:
+  - description: Saute-Saute the garlic for 2-3 minutes
+    tag: Missing Step
+  - tag: Order Error
+  id: '15_41'
+  is_error: true
+  recorded_by: 4
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: '"2023-05-01T21:44:18.269835"'
+  selected_by: 4
+  steps:
+  - description: Peel-Peel 4 large garlic cloves
+    errors:
+    - description: Peel garlic partially
+      tag: Preparation Error
+    modified_description: Peel-partially Peel 4 large garlic cloves with some peel
+      still on
+  - description: Heat-Heat 3 tbsp oil in a pan over medium heat
+    errors:
+    - description: use 1/2 tbsp instead of 1 tbsp
+      tag: Measurement Error
+    modified_description: Heat-Heat 1 1/2 tbsp oil in a pan over medium heat using
+      1/2 tbsp utensil
+  - description: Add-Add 1/4 tsp mustard to the pan
+    errors:
+    - description: 'spilled some out '
+      tag: Preparation Error
+    modified_description: Add-Add 1/4 tsp mustard to the pan and spill some out while
+      adding
+  - description: mince-mince the garlic
+    errors:
+    - description: slice the garlic instead of mince
+      tag: Technique Error
+    modified_description: slice-slice the garlic
+  - description: Add-1/2 tsp cumin seeds to the pan
+  - description: add-When mustard and cumin seeds begin to sizzle, add minced garlic
+  - description: Take-Take 1 tomato
+    errors:
+    - description: Take 2 tomatoes instead of 1
+      tag: Measurement Error
+    - description: donot wash the tomatoes
+      tag: Preparation Error
+    modified_description: Take-Take 2 tomatoes and dont wash them
+  - description: Lower-Lower the heat
+    errors:
+    - description: Turn off the heat
+      tag: Temperature Error
+    modified_description: ' Turn off-turnoff the heat'
+  - description: Chop-Chop tomato roughly (anysize chunks are fine)
+    errors:
+    - description: crush tomaotes instead of chop
+      tag: Technique Error
+    modified_description: crush-crush tomato roughly (anysize chunks are fine)
+  - description: puree-puree tomatoes without any water in a blender/mixer
+    errors:
+    - description: add 1 cup water in addition to tomatoes
+      tag: Technique Error
+    - description: spill some water while adding to blender
+      tag: Preparation Error
+    modified_description: puree-puree tomatoes with 1 cup water in a blender/mixer
+      and spill some water while adding water to the blender
+  - description: mix-mix well contents of the pan
+  - description: Add-1/2 tsp salt to the pan
+    errors:
+    - description: add 1/2 cup salt instead of 1/2 tsp
+      tag: Measurement Error
+    modified_description: Add-1/2 cup salt to the pan
+  - description: Add-Add 2 tbsp red chili powder to the pan
+  - description: Add-Add tomato puree to the pan
+    errors:
+    - description: spill some out while adding to the pan
+      tag: Preparation Error
+    modified_description: Add-Add tomato puree to the pan and spill some outside
+  - description: Mix-Mix well tomato puree with contents in the pan
+    errors:
+    - description: spill some out while mixing
+      tag: Preparation Error
+    modified_description: Mix-Mix well tomato puree with contents in the pan and spill
+      some out while mixing
+  - description: simmer-Allow the mixture to simmer over low heat for 5 minutes or
+      until the mixture becomes thick
+    errors:
+    - description: cook for only 2 mins instead of cooking till mixture is thick
+      tag: Timing Error
+    modified_description: simmer-Allow the mixture to simmer over low heat for 2 minutes
+  - description: Take-Take the pan off the heat
+  - description: Transfer-Transfer it to a serving bowl
+- activity_id: 15
+  environment: 7
+  errors:
+  - tag: Order Error
+  id: '15_46'
+  is_error: true
+  recorded_by: 1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: '"2023-05-14T21:21:14.148588"'
+  selected_by: 1
+  steps:
+  - description: Peel-Peel 4 large garlic cloves
+  - description: Heat-Heat 3 tbsp oil in a pan over medium heat
+    errors:
+    - description: Heating 4tbsps of oil instead of 3 tbsps
+      tag: Measurement Error
+    modified_description: Heat-Heat 4 tbsp oil in a pan over medium heat
+  - description: Add-Add 1/4 tsp mustard to the pan
+    errors:
+    - description: Spill out while scooping and adding mustard seeds to the pan
+      tag: Technique Error
+  - description: mince-mince the garlic
+  - description: Take-Take 1 tomato
+  - description: Add-1/2 tsp cumin seeds to the pan
+  - description: add-When mustard and cumin seeds begin to sizzle, add minced garlic
+  - description: Saute-Saute the garlic for 2-3 minutes
+  - description: Lower-Lower the heat
+  - description: Chop-Chop tomato roughly (anysize chunks are fine)
+  - description: Take-Take the pan off the heat
+  - description: puree-puree tomatoes without any water in a blender/mixer
+    errors:
+    - description: Did not puree the tomatoes, instead left them as chunks
+      tag: Technique Error
+  - description: mix-mix well contents of the pan
+  - description: Add-1/2 tsp salt to the pan
+    errors:
+    - description: Adding more salt to the pan instead of 1/2 tsp as there is no scooping
+        and measuring
+      tag: Technique Error
+  - description: Add-Add tomato puree to the pan
+  - description: simmer-Allow the mixture to simmer over low heat for 5 minutes or
+      until the mixture becomes thick
+  - description: Mix-Mix well tomato puree with contents in the pan
+  - description: Transfer-Transfer it to a serving bowl
+  - description: Add-Add 2 tbsp red chili powder to the pan
+    errors:
+    - description: Did not add red chilli powder to the pan
+      tag: Missing Step
+    modified_description: '[]'

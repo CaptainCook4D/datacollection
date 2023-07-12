@@ -1,0 +1,84 @@
+/* LabelStudio.css */
+
+.labelStudioContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.labelStudioActivityHeader {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #ffffff; /* Set the background color as desired */
+    padding: 10px; /* Adjust the padding as needed */
+    z-index: 9999; /* Ensure a high z-index value to position it above other elements */
+}
+
+
+.labelStudioHeader {
+    margin-bottom: 10px;
+}
+
+.labelStudioContent {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.labelStudioContentHeader {
+    margin-bottom: 20px;
+}
+
+.labelStudioContentBody {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.labelStudioActivityContainer {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.labelStudioActivityRecordingsTable {
+    width: 100%;
+    height: auto;
+    border-collapse: separate;
+    border-spacing: 0 15px;
+}
+
+.labelStudioActivityRecordingsTable th,
+.labelStudioActivityRecordingsTable td {
+    padding: 10px;
+    border: 1px solid #ccc;
+    text-align: center;
+}
+
+.labelStudioActivityRecordingsTable tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+.labelStudioActivityRecordingsTable button {
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.labelStudioButtonCreate {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.labelStudioButtonDelete {
+    background-color: #f44336;
+    color: white;
+}
+
+.labelStudioButtonBackup {
+    background-color: #008CBA;
+    color: white;
+}

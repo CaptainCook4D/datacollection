@@ -1,0 +1,34 @@
+.rec-req-items-table {
+    border-collapse: collapse;
+    width: 100%;
+    font-family: Arial, sans-serif;
+}
+
+.rec-req-table-header {
+    background-color: #f2f2f2;
+    text-align: left;
+    padding: 8px;
+    font-weight: bold;
+    border: 1px solid #ddd;
+}
+
+.rec-req-table-row {
+    border: 1px solid #ddd;
+}
+
+.rec-req-even-row {
+    background-color: #f9f9f9;
+}
+
+.rec-req-odd-row {
+    background-color: #ffffff;
+}
+
+.rec-req-table-cell {
+    text-align: left;
+    padding: 8px;
+}
+
+.rec-req-table-row:hover {
+    background-color: #e6e6e6;
+}

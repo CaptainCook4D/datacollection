@@ -1,0 +1,1996 @@
+- activity_id: 19
+  environment: null
+  id: '19_1'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Place-Place 1 of the bread slices on the work surface
+  - description: Top-Top the bread slice with 2 slices of American cheese
+  - description: Top-Top with the another bread slice to make 1 sandwich.
+  - description: Spread-Spread softened butter on the outside surfaces of the sandwich
+  - description: Heat-Heat a nonstick skillet or griddle over medium-low heat
+  - description: Place-Place sandwiches on the skillet
+  - description: cover-cover the pan with a lid
+  - description: Cook-Cook for 2 to 3 minutes or until the bread is golden brown on
+      the first side
+  - description: flip-Carefully flip the sandwiches using a large spatula
+  - description: cover-cover the pan with the lid again
+  - description: cook-cook for 2 to 3 minutes on the second side until the cheese
+      melts and the bread is nicely browned and crisp
+  - description: Serve-Serve the sandwiches immediately
+- activity_id: 19
+  environment: null
+  id: '19_2'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Place-Place 1 of the bread slices on the work surface
+  - description: Top-Top the bread slice with 2 slices of American cheese
+  - description: Top-Top with the another bread slice to make 1 sandwich.
+  - description: Spread-Spread softened butter on the outside surfaces of the sandwich
+  - description: Heat-Heat a nonstick skillet or griddle over medium-low heat
+  - description: Place-Place sandwiches on the skillet
+  - description: cover-cover the pan with a lid
+  - description: Cook-Cook for 2 to 3 minutes or until the bread is golden brown on
+      the first side
+  - description: flip-Carefully flip the sandwiches using a large spatula
+  - description: cover-cover the pan with the lid again
+  - description: cook-cook for 2 to 3 minutes on the second side until the cheese
+      melts and the bread is nicely browned and crisp
+  - description: Serve-Serve the sandwiches immediately
+- activity_id: 19
+  environment: null
+  id: '19_3'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Place-Place 1 of the bread slices on the work surface
+  - description: Top-Top the bread slice with 2 slices of American cheese
+  - description: Top-Top with the another bread slice to make 1 sandwich.
+  - description: Spread-Spread softened butter on the outside surfaces of the sandwich
+  - description: Heat-Heat a nonstick skillet or griddle over medium-low heat
+  - description: Place-Place sandwiches on the skillet
+  - description: cover-cover the pan with a lid
+  - description: Cook-Cook for 2 to 3 minutes or until the bread is golden brown on
+      the first side
+  - description: flip-Carefully flip the sandwiches using a large spatula
+  - description: cover-cover the pan with the lid again
+  - description: cook-cook for 2 to 3 minutes on the second side until the cheese
+      melts and the bread is nicely browned and crisp
+  - description: Serve-Serve the sandwiches immediately
+- activity_id: 19
+  environment: null
+  id: '19_4'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Place-Place 1 of the bread slices on the work surface
+  - description: Top-Top the bread slice with 2 slices of American cheese
+  - description: Top-Top with the another bread slice to make 1 sandwich.
+  - description: Spread-Spread softened butter on the outside surfaces of the sandwich
+  - description: Heat-Heat a nonstick skillet or griddle over medium-low heat
+  - description: Place-Place sandwiches on the skillet
+  - description: cover-cover the pan with a lid
+  - description: Cook-Cook for 2 to 3 minutes or until the bread is golden brown on
+      the first side
+  - description: flip-Carefully flip the sandwiches using a large spatula
+  - description: cover-cover the pan with the lid again
+  - description: cook-cook for 2 to 3 minutes on the second side until the cheese
+      melts and the bread is nicely browned and crisp
+  - description: Serve-Serve the sandwiches immediately
+- activity_id: 19
+  environment: null
+  id: '19_5'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Place-Place 1 of the bread slices on the work surface
+  - description: Top-Top the bread slice with 2 slices of American cheese
+  - description: Top-Top with the another bread slice to make 1 sandwich.
+  - description: Spread-Spread softened butter on the outside surfaces of the sandwich
+  - description: Heat-Heat a nonstick skillet or griddle over medium-low heat
+  - description: Place-Place sandwiches on the skillet
+  - description: cover-cover the pan with a lid
+  - description: Cook-Cook for 2 to 3 minutes or until the bread is golden brown on
+      the first side
+  - description: flip-Carefully flip the sandwiches using a large spatula
+  - description: cover-cover the pan with the lid again
+  - description: cook-cook for 2 to 3 minutes on the second side until the cheese
+      melts and the bread is nicely browned and crisp
+  - description: Serve-Serve the sandwiches immediately
+- activity_id: 19
+  environment: null
+  id: '19_6'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Place-Place 1 of the bread slices on the work surface
+  - description: Top-Top the bread slice with 2 slices of American cheese
+  - description: Top-Top with the another bread slice to make 1 sandwich.
+  - description: Spread-Spread softened butter on the outside surfaces of the sandwich
+  - description: Heat-Heat a nonstick skillet or griddle over medium-low heat
+  - description: Place-Place sandwiches on the skillet
+  - description: cover-cover the pan with a lid
+  - description: Cook-Cook for 2 to 3 minutes or until the bread is golden brown on
+      the first side
+  - description: flip-Carefully flip the sandwiches using a large spatula
+  - description: cover-cover the pan with the lid again
+  - description: cook-cook for 2 to 3 minutes on the second side until the cheese
+      melts and the bread is nicely browned and crisp
+  - description: Serve-Serve the sandwiches immediately
+- activity_id: 19
+  environment: null
+  id: '19_7'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Place-Place 1 of the bread slices on the work surface
+  - description: Top-Top the bread slice with 2 slices of American cheese
+  - description: Top-Top with the another bread slice to make 1 sandwich.
+  - description: Spread-Spread softened butter on the outside surfaces of the sandwich
+  - description: Heat-Heat a nonstick skillet or griddle over medium-low heat
+  - description: Place-Place sandwiches on the skillet
+  - description: cover-cover the pan with a lid
+  - description: Cook-Cook for 2 to 3 minutes or until the bread is golden brown on
+      the first side
+  - description: flip-Carefully flip the sandwiches using a large spatula
+  - description: cover-cover the pan with the lid again
+  - description: cook-cook for 2 to 3 minutes on the second side until the cheese
+      melts and the bread is nicely browned and crisp
+  - description: Serve-Serve the sandwiches immediately
+- activity_id: 19
+  environment: null
+  id: '19_8'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Place-Place 1 of the bread slices on the work surface
+  - description: Top-Top the bread slice with 2 slices of American cheese
+  - description: Top-Top with the another bread slice to make 1 sandwich.
+  - description: Spread-Spread softened butter on the outside surfaces of the sandwich
+  - description: Heat-Heat a nonstick skillet or griddle over medium-low heat
+  - description: Place-Place sandwiches on the skillet
+  - description: cover-cover the pan with a lid
+  - description: Cook-Cook for 2 to 3 minutes or until the bread is golden brown on
+      the first side
+  - description: flip-Carefully flip the sandwiches using a large spatula
+  - description: cover-cover the pan with the lid again
+  - description: cook-cook for 2 to 3 minutes on the second side until the cheese
+      melts and the bread is nicely browned and crisp
+  - description: Serve-Serve the sandwiches immediately
+- activity_id: 19
+  environment: null
+  id: '19_9'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Place-Place 1 of the bread slices on the work surface
+  - description: Top-Top the bread slice with 2 slices of American cheese
+  - description: Top-Top with the another bread slice to make 1 sandwich.
+  - description: Spread-Spread softened butter on the outside surfaces of the sandwich
+  - description: Heat-Heat a nonstick skillet or griddle over medium-low heat
+  - description: Place-Place sandwiches on the skillet
+  - description: cover-cover the pan with a lid
+  - description: Cook-Cook for 2 to 3 minutes or until the bread is golden brown on
+      the first side
+  - description: flip-Carefully flip the sandwiches using a large spatula
+  - description: cover-cover the pan with the lid again
+  - description: cook-cook for 2 to 3 minutes on the second side until the cheese
+      melts and the bread is nicely browned and crisp
+  - description: Serve-Serve the sandwiches immediately
+- activity_id: 19
+  environment: null
+  id: '19_10'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Place-Place 1 of the bread slices on the work surface
+  - description: Top-Top the bread slice with 2 slices of American cheese
+  - description: Top-Top with the another bread slice to make 1 sandwich.
+  - description: Spread-Spread softened butter on the outside surfaces of the sandwich
+  - description: Heat-Heat a nonstick skillet or griddle over medium-low heat
+  - description: Place-Place sandwiches on the skillet
+  - description: cover-cover the pan with a lid
+  - description: Cook-Cook for 2 to 3 minutes or until the bread is golden brown on
+      the first side
+  - description: flip-Carefully flip the sandwiches using a large spatula
+  - description: cover-cover the pan with the lid again
+  - description: cook-cook for 2 to 3 minutes on the second side until the cheese
+      melts and the bread is nicely browned and crisp
+  - description: Serve-Serve the sandwiches immediately
+- activity_id: 19
+  environment: null
+  id: '19_11'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Place-Place 1 of the bread slices on the work surface
+  - description: Top-Top the bread slice with 2 slices of American cheese
+  - description: Top-Top with the another bread slice to make 1 sandwich.
+  - description: Spread-Spread softened butter on the outside surfaces of the sandwich
+  - description: Heat-Heat a nonstick skillet or griddle over medium-low heat
+  - description: Place-Place sandwiches on the skillet
+  - description: cover-cover the pan with a lid
+  - description: Cook-Cook for 2 to 3 minutes or until the bread is golden brown on
+      the first side
+  - description: flip-Carefully flip the sandwiches using a large spatula
+  - description: cover-cover the pan with the lid again
+  - description: cook-cook for 2 to 3 minutes on the second side until the cheese
+      melts and the bread is nicely browned and crisp
+  - description: Serve-Serve the sandwiches immediately
+- activity_id: 19
+  environment: null
+  id: '19_12'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Place-Place 1 of the bread slices on the work surface
+  - description: Top-Top the bread slice with 2 slices of American cheese
+  - description: Top-Top with the another bread slice to make 1 sandwich.
+  - description: Spread-Spread softened butter on the outside surfaces of the sandwich
+  - description: Heat-Heat a nonstick skillet or griddle over medium-low heat
+  - description: Place-Place sandwiches on the skillet
+  - description: cover-cover the pan with a lid
+  - description: Cook-Cook for 2 to 3 minutes or until the bread is golden brown on
+      the first side
+  - description: flip-Carefully flip the sandwiches using a large spatula
+  - description: cover-cover the pan with the lid again
+  - description: cook-cook for 2 to 3 minutes on the second side until the cheese
+      melts and the bread is nicely browned and crisp
+  - description: Serve-Serve the sandwiches immediately
+- activity_id: 19
+  environment: null
+  id: '19_13'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Place-Place 1 of the bread slices on the work surface
+  - description: Top-Top the bread slice with 2 slices of American cheese
+  - description: Top-Top with the another bread slice to make 1 sandwich.
+  - description: Spread-Spread softened butter on the outside surfaces of the sandwich
+  - description: Heat-Heat a nonstick skillet or griddle over medium-low heat
+  - description: Place-Place sandwiches on the skillet
+  - description: cover-cover the pan with a lid
+  - description: Cook-Cook for 2 to 3 minutes or until the bread is golden brown on
+      the first side
+  - description: flip-Carefully flip the sandwiches using a large spatula
+  - description: cover-cover the pan with the lid again
+  - description: cook-cook for 2 to 3 minutes on the second side until the cheese
+      melts and the bread is nicely browned and crisp
+  - description: Serve-Serve the sandwiches immediately
+- activity_id: 19
+  environment: null
+  id: '19_14'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Place-Place 1 of the bread slices on the work surface
+  - description: Top-Top the bread slice with 2 slices of American cheese
+  - description: Top-Top with the another bread slice to make 1 sandwich.
+  - description: Spread-Spread softened butter on the outside surfaces of the sandwich
+  - description: Heat-Heat a nonstick skillet or griddle over medium-low heat
+  - description: Place-Place sandwiches on the skillet
+  - description: cover-cover the pan with a lid
+  - description: Cook-Cook for 2 to 3 minutes or until the bread is golden brown on
+      the first side
+  - description: flip-Carefully flip the sandwiches using a large spatula
+  - description: cover-cover the pan with the lid again
+  - description: cook-cook for 2 to 3 minutes on the second side until the cheese
+      melts and the bread is nicely browned and crisp
+  - description: Serve-Serve the sandwiches immediately
+- activity_id: 19
+  environment: null
+  id: '19_15'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Place-Place 1 of the bread slices on the work surface
+  - description: Top-Top the bread slice with 2 slices of American cheese
+  - description: Top-Top with the another bread slice to make 1 sandwich.
+  - description: Spread-Spread softened butter on the outside surfaces of the sandwich
+  - description: Heat-Heat a nonstick skillet or griddle over medium-low heat
+  - description: Place-Place sandwiches on the skillet
+  - description: cover-cover the pan with a lid
+  - description: Cook-Cook for 2 to 3 minutes or until the bread is golden brown on
+      the first side
+  - description: flip-Carefully flip the sandwiches using a large spatula
+  - description: cover-cover the pan with the lid again
+  - description: cook-cook for 2 to 3 minutes on the second side until the cheese
+      melts and the bread is nicely browned and crisp
+  - description: Serve-Serve the sandwiches immediately
+- activity_id: 19
+  environment: null
+  id: '19_16'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Place-Place 1 of the bread slices on the work surface
+  - description: Top-Top the bread slice with 2 slices of American cheese
+  - description: Top-Top with the another bread slice to make 1 sandwich.
+  - description: Spread-Spread softened butter on the outside surfaces of the sandwich
+  - description: Heat-Heat a nonstick skillet or griddle over medium-low heat
+  - description: Place-Place sandwiches on the skillet
+  - description: cover-cover the pan with a lid
+  - description: Cook-Cook for 2 to 3 minutes or until the bread is golden brown on
+      the first side
+  - description: flip-Carefully flip the sandwiches using a large spatula
+  - description: cover-cover the pan with the lid again
+  - description: cook-cook for 2 to 3 minutes on the second side until the cheese
+      melts and the bread is nicely browned and crisp
+  - description: Serve-Serve the sandwiches immediately
+- activity_id: 19
+  environment: null
+  id: '19_18'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Place-Place 1 of the bread slices on the work surface
+  - description: Top-Top the bread slice with 2 slices of American cheese
+  - description: Top-Top with the another bread slice to make 1 sandwich.
+  - description: Spread-Spread softened butter on the outside surfaces of the sandwich
+  - description: Heat-Heat a nonstick skillet or griddle over medium-low heat
+  - description: Place-Place sandwiches on the skillet
+  - description: cover-cover the pan with a lid
+  - description: Cook-Cook for 2 to 3 minutes or until the bread is golden brown on
+      the first side
+  - description: flip-Carefully flip the sandwiches using a large spatula
+  - description: cover-cover the pan with the lid again
+  - description: cook-cook for 2 to 3 minutes on the second side until the cheese
+      melts and the bread is nicely browned and crisp
+  - description: Serve-Serve the sandwiches immediately
+- activity_id: 19
+  environment: null
+  id: '19_19'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Place-Place 1 of the bread slices on the work surface
+  - description: Top-Top the bread slice with 2 slices of American cheese
+  - description: Top-Top with the another bread slice to make 1 sandwich.
+  - description: Spread-Spread softened butter on the outside surfaces of the sandwich
+  - description: Heat-Heat a nonstick skillet or griddle over medium-low heat
+  - description: Place-Place sandwiches on the skillet
+  - description: cover-cover the pan with a lid
+  - description: Cook-Cook for 2 to 3 minutes or until the bread is golden brown on
+      the first side
+  - description: flip-Carefully flip the sandwiches using a large spatula
+  - description: cover-cover the pan with the lid again
+  - description: cook-cook for 2 to 3 minutes on the second side until the cheese
+      melts and the bread is nicely browned and crisp
+  - description: Serve-Serve the sandwiches immediately
+- activity_id: 19
+  environment: null
+  id: '19_20'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Place-Place 1 of the bread slices on the work surface
+  - description: Top-Top the bread slice with 2 slices of American cheese
+  - description: Top-Top with the another bread slice to make 1 sandwich.
+  - description: Spread-Spread softened butter on the outside surfaces of the sandwich
+  - description: Heat-Heat a nonstick skillet or griddle over medium-low heat
+  - description: Place-Place sandwiches on the skillet
+  - description: cover-cover the pan with a lid
+  - description: Cook-Cook for 2 to 3 minutes or until the bread is golden brown on
+      the first side
+  - description: flip-Carefully flip the sandwiches using a large spatula
+  - description: cover-cover the pan with the lid again
+  - description: cook-cook for 2 to 3 minutes on the second side until the cheese
+      melts and the bread is nicely browned and crisp
+  - description: Serve-Serve the sandwiches immediately
+- activity_id: 19
+  environment: null
+  id: '19_21'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Place-Place 1 of the bread slices on the work surface
+  - description: Top-Top the bread slice with 2 slices of American cheese
+  - description: Top-Top with the another bread slice to make 1 sandwich.
+  - description: Spread-Spread softened butter on the outside surfaces of the sandwich
+  - description: Heat-Heat a nonstick skillet or griddle over medium-low heat
+  - description: Place-Place sandwiches on the skillet
+  - description: cover-cover the pan with a lid
+  - description: Cook-Cook for 2 to 3 minutes or until the bread is golden brown on
+      the first side
+  - description: flip-Carefully flip the sandwiches using a large spatula
+  - description: cover-cover the pan with the lid again
+  - description: cook-cook for 2 to 3 minutes on the second side until the cheese
+      melts and the bread is nicely browned and crisp
+  - description: Serve-Serve the sandwiches immediately
+- activity_id: 19
+  environment: null
+  id: '19_23'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Place-Place 1 of the bread slices on the work surface
+  - description: Top-Top the bread slice with 2 slices of American cheese
+  - description: Top-Top with the another bread slice to make 1 sandwich.
+  - description: Spread-Spread softened butter on the outside surfaces of the sandwich
+  - description: Heat-Heat a nonstick skillet or griddle over medium-low heat
+  - description: Place-Place sandwiches on the skillet
+  - description: cover-cover the pan with a lid
+  - description: Cook-Cook for 2 to 3 minutes or until the bread is golden brown on
+      the first side
+  - description: flip-Carefully flip the sandwiches using a large spatula
+  - description: cover-cover the pan with the lid again
+  - description: cook-cook for 2 to 3 minutes on the second side until the cheese
+      melts and the bread is nicely browned and crisp
+  - description: Serve-Serve the sandwiches immediately
+- activity_id: 19
+  environment: null
+  id: '19_24'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Place-Place 1 of the bread slices on the work surface
+  - description: Top-Top the bread slice with 2 slices of American cheese
+  - description: Top-Top with the another bread slice to make 1 sandwich.
+  - description: Spread-Spread softened butter on the outside surfaces of the sandwich
+  - description: Heat-Heat a nonstick skillet or griddle over medium-low heat
+  - description: Place-Place sandwiches on the skillet
+  - description: cover-cover the pan with a lid
+  - description: Cook-Cook for 2 to 3 minutes or until the bread is golden brown on
+      the first side
+  - description: flip-Carefully flip the sandwiches using a large spatula
+  - description: cover-cover the pan with the lid again
+  - description: cook-cook for 2 to 3 minutes on the second side until the cheese
+      melts and the bread is nicely browned and crisp
+  - description: Serve-Serve the sandwiches immediately
+- activity_id: 19
+  environment: null
+  id: '19_25'
+  is_error: false
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Place-Place 1 of the bread slices on the work surface
+  - description: Top-Top the bread slice with 2 slices of American cheese
+  - description: Top-Top with the another bread slice to make 1 sandwich.
+  - description: Spread-Spread softened butter on the outside surfaces of the sandwich
+  - description: Heat-Heat a nonstick skillet or griddle over medium-low heat
+  - description: Place-Place sandwiches on the skillet
+  - description: cover-cover the pan with a lid
+  - description: Cook-Cook for 2 to 3 minutes or until the bread is golden brown on
+      the first side
+  - description: flip-Carefully flip the sandwiches using a large spatula
+  - description: cover-cover the pan with the lid again
+  - description: cook-cook for 2 to 3 minutes on the second side until the cheese
+      melts and the bread is nicely browned and crisp
+  - description: Serve-Serve the sandwiches immediately
+- activity_id: 19
+  environment: null
+  errors:
+  - description: cook-cook for 2 to 3 minutes on the second side until the cheese
+      melts and the bread is nicely browned and crisp
+    tag: Missing Step
+  id: '19_26'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Place-Place 1 of the bread slices on the work surface
+  - description: Top-Top the bread slice with 2 slices of American cheese
+  - description: Top-Top with the another bread slice to make 1 sandwich.
+  - description: Spread-Spread softened butter on the outside surfaces of the sandwich
+  - description: Heat-Heat a nonstick skillet or griddle over medium-low heat
+  - description: Place-Place sandwiches on the skillet
+  - description: cover-cover the pan with a lid
+  - description: Cook-Cook for 2 to 3 minutes or until the bread is golden brown on
+      the first side
+  - description: flip-Carefully flip the sandwiches using a large spatula
+  - description: cover-cover the pan with the lid again
+  - description: Serve-Serve the sandwiches immediately
+- activity_id: 19
+  environment: null
+  errors:
+  - description: cover-cover the pan with a lid
+    tag: Missing Step
+  - description: cover-cover the pan with the lid again
+    tag: Missing Step
+  id: '19_27'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Place-Place 1 of the bread slices on the work surface
+  - description: Top-Top the bread slice with 2 slices of American cheese
+  - description: Top-Top with the another bread slice to make 1 sandwich.
+  - description: Spread-Spread softened butter on the outside surfaces of the sandwich
+  - description: Heat-Heat a nonstick skillet or griddle over medium-low heat
+  - description: Place-Place sandwiches on the skillet
+  - description: Cook-Cook for 2 to 3 minutes or until the bread is golden brown on
+      the first side
+  - description: flip-Carefully flip the sandwiches using a large spatula
+  - description: cook-cook for 2 to 3 minutes on the second side until the cheese
+      melts and the bread is nicely browned and crisp
+  - description: Serve-Serve the sandwiches immediately
+- activity_id: 19
+  environment: null
+  errors:
+  - description: Top-Top the bread slice with 2 slices of American cheese
+    tag: Missing Step
+  - description: Cook-Cook for 2 to 3 minutes or until the bread is golden brown on
+      the first side
+    tag: Missing Step
+  id: '19_28'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Place-Place 1 of the bread slices on the work surface
+  - description: Top-Top with the another bread slice to make 1 sandwich.
+  - description: Spread-Spread softened butter on the outside surfaces of the sandwich
+  - description: Heat-Heat a nonstick skillet or griddle over medium-low heat
+  - description: Place-Place sandwiches on the skillet
+  - description: cover-cover the pan with a lid
+  - description: flip-Carefully flip the sandwiches using a large spatula
+  - description: cover-cover the pan with the lid again
+  - description: cook-cook for 2 to 3 minutes on the second side until the cheese
+      melts and the bread is nicely browned and crisp
+  - description: Serve-Serve the sandwiches immediately
+- activity_id: 19
+  environment: null
+  errors:
+  - description: Spread-Spread softened butter on the outside surfaces of the sandwich
+    tag: Missing Step
+  id: '19_29'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Place-Place 1 of the bread slices on the work surface
+  - description: Top-Top the bread slice with 2 slices of American cheese
+  - description: Top-Top with the another bread slice to make 1 sandwich.
+  - description: Heat-Heat a nonstick skillet or griddle over medium-low heat
+  - description: Place-Place sandwiches on the skillet
+  - description: cover-cover the pan with a lid
+  - description: Cook-Cook for 2 to 3 minutes or until the bread is golden brown on
+      the first side
+  - description: flip-Carefully flip the sandwiches using a large spatula
+  - description: cover-cover the pan with the lid again
+  - description: cook-cook for 2 to 3 minutes on the second side until the cheese
+      melts and the bread is nicely browned and crisp
+  - description: Serve-Serve the sandwiches immediately
+- activity_id: 19
+  environment: null
+  errors:
+  - description: Heat-Heat a nonstick skillet or griddle over medium-low heat
+    tag: Missing Step
+  - description: cover-cover the pan with a lid
+    tag: Missing Step
+  id: '19_30'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Place-Place 1 of the bread slices on the work surface
+  - description: Top-Top the bread slice with 2 slices of American cheese
+  - description: Top-Top with the another bread slice to make 1 sandwich.
+  - description: Spread-Spread softened butter on the outside surfaces of the sandwich
+  - description: Place-Place sandwiches on the skillet
+  - description: Cook-Cook for 2 to 3 minutes or until the bread is golden brown on
+      the first side
+  - description: flip-Carefully flip the sandwiches using a large spatula
+  - description: cover-cover the pan with the lid again
+  - description: cook-cook for 2 to 3 minutes on the second side until the cheese
+      melts and the bread is nicely browned and crisp
+  - description: Serve-Serve the sandwiches immediately
+- activity_id: 19
+  environment: null
+  errors:
+  - description: cook-cook for 2 to 3 minutes on the second side until the cheese
+      melts and the bread is nicely browned and crisp
+    tag: Missing Step
+  - description: flip-Carefully flip the sandwiches using a large spatula
+    tag: Missing Step
+  id: '19_31'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Place-Place 1 of the bread slices on the work surface
+  - description: Top-Top the bread slice with 2 slices of American cheese
+  - description: Top-Top with the another bread slice to make 1 sandwich.
+  - description: Heat-Heat a nonstick skillet or griddle over medium-low heat
+  - description: Spread-Spread softened butter on the outside surfaces of the sandwich
+  - description: Place-Place sandwiches on the skillet
+  - description: cover-cover the pan with a lid
+  - description: Cook-Cook for 2 to 3 minutes or until the bread is golden brown on
+      the first side
+  - description: cover-cover the pan with the lid again
+  - description: Serve-Serve the sandwiches immediately
+- activity_id: 19
+  environment: null
+  errors:
+  - description: Top-Top with the another bread slice to make 1 sandwich.
+    tag: Missing Step
+  - description: Spread-Spread softened butter on the outside surfaces of the sandwich
+    tag: Missing Step
+  id: '19_32'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Place-Place 1 of the bread slices on the work surface
+  - description: Top-Top the bread slice with 2 slices of American cheese
+  - description: Heat-Heat a nonstick skillet or griddle over medium-low heat
+  - description: Place-Place sandwiches on the skillet
+  - description: cover-cover the pan with a lid
+  - description: Cook-Cook for 2 to 3 minutes or until the bread is golden brown on
+      the first side
+  - description: flip-Carefully flip the sandwiches using a large spatula
+  - description: cover-cover the pan with the lid again
+  - description: cook-cook for 2 to 3 minutes on the second side until the cheese
+      melts and the bread is nicely browned and crisp
+  - description: Serve-Serve the sandwiches immediately
+- activity_id: 19
+  environment: null
+  errors:
+  - description: cover-cover the pan with the lid again
+    tag: Missing Step
+  id: '19_33'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Place-Place 1 of the bread slices on the work surface
+  - description: Top-Top the bread slice with 2 slices of American cheese
+  - description: Top-Top with the another bread slice to make 1 sandwich.
+  - description: Spread-Spread softened butter on the outside surfaces of the sandwich
+  - description: Heat-Heat a nonstick skillet or griddle over medium-low heat
+  - description: Place-Place sandwiches on the skillet
+  - description: cover-cover the pan with a lid
+  - description: Cook-Cook for 2 to 3 minutes or until the bread is golden brown on
+      the first side
+  - description: flip-Carefully flip the sandwiches using a large spatula
+  - description: cook-cook for 2 to 3 minutes on the second side until the cheese
+      melts and the bread is nicely browned and crisp
+  - description: Serve-Serve the sandwiches immediately
+- activity_id: 19
+  environment: null
+  errors:
+  - description: Top-Top the bread slice with 2 slices of American cheese
+    tag: Missing Step
+  id: '19_34'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Place-Place 1 of the bread slices on the work surface
+  - description: Top-Top with the another bread slice to make 1 sandwich.
+  - description: Spread-Spread softened butter on the outside surfaces of the sandwich
+  - description: Heat-Heat a nonstick skillet or griddle over medium-low heat
+  - description: Place-Place sandwiches on the skillet
+  - description: cover-cover the pan with a lid
+  - description: Cook-Cook for 2 to 3 minutes or until the bread is golden brown on
+      the first side
+  - description: flip-Carefully flip the sandwiches using a large spatula
+  - description: cover-cover the pan with the lid again
+  - description: cook-cook for 2 to 3 minutes on the second side until the cheese
+      melts and the bread is nicely browned and crisp
+  - description: Serve-Serve the sandwiches immediately
+- activity_id: 19
+  environment: null
+  errors:
+  - description: flip-Carefully flip the sandwiches using a large spatula
+    tag: Missing Step
+  - description: Spread-Spread softened butter on the outside surfaces of the sandwich
+    tag: Missing Step
+  - description: Serve-Serve the sandwiches immediately
+    tag: Missing Step
+  id: '19_35'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Place-Place 1 of the bread slices on the work surface
+  - description: Top-Top the bread slice with 2 slices of American cheese
+  - description: Top-Top with the another bread slice to make 1 sandwich.
+  - description: Heat-Heat a nonstick skillet or griddle over medium-low heat
+  - description: Place-Place sandwiches on the skillet
+  - description: cover-cover the pan with a lid
+  - description: Cook-Cook for 2 to 3 minutes or until the bread is golden brown on
+      the first side
+  - description: cover-cover the pan with the lid again
+  - description: cook-cook for 2 to 3 minutes on the second side until the cheese
+      melts and the bread is nicely browned and crisp
+- activity_id: 19
+  environment: null
+  errors:
+  - description: Top-Top the bread slice with 2 slices of American cheese
+    tag: Missing Step
+  - description: flip-Carefully flip the sandwiches using a large spatula
+    tag: Missing Step
+  - description: cover-cover the pan with the lid again
+    tag: Missing Step
+  - description: cook-cook for 2 to 3 minutes on the second side until the cheese
+      melts and the bread is nicely browned and crisp
+    tag: Missing Step
+  id: '19_36'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Place-Place 1 of the bread slices on the work surface
+  - description: Top-Top with the another bread slice to make 1 sandwich.
+  - description: Spread-Spread softened butter on the outside surfaces of the sandwich
+  - description: Heat-Heat a nonstick skillet or griddle over medium-low heat
+  - description: Place-Place sandwiches on the skillet
+  - description: cover-cover the pan with a lid
+  - description: Cook-Cook for 2 to 3 minutes or until the bread is golden brown on
+      the first side
+  - description: Serve-Serve the sandwiches immediately
+- activity_id: 19
+  environment: null
+  errors:
+  - description: Serve-Serve the sandwiches immediately
+    tag: Missing Step
+  - description: cover-cover the pan with a lid
+    tag: Missing Step
+  - description: cover-cover the pan with the lid again
+    tag: Missing Step
+  id: '19_37'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Place-Place 1 of the bread slices on the work surface
+  - description: Top-Top the bread slice with 2 slices of American cheese
+  - description: Top-Top with the another bread slice to make 1 sandwich.
+  - description: Spread-Spread softened butter on the outside surfaces of the sandwich
+  - description: Heat-Heat a nonstick skillet or griddle over medium-low heat
+  - description: Place-Place sandwiches on the skillet
+  - description: Cook-Cook for 2 to 3 minutes or until the bread is golden brown on
+      the first side
+  - description: flip-Carefully flip the sandwiches using a large spatula
+  - description: cook-cook for 2 to 3 minutes on the second side until the cheese
+      melts and the bread is nicely browned and crisp
+- activity_id: 19
+  environment: null
+  errors:
+  - description: Spread-Spread softened butter on the outside surfaces of the sandwich
+    tag: Missing Step
+  - description: cook-cook for 2 to 3 minutes on the second side until the cheese
+      melts and the bread is nicely browned and crisp
+    tag: Missing Step
+  id: '19_38'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Place-Place 1 of the bread slices on the work surface
+  - description: Top-Top the bread slice with 2 slices of American cheese
+  - description: Top-Top with the another bread slice to make 1 sandwich.
+  - description: Heat-Heat a nonstick skillet or griddle over medium-low heat
+  - description: Place-Place sandwiches on the skillet
+  - description: cover-cover the pan with a lid
+  - description: Cook-Cook for 2 to 3 minutes or until the bread is golden brown on
+      the first side
+  - description: flip-Carefully flip the sandwiches using a large spatula
+  - description: cover-cover the pan with the lid again
+  - description: Serve-Serve the sandwiches immediately
+- activity_id: 19
+  environment: null
+  errors:
+  - description: Top-Top with the another bread slice to make 1 sandwich.
+    tag: Missing Step
+  - description: Spread-Spread softened butter on the outside surfaces of the sandwich
+    tag: Missing Step
+  - description: cook-cook for 2 to 3 minutes on the second side until the cheese
+      melts and the bread is nicely browned and crisp
+    tag: Missing Step
+  id: '19_39'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Place-Place 1 of the bread slices on the work surface
+  - description: Top-Top the bread slice with 2 slices of American cheese
+  - description: Heat-Heat a nonstick skillet or griddle over medium-low heat
+  - description: Place-Place sandwiches on the skillet
+  - description: cover-cover the pan with a lid
+  - description: Cook-Cook for 2 to 3 minutes or until the bread is golden brown on
+      the first side
+  - description: flip-Carefully flip the sandwiches using a large spatula
+  - description: cover-cover the pan with the lid again
+  - description: Serve-Serve the sandwiches immediately
+- activity_id: 19
+  environment: null
+  errors:
+  - description: flip-Carefully flip the sandwiches using a large spatula
+    tag: Missing Step
+  - description: Serve-Serve the sandwiches immediately
+    tag: Missing Step
+  id: '19_40'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Place-Place 1 of the bread slices on the work surface
+  - description: Top-Top the bread slice with 2 slices of American cheese
+  - description: Top-Top with the another bread slice to make 1 sandwich.
+  - description: Spread-Spread softened butter on the outside surfaces of the sandwich
+  - description: Heat-Heat a nonstick skillet or griddle over medium-low heat
+  - description: Place-Place sandwiches on the skillet
+  - description: cover-cover the pan with a lid
+  - description: Cook-Cook for 2 to 3 minutes or until the bread is golden brown on
+      the first side
+  - description: cover-cover the pan with the lid again
+  - description: cook-cook for 2 to 3 minutes on the second side until the cheese
+      melts and the bread is nicely browned and crisp
+- activity_id: 19
+  environment: null
+  errors:
+  - description: Heat-Heat a nonstick skillet or griddle over medium-low heat
+    tag: Missing Step
+  - description: cover-cover the pan with a lid
+    tag: Missing Step
+  - tag: Order Error
+  id: '19_41'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Place-Place 1 of the bread slices on the work surface
+  - description: Top-Top the bread slice with 2 slices of American cheese
+  - description: Top-Top with the another bread slice to make 1 sandwich.
+  - description: Spread-Spread softened butter on the outside surfaces of the sandwich
+  - description: Place-Place sandwiches on the skillet
+  - description: flip-Carefully flip the sandwiches using a large spatula
+  - description: Cook-Cook for 2 to 3 minutes or until the bread is golden brown on
+      the first side
+  - description: cover-cover the pan with the lid again
+  - description: cook-cook for 2 to 3 minutes on the second side until the cheese
+      melts and the bread is nicely browned and crisp
+  - description: Serve-Serve the sandwiches immediately
+- activity_id: 19
+  environment: null
+  errors:
+  - tag: Order Error
+  id: '19_42'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Place-Place 1 of the bread slices on the work surface
+  - description: Heat-Heat a nonstick skillet or griddle over medium-low heat
+  - description: Place-Place sandwiches on the skillet
+  - description: Top-Top the bread slice with 2 slices of American cheese
+  - description: Top-Top with the another bread slice to make 1 sandwich.
+  - description: Spread-Spread softened butter on the outside surfaces of the sandwich
+  - description: Cook-Cook for 2 to 3 minutes or until the bread is golden brown on
+      the first side
+  - description: flip-Carefully flip the sandwiches using a large spatula
+  - description: cook-cook for 2 to 3 minutes on the second side until the cheese
+      melts and the bread is nicely browned and crisp
+  - description: cover-cover the pan with the lid again
+  - description: Serve-Serve the sandwiches immediately
+- activity_id: 19
+  environment: null
+  errors:
+  - description: cover-cover the pan with the lid again
+    tag: Missing Step
+  - description: flip-Carefully flip the sandwiches using a large spatula
+    tag: Missing Step
+  - tag: Order Error
+  id: '19_43'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Place-Place 1 of the bread slices on the work surface
+  - description: Heat-Heat a nonstick skillet or griddle over medium-low heat
+  - description: Place-Place sandwiches on the skillet
+  - description: Cook-Cook for 2 to 3 minutes or until the bread is golden brown on
+      the first side
+  - description: Top-Top the bread slice with 2 slices of American cheese
+  - description: Top-Top with the another bread slice to make 1 sandwich.
+  - description: cover-cover the pan with a lid
+  - description: Spread-Spread softened butter on the outside surfaces of the sandwich
+  - description: cook-cook for 2 to 3 minutes on the second side until the cheese
+      melts and the bread is nicely browned and crisp
+  - description: Serve-Serve the sandwiches immediately
+- activity_id: 19
+  environment: null
+  errors:
+  - tag: Order Error
+  id: '19_44'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Heat-Heat a nonstick skillet or griddle over medium-low heat
+  - description: Place-Place 1 of the bread slices on the work surface
+  - description: Spread-Spread softened butter on the outside surfaces of the sandwich
+  - description: Place-Place sandwiches on the skillet
+  - description: Cook-Cook for 2 to 3 minutes or until the bread is golden brown on
+      the first side
+  - description: flip-Carefully flip the sandwiches using a large spatula
+  - description: cook-cook for 2 to 3 minutes on the second side until the cheese
+      melts and the bread is nicely browned and crisp
+  - description: Top-Top the bread slice with 2 slices of American cheese
+  - description: Top-Top with the another bread slice to make 1 sandwich.
+  - description: cover-cover the pan with a lid
+  - description: cover-cover the pan with the lid again
+  - description: Serve-Serve the sandwiches immediately
+- activity_id: 19
+  environment: null
+  errors:
+  - description: Cook-Cook for 2 to 3 minutes or until the bread is golden brown on
+      the first side
+    tag: Missing Step
+  - tag: Order Error
+  id: '19_45'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Place-Place 1 of the bread slices on the work surface
+  - description: Top-Top the bread slice with 2 slices of American cheese
+  - description: Top-Top with the another bread slice to make 1 sandwich.
+  - description: Spread-Spread softened butter on the outside surfaces of the sandwich
+  - description: Heat-Heat a nonstick skillet or griddle over medium-low heat
+  - description: cover-cover the pan with a lid
+  - description: Place-Place sandwiches on the skillet
+  - description: flip-Carefully flip the sandwiches using a large spatula
+  - description: cover-cover the pan with the lid again
+  - description: cook-cook for 2 to 3 minutes on the second side until the cheese
+      melts and the bread is nicely browned and crisp
+  - description: Serve-Serve the sandwiches immediately
+- activity_id: 19
+  environment: null
+  errors:
+  - description: cover-cover the pan with the lid again
+    tag: Missing Step
+  - tag: Order Error
+  id: '19_46'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Place-Place 1 of the bread slices on the work surface
+  - description: Top-Top with the another bread slice to make 1 sandwich.
+  - description: Spread-Spread softened butter on the outside surfaces of the sandwich
+  - description: Place-Place sandwiches on the skillet
+  - description: Heat-Heat a nonstick skillet or griddle over medium-low heat
+  - description: Cook-Cook for 2 to 3 minutes or until the bread is golden brown on
+      the first side
+  - description: Top-Top the bread slice with 2 slices of American cheese
+  - description: cover-cover the pan with a lid
+  - description: flip-Carefully flip the sandwiches using a large spatula
+  - description: cook-cook for 2 to 3 minutes on the second side until the cheese
+      melts and the bread is nicely browned and crisp
+  - description: Serve-Serve the sandwiches immediately
+- activity_id: 19
+  environment: null
+  errors:
+  - description: Spread-Spread softened butter on the outside surfaces of the sandwich
+    tag: Missing Step
+  - description: Serve-Serve the sandwiches immediately
+    tag: Missing Step
+  - tag: Order Error
+  id: '19_47'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Heat-Heat a nonstick skillet or griddle over medium-low heat
+  - description: cover-cover the pan with a lid
+  - description: Place-Place 1 of the bread slices on the work surface
+  - description: Top-Top the bread slice with 2 slices of American cheese
+  - description: Top-Top with the another bread slice to make 1 sandwich.
+  - description: Place-Place sandwiches on the skillet
+  - description: cook-cook for 2 to 3 minutes on the second side until the cheese
+      melts and the bread is nicely browned and crisp
+  - description: flip-Carefully flip the sandwiches using a large spatula
+  - description: Cook-Cook for 2 to 3 minutes or until the bread is golden brown on
+      the first side
+  - description: cover-cover the pan with the lid again
+- activity_id: 19
+  environment: null
+  errors:
+  - description: flip-Carefully flip the sandwiches using a large spatula
+    tag: Missing Step
+  - tag: Order Error
+  id: '19_48'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Place-Place 1 of the bread slices on the work surface
+  - description: Top-Top the bread slice with 2 slices of American cheese
+  - description: Top-Top with the another bread slice to make 1 sandwich.
+  - description: Spread-Spread softened butter on the outside surfaces of the sandwich
+  - description: Heat-Heat a nonstick skillet or griddle over medium-low heat
+  - description: cover-cover the pan with the lid again
+  - description: Place-Place sandwiches on the skillet
+  - description: Cook-Cook for 2 to 3 minutes or until the bread is golden brown on
+      the first side
+  - description: cover-cover the pan with a lid
+  - description: cook-cook for 2 to 3 minutes on the second side until the cheese
+      melts and the bread is nicely browned and crisp
+  - description: Serve-Serve the sandwiches immediately
+- activity_id: 19
+  environment: null
+  errors:
+  - description: cover-cover the pan with a lid
+    tag: Missing Step
+  - description: flip-Carefully flip the sandwiches using a large spatula
+    tag: Missing Step
+  - tag: Order Error
+  id: '19_49'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Place-Place 1 of the bread slices on the work surface
+  - description: Top-Top the bread slice with 2 slices of American cheese
+  - description: Top-Top with the another bread slice to make 1 sandwich.
+  - description: Spread-Spread softened butter on the outside surfaces of the sandwich
+  - description: Heat-Heat a nonstick skillet or griddle over medium-low heat
+  - description: Place-Place sandwiches on the skillet
+  - description: Cook-Cook for 2 to 3 minutes or until the bread is golden brown on
+      the first side
+  - description: cover-cover the pan with the lid again
+  - description: cook-cook for 2 to 3 minutes on the second side until the cheese
+      melts and the bread is nicely browned and crisp
+  - description: Serve-Serve the sandwiches immediately
+- activity_id: 19
+  environment: null
+  errors:
+  - tag: Order Error
+  id: '19_50'
+  is_error: true
+  recorded_by: -1
+  recording_info:
+    end_time: 'null'
+    gopro: true
+    hololens_info:
+      depth_ahat: true
+      depth_lt: false
+      device_ip: 192.168.0.207
+      imu: true
+      imu_accelerometer: true
+      imu_gyroscope: true
+      imu_magnetometer: true
+      mc: true
+      pv: true
+      spatial: true
+      vlc_leftfront: false
+      vlc_leftleft: false
+      vlc_rightleft: false
+      vlc_rightright: false
+    start_time: 'null'
+  selected_by: -1
+  steps:
+  - description: Place-Place 1 of the bread slices on the work surface
+  - description: Top-Top with the another bread slice to make 1 sandwich.
+  - description: Place-Place sandwiches on the skillet
+  - description: Heat-Heat a nonstick skillet or griddle over medium-low heat
+  - description: cover-cover the pan with a lid
+  - description: Cook-Cook for 2 to 3 minutes or until the bread is golden brown on
+      the first side
+  - description: flip-Carefully flip the sandwiches using a large spatula
+  - description: cook-cook for 2 to 3 minutes on the second side until the cheese
+      melts and the bread is nicely browned and crisp
+  - description: Spread-Spread softened butter on the outside surfaces of the sandwich
+  - description: cover-cover the pan with the lid again
+  - description: Top-Top the bread slice with 2 slices of American cheese
+  - description: Serve-Serve the sandwiches immediately
